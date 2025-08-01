@@ -1121,4 +1121,3 @@
 
 ## Version 1.0 🎉
 **Veröffentlicht:** 28.03.2023 17:04
-found.
