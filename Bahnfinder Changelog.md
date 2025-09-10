@@ -68,8 +68,8 @@
 - Designverbesserungen 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.0.12
+**Veröffentlicht:** 02.03.2025 02:36
 
 - Allgemeine Verbesserungen
 
