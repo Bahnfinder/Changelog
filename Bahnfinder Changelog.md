@@ -312,8 +312,8 @@
 - Ein Neustart der App wird jetzt vorausgesetzt, um das Verkehrsnetz zu wechseln.
 - Fehlerbehebungen
 
-## Version 4.4
-**Veröffentlicht:** 27.06.2024 16:01
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neues App Icon: „Flipswitch“
 - Verbesserungen im Abfahrten Popover
