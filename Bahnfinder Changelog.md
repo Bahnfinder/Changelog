@@ -328,13 +328,15 @@
 ## Version 4.3.2
 **Veröffentlicht:** 23.06.2024 16:44
 
+- Entfallene Fahrzeuge werden jetzt einheitlich dargestellt.
 
 ## Version 4.3.1
 **Veröffentlicht:** 23.06.2024 01:00
 
+- Kleine Anpassungen bei der Einrichtung
 
-## Version 
-**Veröffentlicht:** – No release date available
+## Version 4.3.0
+**Veröffentlicht:** 21.06.2024 08:52
 
 - Neue Verkehrsnetze: BVG, HVV, RMV, RailTeam & Naldo
 - Allgemeine Verbesserungen
