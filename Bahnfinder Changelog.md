@@ -129,8 +129,8 @@
 - Die Verkehrsnetzsuche bei der Einrichtung kann jetzt abgebrochen werden.
 - Allgemeine Verbesserungen
 
-## Version 6.0.1
-**Veröffentlicht:** 28.01.2025 02:13
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -200,6 +200,8 @@
 ## Version 5.1.8
 **Veröffentlicht:** 08.01.2025 20:32
 
+- Frohes neues Jahr!
+- Verbesserte Beschriftungen für VoiceOver
 
 ## Version 5.1.7
 **Veröffentlicht:** 19.12.2024 03:54
@@ -409,6 +411,8 @@
 ## Version 4.1.18
 **Veröffentlicht:** 18.05.2024 21:41
 
+- Neues App Icon „Weiss Inline“
+- Darstellungsanpassungen für kleinere Geräte
 
 ## Version 4.1.17
 **Veröffentlicht:** 16.05.2024 15:26
@@ -1026,8 +1030,8 @@
 
 - Fehlerbehebungen
 
-## Version 1.2.0
-**Veröffentlicht:** 06.05.2023 00:35
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Ab sofort kann die Starthaltestelle ausgetauscht werden.
 - Falls die Haltestelle, die beim Start der App gefunden wurde, durch eine andere ersetzt werden soll, können Ausnahmen erstellt werden.
