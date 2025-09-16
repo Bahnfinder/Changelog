@@ -108,6 +108,8 @@
 ## Version 6.0.5
 **Veröffentlicht:** 05.02.2025 01:29
 
+- Das Setup wurde verbessert
+- Allgemeine Verbesserungen
 
 ## Version 6.0.4
 **Veröffentlicht:** 01.02.2025 23:31
@@ -621,8 +623,8 @@
 - Die Suche ist jetzt noch schneller
 - Über 30 weitere Verbesserungen machen Bahnfinder noch noch schneller und zuverlässiger.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.16
+**Veröffentlicht:** 20.12.2023 09:49
 
 - 4 neue App Icons: „Vereiste Weihnachten“, „Vereiste Weihnachten Mund“, „Weihnachtsgeschenk“ und „Weihnachtsgeschenk Mund“.
 - Allgemeine Verbesserungen
@@ -801,8 +803,6 @@
 ## Version 2.2.8
 **Veröffentlicht:** 04.09.2023 16:00
 
-- Start gefunden wurde.
-- Allgemeine Verbesserungen
 
 ## Version 2.2.7
 **Veröffentlicht:** 02.09.2023 08:49
@@ -855,8 +855,8 @@
 - Neue Informationen bei „Linieninfos“: Längste und kürzeste Distanz zwischen zwei Haltestellen.
 - Allgemeine Verbesserungen 
 
-## Version 2.1.2
-**Veröffentlicht:** 01.08.2023 09:16
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Linieninfos: Mit "Linieninfos" (Beta) erfährst du alles Wissenswerte über deine Linien. Hier kannst du nachschlagen, welche Distanz ein Fahrzeug zurücklegt, wie lange es insgesamt fährt und vieles mehr.
 - Neues Symbol für veränderte Verbindungsoptionen.
