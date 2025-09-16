@@ -184,7 +184,6 @@
 ## Version 5.1.11
 **Veröffentlicht:** 15.01.2025 00:41
 
-- Dieses Update enthält API Updates für das Deutsche Bahn Verkehrsnetz, welches jetzt wieder wie erwartet funktioniert!
 
 ## Version 5.1.10
 **Veröffentlicht:** 13.01.2025 01:03
@@ -356,10 +355,6 @@
 ## Version 4.2.6
 **Veröffentlicht:** 18.06.2024 02:47
 
-- Anpassungen und Fehlerbehebungen für iPad
-- Anpassungen und Fehlerbehebungen für Mac
-- Die Funktion „Legacy iCloud Synchronisierung“ wurde entfernt.
-- Allgemeine Verbesserungen
 
 ## Version 4.2.5
 **Veröffentlicht:** 17.06.2024 10:46
@@ -563,8 +558,6 @@
 ## Version 3.1.4
 **Veröffentlicht:** 15.02.2024 16:58
 
-- Neue Hinweise, wenn keine Abfahrten an der gewählten Haltestelle verfügbar sind.
-- Allgemeine Verbesserungen
 
 ## Version 3.1.3
 **Veröffentlicht:** 12.02.2024 17:29
@@ -835,7 +828,6 @@
 ## Version 2.2.3
 **Veröffentlicht:** 17.08.2023 11:24
 
-- Allgemeine Verbesserungen
 
 ## Version 2.2.2
 **Veröffentlicht:** 14.08.2023 09:53
@@ -871,8 +863,8 @@
 
 - Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.1
+**Veröffentlicht:** 27.07.2023 15:20
 
 - Neues Design in "Verbindung".
 - Verkehrsnetz spezifische Einstellungen hinzugefügt.
@@ -894,8 +886,8 @@
 - Designverbesserungen
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 2.0.2
-**Veröffentlicht:** 20.07.2023 03:14
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Konfigurationen von ausgeblendeten Linien können ab sofort gespeichert werden.
 - Favoriten Symbole werden in Abfahrten gezeigt.
@@ -992,7 +984,6 @@
 ## Version 1.3.4
 **Veröffentlicht:** 13.05.2023 10:27
 
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.3.3
 **Veröffentlicht:** 12.05.2023 22:22
