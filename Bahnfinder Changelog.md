@@ -322,8 +322,6 @@
 ## Version 4.3.3
 **Veröffentlicht:** 24.06.2024 21:40
 
-- Push Benachrichtigungen können jetzt während der Einrichtung aktiviert werden.
-- Allgemeine Verbesserungen 
 
 ## Version 4.3.2
 **Veröffentlicht:** 23.06.2024 16:44
@@ -626,8 +624,6 @@
 ## Version 2.3.16
 **Veröffentlicht:** 20.12.2023 09:49
 
-- 4 neue App Icons: „Vereiste Weihnachten“, „Vereiste Weihnachten Mund“, „Weihnachtsgeschenk“ und „Weihnachtsgeschenk Mund“.
-- Allgemeine Verbesserungen
 
 ## Version 2.3.15
 **Veröffentlicht:** 13.12.2023 23:32
@@ -721,8 +717,8 @@
 - Fehlerbehebungen
 - Allgemeine Verbesserungen
 
-## Version 2.3.0
-**Veröffentlicht:** 11.10.2023 11:43
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Der AVV Augsburg wurde als Verkehrsnetz hinzugefügt.
 - Komplett neues Menü zum auswählen des App Icons.
