@@ -123,8 +123,8 @@
 - Verbesserte Darstellung von Bahnhofsnamen
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.0.2
+**Veröffentlicht:** 29.01.2025 15:04
 
 - Die Verkehrsnetzsuche bei der Einrichtung kann jetzt abgebrochen werden.
 - Allgemeine Verbesserungen
@@ -371,8 +371,8 @@
 
 - Die Geschwindigkeit von iCloud Backups wurde erheblich verbessert.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.2.3
+**Veröffentlicht:** 14.06.2024 12:07
 
 - Nutzer werden ab jetzt darauf hingewiesen, wenn sie sich in einer nicht unterstützen Region befinden.
 - Die nächste Haltestelle wird jetzt auch in der Suche markiert.
@@ -411,8 +411,6 @@
 ## Version 4.1.18
 **Veröffentlicht:** 18.05.2024 21:41
 
-- Neues App Icon „Weiss Inline“
-- Darstellungsanpassungen für kleinere Geräte
 
 ## Version 4.1.17
 **Veröffentlicht:** 16.05.2024 15:26
@@ -484,6 +482,11 @@
 ## Version 4.1.6
 **Veröffentlicht:** 21.03.2024 13:16
 
+- Das letzte Backup auf iCloud wird jetzt unter „Synchronisierung“ angezeigt
+- Die iCloud Synchronisierung wurde erheblich verbessert
+- Es wurden verschiedene Schutzmechanismen in die Synchronisierung eingebaut
+- Einrichtung verbessert
+- Allgemeine Verbesserungen
 
 ## Version 4.1.5
 **Veröffentlicht:** 20.03.2024 19:10
@@ -535,8 +538,8 @@
 - Neue Designoptionen für den Suchen Button in Verbindung
 - Allgemeine Verbesserungen
 
-## Version 4.0
-**Veröffentlicht:** 26.02.2024 15:09
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Bahnfinder 4 kommt mit spannenden Neuerungen, die deinen Alltag noch besser und einfacher machen. Zu den größten Neuerungen gehören:
 - Erinnerungen: Lasse dich rechtzeitig an Abfahrten erinnern.
@@ -632,8 +635,6 @@
 ## Version 2.3.14
 **Veröffentlicht:** 08.12.2023 03:16
 
-- Bahnfinder wünscht euch eine schöne Weihnachtszeit!
-- App Icon hinzugefügt.
 
 ## Version 2.3.13
 **Veröffentlicht:** 03.11.2023 16:35
@@ -752,8 +753,8 @@
 - Updates für Linieninfos
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.15
+**Veröffentlicht:** 19.09.2023 15:08
 
 - Ein Fehler wurde behoben, der dazu geführt hat, dass auf der Karte eine veraltete Verbindung angezeigt wurde.
 - Allgemeine Verbesserungen
@@ -832,8 +833,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 2.2.2
-**Veröffentlicht:** 14.08.2023 09:53
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neues Menü zur Schnellauswahl bei der Haltestellensuche.
 - Allgemeine Verbesserungen
@@ -938,8 +939,6 @@
 ## Version 1.5.4
 **Veröffentlicht:** 01.06.2023 03:49
 
-- Die Zeit einer gesuchten Verbindung wird jetzt im Verlauf angezeigt.
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.5.3
 **Veröffentlicht:** 26.05.2023 04:25
@@ -1102,9 +1101,6 @@
 ## Version 1.0.4
 **Veröffentlicht:** 05.04.2023 04:18
 
-- KVV als Verkehrsnetz hinzugefügt.
-- Setup Assistenten hinzugefügt.
-- Allgemeine Verbesserungen und Fehlerbehebungen.
 
 ## Version 1.0.3
 **Veröffentlicht:** 03.04.2023 23:08
