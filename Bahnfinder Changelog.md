@@ -1,7 +1,6 @@
 ## Version 6.2.1
 **Veröffentlicht:** 08.09.2025 16:34
 
-- Das Naldo Verkehrsnetz funktioniert jetzt wieder wie erwartet.
 
 ## Version 6.2
 **Veröffentlicht:** 31.07.2025 22:56
@@ -76,6 +75,7 @@
 ## Version 6.0.11
 **Veröffentlicht:** 22.02.2025 09:46
 
+- Verbesserungen für VoiceOver
 
 ## Version 6.0.10
 **Veröffentlicht:** 16.02.2025 17:24
@@ -110,8 +110,8 @@
 - Das Setup wurde verbessert
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.0.4
+**Veröffentlicht:** 01.02.2025 23:31
 
 - Zu lange Gleisnummern im Verbindungsdetail werden jetzt separat dargestellt, wenn der Platz nicht ausreicht
 - Allgemeine Verbesserungen
@@ -690,6 +690,8 @@
 ## Version 2.3.5
 **Veröffentlicht:** 18.10.2023 17:03
 
+- Die Darstellung des Standortpfeils wurde verbessert.
+- Allgemeine Verbesserungen
 
 ## Version 2.3.4
 **Veröffentlicht:** 17.10.2023 12:02
@@ -1070,8 +1072,6 @@
 ## Version 1.0.10
 **Veröffentlicht:** 14.04.2023 21:13
 
-- Suche verbessert
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.0.9
 **Veröffentlicht:** 11.04.2023 23:05
