@@ -200,8 +200,6 @@
 ## Version 5.1.8
 **Veröffentlicht:** 08.01.2025 20:32
 
-- Frohes neues Jahr!
-- Verbesserte Beschriftungen für VoiceOver
 
 ## Version 5.1.7
 **Veröffentlicht:** 19.12.2024 03:54
@@ -411,8 +409,6 @@
 ## Version 4.1.18
 **Veröffentlicht:** 18.05.2024 21:41
 
-- Neues App Icon „Weiss Inline“
-- Darstellungsanpassungen für kleinere Geräte
 
 ## Version 4.1.17
 **Veröffentlicht:** 16.05.2024 15:26
