@@ -518,8 +518,6 @@
 ## Version 4.1.1
 **Veröffentlicht:** 10.03.2024 22:38
 
-- Neue Verkehrsnetze hinzugefügt: MVG (Märkischer Kreis), VMS, VMV, VRN
-- Allgemeine Verbesserungen
 
 ## Version 4.1
 **Veröffentlicht:** 08.03.2024 13:33
@@ -563,8 +561,6 @@
 ## Version 3.1.4
 **Veröffentlicht:** 15.02.2024 16:58
 
-- Neue Hinweise, wenn keine Abfahrten an der gewählten Haltestelle verfügbar sind.
-- Allgemeine Verbesserungen
 
 ## Version 3.1.3
 **Veröffentlicht:** 12.02.2024 17:29
@@ -659,8 +655,8 @@
 - Option: Energiesparende Standortermittlung
 - Allgemeine Verbesserungen 
 
-## Version 2.3.10
-**Veröffentlicht:** 28.10.2023 19:18
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Darstellung des Standortpfeils wurde verbessert.
 - Die Haltestellensymbol UI wurde verbessert.
