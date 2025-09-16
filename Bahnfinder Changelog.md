@@ -640,8 +640,8 @@
 - Bahnfinder wünscht euch eine schöne Weihnachtszeit!
 - App Icon hinzugefügt.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.13
+**Veröffentlicht:** 03.11.2023 16:35
 
 - Fehlerbehebungen
 
@@ -934,8 +934,8 @@
 - Ein Fehler wurde behoben, der eventuell dazu führte, dass Favoriten eines Verkehrsnetzes mit anderen Verkehrsnetzen vermischt wurden.
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.5.5
+**Veröffentlicht:** 05.06.2023 15:42
 
 - Sekundengenaue Zeiten: Abfahrten und Verbindungen werden jetzt in Sekunden angezeigt, wenn die Wartezeit unter 1 Minute ist.
 - Allgemeine Verbesserungen und Fehlerbehebungen
