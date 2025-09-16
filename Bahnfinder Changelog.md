@@ -235,8 +235,8 @@
 - Verbesserte Hinweise für die Standortfreigabe
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.1.1
+**Veröffentlicht:** 21.09.2024 07:10
 
 - Ein Fehler wurde behoben, der dazu führte, dass „Haltestellen ankündigen“ in einigen Fällen im Hintergrund gestoppt wurde.
 - Allgemeine Verbesserungen
@@ -333,6 +333,7 @@
 ## Version 4.3.1
 **Veröffentlicht:** 23.06.2024 01:00
 
+- Kleine Anpassungen bei der Einrichtung
 
 ## Version 4.3.0
 **Veröffentlicht:** 21.06.2024 08:52
@@ -390,8 +391,8 @@
 
 - Neues App Icon "Modern Schwarz"
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.2.0
+**Veröffentlicht:** 10.06.2024 11:36
 
 - „Synchronisieren“ wurde in „Backups“ umbenannt. Es ist jetzt möglich, unbegrenzt viele verschiedene iCloud Backups zu erstellen und zu verwalten. Nutzer können jetzt ihre Backups mit einer komplett neuen Oberfläche verwalten und wiederherstellen. 
 - Auf der Fahrtverlauf Karte werden jetzt Abfahrtszeiten angezeigt.
@@ -498,6 +499,7 @@
 ## Version 4.1.4
 **Veröffentlicht:** 19.03.2024 16:44
 
+- Allgemeine Verbesserungen
 
 ## Version 4.1.3
 **Veröffentlicht:** 18.03.2024 14:01
@@ -710,8 +712,8 @@
 - „Karte“ und „Anpinnen“ wurden im Verbindungsdetail getauscht, um einheitlich mit dem Fahrtverlauf dargestellt zu werden.
 - Allgemeine Verbesserungen
 
-## Version 2.3.1
-**Veröffentlicht:** 12.10.2023 12:23
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Im Verbindungsdetail wird jetzt die Ankunft in Minuten gezeigt.
 - Verbesserte Darstellung von Zeiten.
@@ -722,6 +724,26 @@
 ## Version 2.3.0
 **Veröffentlicht:** 11.10.2023 11:43
 
+- Der AVV Augsburg wurde als Verkehrsnetz hinzugefügt.
+- Komplett neues Menü zum auswählen des App Icons.
+- Bahnfinder, Ring, Gefüllter Ring.
+- Die Favoritensymbole werden jetzt in jedem Bereich der App angezeigt.
+- Neue Option zum anzeigen von Ortsnamen hinter dem Haltestellennamen.
+- Überarbeitete Anzeige von „nächster Haltestelle“: Der Standortpfeil, der die nächste Haltestelle anzeigt, ist jetzt in allen Bereichen der App sichtbar. Ausserdem wird nun unterschieden, ob die Haltestelle die nächste ist oder man sich an dieser befindet.
+- Detaillierte Umsteigeinformationen auf der Verbindungskarte hinzugefügt.
+- Neue Option zum auswählen, ob das Favoritensymbol unter Abfahrten hinter der Liniennummer oder hinter der Zielhaltestelle angezeigt werden soll.
+- Das Design kann jetzt abhängig vom Erscheinungsbild ausgewählt werden.
+- Neue Linieninformation „Orte“
+- Zwischenstopps sind jetzt im Verbindungsdetail sichtbar.
+- Wichtige Haltestellen werden in der Suche hervorgehoben.
+- Neues Menü „Experimente“: Teste kleine Features der App bevor sie veröffentlicht werden.
+- Der Aktuelle Standort kann jetzt über das Schnellauswahlmenü unter Verbindung eingesetzt werden.
+- Neue Kontextmenüs unter Verbindung zum zurücksetzen der Optionen und Zeit.
+- Verbesserte Unterstützung für zweifarbige Linien.
+- Die Designs wurden verbessert.
+- Verbesserte Stabilität
+- Fehlerbehebungen
+- Allgemeine Verbesserungen
 
 ## Version 2.2.17
 **Veröffentlicht:** 20.09.2023 17:52
@@ -762,9 +784,6 @@
 ## Version 2.2.11
 **Veröffentlicht:** 14.09.2023 01:16
 
-- iOS 17 Kompatibilität
-- 3D Optionen wurden zur Karte hinzugefügt.
-- Allgemeine Verbesserungen
 
 ## Version 2.2.10
 **Veröffentlicht:** 11.09.2023 11:05
