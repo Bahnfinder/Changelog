@@ -712,8 +712,8 @@
 - „Karte“ und „Anpinnen“ wurden im Verbindungsdetail getauscht, um einheitlich mit dem Fahrtverlauf dargestellt zu werden.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.1
+**Veröffentlicht:** 12.10.2023 12:23
 
 - Im Verbindungsdetail wird jetzt die Ankunft in Minuten gezeigt.
 - Verbesserte Darstellung von Zeiten.
@@ -784,6 +784,9 @@
 ## Version 2.2.11
 **Veröffentlicht:** 14.09.2023 01:16
 
+- iOS 17 Kompatibilität
+- 3D Optionen wurden zur Karte hinzugefügt.
+- Allgemeine Verbesserungen
 
 ## Version 2.2.10
 **Veröffentlicht:** 11.09.2023 11:05
