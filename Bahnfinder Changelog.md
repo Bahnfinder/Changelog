@@ -97,7 +97,6 @@
 ## Version 6.0.7
 **Veröffentlicht:** 09.02.2025 23:42
 
-- Allgemeine Verbesserungen
 
 ## Version 6.0.6
 **Veröffentlicht:** 07.02.2025 01:27
