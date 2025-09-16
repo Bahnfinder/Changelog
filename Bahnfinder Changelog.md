@@ -179,6 +179,7 @@
 ## Version 5.1.12
 **Veröffentlicht:** 18.01.2025 05:03
 
+- Verbesserungen für das DB Verkehrsnetz
 
 ## Version 5.1.11
 **Veröffentlicht:** 15.01.2025 00:41
@@ -355,10 +356,6 @@
 ## Version 4.2.6
 **Veröffentlicht:** 18.06.2024 02:47
 
-- Anpassungen und Fehlerbehebungen für iPad
-- Anpassungen und Fehlerbehebungen für Mac
-- Die Funktion „Legacy iCloud Synchronisierung“ wurde entfernt.
-- Allgemeine Verbesserungen
 
 ## Version 4.2.5
 **Veröffentlicht:** 17.06.2024 10:46
@@ -480,8 +477,8 @@
 - Neues App Icon: „Bahnfindi“
 - iCloud Synchronisierung wurde optimiert 
 
-## Version 4.1.6
-**Veröffentlicht:** 21.03.2024 13:16
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Das letzte Backup auf iCloud wird jetzt unter „Synchronisierung“ angezeigt
 - Die iCloud Synchronisierung wurde erheblich verbessert
@@ -933,8 +930,8 @@
 - Ein Fehler wurde behoben, der eventuell dazu führte, dass Favoriten eines Verkehrsnetzes mit anderen Verkehrsnetzen vermischt wurden.
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.5.5
+**Veröffentlicht:** 05.06.2023 15:42
 
 - Sekundengenaue Zeiten: Abfahrten und Verbindungen werden jetzt in Sekunden angezeigt, wenn die Wartezeit unter 1 Minute ist.
 - Allgemeine Verbesserungen und Fehlerbehebungen
