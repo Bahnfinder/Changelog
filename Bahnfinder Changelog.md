@@ -411,6 +411,8 @@
 ## Version 4.1.18
 **Veröffentlicht:** 18.05.2024 21:41
 
+- Neues App Icon „Weiss Inline“
+- Darstellungsanpassungen für kleinere Geräte
 
 ## Version 4.1.17
 **Veröffentlicht:** 16.05.2024 15:26
@@ -538,8 +540,8 @@
 - Neue Designoptionen für den Suchen Button in Verbindung
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.0
+**Veröffentlicht:** 26.02.2024 15:09
 
 - Bahnfinder 4 kommt mit spannenden Neuerungen, die deinen Alltag noch besser und einfacher machen. Zu den größten Neuerungen gehören:
 - Erinnerungen: Lasse dich rechtzeitig an Abfahrten erinnern.
@@ -635,6 +637,8 @@
 ## Version 2.3.14
 **Veröffentlicht:** 08.12.2023 03:16
 
+- Bahnfinder wünscht euch eine schöne Weihnachtszeit!
+- App Icon hinzugefügt.
 
 ## Version 2.3.13
 **Veröffentlicht:** 03.11.2023 16:35
@@ -833,8 +837,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.2
+**Veröffentlicht:** 14.08.2023 09:53
 
 - Neues Menü zur Schnellauswahl bei der Haltestellensuche.
 - Allgemeine Verbesserungen
@@ -939,6 +943,8 @@
 ## Version 1.5.4
 **Veröffentlicht:** 01.06.2023 03:49
 
+- Die Zeit einer gesuchten Verbindung wird jetzt im Verlauf angezeigt.
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.5.3
 **Veröffentlicht:** 26.05.2023 04:25
@@ -1101,6 +1107,9 @@
 ## Version 1.0.4
 **Veröffentlicht:** 05.04.2023 04:18
 
+- KVV als Verkehrsnetz hinzugefügt.
+- Setup Assistenten hinzugefügt.
+- Allgemeine Verbesserungen und Fehlerbehebungen.
 
 ## Version 1.0.3
 **Veröffentlicht:** 03.04.2023 23:08
