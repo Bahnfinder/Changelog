@@ -1,6 +1,7 @@
 ## Version 6.2.1
 **Veröffentlicht:** 08.09.2025 16:34
 
+- Das Naldo Verkehrsnetz funktioniert jetzt wieder wie erwartet.
 
 ## Version 6.2
 **Veröffentlicht:** 31.07.2025 22:56
@@ -122,8 +123,8 @@
 - Verbesserte Darstellung von Bahnhofsnamen
 - Allgemeine Verbesserungen
 
-## Version 6.0.2
-**Veröffentlicht:** 29.01.2025 15:04
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Verkehrsnetzsuche bei der Einrichtung kann jetzt abgebrochen werden.
 - Allgemeine Verbesserungen
@@ -370,8 +371,8 @@
 
 - Die Geschwindigkeit von iCloud Backups wurde erheblich verbessert.
 
-## Version 4.2.3
-**Veröffentlicht:** 14.06.2024 12:07
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Nutzer werden ab jetzt darauf hingewiesen, wenn sie sich in einer nicht unterstützen Region befinden.
 - Die nächste Haltestelle wird jetzt auch in der Suche markiert.
@@ -483,11 +484,6 @@
 ## Version 4.1.6
 **Veröffentlicht:** 21.03.2024 13:16
 
-- Das letzte Backup auf iCloud wird jetzt unter „Synchronisierung“ angezeigt
-- Die iCloud Synchronisierung wurde erheblich verbessert
-- Es wurden verschiedene Schutzmechanismen in die Synchronisierung eingebaut
-- Einrichtung verbessert
-- Allgemeine Verbesserungen
 
 ## Version 4.1.5
 **Veröffentlicht:** 20.03.2024 19:10
@@ -756,8 +752,8 @@
 - Updates für Linieninfos
 - Allgemeine Verbesserungen
 
-## Version 2.2.15
-**Veröffentlicht:** 19.09.2023 15:08
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Ein Fehler wurde behoben, der dazu geführt hat, dass auf der Karte eine veraltete Verbindung angezeigt wurde.
 - Allgemeine Verbesserungen
@@ -1072,6 +1068,8 @@
 ## Version 1.0.10
 **Veröffentlicht:** 14.04.2023 21:13
 
+- Suche verbessert
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.0.9
 **Veröffentlicht:** 11.04.2023 23:05
