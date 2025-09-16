@@ -179,7 +179,6 @@
 ## Version 5.1.12
 **Veröffentlicht:** 18.01.2025 05:03
 
-- Verbesserungen für das DB Verkehrsnetz
 
 ## Version 5.1.11
 **Veröffentlicht:** 15.01.2025 00:41
@@ -934,8 +933,8 @@
 - Ein Fehler wurde behoben, der eventuell dazu führte, dass Favoriten eines Verkehrsnetzes mit anderen Verkehrsnetzen vermischt wurden.
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version 1.5.5
-**Veröffentlicht:** 05.06.2023 15:42
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Sekundengenaue Zeiten: Abfahrten und Verbindungen werden jetzt in Sekunden angezeigt, wenn die Wartezeit unter 1 Minute ist.
 - Allgemeine Verbesserungen und Fehlerbehebungen
