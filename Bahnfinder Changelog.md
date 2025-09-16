@@ -356,6 +356,10 @@
 ## Version 4.2.6
 **Veröffentlicht:** 18.06.2024 02:47
 
+- Anpassungen und Fehlerbehebungen für iPad
+- Anpassungen und Fehlerbehebungen für Mac
+- Die Funktion „Legacy iCloud Synchronisierung“ wurde entfernt.
+- Allgemeine Verbesserungen
 
 ## Version 4.2.5
 **Veröffentlicht:** 17.06.2024 10:46
@@ -477,8 +481,8 @@
 - Neues App Icon: „Bahnfindi“
 - iCloud Synchronisierung wurde optimiert 
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.6
+**Veröffentlicht:** 21.03.2024 13:16
 
 - Das letzte Backup auf iCloud wird jetzt unter „Synchronisierung“ angezeigt
 - Die iCloud Synchronisierung wurde erheblich verbessert
