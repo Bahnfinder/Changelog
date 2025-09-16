@@ -76,7 +76,6 @@
 ## Version 6.0.11
 **Veröffentlicht:** 22.02.2025 09:46
 
-- Verbesserungen für VoiceOver
 
 ## Version 6.0.10
 **Veröffentlicht:** 16.02.2025 17:24
@@ -97,6 +96,7 @@
 ## Version 6.0.7
 **Veröffentlicht:** 09.02.2025 23:42
 
+- Allgemeine Verbesserungen
 
 ## Version 6.0.6
 **Veröffentlicht:** 07.02.2025 01:27
@@ -110,8 +110,8 @@
 - Das Setup wurde verbessert
 - Allgemeine Verbesserungen
 
-## Version 6.0.4
-**Veröffentlicht:** 01.02.2025 23:31
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Zu lange Gleisnummern im Verbindungsdetail werden jetzt separat dargestellt, wenn der Platz nicht ausreicht
 - Allgemeine Verbesserungen
@@ -690,8 +690,6 @@
 ## Version 2.3.5
 **Veröffentlicht:** 18.10.2023 17:03
 
-- Die Darstellung des Standortpfeils wurde verbessert.
-- Allgemeine Verbesserungen
 
 ## Version 2.3.4
 **Veröffentlicht:** 17.10.2023 12:02
