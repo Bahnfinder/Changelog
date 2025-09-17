@@ -1,5 +1,5 @@
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.2.1
+**Veröffentlicht:** 08.09.2025 16:34
 
 - Das Naldo Verkehrsnetz funktioniert jetzt wieder wie erwartet.
 
@@ -255,8 +255,8 @@
 - Anpassungen für iOS 18
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.0.3
+**Veröffentlicht:** 06.09.2024 03:16
 
 - Ein Fehler wurde behoben, der dazu führte, dass die App beim anschauen von Verbindungen abstürzt.
 - Allgemeine Verbesserungen
@@ -272,8 +272,8 @@
 - Bahnfinder läuft jetzt noch schneller.
 - Ein Fehler wurde behoben, der dazu führte, dass die App beim darstellen einiger zweifarbiger Liniennummern abstürzte.
 
-## Version 5
-**Veröffentlicht:** 01.09.2024 17:57
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Liniennummer in Verbindungsliste: du kannst jetzt aussuchen, ob du die Liniennummer oder das Fahrzeugsymbol in der Verbindungsliste sehen möchtest. 
 - Verbesserungen im Fahrtverlauf: im Fahrtverlauf werden jetzt weitere Informationen zu deinem Fahrzeug angezeigt. Du kannst genau sehen, von welchem Gleis dein Fahrzeug fährt oder welche Haltestellen ausfallen.
@@ -380,8 +380,8 @@
 - Ein Fehler wurde behoben, der die App beim Laden einiger Verbindungen zum Absturz brachte.
 - Allgemeine Verbesserungen
 
-## Version 4.2.2
-**Veröffentlicht:** 13.06.2024 19:31
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neues App Icon „Modern echtes schwarz“ 
 - Anpassungen bei „Backups“
