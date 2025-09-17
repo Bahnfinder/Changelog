@@ -31,11 +31,6 @@
 ## Version 6.1.3
 **Veröffentlicht:** 19.05.2025 15:18
 
-- Die Anzahl von Backups wird jetzt angezeigt
-- Die Backup Einstellungen laden jetzt deutlich schneller, selbst bei vielen Backups 
-- iCloud Backups werden nun vollständig angezeigt, auch wenn du mehr als 100 hast
-- Leistungsverbesserungen
-- Allgemeine Verbesserungen
 
 ## Version 6.1.2
 **Veröffentlicht:** 18.05.2025 22:29
@@ -811,8 +806,8 @@
 
 - Allgemeine Verbesserungen 
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.6
+**Veröffentlicht:** 01.09.2023 00:40
 
 - Kleine Designänderungen
 - Allgemeine Verbesserungen
@@ -975,9 +970,6 @@
 ## Version 1.4.0
 **Veröffentlicht:** 17.05.2023 02:42
 
-- Automatische Suche bei Verbindungen hinzugefügt
-- Stabilitätsverbesserungen
-- Fehlerbehebungen
 
 ## Version 1.3.6
 **Veröffentlicht:** 16.05.2023 13:41
