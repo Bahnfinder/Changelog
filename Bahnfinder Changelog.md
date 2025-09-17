@@ -22,8 +22,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.1.4
+**Veröffentlicht:** 29.05.2025 00:36
 
 - Die Berechnung der Größe von lokalen Backups ist jetzt stabiler
 - Allgemeine Verbesserungen
@@ -269,8 +269,6 @@
 ## Version 5.0.1
 **Veröffentlicht:** 04.09.2024 02:08
 
-- Bahnfinder läuft jetzt noch schneller.
-- Ein Fehler wurde behoben, der dazu führte, dass die App beim darstellen einiger zweifarbiger Liniennummern abstürzte.
 
 ## Version 5
 **Veröffentlicht:** 01.09.2024 17:57
@@ -814,6 +812,8 @@
 ## Version 2.2.6
 **Veröffentlicht:** 01.09.2023 00:40
 
+- Kleine Designänderungen
+- Allgemeine Verbesserungen
 
 ## Version 2.2.5
 **Veröffentlicht:** 31.08.2023 11:56
@@ -970,8 +970,8 @@
 - Ein Fehler bei der Standortsuche wurde behoben
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.4.0
-**Veröffentlicht:** 17.05.2023 02:42
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Automatische Suche bei Verbindungen hinzugefügt
 - Stabilitätsverbesserungen
@@ -995,6 +995,9 @@
 ## Version 1.3.3
 **Veröffentlicht:** 12.05.2023 22:22
 
+- Design Anpassungen
+- Stabilitätsverbesserungen
+- Fehlerbehebungen
 
 ## Version 1.3.2
 **Veröffentlicht:** 12.05.2023 05:14
