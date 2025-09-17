@@ -43,8 +43,8 @@
 - Die Größe eines Backups wird jetzt angezeigt. Zusätzlich wird die relative Größe im Vergleich zu anderen Backups dargestellt
 - Allgemeine Verbesserungen
 
-## Version 6.1.1
-**Veröffentlicht:** 28.04.2025 18:53
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Release Version
 - Automatische Backups werden jetzt nach einer Wiederherstellung automatisch aktiviert
@@ -94,8 +94,8 @@
 - Leistungsverbesserungen
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.0.7
+**Veröffentlicht:** 09.02.2025 23:42
 
 - Allgemeine Verbesserungen
 
@@ -291,8 +291,8 @@
 
 - Das BVG Verkehrsnetz funktioniert jetzt wieder wie erwartet.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.4.4
+**Veröffentlicht:** 11.07.2024 03:33
 
 - Fehlerbehebungen
 
@@ -1011,8 +1011,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.3.0
-**Veröffentlicht:** 10.05.2023 14:19
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Zwischenstopps hinzugefügt
 - Verbindungen: Abfahrt oder Ankunftszeit kann ausgewählt werden
