@@ -56,6 +56,17 @@
 ## Version 6.1
 **Veröffentlicht:** 26.04.2025 00:45
 
+- Liniennummern und andere Objekte zeigen jetzt realistische Reflexionen, die sich an die Neigung des Geräts anpassen
+- Ausgefallene Haltestellen werden jetzt auf den Karten angezeigt
+- Favorisierte Haltestellen werden jetzt mit dem entsprechenden Symbol auf den Karten angezeigt
+- Die Verbindungsoptionen werden jetzt nicht mehr in einem separaten Fenster geöffnet 
+- Ein neuer Splash Screen für „Haltestellen ankündigen“ wurde hinzugefügt
+- Splash Screens wurden überarbeitet
+- Mehr Informationen über den Entwickler wurden hinzugefügt 
+- Alle Buttons in der App haben jetzt ein runderes Design 
+- Die Optionen für „Automatisch bereinigen“ bei lokalen Backups wurden visuell überarbeitet
+- Designverbesserungen 
+- Allgemeine Verbesserungen
 
 ## Version 6.0.12
 **Veröffentlicht:** 02.03.2025 02:36
@@ -570,7 +581,6 @@
 ## Version 3.1.1
 **Veröffentlicht:** 02.02.2024 12:41
 
-- Allgemeine Verbesserungen
 
 ## Version 3.1
 **Veröffentlicht:** 01.02.2024 16:55
@@ -832,8 +842,8 @@
 - Neues Menü zur Schnellauswahl bei der Haltestellensuche.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.1
+**Veröffentlicht:** 11.08.2023 17:09
 
 - Allgemeine Verbesserungen
 
@@ -1054,8 +1064,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 
-**Veröffentlicht:** – No release date available
+## Version 1.0.11
+**Veröffentlicht:** 17.04.2023 01:22
 
 - Fehlerbehebungen
 
@@ -1103,6 +1113,9 @@
 ## Version 1.0.3
 **Veröffentlicht:** 03.04.2023 23:08
 
+- Neue App Icons
+- Es wurde ein Hinweis hinzugefügt, der den Nutzer darauf aufmerksam macht, dass die Ortungsdienste deaktiviert sind.
+- Allgemeine Verbesserungen und Fehlerbehebungen.
 
 ## Version 1.0.1
 **Veröffentlicht:** 03.04.2023 04:19
