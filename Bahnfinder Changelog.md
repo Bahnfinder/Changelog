@@ -68,8 +68,8 @@
 - Designverbesserungen 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.0.12
+**Veröffentlicht:** 02.03.2025 02:36
 
 - Allgemeine Verbesserungen
 
@@ -111,8 +111,8 @@
 - Das Setup wurde verbessert
 - Allgemeine Verbesserungen
 
-## Version 6.0.4
-**Veröffentlicht:** 01.02.2025 23:31
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Zu lange Gleisnummern im Verbindungsdetail werden jetzt separat dargestellt, wenn der Platz nicht ausreicht
 - Allgemeine Verbesserungen
@@ -211,6 +211,7 @@
 ## Version 5.1.6
 **Veröffentlicht:** 16.12.2024 13:31
 
+- Die Linienfarben für die S5 (MVV) wurden hinzugefügt.
 
 ## Version 5.1.5
 **Veröffentlicht:** 10.12.2024 05:15
@@ -290,8 +291,8 @@
 
 - Das BVG Verkehrsnetz funktioniert jetzt wieder wie erwartet.
 
-## Version 4.4.4
-**Veröffentlicht:** 11.07.2024 03:33
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Fehlerbehebungen
 
@@ -300,8 +301,8 @@
 
 - Ein Fehler, der zum Absturz der App beim Aktualisieren des Fahrtverlaufs unter bestimmten Bedingungen führte, wurde behoben.
 
-## Version 4.4.2
-**Veröffentlicht:** 05.07.2024 17:07
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Ein Fehler wurde behoben, der dazu führte, dass unter bestimmten Umständen ein Lokales Backup beim einrichten von Bahnfinder nicht wiederhergestellt werden konnte.
 
@@ -531,8 +532,8 @@
 - Ab sofort wird nach jedem Bahnfinder Update automatisch ein lokales Backup erstellt. 
 - Allgemeine Verbesserungen
 
-## Version 4.0.1
-**Veröffentlicht:** 06.03.2024 01:56
+## Version null
+**Veröffentlicht:** – No release date available
 
 - 2 neue App Icons: „Mund“ und „Mitternacht Mund“
 - Die Fahrzeugnummer ist jetzt unter Linieninfos sichtbar. 
@@ -542,22 +543,6 @@
 ## Version 4.0
 **Veröffentlicht:** 26.02.2024 15:09
 
-- Bahnfinder 4 kommt mit spannenden Neuerungen, die deinen Alltag noch besser und einfacher machen. Zu den größten Neuerungen gehören:
-- Erinnerungen: Lasse dich rechtzeitig an Abfahrten erinnern.
-- Neuer „Synchronisieren“ Tab: „iCloud“ heisst jetzt „Synchronisieren“. Du kannst jetzt sowohl iCloud als auch Lokale Backups erstellen und wiederherstellen und diese sogar in andere Apps exportieren.
-- Menü.
-- Verbindungen direkt aus dem Fahrtverlauf suchen: Du kannst über das 3D Touch Menü eine bestimmte Haltestelle als Ziel auswählen und schnell eine Verbindungssuche starten.
-- Modus für noch effizienteres Multitasking.
-- Weitere Neuerungen: 
-- Neue Einstellungen für Haltestellen vorlesen: Personalisiere die Ansagen der Haltestellennamen mit neuen Einstellungsmöglichkeiten.
-- Neue Einstellungen für Wichtige Haltestellen: Markiere und verwalte wichtige Haltestellen direkt in den Einstellungen.
-- Option: Suche sortieren nach Distanz: Finde jetzt Haltestellen und Verbindungen, sortiert nach der Entfernung zu deinem Standort.
-- Verbesserte Suche: Die Optionen „Automatische Suche“ und „Suchen Button ausblenden“ wurden für eine intuitive Nutzung kombiniert.
-- Option: Standortpfeil im Fahrtverlauf: Lasse dir deinen aktuellen Standort im Fahrtverlauf mit einem Pfeil neben dem Haltestellennamen anzeigen.
-- Verbesserte Kategorien in den Einstellungen: Finde Einstellungen schneller mit den neu organisierten Kategorien.
-- Hinweis für Haltestellenansagen: Erhalte einen Hinweis beim Start, wenn „Nur wichtige Haltestellen vorlesen“ aktiviert ist.
-- Synchronisierung zu begrenzen, um Daten und Batterieverbrauch zu reduzieren. 
-- Allgemeine Verbesserungen
 
 ## Version 3.1.4
 **Veröffentlicht:** 15.02.2024 16:58
@@ -720,8 +705,8 @@
 - Fehlerbehebungen
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.0
+**Veröffentlicht:** 11.10.2023 11:43
 
 - Der AVV Augsburg wurde als Verkehrsnetz hinzugefügt.
 - Komplett neues Menü zum auswählen des App Icons.
@@ -929,6 +914,9 @@
 ## Version 1.5.6
 **Veröffentlicht:** 06.06.2023 17:36
 
+- Die Einrichtung wurde verbessert.
+- Ein Fehler wurde behoben, der eventuell dazu führte, dass Favoriten eines Verkehrsnetzes mit anderen Verkehrsnetzen vermischt wurden.
+- Allgemeine Verbesserungen und Fehlerbehebungen.
 
 ## Version 1.5.5
 **Veröffentlicht:** 05.06.2023 15:42
@@ -1051,6 +1039,10 @@
 ## Version 1.1.0
 **Veröffentlicht:** 21.04.2023 06:06
 
+- Verbindung anpinnen: Deine ausgewählte Route wird gespeichert und bleibt bis zum Ende deiner Fahrt oben angeheftet. Mit nur einem Klick kannst du sie jederzeit wieder aufrufen.
+- Designpaket „Glas“ wurde für den hellen Modus optimiert.
+- Dein aktueller Standort bei Abfahrten wird nun automatisch aktualisiert.
+- Allgemeine Verbesserungen und Fehlerbehebungen.
 
 ## Version 1.0.12
 **Veröffentlicht:** 18.04.2023 00:53
