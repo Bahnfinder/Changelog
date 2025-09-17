@@ -20,11 +20,12 @@
 ## Version 6.1.5
 **Veröffentlicht:** 01.06.2025 23:30
 
-- Allgemeine Verbesserungen
 
 ## Version 6.1.4
 **Veröffentlicht:** 29.05.2025 00:36
 
+- Die Berechnung der Größe von lokalen Backups ist jetzt stabiler
+- Allgemeine Verbesserungen
 
 ## Version 6.1.3
 **Veröffentlicht:** 19.05.2025 15:18
@@ -259,8 +260,8 @@
 - Ein Fehler wurde behoben, der dazu führte, dass die App beim anschauen von Verbindungen abstürzt.
 - Allgemeine Verbesserungen
 
-## Version 5.0.2
-**Veröffentlicht:** 05.09.2024 15:32
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Ein Fehler wurde behoben, der dazu führte, dass die App beim Wechsel des Verkehrsnetzes auf iPads abstürzte. 
 
@@ -491,6 +492,8 @@
 ## Version 4.1.5
 **Veröffentlicht:** 20.03.2024 19:10
 
+- Anpassungen an App Icons
+- Design Anpassungen
 
 ## Version 4.1.4
 **Veröffentlicht:** 19.03.2024 16:44
@@ -700,8 +703,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.2
+**Veröffentlicht:** 13.10.2023 12:39
 
 - Das Layout der Linieninfos wurde für alle Gerätegrössen angepasst.
 - Die Lesbarkeit der Anzahl an Zwischenhalten im Verbindungsdetail wurde verbessert.
