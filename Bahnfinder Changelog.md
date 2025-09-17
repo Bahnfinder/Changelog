@@ -88,8 +88,8 @@
 
 - Ein Fehler wurde behoben, der in manchen Situationen zum Einfrieren und Abstürzen der App führte.
 
-## Version 6.0.8
-**Veröffentlicht:** 12.02.2025 01:08
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Leistungsverbesserungen
 - Allgemeine Verbesserungen
@@ -114,6 +114,8 @@
 ## Version 6.0.4
 **Veröffentlicht:** 01.02.2025 23:31
 
+- Zu lange Gleisnummern im Verbindungsdetail werden jetzt separat dargestellt, wenn der Platz nicht ausreicht
+- Allgemeine Verbesserungen
 
 ## Version 6.0.3
 **Veröffentlicht:** 31.01.2025 03:41
@@ -681,8 +683,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 2.3.6
-**Veröffentlicht:** 18.10.2023 23:24
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Fehlerbehebungen
 
@@ -932,8 +934,8 @@
 - Ein Fehler wurde behoben, der eventuell dazu führte, dass Favoriten eines Verkehrsnetzes mit anderen Verkehrsnetzen vermischt wurden.
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.5.5
+**Veröffentlicht:** 05.06.2023 15:42
 
 - Sekundengenaue Zeiten: Abfahrten und Verbindungen werden jetzt in Sekunden angezeigt, wenn die Wartezeit unter 1 Minute ist.
 - Allgemeine Verbesserungen und Fehlerbehebungen
