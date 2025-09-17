@@ -22,8 +22,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 6.1.4
-**Veröffentlicht:** 29.05.2025 00:36
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Berechnung der Größe von lokalen Backups ist jetzt stabiler
 - Allgemeine Verbesserungen
@@ -102,6 +102,8 @@
 ## Version 6.0.6
 **Veröffentlicht:** 07.02.2025 01:27
 
+- Wichtige Push Benachrichtigungen von „Haltestellen ankündigen“ spielen jetzt einen Ton oder eine Vibration
+- Allgemeine Verbesserungen
 
 ## Version 6.0.5
 **Veröffentlicht:** 05.02.2025 01:29
@@ -239,8 +241,8 @@
 - Ein Fehler wurde behoben, der dazu führte, dass „Haltestellen ankündigen“ in einigen Fällen im Hintergrund gestoppt wurde.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.1
+**Veröffentlicht:** 20.09.2024 01:55
 
 - Neue Verkehrsnetze: VVS, NRW, VVV & Südtirolmobil
 - Du wirst jetzt automatisch darauf hingewiesen, das Verkehrsnetz zu wechseln, wenn du dich in einem anderen Gebiet befindest. 
@@ -522,6 +524,13 @@
 ## Version 4.1
 **Veröffentlicht:** 08.03.2024 13:33
 
+- Neuer „Synchronisieren“ Bildschirm.
+- Neue Option hinzugefügt, um im Suchverlauf die Interaktionsart einer Haltestelle anzuzeigen.
+- Neue Option zum anzeigen der letzten Verwendung im Suchverlauf.
+- Die App kann jetzt auch durch ein lokales Backup wiederhergestellt werden, wenn Bahnfinder neu eingerichtet wird.
+- Ein Fehler wurde behoben, durch den in einigen Fällen keine lokalen Backups aus „Dateien“ wiederhergestellt werden konnten. 
+- Ab sofort wird nach jedem Bahnfinder Update automatisch ein lokales Backup erstellt. 
+- Allgemeine Verbesserungen
 
 ## Version 4.0.1
 **Veröffentlicht:** 06.03.2024 01:56
@@ -566,6 +575,8 @@
 ## Version 3.1.2
 **Veröffentlicht:** 10.02.2024 07:37
 
+- Fehlerbehebungen
+- Allgemeine Verbesserungen
 
 ## Version 3.1.1
 **Veröffentlicht:** 02.02.2024 12:41
@@ -886,6 +897,9 @@
 ## Version 2.0.2
 **Veröffentlicht:** 20.07.2023 03:14
 
+- Konfigurationen von ausgeblendeten Linien können ab sofort gespeichert werden.
+- Favoriten Symbole werden in Abfahrten gezeigt.
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 2.0.1
 **Veröffentlicht:** 15.07.2023 00:02
@@ -1097,8 +1111,8 @@
 - Setup Assistenten hinzugefügt.
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.0.3
+**Veröffentlicht:** 03.04.2023 23:08
 
 - Neue App Icons
 - Es wurde ein Hinweis hinzugefügt, der den Nutzer darauf aufmerksam macht, dass die Ortungsdienste deaktiviert sind.
