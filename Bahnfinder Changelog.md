@@ -455,8 +455,8 @@
 - Die Anzeige von Entfernungen unter Favoriten wurde behoben.
 - Allgemeine Verbesserungen
 
-## Version 4.1.10
-**Veröffentlicht:** 07.05.2024 14:53
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Nach einer umfassenden internen Umstrukturierung bietet Bahnfinder nun verbesserte Zuverlässigkeit, mehr Geschwindigkeit und erleichterte Wartung für den Entwickler.
 - Der „Bahnfinder“ Text unter Info wurde verschönert.
@@ -512,6 +512,8 @@
 ## Version 4.1.2
 **Veröffentlicht:** 15.03.2024 12:35
 
+- Erweiterte Diagnosedaten können jetzt per Mail gesendet werden.
+- Allgemeine Verbesserungen
 
 ## Version 4.1.1
 **Veröffentlicht:** 10.03.2024 22:38
@@ -758,6 +760,8 @@
 ## Version 2.2.15
 **Veröffentlicht:** 19.09.2023 15:08
 
+- Ein Fehler wurde behoben, der dazu geführt hat, dass auf der Karte eine veraltete Verbindung angezeigt wurde.
+- Allgemeine Verbesserungen
 
 ## Version 2.2.14
 **Veröffentlicht:** 18.09.2023 17:13
@@ -997,8 +1001,8 @@
 - Stabilitätsverbesserungen
 - Fehlerbehebungen
 
-## Version 1.3.2
-**Veröffentlicht:** 12.05.2023 05:14
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Stabilität erheblich verbessert
 
@@ -1072,8 +1076,8 @@
 - Suche verbessert
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.0.9
-**Veröffentlicht:** 11.04.2023 23:05
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Ein Fehler wurde behoben, durch den die App keine Inhalte mehr geladen hat, wenn sie eine gewisse Zeit im Hintergrund war. 
 - Der Fehler könnte bei einigen Nutzern dennoch auftreten, schließe die App dazu aus dem Multitasking Menü und öffne sie erneut. 
