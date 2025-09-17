@@ -186,8 +186,8 @@
 
 - Dieses Update enthält API Updates für das Deutsche Bahn Verkehrsnetz, welches jetzt wieder wie erwartet funktioniert!
 
-## Version 5.1.10
-**Veröffentlicht:** 13.01.2025 01:03
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Weitere Informationen über den Ausfall des DB Verkehrsnetzes hinzugefügt 
 
@@ -640,8 +640,8 @@
 - Bahnfinder wünscht euch eine schöne Weihnachtszeit!
 - App Icon hinzugefügt.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.13
+**Veröffentlicht:** 03.11.2023 16:35
 
 - Fehlerbehebungen
 
@@ -897,9 +897,6 @@
 ## Version 2.0.2
 **Veröffentlicht:** 20.07.2023 03:14
 
-- Konfigurationen von ausgeblendeten Linien können ab sofort gespeichert werden.
-- Favoriten Symbole werden in Abfahrten gezeigt.
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 2.0.1
 **Veröffentlicht:** 15.07.2023 00:02
@@ -1025,8 +1022,8 @@
 
 - Fehlerbehebungen
 
-## Version 1.2.1
-**Veröffentlicht:** 08.05.2023 23:07
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Fehlerbehebungen
 
