@@ -31,6 +31,11 @@
 ## Version 6.1.3
 **Veröffentlicht:** 19.05.2025 15:18
 
+- Die Anzahl von Backups wird jetzt angezeigt
+- Die Backup Einstellungen laden jetzt deutlich schneller, selbst bei vielen Backups 
+- iCloud Backups werden nun vollständig angezeigt, auch wenn du mehr als 100 hast
+- Leistungsverbesserungen
+- Allgemeine Verbesserungen
 
 ## Version 6.1.2
 **Veröffentlicht:** 18.05.2025 22:29
@@ -445,10 +450,6 @@
 ## Version 4.1.11
 **Veröffentlicht:** 08.05.2024 16:43
 
-- Das Liniensymbol für die Tram 21 im MVV wurde aktualisiert.
-- Einige Verkehrsnetzspezifische Probleme wurden behoben.
-- Die Anzeige von Entfernungen unter Favoriten wurde behoben.
-- Allgemeine Verbesserungen
 
 ## Version 4.1.10
 **Veröffentlicht:** 07.05.2024 14:53
@@ -629,8 +630,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 2.3.14
-**Veröffentlicht:** 08.12.2023 03:16
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Bahnfinder wünscht euch eine schöne Weihnachtszeit!
 - App Icon hinzugefügt.
@@ -970,6 +971,9 @@
 ## Version 1.4.0
 **Veröffentlicht:** 17.05.2023 02:42
 
+- Automatische Suche bei Verbindungen hinzugefügt
+- Stabilitätsverbesserungen
+- Fehlerbehebungen
 
 ## Version 1.3.6
 **Veröffentlicht:** 16.05.2023 13:41
@@ -1062,8 +1066,8 @@
 
 - Fehlerbehebungen
 
-## Version 1.0.10
-**Veröffentlicht:** 14.04.2023 21:13
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Suche verbessert
 - Allgemeine Verbesserungen und Fehlerbehebungen
