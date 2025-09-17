@@ -97,7 +97,6 @@
 ## Version 6.0.7
 **Veröffentlicht:** 09.02.2025 23:42
 
-- Allgemeine Verbesserungen
 
 ## Version 6.0.6
 **Veröffentlicht:** 07.02.2025 01:27
@@ -218,8 +217,8 @@
 
 - Neues App Icon: „Weihnachten 2024“
 
-## Version 5.1.4
-**Veröffentlicht:** 27.11.2024 00:19
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Das VMV Verkehrsnetz funktioniert jetzt wieder wie erwartet
 - Allgemeine Verbesserungen
@@ -335,8 +334,8 @@
 
 - Kleine Anpassungen bei der Einrichtung
 
-## Version 4.3.0
-**Veröffentlicht:** 21.06.2024 08:52
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neue Verkehrsnetze: BVG, HVV, RMV, RailTeam & Naldo
 - Allgemeine Verbesserungen
@@ -484,11 +483,6 @@
 ## Version 4.1.6
 **Veröffentlicht:** 21.03.2024 13:16
 
-- Das letzte Backup auf iCloud wird jetzt unter „Synchronisierung“ angezeigt
-- Die iCloud Synchronisierung wurde erheblich verbessert
-- Es wurden verschiedene Schutzmechanismen in die Synchronisierung eingebaut
-- Einrichtung verbessert
-- Allgemeine Verbesserungen
 
 ## Version 4.1.5
 **Veröffentlicht:** 20.03.2024 19:10
