@@ -189,7 +189,6 @@
 ## Version 5.1.10
 **Veröffentlicht:** 13.01.2025 01:03
 
-- Weitere Informationen über den Ausfall des DB Verkehrsnetzes hinzugefügt 
 
 ## Version 5.1.9
 **Veröffentlicht:** 12.01.2025 06:09
@@ -910,6 +909,22 @@
 ## Version 2.0
 **Veröffentlicht:** 12.07.2023 08:34
 
+- Bahnfinder 2 ist das Umfangreichste Update bisher und macht Bahnfinder noch schneller, übersichtlicher und schöner.
+- Das ist neu: 
+- Neues, übersichtlicheres Aussehen durch differenzierte Farben und weiteren Anpassungen.
+- Neue Design Optionen
+- 2 neue Design Pakete 
+- „Automatisch folgen“: Mit der Funktion „Automatisch folgen“ werden dir jederzeit Abfahrten der nächsten Haltestelle angezeigt, während du dich fortbewegst.
+- „Automatisch suchen“: Suche deine Verbindung automatisch, sobald du eine Start und Zielhaltestelle ausgewählt hast. 
+- Linien können unter Abfahrten ausgeblendet werden.
+- Mehr Informationen bei Verbindungen 
+- Eigene Icons bei Haltestellen Favoriten
+- Ankünfte bei Haltestellen  
+- Verbesserte Unterstützung für Rufbusse
+- Gehzeit in Minuten 
+- Karte bei Verbindung
+- Erhebliche Leistungsverbesserungen
+- Und viele weitere kleine Änderungen…
 
 ## Version 1.5.6
 **Veröffentlicht:** 06.06.2023 17:36
@@ -1066,8 +1081,8 @@
 - Ein Fehler wurde behoben, durch den die App keine Inhalte mehr geladen hat, wenn sie eine gewisse Zeit im Hintergrund war. 
 - Der Fehler könnte bei einigen Nutzern dennoch auftreten, schließe die App dazu aus dem Multitasking Menü und öffne sie erneut. 
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.0.8
+**Veröffentlicht:** 11.04.2023 02:45
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
