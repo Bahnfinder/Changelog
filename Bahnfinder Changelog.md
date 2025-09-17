@@ -194,8 +194,6 @@
 ## Version 5.1.9
 **Veröffentlicht:** 12.01.2025 06:09
 
-- Verkehrsnetz vorübergehend nicht verfügbar ist. Ich arbeite mit Hochdruck an einer Lösung. Du kannst dich benachrichtigen lassen, sobald es wieder funktioniert.
-- Verkehrsnetzes.
 
 ## Version 5.1.8
 **Veröffentlicht:** 08.01.2025 20:32
@@ -322,8 +320,6 @@
 ## Version 4.3.3
 **Veröffentlicht:** 24.06.2024 21:40
 
-- Push Benachrichtigungen können jetzt während der Einrichtung aktiviert werden.
-- Allgemeine Verbesserungen 
 
 ## Version 4.3.2
 **Veröffentlicht:** 23.06.2024 16:44
@@ -450,10 +446,6 @@
 ## Version 4.1.11
 **Veröffentlicht:** 08.05.2024 16:43
 
-- Das Liniensymbol für die Tram 21 im MVV wurde aktualisiert.
-- Einige Verkehrsnetzspezifische Probleme wurden behoben.
-- Die Anzeige von Entfernungen unter Favoriten wurde behoben.
-- Allgemeine Verbesserungen
 
 ## Version 4.1.10
 **Veröffentlicht:** 07.05.2024 14:53
@@ -481,8 +473,8 @@
 - Neues App Icon: „Bahnfindi“
 - iCloud Synchronisierung wurde optimiert 
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.6
+**Veröffentlicht:** 21.03.2024 13:16
 
 - Das letzte Backup auf iCloud wird jetzt unter „Synchronisierung“ angezeigt
 - Die iCloud Synchronisierung wurde erheblich verbessert
@@ -666,8 +658,8 @@
 - Die Haltestellensymbol UI wurde verbessert.
 - Allgemeine Verbesserungen
 
-## Version 2.3.9
-**Veröffentlicht:** 22.10.2023 16:09
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Darstellung des Fahrtfortschritts im Fahrtverlauf markiert jetzt die Haltestelle, an dem sich das Fahrzeug gerade befindet.
 - Eine neue Verbindungsoption „Minimale Umsteigezeit“ wurde hinzugefügt.
@@ -979,8 +971,8 @@
 - Stabilitätsverbesserungen
 - Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.3.6
+**Veröffentlicht:** 16.05.2023 13:41
 
 - Stabilitätsverbesserungen
 
