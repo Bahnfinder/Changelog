@@ -179,7 +179,6 @@
 ## Version 5.1.12
 **Veröffentlicht:** 18.01.2025 05:03
 
-- Verbesserungen für das DB Verkehrsnetz
 
 ## Version 5.1.11
 **Veröffentlicht:** 15.01.2025 00:41
@@ -712,8 +711,8 @@
 - „Karte“ und „Anpinnen“ wurden im Verbindungsdetail getauscht, um einheitlich mit dem Fahrtverlauf dargestellt zu werden.
 - Allgemeine Verbesserungen
 
-## Version 2.3.1
-**Veröffentlicht:** 12.10.2023 12:23
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Im Verbindungsdetail wird jetzt die Ankunft in Minuten gezeigt.
 - Verbesserte Darstellung von Zeiten.
@@ -984,15 +983,14 @@
 
 - Stabilitätsverbesserungen
 
-## Version 1.3.5
-**Veröffentlicht:** 16.05.2023 00:53
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Fehlerbehebungen und Stabilitätsverbesserungen
 
 ## Version 1.3.4
 **Veröffentlicht:** 13.05.2023 10:27
 
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.3.3
 **Veröffentlicht:** 12.05.2023 22:22
