@@ -120,6 +120,8 @@
 ## Version 6.0.3
 **Veröffentlicht:** 31.01.2025 03:41
 
+- Verbesserte Darstellung von Bahnhofsnamen
+- Allgemeine Verbesserungen
 
 ## Version 6.0.2
 **Veröffentlicht:** 29.01.2025 15:04
@@ -179,8 +181,8 @@
 
 - Verbesserungen für das DB Verkehrsnetz
 
-## Version 5.1.11
-**Veröffentlicht:** 15.01.2025 00:41
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Dieses Update enthält API Updates für das Deutsche Bahn Verkehrsnetz, welches jetzt wieder wie erwartet funktioniert!
 
@@ -590,8 +592,8 @@
 - Verbesserte Darstellung von Linienwegen auf der Karte
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 3.0.2
+**Veröffentlicht:** 25.01.2024 15:35
 
 - Haltestellen vorlesen liest jetzt auch die Abfahrtszeit vor.
 - Neue Option: „Verbindungsdetail Live aktualisieren“
@@ -722,6 +724,26 @@
 ## Version 2.3.0
 **Veröffentlicht:** 11.10.2023 11:43
 
+- Der AVV Augsburg wurde als Verkehrsnetz hinzugefügt.
+- Komplett neues Menü zum auswählen des App Icons.
+- Bahnfinder, Ring, Gefüllter Ring.
+- Die Favoritensymbole werden jetzt in jedem Bereich der App angezeigt.
+- Neue Option zum anzeigen von Ortsnamen hinter dem Haltestellennamen.
+- Überarbeitete Anzeige von „nächster Haltestelle“: Der Standortpfeil, der die nächste Haltestelle anzeigt, ist jetzt in allen Bereichen der App sichtbar. Ausserdem wird nun unterschieden, ob die Haltestelle die nächste ist oder man sich an dieser befindet.
+- Detaillierte Umsteigeinformationen auf der Verbindungskarte hinzugefügt.
+- Neue Option zum auswählen, ob das Favoritensymbol unter Abfahrten hinter der Liniennummer oder hinter der Zielhaltestelle angezeigt werden soll.
+- Das Design kann jetzt abhängig vom Erscheinungsbild ausgewählt werden.
+- Neue Linieninformation „Orte“
+- Zwischenstopps sind jetzt im Verbindungsdetail sichtbar.
+- Wichtige Haltestellen werden in der Suche hervorgehoben.
+- Neues Menü „Experimente“: Teste kleine Features der App bevor sie veröffentlicht werden.
+- Der Aktuelle Standort kann jetzt über das Schnellauswahlmenü unter Verbindung eingesetzt werden.
+- Neue Kontextmenüs unter Verbindung zum zurücksetzen der Optionen und Zeit.
+- Verbesserte Unterstützung für zweifarbige Linien.
+- Die Designs wurden verbessert.
+- Verbesserte Stabilität
+- Fehlerbehebungen
+- Allgemeine Verbesserungen
 
 ## Version 2.2.17
 **Veröffentlicht:** 20.09.2023 17:52
@@ -1085,9 +1107,6 @@
 ## Version 1.0.4
 **Veröffentlicht:** 05.04.2023 04:18
 
-- KVV als Verkehrsnetz hinzugefügt.
-- Setup Assistenten hinzugefügt.
-- Allgemeine Verbesserungen und Fehlerbehebungen.
 
 ## Version 1.0.3
 **Veröffentlicht:** 03.04.2023 23:08
