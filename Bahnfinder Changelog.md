@@ -43,8 +43,8 @@
 - Die Größe eines Backups wird jetzt angezeigt. Zusätzlich wird die relative Größe im Vergleich zu anderen Backups dargestellt
 - Allgemeine Verbesserungen
 
-## Version 6.1.1
-**Veröffentlicht:** 28.04.2025 18:53
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Release Version
 - Automatische Backups werden jetzt nach einer Wiederherstellung automatisch aktiviert
@@ -455,8 +455,8 @@
 - Die Anzeige von Entfernungen unter Favoriten wurde behoben.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.10
+**Veröffentlicht:** 07.05.2024 14:53
 
 - Nach einer umfassenden internen Umstrukturierung bietet Bahnfinder nun verbesserte Zuverlässigkeit, mehr Geschwindigkeit und erleichterte Wartung für den Entwickler.
 - Der „Bahnfinder“ Text unter Info wurde verschönert.
@@ -563,8 +563,6 @@
 ## Version 3.1.4
 **Veröffentlicht:** 15.02.2024 16:58
 
-- Neue Hinweise, wenn keine Abfahrten an der gewählten Haltestelle verfügbar sind.
-- Allgemeine Verbesserungen
 
 ## Version 3.1.3
 **Veröffentlicht:** 12.02.2024 17:29
@@ -634,8 +632,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 2.3.14
-**Veröffentlicht:** 08.12.2023 03:16
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Bahnfinder wünscht euch eine schöne Weihnachtszeit!
 - App Icon hinzugefügt.
@@ -694,8 +692,8 @@
 - Die Darstellung des Standortpfeils wurde verbessert.
 - Allgemeine Verbesserungen
 
-## Version 2.3.4
-**Veröffentlicht:** 17.10.2023 12:02
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -881,8 +879,8 @@
 - Neue Option, zum ausblenden des "Suchen" Button, wenn "Automatische Suche" aktiviert ist.
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 2.0.4
-**Veröffentlicht:** 24.07.2023 00:19
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Fehlerbehebungen
 
@@ -1001,8 +999,8 @@
 - Stabilitätsverbesserungen
 - Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.3.2
+**Veröffentlicht:** 12.05.2023 05:14
 
 - Stabilität erheblich verbessert
 
@@ -1076,8 +1074,8 @@
 - Suche verbessert
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.0.9
+**Veröffentlicht:** 11.04.2023 23:05
 
 - Ein Fehler wurde behoben, durch den die App keine Inhalte mehr geladen hat, wenn sie eine gewisse Zeit im Hintergrund war. 
 - Der Fehler könnte bei einigen Nutzern dennoch auftreten, schließe die App dazu aus dem Multitasking Menü und öffne sie erneut. 
