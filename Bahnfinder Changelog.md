@@ -179,7 +179,6 @@
 ## Version 5.1.12
 **Veröffentlicht:** 18.01.2025 05:03
 
-- Verbesserungen für das DB Verkehrsnetz
 
 ## Version 5.1.11
 **Veröffentlicht:** 15.01.2025 00:41
@@ -353,8 +352,8 @@
 - Verbesserte Anzeige von Haltestellennamen auf der Verbindungskarte.
 - Allgemeine Verbesserungen
 
-## Version 4.2.6
-**Veröffentlicht:** 18.06.2024 02:47
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Anpassungen und Fehlerbehebungen für iPad
 - Anpassungen und Fehlerbehebungen für Mac
@@ -676,6 +675,7 @@
 ## Version 2.3.8
 **Veröffentlicht:** 20.10.2023 17:31
 
+- Allgemeine Verbesserungen
 
 ## Version 2.3.7
 **Veröffentlicht:** 19.10.2023 01:21
@@ -893,8 +893,8 @@
 - Designverbesserungen
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 2.0.2
-**Veröffentlicht:** 20.07.2023 03:14
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Konfigurationen von ausgeblendeten Linien können ab sofort gespeichert werden.
 - Favoriten Symbole werden in Abfahrten gezeigt.
@@ -986,7 +986,6 @@
 ## Version 1.3.5
 **Veröffentlicht:** 16.05.2023 00:53
 
-- Fehlerbehebungen und Stabilitätsverbesserungen
 
 ## Version 1.3.4
 **Veröffentlicht:** 13.05.2023 10:27
@@ -1069,8 +1068,8 @@
 
 - Fehlerbehebungen
 
-## Version 1.0.10
-**Veröffentlicht:** 14.04.2023 21:13
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Suche verbessert
 - Allgemeine Verbesserungen und Fehlerbehebungen
