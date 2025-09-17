@@ -476,6 +476,10 @@
 ## Version 4.1.7
 **Veröffentlicht:** 22.03.2024 01:08
 
+- Neue Option: Erweiterte Analyse
+- Daten wie beispielsweise Lokale Backups können jetzt über iTunes ausgetauscht werden.
+- Neues App Icon: „Bahnfindi“
+- iCloud Synchronisierung wurde optimiert 
 
 ## Version 4.1.6
 **Veröffentlicht:** 21.03.2024 13:16
@@ -765,8 +769,8 @@
 - Mit der Funktion "Notfallsuche" wird versucht, stets eine Verbindung für dich zu finden. Selbst in Situationen wie späten Stunden in einem entlegenen Dorf werden dir beispielsweise lange Fußwege zum nächsten Ort vorgeschlagen, um in jedem Fall nach Hause zu kommen.
 - Allgemeine Verbesserungen
 
-## Version 2.2.13
-**Veröffentlicht:** 16.09.2023 02:03
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neue Tipps.
 - Allgemeine Verbesserungen
@@ -802,8 +806,8 @@
 - Start gefunden wurde.
 - Allgemeine Verbesserungen
 
-## Version 2.2.7
-**Veröffentlicht:** 02.09.2023 08:49
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen 
 
@@ -1051,10 +1055,6 @@
 ## Version 1.1.0
 **Veröffentlicht:** 21.04.2023 06:06
 
-- Verbindung anpinnen: Deine ausgewählte Route wird gespeichert und bleibt bis zum Ende deiner Fahrt oben angeheftet. Mit nur einem Klick kannst du sie jederzeit wieder aufrufen.
-- Designpaket „Glas“ wurde für den hellen Modus optimiert.
-- Dein aktueller Standort bei Abfahrten wird nun automatisch aktualisiert.
-- Allgemeine Verbesserungen und Fehlerbehebungen.
 
 ## Version 1.0.12
 **Veröffentlicht:** 18.04.2023 00:53
