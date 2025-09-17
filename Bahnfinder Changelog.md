@@ -25,8 +25,6 @@
 ## Version 6.1.4
 **Veröffentlicht:** 29.05.2025 00:36
 
-- Die Berechnung der Größe von lokalen Backups ist jetzt stabiler
-- Allgemeine Verbesserungen
 
 ## Version 6.1.3
 **Veröffentlicht:** 19.05.2025 15:18
@@ -191,8 +189,8 @@
 
 - Weitere Informationen über den Ausfall des DB Verkehrsnetzes hinzugefügt 
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.1.9
+**Veröffentlicht:** 12.01.2025 06:09
 
 - Verkehrsnetz vorübergehend nicht verfügbar ist. Ich arbeite mit Hochdruck an einer Lösung. Du kannst dich benachrichtigen lassen, sobald es wieder funktioniert.
 - Verkehrsnetzes.
@@ -241,8 +239,8 @@
 - Ein Fehler wurde behoben, der dazu führte, dass „Haltestellen ankündigen“ in einigen Fällen im Hintergrund gestoppt wurde.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.1
+**Veröffentlicht:** 20.09.2024 01:55
 
 - Neue Verkehrsnetze: VVS, NRW, VVV & Südtirolmobil
 - Du wirst jetzt automatisch darauf hingewiesen, das Verkehrsnetz zu wechseln, wenn du dich in einem anderen Gebiet befindest. 
@@ -493,8 +491,6 @@
 ## Version 4.1.5
 **Veröffentlicht:** 20.03.2024 19:10
 
-- Anpassungen an App Icons
-- Design Anpassungen
 
 ## Version 4.1.4
 **Veröffentlicht:** 19.03.2024 16:44
@@ -704,8 +700,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 2.3.2
-**Veröffentlicht:** 13.10.2023 12:39
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Das Layout der Linieninfos wurde für alle Gerätegrössen angepasst.
 - Die Lesbarkeit der Anzahl an Zwischenhalten im Verbindungsdetail wurde verbessert.
@@ -1050,6 +1046,7 @@
 ## Version 1.1.1
 **Veröffentlicht:** 21.04.2023 20:55
 
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.1.0
 **Veröffentlicht:** 21.04.2023 06:06
