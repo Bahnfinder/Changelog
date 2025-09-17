@@ -380,8 +380,8 @@
 - Ein Fehler wurde behoben, der die App beim Laden einiger Verbindungen zum Absturz brachte.
 - Allgemeine Verbesserungen
 
-## Version 4.2.2
-**Veröffentlicht:** 13.06.2024 19:31
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neues App Icon „Modern echtes schwarz“ 
 - Anpassungen bei „Backups“
@@ -424,7 +424,6 @@
 ## Version 4.1.16
 **Veröffentlicht:** 16.05.2024 00:09
 
-- MVV: Nachtbusse werden jetzt in einer spezifischen Farbe dargestellt (Lässt sich deaktivieren)
 
 ## Version 4.1.15
 **Veröffentlicht:** 15.05.2024 22:58
@@ -583,8 +582,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 3.1
-**Veröffentlicht:** 01.02.2024 16:55
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Du kannst ab sofort spenden, um die weitere Entwicklung von Bahnfinder zu unterstützen :)
 - Neue Favoriten Symbole hinzugefügt
@@ -803,6 +802,8 @@
 ## Version 2.2.8
 **Veröffentlicht:** 04.09.2023 16:00
 
+- Start gefunden wurde.
+- Allgemeine Verbesserungen
 
 ## Version 2.2.7
 **Veröffentlicht:** 02.09.2023 08:49
@@ -830,10 +831,9 @@
 - Ein neuer Hinweisdialog informiert Benutzer, wenn sie sich in einem Gebiet mit Verkehrsnetz befinden, das derzeit nicht ausgewählt ist.
 - Allgemeine Verbesserungen
 
-## Version 2.2.3
-**Veröffentlicht:** 17.08.2023 11:24
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Allgemeine Verbesserungen
 
 ## Version 2.2.2
 **Veröffentlicht:** 14.08.2023 09:53
@@ -995,6 +995,9 @@
 ## Version 1.3.3
 **Veröffentlicht:** 12.05.2023 22:22
 
+- Design Anpassungen
+- Stabilitätsverbesserungen
+- Fehlerbehebungen
 
 ## Version 1.3.2
 **Veröffentlicht:** 12.05.2023 05:14
@@ -1020,8 +1023,8 @@
 
 - Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.2.1
+**Veröffentlicht:** 08.05.2023 23:07
 
 - Fehlerbehebungen
 
