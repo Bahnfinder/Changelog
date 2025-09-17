@@ -232,8 +232,6 @@
 ## Version 5.1.2
 **Veröffentlicht:** 22.09.2024 15:19
 
-- Verbesserte Hinweise für die Standortfreigabe
-- Allgemeine Verbesserungen
 
 ## Version 5.1.1
 **Veröffentlicht:** 21.09.2024 07:10
@@ -330,8 +328,8 @@
 
 - Entfallene Fahrzeuge werden jetzt einheitlich dargestellt.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.3.1
+**Veröffentlicht:** 23.06.2024 01:00
 
 - Kleine Anpassungen bei der Einrichtung
 
@@ -364,6 +362,7 @@
 ## Version 4.2.5
 **Veröffentlicht:** 17.06.2024 10:46
 
+- Hauptbahnhöfe werden jetzt verbessert angezeigt.
 
 ## Version 4.2.4
 **Veröffentlicht:** 15.06.2024 18:32
@@ -606,21 +605,6 @@
 ## Version 3.0.0
 **Veröffentlicht:** 02.01.2024 16:59
 
-- Bahnfinder 3 bietet spannende Neuerungen, die deinen Alltag noch einfacher machen. Das sind die größten Änderungen:
-- Haltestellen vorlesen: Lasse dir nicht nur die nächsten Haltestellen vorlesen, sondern erhalte auch Erinnerungen zum Aussteigen.
-- Überarbeiteter Fahrtverlauf: Verfolge dein Fahrzeug sekundengenau mit einem noch detaillierteren Fahrtverlauf.
-- Kompakte Abfahrten: Neues auswählbares Design für Abfahrten.
-- Verbindungsdetail: Erfahre noch mehr informationen über deine ausgewählte Fahrt, wie zum Beispiel die Fahrtdauer in einem Fahrzeug. Ausserdem wird die aktuelle Fahrt Live aktualisiert.
-- Neue App Icons: iOS 5, TestFlight, TestFlight geriffelt, Mitternacht, Vereiste Weihnachten, Vereiste Weihnachten Mund, Weihnachtsgeschenk, Weihnachtsgeschenk Mund
-- Weitere Neuerungen:
-- Du kannst ab sofort einen Fahrtverlauf anpinnen
-- Die Darstellung von Haltestellennamen kann angepasst werden
-- Neue Einstellung: „Hoher Kontrast für Gleisanzeige“ im Verbindungsdetail
-- Zeiten werden verbessert dargestellt
-- Abfahrten, die von einem anderen Bildschirm geöffnet werden, werden jetzt verkleinert dargestellt
-- Touch Menü schnell eingesetzt werden
-- Die Suche ist jetzt noch schneller
-- Über 30 weitere Verbesserungen machen Bahnfinder noch noch schneller und zuverlässiger.
 
 ## Version 2.3.16
 **Veröffentlicht:** 20.12.2023 09:49
