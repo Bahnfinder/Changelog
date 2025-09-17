@@ -1,5 +1,5 @@
-## Version 6.2.1
-**Veröffentlicht:** 08.09.2025 16:34
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Das Naldo Verkehrsnetz funktioniert jetzt wieder wie erwartet.
 
@@ -255,8 +255,8 @@
 - Anpassungen für iOS 18
 - Allgemeine Verbesserungen
 
-## Version 5.0.3
-**Veröffentlicht:** 06.09.2024 03:16
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Ein Fehler wurde behoben, der dazu führte, dass die App beim anschauen von Verbindungen abstürzt.
 - Allgemeine Verbesserungen
@@ -380,8 +380,8 @@
 - Ein Fehler wurde behoben, der die App beim Laden einiger Verbindungen zum Absturz brachte.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.2.2
+**Veröffentlicht:** 13.06.2024 19:31
 
 - Neues App Icon „Modern echtes schwarz“ 
 - Anpassungen bei „Backups“
@@ -424,6 +424,7 @@
 ## Version 4.1.16
 **Veröffentlicht:** 16.05.2024 00:09
 
+- MVV: Nachtbusse werden jetzt in einer spezifischen Farbe dargestellt (Lässt sich deaktivieren)
 
 ## Version 4.1.15
 **Veröffentlicht:** 15.05.2024 22:58
@@ -582,8 +583,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 3.1
+**Veröffentlicht:** 01.02.2024 16:55
 
 - Du kannst ab sofort spenden, um die weitere Entwicklung von Bahnfinder zu unterstützen :)
 - Neue Favoriten Symbole hinzugefügt
@@ -831,9 +832,10 @@
 - Ein neuer Hinweisdialog informiert Benutzer, wenn sie sich in einem Gebiet mit Verkehrsnetz befinden, das derzeit nicht ausgewählt ist.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.3
+**Veröffentlicht:** 17.08.2023 11:24
 
+- Allgemeine Verbesserungen
 
 ## Version 2.2.2
 **Veröffentlicht:** 14.08.2023 09:53
