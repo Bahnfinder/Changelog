@@ -20,6 +20,7 @@
 ## Version 6.1.5
 **Veröffentlicht:** 01.06.2025 23:30
 
+- Allgemeine Verbesserungen
 
 ## Version 6.1.4
 **Veröffentlicht:** 29.05.2025 00:36
@@ -260,8 +261,8 @@
 - Ein Fehler wurde behoben, der dazu führte, dass die App beim anschauen von Verbindungen abstürzt.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.0.2
+**Veröffentlicht:** 05.09.2024 15:32
 
 - Ein Fehler wurde behoben, der dazu führte, dass die App beim Wechsel des Verkehrsnetzes auf iPads abstürzte. 
 
@@ -865,8 +866,8 @@
 - Neue Favoriten Symbole 
 - Allgemeine Verbesserungen
 
-## Version 2.1.1
-**Veröffentlicht:** 28.07.2023 19:11
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Fehlerbehebungen
 
