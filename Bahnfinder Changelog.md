@@ -11,8 +11,8 @@
 - Alle Neuerungen: Unter „Info > Neues in Bahnfinder“ findest du alle Neuerungen aus allen bisherigen Bahnfinder Versionen.
 - Über 15 weitere Verbesserungen machen Bahnfinder noch besser und schneller.
 
-## Version 6.1.6
-**Veröffentlicht:** 24.06.2025 23:20
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Designanpassungen
 - Allgemeine Verbesserungen
@@ -496,8 +496,8 @@
 - Anpassungen an App Icons
 - Design Anpassungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.4
+**Veröffentlicht:** 19.03.2024 16:44
 
 - Allgemeine Verbesserungen
 
@@ -535,10 +535,6 @@
 ## Version 4.0.1
 **Veröffentlicht:** 06.03.2024 01:56
 
-- 2 neue App Icons: „Mund“ und „Mitternacht Mund“
-- Die Fahrzeugnummer ist jetzt unter Linieninfos sichtbar. 
-- Neue Designoptionen für den Suchen Button in Verbindung
-- Allgemeine Verbesserungen
 
 ## Version 4.0
 **Veröffentlicht:** 26.02.2024 15:09
@@ -954,6 +950,9 @@
 ## Version 1.5.2
 **Veröffentlicht:** 25.05.2023 04:40
 
+- Eine Option zum anrufen von Rufbussen wurde hinzugefügt
+- Stabilität wurde verbessert
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.5.1
 **Veröffentlicht:** 22.05.2023 22:56
@@ -1052,10 +1051,6 @@
 ## Version 1.1.0
 **Veröffentlicht:** 21.04.2023 06:06
 
-- Verbindung anpinnen: Deine ausgewählte Route wird gespeichert und bleibt bis zum Ende deiner Fahrt oben angeheftet. Mit nur einem Klick kannst du sie jederzeit wieder aufrufen.
-- Designpaket „Glas“ wurde für den hellen Modus optimiert.
-- Dein aktueller Standort bei Abfahrten wird nun automatisch aktualisiert.
-- Allgemeine Verbesserungen und Fehlerbehebungen.
 
 ## Version 1.0.12
 **Veröffentlicht:** 18.04.2023 00:53
