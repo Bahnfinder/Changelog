@@ -191,8 +191,8 @@
 
 - Weitere Informationen über den Ausfall des DB Verkehrsnetzes hinzugefügt 
 
-## Version 5.1.9
-**Veröffentlicht:** 12.01.2025 06:09
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Verkehrsnetz vorübergehend nicht verfügbar ist. Ich arbeite mit Hochdruck an einer Lösung. Du kannst dich benachrichtigen lassen, sobald es wieder funktioniert.
 - Verkehrsnetzes.
@@ -241,8 +241,8 @@
 - Ein Fehler wurde behoben, der dazu führte, dass „Haltestellen ankündigen“ in einigen Fällen im Hintergrund gestoppt wurde.
 - Allgemeine Verbesserungen
 
-## Version 5.1
-**Veröffentlicht:** 20.09.2024 01:55
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neue Verkehrsnetze: VVS, NRW, VVV & Südtirolmobil
 - Du wirst jetzt automatisch darauf hingewiesen, das Verkehrsnetz zu wechseln, wenn du dich in einem anderen Gebiet befindest. 
@@ -414,8 +414,8 @@
 - Neues App Icon „Weiss Inline“
 - Darstellungsanpassungen für kleinere Geräte
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.17
+**Veröffentlicht:** 16.05.2024 15:26
 
 - Anpassungen für ältere Geräte und iOS Versionen.
 - Die Darstellung des Standortpfeils wurde verbessert.
@@ -1050,7 +1050,6 @@
 ## Version 1.1.1
 **Veröffentlicht:** 21.04.2023 20:55
 
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.1.0
 **Veröffentlicht:** 21.04.2023 06:06
