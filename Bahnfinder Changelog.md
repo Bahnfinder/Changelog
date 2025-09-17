@@ -216,7 +216,6 @@
 ## Version 5.1.5
 **Veröffentlicht:** 10.12.2024 05:15
 
-- Neues App Icon: „Weihnachten 2024“
 
 ## Version 5.1.4
 **Veröffentlicht:** 27.11.2024 00:19
@@ -291,8 +290,8 @@
 
 - Das BVG Verkehrsnetz funktioniert jetzt wieder wie erwartet.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.4.4
+**Veröffentlicht:** 11.07.2024 03:33
 
 - Fehlerbehebungen
 
@@ -322,6 +321,8 @@
 ## Version 4.3.3
 **Veröffentlicht:** 24.06.2024 21:40
 
+- Push Benachrichtigungen können jetzt während der Einrichtung aktiviert werden.
+- Allgemeine Verbesserungen 
 
 ## Version 4.3.2
 **Veröffentlicht:** 23.06.2024 16:44
@@ -767,8 +768,8 @@
 - Mit der Funktion "Notfallsuche" wird versucht, stets eine Verbindung für dich zu finden. Selbst in Situationen wie späten Stunden in einem entlegenen Dorf werden dir beispielsweise lange Fußwege zum nächsten Ort vorgeschlagen, um in jedem Fall nach Hause zu kommen.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.13
+**Veröffentlicht:** 16.09.2023 02:03
 
 - Neue Tipps.
 - Allgemeine Verbesserungen
@@ -961,8 +962,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.5.0
-**Veröffentlicht:** 18.05.2023 15:13
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Gleisnummer ist ab sofort im Fahrtverlauf sichtbar
 - Neues Design bei Fahrtverlauf
