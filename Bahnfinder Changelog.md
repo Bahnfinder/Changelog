@@ -53,8 +53,8 @@
 - Ein Fehler wurde behoben, der in seltenen Fällen zu Abstürzen beim verwenden von „Lokale Backups“ geführt hat
 - Allgemeine Verbesserungen 
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.1
+**Veröffentlicht:** 26.04.2025 00:45
 
 - Liniennummern und andere Objekte zeigen jetzt realistische Reflexionen, die sich an die Neigung des Geräts anpassen
 - Ausgefallene Haltestellen werden jetzt auf den Karten angezeigt
@@ -114,6 +114,8 @@
 ## Version 6.0.4
 **Veröffentlicht:** 01.02.2025 23:31
 
+- Zu lange Gleisnummern im Verbindungsdetail werden jetzt separat dargestellt, wenn der Platz nicht ausreicht
+- Allgemeine Verbesserungen
 
 ## Version 6.0.3
 **Veröffentlicht:** 31.01.2025 03:41
@@ -474,10 +476,6 @@
 ## Version 4.1.7
 **Veröffentlicht:** 22.03.2024 01:08
 
-- Neue Option: Erweiterte Analyse
-- Daten wie beispielsweise Lokale Backups können jetzt über iTunes ausgetauscht werden.
-- Neues App Icon: „Bahnfindi“
-- iCloud Synchronisierung wurde optimiert 
 
 ## Version 4.1.6
 **Veröffentlicht:** 21.03.2024 13:16
@@ -522,6 +520,13 @@
 ## Version 4.1
 **Veröffentlicht:** 08.03.2024 13:33
 
+- Neuer „Synchronisieren“ Bildschirm.
+- Neue Option hinzugefügt, um im Suchverlauf die Interaktionsart einer Haltestelle anzuzeigen.
+- Neue Option zum anzeigen der letzten Verwendung im Suchverlauf.
+- Die App kann jetzt auch durch ein lokales Backup wiederhergestellt werden, wenn Bahnfinder neu eingerichtet wird.
+- Ein Fehler wurde behoben, durch den in einigen Fällen keine lokalen Backups aus „Dateien“ wiederhergestellt werden konnten. 
+- Ab sofort wird nach jedem Bahnfinder Update automatisch ein lokales Backup erstellt. 
+- Allgemeine Verbesserungen
 
 ## Version 4.0.1
 **Veröffentlicht:** 06.03.2024 01:56
