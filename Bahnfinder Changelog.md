@@ -91,8 +91,6 @@
 ## Version 6.0.8
 **Veröffentlicht:** 12.02.2025 01:08
 
-- Leistungsverbesserungen
-- Allgemeine Verbesserungen
 
 ## Version 6.0.7
 **Veröffentlicht:** 09.02.2025 23:42
@@ -132,7 +130,6 @@
 ## Version 6.0.1
 **Veröffentlicht:** 28.01.2025 02:13
 
-- Allgemeine Verbesserungen
 
 ## Version 6
 **Veröffentlicht:** 27.01.2025 01:01
@@ -181,8 +178,8 @@
 
 - Verbesserungen für das DB Verkehrsnetz
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.1.11
+**Veröffentlicht:** 15.01.2025 00:41
 
 - Dieses Update enthält API Updates für das Deutsche Bahn Verkehrsnetz, welches jetzt wieder wie erwartet funktioniert!
 
@@ -1107,6 +1104,9 @@
 ## Version 1.0.4
 **Veröffentlicht:** 05.04.2023 04:18
 
+- KVV als Verkehrsnetz hinzugefügt.
+- Setup Assistenten hinzugefügt.
+- Allgemeine Verbesserungen und Fehlerbehebungen.
 
 ## Version 1.0.3
 **Veröffentlicht:** 03.04.2023 23:08
@@ -1115,8 +1115,8 @@
 - Es wurde ein Hinweis hinzugefügt, der den Nutzer darauf aufmerksam macht, dass die Ortungsdienste deaktiviert sind.
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version 1.0.1
-**Veröffentlicht:** 03.04.2023 04:19
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Ab sofort können Favoriten direkt aus der Suche heraus hinzugefügt werden.
 - Allgemeine Verbesserungen und Fehlerbehebungen.
