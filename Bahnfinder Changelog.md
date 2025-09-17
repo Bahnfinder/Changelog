@@ -17,8 +17,8 @@
 - Designanpassungen
 - Allgemeine Verbesserungen
 
-## Version 6.1.5
-**Veröffentlicht:** 01.06.2025 23:30
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -78,8 +78,8 @@
 
 - Verbesserungen für VoiceOver
 
-## Version 6.0.10
-**Veröffentlicht:** 16.02.2025 17:24
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -179,6 +179,7 @@
 ## Version 5.1.12
 **Veröffentlicht:** 18.01.2025 05:03
 
+- Verbesserungen für das DB Verkehrsnetz
 
 ## Version 5.1.11
 **Veröffentlicht:** 15.01.2025 00:41
@@ -352,8 +353,8 @@
 - Verbesserte Anzeige von Haltestellennamen auf der Verbindungskarte.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.2.6
+**Veröffentlicht:** 18.06.2024 02:47
 
 - Anpassungen und Fehlerbehebungen für iPad
 - Anpassungen und Fehlerbehebungen für Mac
@@ -601,7 +602,6 @@
 ## Version 3.0.1
 **Veröffentlicht:** 18.01.2024 14:58
 
-- Allgemeine Verbesserungen
 
 ## Version 3.0.0
 **Veröffentlicht:** 02.01.2024 16:59
@@ -768,14 +768,14 @@
 - Mit der Funktion "Notfallsuche" wird versucht, stets eine Verbindung für dich zu finden. Selbst in Situationen wie späten Stunden in einem entlegenen Dorf werden dir beispielsweise lange Fußwege zum nächsten Ort vorgeschlagen, um in jedem Fall nach Hause zu kommen.
 - Allgemeine Verbesserungen
 
-## Version 2.2.13
-**Veröffentlicht:** 16.09.2023 02:03
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neue Tipps.
 - Allgemeine Verbesserungen
 
-## Version 2.2.12
-**Veröffentlicht:** 15.09.2023 08:35
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Verbesserungen für das Liniendesign
 - Allgemeine Verbesserungen
@@ -893,8 +893,8 @@
 - Designverbesserungen
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.0.2
+**Veröffentlicht:** 20.07.2023 03:14
 
 - Konfigurationen von ausgeblendeten Linien können ab sofort gespeichert werden.
 - Favoriten Symbole werden in Abfahrten gezeigt.
@@ -945,8 +945,8 @@
 - Die Zeit einer gesuchten Verbindung wird jetzt im Verlauf angezeigt.
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.5.3
-**Veröffentlicht:** 26.05.2023 04:25
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -986,6 +986,7 @@
 ## Version 1.3.5
 **Veröffentlicht:** 16.05.2023 00:53
 
+- Fehlerbehebungen und Stabilitätsverbesserungen
 
 ## Version 1.3.4
 **Veröffentlicht:** 13.05.2023 10:27
@@ -1068,8 +1069,8 @@
 
 - Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.0.10
+**Veröffentlicht:** 14.04.2023 21:13
 
 - Suche verbessert
 - Allgemeine Verbesserungen und Fehlerbehebungen
