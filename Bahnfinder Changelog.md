@@ -179,6 +179,7 @@
 ## Version 5.1.12
 **Veröffentlicht:** 18.01.2025 05:03
 
+- Verbesserungen für das DB Verkehrsnetz
 
 ## Version 5.1.11
 **Veröffentlicht:** 15.01.2025 00:41
@@ -703,16 +704,16 @@
 
 - Allgemeine Verbesserungen
 
-## Version 2.3.2
-**Veröffentlicht:** 13.10.2023 12:39
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Das Layout der Linieninfos wurde für alle Gerätegrössen angepasst.
 - Die Lesbarkeit der Anzahl an Zwischenhalten im Verbindungsdetail wurde verbessert.
 - „Karte“ und „Anpinnen“ wurden im Verbindungsdetail getauscht, um einheitlich mit dem Fahrtverlauf dargestellt zu werden.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.1
+**Veröffentlicht:** 12.10.2023 12:23
 
 - Im Verbindungsdetail wird jetzt die Ankunft in Minuten gezeigt.
 - Verbesserte Darstellung von Zeiten.
@@ -765,8 +766,6 @@
 ## Version 2.2.14
 **Veröffentlicht:** 18.09.2023 17:13
 
-- Mit der Funktion "Notfallsuche" wird versucht, stets eine Verbindung für dich zu finden. Selbst in Situationen wie späten Stunden in einem entlegenen Dorf werden dir beispielsweise lange Fußwege zum nächsten Ort vorgeschlagen, um in jedem Fall nach Hause zu kommen.
-- Allgemeine Verbesserungen
 
 ## Version 2.2.13
 **Veröffentlicht:** 16.09.2023 02:03
@@ -983,14 +982,15 @@
 
 - Stabilitätsverbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.3.5
+**Veröffentlicht:** 16.05.2023 00:53
 
 - Fehlerbehebungen und Stabilitätsverbesserungen
 
 ## Version 1.3.4
 **Veröffentlicht:** 13.05.2023 10:27
 
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.3.3
 **Veröffentlicht:** 12.05.2023 22:22
