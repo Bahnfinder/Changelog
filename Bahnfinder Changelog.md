@@ -1,6 +1,7 @@
 ## Version 6.2.1
 **Veröffentlicht:** 08.09.2025 16:34
 
+- Das Naldo Verkehrsnetz funktioniert jetzt wieder wie erwartet.
 
 ## Version 6.2
 **Veröffentlicht:** 31.07.2025 22:56
@@ -113,8 +114,6 @@
 ## Version 6.0.4
 **Veröffentlicht:** 01.02.2025 23:31
 
-- Zu lange Gleisnummern im Verbindungsdetail werden jetzt separat dargestellt, wenn der Platz nicht ausreicht
-- Allgemeine Verbesserungen
 
 ## Version 6.0.3
 **Veröffentlicht:** 31.01.2025 03:41
@@ -790,6 +789,8 @@
 ## Version 2.2.10
 **Veröffentlicht:** 11.09.2023 11:05
 
+- Die Karte wurde überarbeitet und bietet jetzt eine verbesserte Navigation.
+- Allgemeine Verbesserungen
 
 ## Version 2.2.9
 **Veröffentlicht:** 08.09.2023 14:39
