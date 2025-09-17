@@ -319,8 +319,8 @@
 - Verbesserungen im Abfahrten Popover
 - Die Berechnung von Fußwegen wurde verbessert
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.3.3
+**Veröffentlicht:** 24.06.2024 21:40
 
 - Push Benachrichtigungen können jetzt während der Einrichtung aktiviert werden.
 - Allgemeine Verbesserungen 
@@ -572,8 +572,8 @@
 - Fehlerbehebungen
 - Allgemeine Verbesserungen
 
-## Version 3.1.2
-**Veröffentlicht:** 10.02.2024 07:37
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Fehlerbehebungen
 - Allgemeine Verbesserungen
