@@ -22,8 +22,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.1.4
+**Veröffentlicht:** 29.05.2025 00:36
 
 - Die Berechnung der Größe von lokalen Backups ist jetzt stabiler
 - Allgemeine Verbesserungen
@@ -803,8 +803,6 @@
 ## Version 2.2.8
 **Veröffentlicht:** 04.09.2023 16:00
 
-- Start gefunden wurde.
-- Allgemeine Verbesserungen
 
 ## Version 2.2.7
 **Veröffentlicht:** 02.09.2023 08:49
@@ -997,9 +995,6 @@
 ## Version 1.3.3
 **Veröffentlicht:** 12.05.2023 22:22
 
-- Design Anpassungen
-- Stabilitätsverbesserungen
-- Fehlerbehebungen
 
 ## Version 1.3.2
 **Veröffentlicht:** 12.05.2023 05:14
@@ -1025,8 +1020,8 @@
 
 - Fehlerbehebungen
 
-## Version 1.2.1
-**Veröffentlicht:** 08.05.2023 23:07
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Fehlerbehebungen
 
