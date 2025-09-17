@@ -455,8 +455,8 @@
 - Die Anzeige von Entfernungen unter Favoriten wurde behoben.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.10
+**Veröffentlicht:** 07.05.2024 14:53
 
 - Nach einer umfassenden internen Umstrukturierung bietet Bahnfinder nun verbesserte Zuverlässigkeit, mehr Geschwindigkeit und erleichterte Wartung für den Entwickler.
 - Der „Bahnfinder“ Text unter Info wurde verschönert.
@@ -501,8 +501,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 4.1.3
-**Veröffentlicht:** 18.03.2024 14:01
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Erweiterte Diagnosedaten können jetzt optional aktiviert werden.
 - Lokale Backups können jetzt automatisch gelöscht werden.
@@ -772,6 +772,8 @@
 ## Version 2.2.13
 **Veröffentlicht:** 16.09.2023 02:03
 
+- Neue Tipps.
+- Allgemeine Verbesserungen
 
 ## Version 2.2.12
 **Veröffentlicht:** 15.09.2023 08:35
@@ -1053,6 +1055,10 @@
 ## Version 1.1.0
 **Veröffentlicht:** 21.04.2023 06:06
 
+- Verbindung anpinnen: Deine ausgewählte Route wird gespeichert und bleibt bis zum Ende deiner Fahrt oben angeheftet. Mit nur einem Klick kannst du sie jederzeit wieder aufrufen.
+- Designpaket „Glas“ wurde für den hellen Modus optimiert.
+- Dein aktueller Standort bei Abfahrten wird nun automatisch aktualisiert.
+- Allgemeine Verbesserungen und Fehlerbehebungen.
 
 ## Version 1.0.12
 **Veröffentlicht:** 18.04.2023 00:53
