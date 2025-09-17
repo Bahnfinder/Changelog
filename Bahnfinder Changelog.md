@@ -56,6 +56,17 @@
 ## Version 6.1
 **Veröffentlicht:** 26.04.2025 00:45
 
+- Liniennummern und andere Objekte zeigen jetzt realistische Reflexionen, die sich an die Neigung des Geräts anpassen
+- Ausgefallene Haltestellen werden jetzt auf den Karten angezeigt
+- Favorisierte Haltestellen werden jetzt mit dem entsprechenden Symbol auf den Karten angezeigt
+- Die Verbindungsoptionen werden jetzt nicht mehr in einem separaten Fenster geöffnet 
+- Ein neuer Splash Screen für „Haltestellen ankündigen“ wurde hinzugefügt
+- Splash Screens wurden überarbeitet
+- Mehr Informationen über den Entwickler wurden hinzugefügt 
+- Alle Buttons in der App haben jetzt ein runderes Design 
+- Die Optionen für „Automatisch bereinigen“ bei lokalen Backups wurden visuell überarbeitet
+- Designverbesserungen 
+- Allgemeine Verbesserungen
 
 ## Version 6.0.12
 **Veröffentlicht:** 02.03.2025 02:36
@@ -493,10 +504,6 @@
 ## Version 4.1.3
 **Veröffentlicht:** 18.03.2024 14:01
 
-- Erweiterte Diagnosedaten können jetzt optional aktiviert werden.
-- Lokale Backups können jetzt automatisch gelöscht werden.
-- Die Darstellung von lokalen Backups wurde verbessert.
-- Allgemeine Verbesserungen
 
 ## Version 4.1.2
 **Veröffentlicht:** 15.03.2024 12:35
@@ -767,8 +774,6 @@
 ## Version 2.2.12
 **Veröffentlicht:** 15.09.2023 08:35
 
-- Verbesserungen für das Liniendesign
-- Allgemeine Verbesserungen
 
 ## Version 2.2.11
 **Veröffentlicht:** 14.09.2023 01:16
@@ -812,8 +817,8 @@
 - In der Suche werden jetzt 50 Haltestellen in der Nähe angezeigt.
 - Allgemeine Verbesserungen
 
-## Version 2.2.4
-**Veröffentlicht:** 30.08.2023 12:04
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Anzeige der Umsteigezeit ist nun in den Verbindungsdetails sichtbar.
 - Das Layout der Abfahrtszeiten wurde optimiert, um eine höhere Anzahl von Abfahrten gleichzeitig anzeigen zu können.
