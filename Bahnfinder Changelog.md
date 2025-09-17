@@ -341,8 +341,8 @@
 - Neue Verkehrsnetze: BVG, HVV, RMV, RailTeam & Naldo
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.2.8
+**Veröffentlicht:** 20.06.2024 21:56
 
 - Die Beschreibung vom DB Provider wurde geändert.
 
@@ -666,8 +666,8 @@
 - Die Haltestellensymbol UI wurde verbessert.
 - Allgemeine Verbesserungen
 
-## Version 2.3.9
-**Veröffentlicht:** 22.10.2023 16:09
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Darstellung des Fahrtfortschritts im Fahrtverlauf markiert jetzt die Haltestelle, an dem sich das Fahrzeug gerade befindet.
 - Eine neue Verbindungsoption „Minimale Umsteigezeit“ wurde hinzugefügt.
@@ -753,6 +753,9 @@
 ## Version 2.2.16
 **Veröffentlicht:** 20.09.2023 02:35
 
+- Die Darstellung zweifarbiger Linien wurde verbessert.
+- Updates für Linieninfos
+- Allgemeine Verbesserungen
 
 ## Version 2.2.15
 **Veröffentlicht:** 19.09.2023 15:08
@@ -969,8 +972,8 @@
 - Ein Fehler bei der Standortsuche wurde behoben
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.4.0
-**Veröffentlicht:** 17.05.2023 02:42
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Automatische Suche bei Verbindungen hinzugefügt
 - Stabilitätsverbesserungen
@@ -1089,8 +1092,8 @@
 
 - Kritische Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.0.6
+**Veröffentlicht:** 08.04.2023 02:04
 
 - Ein kritischer Fehler, der die App an bestimmten Standorten zum Absturz brachte, wurde behoben.
 - Allgemeine Verbesserungen und Fehlerbehebungen
