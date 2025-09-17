@@ -325,8 +325,8 @@
 - Push Benachrichtigungen können jetzt während der Einrichtung aktiviert werden.
 - Allgemeine Verbesserungen 
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.3.2
+**Veröffentlicht:** 23.06.2024 16:44
 
 - Entfallene Fahrzeuge werden jetzt einheitlich dargestellt.
 
@@ -414,8 +414,8 @@
 - Neues App Icon „Weiss Inline“
 - Darstellungsanpassungen für kleinere Geräte
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.17
+**Veröffentlicht:** 16.05.2024 15:26
 
 - Anpassungen für ältere Geräte und iOS Versionen.
 - Die Darstellung des Standortpfeils wurde verbessert.
@@ -435,6 +435,7 @@
 ## Version 4.1.14
 **Veröffentlicht:** 12.05.2024 22:31
 
+- Allgemeine Verbesserungen
 
 ## Version 4.1.13
 **Veröffentlicht:** 12.05.2024 15:34
@@ -633,8 +634,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.14
+**Veröffentlicht:** 08.12.2023 03:16
 
 - Bahnfinder wünscht euch eine schöne Weihnachtszeit!
 - App Icon hinzugefügt.
