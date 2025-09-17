@@ -189,6 +189,7 @@
 ## Version 5.1.10
 **Veröffentlicht:** 13.01.2025 01:03
 
+- Weitere Informationen über den Ausfall des DB Verkehrsnetzes hinzugefügt 
 
 ## Version 5.1.9
 **Veröffentlicht:** 12.01.2025 06:09
@@ -228,8 +229,8 @@
 
 - Ein Darstellungsfehler wurde behoben
 
-## Version 5.1.2
-**Veröffentlicht:** 22.09.2024 15:19
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Verbesserte Hinweise für die Standortfreigabe
 - Allgemeine Verbesserungen
@@ -311,8 +312,8 @@
 - Ein Neustart der App wird jetzt vorausgesetzt, um das Verkehrsnetz zu wechseln.
 - Fehlerbehebungen
 
-## Version 4.4
-**Veröffentlicht:** 27.06.2024 16:01
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neues App Icon: „Flipswitch“
 - Verbesserungen im Abfahrten Popover
@@ -756,8 +757,8 @@
 - Updates für Linieninfos
 - Allgemeine Verbesserungen
 
-## Version 2.2.15
-**Veröffentlicht:** 19.09.2023 15:08
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Ein Fehler wurde behoben, der dazu geführt hat, dass auf der Karte eine veraltete Verbindung angezeigt wurde.
 - Allgemeine Verbesserungen
@@ -813,8 +814,6 @@
 ## Version 2.2.6
 **Veröffentlicht:** 01.09.2023 00:40
 
-- Kleine Designänderungen
-- Allgemeine Verbesserungen
 
 ## Version 2.2.5
 **Veröffentlicht:** 31.08.2023 11:56
@@ -953,9 +952,6 @@
 ## Version 1.5.2
 **Veröffentlicht:** 25.05.2023 04:40
 
-- Eine Option zum anrufen von Rufbussen wurde hinzugefügt
-- Stabilität wurde verbessert
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.5.1
 **Veröffentlicht:** 22.05.2023 22:56
