@@ -272,8 +272,8 @@
 - Bahnfinder läuft jetzt noch schneller.
 - Ein Fehler wurde behoben, der dazu führte, dass die App beim darstellen einiger zweifarbiger Liniennummern abstürzte.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5
+**Veröffentlicht:** 01.09.2024 17:57
 
 - Liniennummer in Verbindungsliste: du kannst jetzt aussuchen, ob du die Liniennummer oder das Fahrzeugsymbol in der Verbindungsliste sehen möchtest. 
 - Verbesserungen im Fahrtverlauf: im Fahrtverlauf werden jetzt weitere Informationen zu deinem Fahrzeug angezeigt. Du kannst genau sehen, von welchem Gleis dein Fahrzeug fährt oder welche Haltestellen ausfallen.
@@ -811,8 +811,8 @@
 
 - Allgemeine Verbesserungen 
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.6
+**Veröffentlicht:** 01.09.2023 00:40
 
 - Kleine Designänderungen
 - Allgemeine Verbesserungen
