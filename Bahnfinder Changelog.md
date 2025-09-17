@@ -68,8 +68,8 @@
 - Designverbesserungen 
 - Allgemeine Verbesserungen
 
-## Version 6.0.12
-**Veröffentlicht:** 02.03.2025 02:36
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -211,7 +211,6 @@
 ## Version 5.1.6
 **Veröffentlicht:** 16.12.2024 13:31
 
-- Die Linienfarben für die S5 (MVV) wurden hinzugefügt.
 
 ## Version 5.1.5
 **Veröffentlicht:** 10.12.2024 05:15
@@ -578,8 +577,8 @@
 - Fehlerbehebungen
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 3.1.1
+**Veröffentlicht:** 02.02.2024 12:41
 
 - Allgemeine Verbesserungen
 
@@ -721,8 +720,8 @@
 - Fehlerbehebungen
 - Allgemeine Verbesserungen
 
-## Version 2.3.0
-**Veröffentlicht:** 11.10.2023 11:43
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Der AVV Augsburg wurde als Verkehrsnetz hinzugefügt.
 - Komplett neues Menü zum auswählen des App Icons.
@@ -930,9 +929,6 @@
 ## Version 1.5.6
 **Veröffentlicht:** 06.06.2023 17:36
 
-- Die Einrichtung wurde verbessert.
-- Ein Fehler wurde behoben, der eventuell dazu führte, dass Favoriten eines Verkehrsnetzes mit anderen Verkehrsnetzen vermischt wurden.
-- Allgemeine Verbesserungen und Fehlerbehebungen.
 
 ## Version 1.5.5
 **Veröffentlicht:** 05.06.2023 15:42
@@ -1055,10 +1051,6 @@
 ## Version 1.1.0
 **Veröffentlicht:** 21.04.2023 06:06
 
-- Verbindung anpinnen: Deine ausgewählte Route wird gespeichert und bleibt bis zum Ende deiner Fahrt oben angeheftet. Mit nur einem Klick kannst du sie jederzeit wieder aufrufen.
-- Designpaket „Glas“ wurde für den hellen Modus optimiert.
-- Dein aktueller Standort bei Abfahrten wird nun automatisch aktualisiert.
-- Allgemeine Verbesserungen und Fehlerbehebungen.
 
 ## Version 1.0.12
 **Veröffentlicht:** 18.04.2023 00:53
