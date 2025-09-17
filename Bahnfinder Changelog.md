@@ -6,16 +6,10 @@
 ## Version 6.2
 **Veröffentlicht:** 31.07.2025 22:56
 
-- Inkognito: Im Inkognito Modus kannst du Verbindungen suchen, ohne dass sie im Verlauf sichtbar werden. 
-- Rückreise finden: Finde direkt eine Rückreise einer gefahrenen Verbindung aus deinem Verlauf.
-- Alle Neuerungen: Unter „Info > Neues in Bahnfinder“ findest du alle Neuerungen aus allen bisherigen Bahnfinder Versionen.
-- Über 15 weitere Verbesserungen machen Bahnfinder noch besser und schneller.
 
 ## Version 6.1.6
 **Veröffentlicht:** 24.06.2025 23:20
 
-- Designanpassungen
-- Allgemeine Verbesserungen
 
 ## Version 6.1.5
 **Veröffentlicht:** 01.06.2025 23:30
@@ -309,8 +303,6 @@
 ## Version 4.4.1
 **Veröffentlicht:** 01.07.2024 17:20
 
-- Ein Neustart der App wird jetzt vorausgesetzt, um das Verkehrsnetz zu wechseln.
-- Fehlerbehebungen
 
 ## Version 4.4
 **Veröffentlicht:** 27.06.2024 16:01
@@ -702,14 +694,11 @@
 ## Version 2.3.3
 **Veröffentlicht:** 16.10.2023 20:33
 
+- Allgemeine Verbesserungen
 
 ## Version 2.3.2
 **Veröffentlicht:** 13.10.2023 12:39
 
-- Das Layout der Linieninfos wurde für alle Gerätegrössen angepasst.
-- Die Lesbarkeit der Anzahl an Zwischenhalten im Verbindungsdetail wurde verbessert.
-- „Karte“ und „Anpinnen“ wurden im Verbindungsdetail getauscht, um einheitlich mit dem Fahrtverlauf dargestellt zu werden.
-- Allgemeine Verbesserungen
 
 ## Version 2.3.1
 **Veröffentlicht:** 12.10.2023 12:23
