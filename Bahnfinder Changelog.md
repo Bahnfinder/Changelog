@@ -341,8 +341,8 @@
 - Neue Verkehrsnetze: BVG, HVV, RMV, RailTeam & Naldo
 - Allgemeine Verbesserungen
 
-## Version 4.2.8
-**Veröffentlicht:** 20.06.2024 21:56
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Beschreibung vom DB Provider wurde geändert.
 
@@ -417,6 +417,9 @@
 ## Version 4.1.17
 **Veröffentlicht:** 16.05.2024 15:26
 
+- Anpassungen für ältere Geräte und iOS Versionen.
+- Die Darstellung des Standortpfeils wurde verbessert.
+- Fehlerbehebungen
 
 ## Version 4.1.16
 **Veröffentlicht:** 16.05.2024 00:09
@@ -750,9 +753,6 @@
 ## Version 2.2.16
 **Veröffentlicht:** 20.09.2023 02:35
 
-- Die Darstellung zweifarbiger Linien wurde verbessert.
-- Updates für Linieninfos
-- Allgemeine Verbesserungen
 
 ## Version 2.2.15
 **Veröffentlicht:** 19.09.2023 15:08
@@ -1089,8 +1089,8 @@
 
 - Kritische Fehlerbehebungen
 
-## Version 1.0.6
-**Veröffentlicht:** 08.04.2023 02:04
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Ein kritischer Fehler, der die App an bestimmten Standorten zum Absturz brachte, wurde behoben.
 - Allgemeine Verbesserungen und Fehlerbehebungen
