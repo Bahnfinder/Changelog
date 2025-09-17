@@ -71,7 +71,6 @@
 ## Version 6.0.12
 **Veröffentlicht:** 02.03.2025 02:36
 
-- Allgemeine Verbesserungen
 
 ## Version 6.0.11
 **Veröffentlicht:** 22.02.2025 09:46
@@ -424,7 +423,6 @@
 ## Version 4.1.16
 **Veröffentlicht:** 16.05.2024 00:09
 
-- MVV: Nachtbusse werden jetzt in einer spezifischen Farbe dargestellt (Lässt sich deaktivieren)
 
 ## Version 4.1.15
 **Veröffentlicht:** 15.05.2024 22:58
@@ -581,6 +579,7 @@
 ## Version 3.1.1
 **Veröffentlicht:** 02.02.2024 12:41
 
+- Allgemeine Verbesserungen
 
 ## Version 3.1
 **Veröffentlicht:** 01.02.2024 16:55
