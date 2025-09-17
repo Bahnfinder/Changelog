@@ -88,8 +88,8 @@
 
 - Ein Fehler wurde behoben, der in manchen Situationen zum Einfrieren und Abstürzen der App führte.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.0.8
+**Veröffentlicht:** 12.02.2025 01:08
 
 - Leistungsverbesserungen
 - Allgemeine Verbesserungen
@@ -414,8 +414,8 @@
 - Neues App Icon „Weiss Inline“
 - Darstellungsanpassungen für kleinere Geräte
 
-## Version 4.1.17
-**Veröffentlicht:** 16.05.2024 15:26
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Anpassungen für ältere Geräte und iOS Versionen.
 - Die Darstellung des Standortpfeils wurde verbessert.
@@ -927,8 +927,8 @@
 - Erhebliche Leistungsverbesserungen
 - Und viele weitere kleine Änderungen…
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.5.6
+**Veröffentlicht:** 06.06.2023 17:36
 
 - Die Einrichtung wurde verbessert.
 - Ein Fehler wurde behoben, der eventuell dazu führte, dass Favoriten eines Verkehrsnetzes mit anderen Verkehrsnetzen vermischt wurden.
