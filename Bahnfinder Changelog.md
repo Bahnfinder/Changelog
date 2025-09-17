@@ -99,8 +99,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.0.6
+**Veröffentlicht:** 07.02.2025 01:27
 
 - Wichtige Push Benachrichtigungen von „Haltestellen ankündigen“ spielen jetzt einen Ton oder eine Vibration
 - Allgemeine Verbesserungen
@@ -173,6 +173,8 @@
 ## Version 5.1.13
 **Veröffentlicht:** 21.01.2025 01:11
 
+- Die Auslastung wird jetzt verbessert dargestellt
+- Verbesserungen für das DB Verkehrsnetz
 
 ## Version 5.1.12
 **Veröffentlicht:** 18.01.2025 05:03
@@ -216,8 +218,8 @@
 
 - Neues App Icon: „Weihnachten 2024“
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.1.4
+**Veröffentlicht:** 27.11.2024 00:19
 
 - Das VMV Verkehrsnetz funktioniert jetzt wieder wie erwartet
 - Allgemeine Verbesserungen
@@ -641,7 +643,6 @@
 ## Version 2.3.13
 **Veröffentlicht:** 03.11.2023 16:35
 
-- Fehlerbehebungen
 
 ## Version 2.3.12
 **Veröffentlicht:** 31.10.2023 20:40
@@ -980,6 +981,7 @@
 ## Version 1.3.6
 **Veröffentlicht:** 16.05.2023 13:41
 
+- Stabilitätsverbesserungen
 
 ## Version 1.3.5
 **Veröffentlicht:** 16.05.2023 00:53
