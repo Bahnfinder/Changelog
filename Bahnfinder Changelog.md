@@ -640,8 +640,8 @@
 - Bahnfinder wünscht euch eine schöne Weihnachtszeit!
 - App Icon hinzugefügt.
 
-## Version 2.3.13
-**Veröffentlicht:** 03.11.2023 16:35
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Fehlerbehebungen
 
@@ -704,8 +704,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.2
+**Veröffentlicht:** 13.10.2023 12:39
 
 - Das Layout der Linieninfos wurde für alle Gerätegrössen angepasst.
 - Die Lesbarkeit der Anzahl an Zwischenhalten im Verbindungsdetail wurde verbessert.
@@ -823,8 +823,8 @@
 - In der Suche werden jetzt 50 Haltestellen in der Nähe angezeigt.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.4
+**Veröffentlicht:** 30.08.2023 12:04
 
 - Die Anzeige der Umsteigezeit ist nun in den Verbindungsdetails sichtbar.
 - Das Layout der Abfahrtszeiten wurde optimiert, um eine höhere Anzahl von Abfahrten gleichzeitig anzeigen zu können.
