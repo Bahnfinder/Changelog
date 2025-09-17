@@ -73,8 +73,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 6.0.11
-**Veröffentlicht:** 22.02.2025 09:46
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Verbesserungen für VoiceOver
 
@@ -114,6 +114,8 @@
 ## Version 6.0.4
 **Veröffentlicht:** 01.02.2025 23:31
 
+- Zu lange Gleisnummern im Verbindungsdetail werden jetzt separat dargestellt, wenn der Platz nicht ausreicht
+- Allgemeine Verbesserungen
 
 ## Version 6.0.3
 **Veröffentlicht:** 31.01.2025 03:41
@@ -748,8 +750,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 2.2.16
-**Veröffentlicht:** 20.09.2023 02:35
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Darstellung zweifarbiger Linien wurde verbessert.
 - Updates für Linieninfos
