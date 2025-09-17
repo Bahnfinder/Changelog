@@ -111,8 +111,8 @@
 - Das Setup wurde verbessert
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.0.4
+**Veröffentlicht:** 01.02.2025 23:31
 
 - Zu lange Gleisnummern im Verbindungsdetail werden jetzt separat dargestellt, wenn der Platz nicht ausreicht
 - Allgemeine Verbesserungen
@@ -291,8 +291,8 @@
 
 - Das BVG Verkehrsnetz funktioniert jetzt wieder wie erwartet.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.4.4
+**Veröffentlicht:** 11.07.2024 03:33
 
 - Fehlerbehebungen
 
@@ -301,8 +301,8 @@
 
 - Ein Fehler, der zum Absturz der App beim Aktualisieren des Fahrtverlaufs unter bestimmten Bedingungen führte, wurde behoben.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.4.2
+**Veröffentlicht:** 05.07.2024 17:07
 
 - Ein Fehler wurde behoben, der dazu führte, dass unter bestimmten Umständen ein Lokales Backup beim einrichten von Bahnfinder nicht wiederhergestellt werden konnte.
 
@@ -532,8 +532,8 @@
 - Ab sofort wird nach jedem Bahnfinder Update automatisch ein lokales Backup erstellt. 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.0.1
+**Veröffentlicht:** 06.03.2024 01:56
 
 - 2 neue App Icons: „Mund“ und „Mitternacht Mund“
 - Die Fahrzeugnummer ist jetzt unter Linieninfos sichtbar. 
@@ -543,6 +543,22 @@
 ## Version 4.0
 **Veröffentlicht:** 26.02.2024 15:09
 
+- Bahnfinder 4 kommt mit spannenden Neuerungen, die deinen Alltag noch besser und einfacher machen. Zu den größten Neuerungen gehören:
+- Erinnerungen: Lasse dich rechtzeitig an Abfahrten erinnern.
+- Neuer „Synchronisieren“ Tab: „iCloud“ heisst jetzt „Synchronisieren“. Du kannst jetzt sowohl iCloud als auch Lokale Backups erstellen und wiederherstellen und diese sogar in andere Apps exportieren.
+- Menü.
+- Verbindungen direkt aus dem Fahrtverlauf suchen: Du kannst über das 3D Touch Menü eine bestimmte Haltestelle als Ziel auswählen und schnell eine Verbindungssuche starten.
+- Modus für noch effizienteres Multitasking.
+- Weitere Neuerungen: 
+- Neue Einstellungen für Haltestellen vorlesen: Personalisiere die Ansagen der Haltestellennamen mit neuen Einstellungsmöglichkeiten.
+- Neue Einstellungen für Wichtige Haltestellen: Markiere und verwalte wichtige Haltestellen direkt in den Einstellungen.
+- Option: Suche sortieren nach Distanz: Finde jetzt Haltestellen und Verbindungen, sortiert nach der Entfernung zu deinem Standort.
+- Verbesserte Suche: Die Optionen „Automatische Suche“ und „Suchen Button ausblenden“ wurden für eine intuitive Nutzung kombiniert.
+- Option: Standortpfeil im Fahrtverlauf: Lasse dir deinen aktuellen Standort im Fahrtverlauf mit einem Pfeil neben dem Haltestellennamen anzeigen.
+- Verbesserte Kategorien in den Einstellungen: Finde Einstellungen schneller mit den neu organisierten Kategorien.
+- Hinweis für Haltestellenansagen: Erhalte einen Hinweis beim Start, wenn „Nur wichtige Haltestellen vorlesen“ aktiviert ist.
+- Synchronisierung zu begrenzen, um Daten und Batterieverbrauch zu reduzieren. 
+- Allgemeine Verbesserungen
 
 ## Version 3.1.4
 **Veröffentlicht:** 15.02.2024 16:58
@@ -894,22 +910,6 @@
 ## Version 2.0
 **Veröffentlicht:** 12.07.2023 08:34
 
-- Bahnfinder 2 ist das Umfangreichste Update bisher und macht Bahnfinder noch schneller, übersichtlicher und schöner.
-- Das ist neu: 
-- Neues, übersichtlicheres Aussehen durch differenzierte Farben und weiteren Anpassungen.
-- Neue Design Optionen
-- 2 neue Design Pakete 
-- „Automatisch folgen“: Mit der Funktion „Automatisch folgen“ werden dir jederzeit Abfahrten der nächsten Haltestelle angezeigt, während du dich fortbewegst.
-- „Automatisch suchen“: Suche deine Verbindung automatisch, sobald du eine Start und Zielhaltestelle ausgewählt hast. 
-- Linien können unter Abfahrten ausgeblendet werden.
-- Mehr Informationen bei Verbindungen 
-- Eigene Icons bei Haltestellen Favoriten
-- Ankünfte bei Haltestellen  
-- Verbesserte Unterstützung für Rufbusse
-- Gehzeit in Minuten 
-- Karte bei Verbindung
-- Erhebliche Leistungsverbesserungen
-- Und viele weitere kleine Änderungen…
 
 ## Version 1.5.6
 **Veröffentlicht:** 06.06.2023 17:36
@@ -1066,8 +1066,8 @@
 - Ein Fehler wurde behoben, durch den die App keine Inhalte mehr geladen hat, wenn sie eine gewisse Zeit im Hintergrund war. 
 - Der Fehler könnte bei einigen Nutzern dennoch auftreten, schließe die App dazu aus dem Multitasking Menü und öffne sie erneut. 
 
-## Version 1.0.8
-**Veröffentlicht:** 11.04.2023 02:45
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
