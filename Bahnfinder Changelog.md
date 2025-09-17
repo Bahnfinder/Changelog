@@ -94,8 +94,8 @@
 - Leistungsverbesserungen
 - Allgemeine Verbesserungen
 
-## Version 6.0.7
-**Veröffentlicht:** 09.02.2025 23:42
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -291,8 +291,8 @@
 
 - Das BVG Verkehrsnetz funktioniert jetzt wieder wie erwartet.
 
-## Version 4.4.4
-**Veröffentlicht:** 11.07.2024 03:33
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Fehlerbehebungen
 
@@ -361,8 +361,8 @@
 - Die Funktion „Legacy iCloud Synchronisierung“ wurde entfernt.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.2.5
+**Veröffentlicht:** 17.06.2024 10:46
 
 - Hauptbahnhöfe werden jetzt verbessert angezeigt.
 
@@ -1087,8 +1087,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.0.7
+**Veröffentlicht:** 10.04.2023 03:17
 
 - Kritische Fehlerbehebungen
 
