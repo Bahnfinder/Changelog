@@ -6,6 +6,10 @@
 ## Version 6.2
 **Veröffentlicht:** 31.07.2025 22:56
 
+- Inkognito: Im Inkognito Modus kannst du Verbindungen suchen, ohne dass sie im Verlauf sichtbar werden. 
+- Rückreise finden: Finde direkt eine Rückreise einer gefahrenen Verbindung aus deinem Verlauf.
+- Alle Neuerungen: Unter „Info > Neues in Bahnfinder“ findest du alle Neuerungen aus allen bisherigen Bahnfinder Versionen.
+- Über 15 weitere Verbesserungen machen Bahnfinder noch besser und schneller.
 
 ## Version 6.1.6
 **Veröffentlicht:** 24.06.2025 23:20
@@ -297,8 +301,8 @@
 
 - Ein Fehler, der zum Absturz der App beim Aktualisieren des Fahrtverlaufs unter bestimmten Bedingungen führte, wurde behoben.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.4.2
+**Veröffentlicht:** 05.07.2024 17:07
 
 - Ein Fehler wurde behoben, der dazu führte, dass unter bestimmten Umständen ein Lokales Backup beim einrichten von Bahnfinder nicht wiederhergestellt werden konnte.
 
@@ -422,8 +426,8 @@
 
 - MVV: Nachtbusse werden jetzt in einer spezifischen Farbe dargestellt (Lässt sich deaktivieren)
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.15
+**Veröffentlicht:** 15.05.2024 22:58
 
 - Die Funktion "Haltestelle Automatisch ausfüllen" kann jetzt deaktiviert werden.
 - Allgemeine Verbesserungen
@@ -793,8 +797,6 @@
 ## Version 2.2.9
 **Veröffentlicht:** 08.09.2023 14:39
 
-- Lange Fusswege werden jetzt unter Verbindung markiert.
-- Allgemeine Verbesserungen
 
 ## Version 2.2.8
 **Veröffentlicht:** 04.09.2023 16:00
@@ -856,6 +858,11 @@
 ## Version 2.1.2
 **Veröffentlicht:** 01.08.2023 09:16
 
+- Linieninfos: Mit "Linieninfos" (Beta) erfährst du alles Wissenswerte über deine Linien. Hier kannst du nachschlagen, welche Distanz ein Fahrzeug zurücklegt, wie lange es insgesamt fährt und vieles mehr.
+- Neues Symbol für veränderte Verbindungsoptionen.
+- Bei „Linien ausblenden“ können nun alle Linien mit einen Knopfdruck ausgeblendet oder eingeblendet werden.
+- Neue Favoriten Symbole 
+- Allgemeine Verbesserungen
 
 ## Version 2.1.1
 **Veröffentlicht:** 28.07.2023 19:11
@@ -872,8 +879,8 @@
 - Neue Option, zum ausblenden des "Suchen" Button, wenn "Automatische Suche" aktiviert ist.
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.0.4
+**Veröffentlicht:** 24.07.2023 00:19
 
 - Fehlerbehebungen
 
