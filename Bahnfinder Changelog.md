@@ -702,7 +702,6 @@
 ## Version 2.3.3
 **Veröffentlicht:** 16.10.2023 20:33
 
-- Allgemeine Verbesserungen
 
 ## Version 2.3.2
 **Veröffentlicht:** 13.10.2023 12:39
@@ -797,6 +796,8 @@
 ## Version 2.2.9
 **Veröffentlicht:** 08.09.2023 14:39
 
+- Lange Fusswege werden jetzt unter Verbindung markiert.
+- Allgemeine Verbesserungen
 
 ## Version 2.2.8
 **Veröffentlicht:** 04.09.2023 16:00
