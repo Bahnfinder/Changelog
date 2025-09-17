@@ -216,6 +216,7 @@
 ## Version 5.1.5
 **Veröffentlicht:** 10.12.2024 05:15
 
+- Neues App Icon: „Weihnachten 2024“
 
 ## Version 5.1.4
 **Veröffentlicht:** 27.11.2024 00:19
@@ -318,8 +319,8 @@
 - Verbesserungen im Abfahrten Popover
 - Die Berechnung von Fußwegen wurde verbessert
 
-## Version 4.3.3
-**Veröffentlicht:** 24.06.2024 21:40
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Push Benachrichtigungen können jetzt während der Einrichtung aktiviert werden.
 - Allgemeine Verbesserungen 
@@ -962,8 +963,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.5.0
+**Veröffentlicht:** 18.05.2023 15:13
 
 - Die Gleisnummer ist ab sofort im Fahrtverlauf sichtbar
 - Neues Design bei Fahrtverlauf
