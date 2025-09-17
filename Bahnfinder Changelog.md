@@ -203,8 +203,8 @@
 - Frohes neues Jahr!
 - Verbesserte Beschriftungen für VoiceOver
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.1.7
+**Veröffentlicht:** 19.12.2024 03:54
 
 - Ein Fehler wurde behoben, der dazu führte, dass die App beim Ansehen bestimmter Verbindungen abstürzte. 
 
@@ -563,6 +563,8 @@
 ## Version 3.1.4
 **Veröffentlicht:** 15.02.2024 16:58
 
+- Neue Hinweise, wenn keine Abfahrten an der gewählten Haltestelle verfügbar sind.
+- Allgemeine Verbesserungen
 
 ## Version 3.1.3
 **Veröffentlicht:** 12.02.2024 17:29
@@ -667,9 +669,6 @@
 ## Version 2.3.9
 **Veröffentlicht:** 22.10.2023 16:09
 
-- Die Darstellung des Fahrtfortschritts im Fahrtverlauf markiert jetzt die Haltestelle, an dem sich das Fahrzeug gerade befindet.
-- Eine neue Verbindungsoption „Minimale Umsteigezeit“ wurde hinzugefügt.
-- Allgemeine Verbesserungen
 
 ## Version 2.3.8
 **Veröffentlicht:** 20.10.2023 17:31
@@ -928,6 +927,9 @@
 ## Version 1.5.6
 **Veröffentlicht:** 06.06.2023 17:36
 
+- Die Einrichtung wurde verbessert.
+- Ein Fehler wurde behoben, der eventuell dazu führte, dass Favoriten eines Verkehrsnetzes mit anderen Verkehrsnetzen vermischt wurden.
+- Allgemeine Verbesserungen und Fehlerbehebungen.
 
 ## Version 1.5.5
 **Veröffentlicht:** 05.06.2023 15:42
@@ -941,8 +943,8 @@
 - Die Zeit einer gesuchten Verbindung wird jetzt im Verlauf angezeigt.
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.5.3
-**Veröffentlicht:** 26.05.2023 04:25
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
