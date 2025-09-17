@@ -40,6 +40,8 @@
 ## Version 6.1.2
 **Veröffentlicht:** 18.05.2025 22:29
 
+- Die Größe eines Backups wird jetzt angezeigt. Zusätzlich wird die relative Größe im Vergleich zu anderen Backups dargestellt
+- Allgemeine Verbesserungen
 
 ## Version 6.1.1
 **Veröffentlicht:** 28.04.2025 18:53
@@ -239,8 +241,8 @@
 - Ein Fehler wurde behoben, der dazu führte, dass „Haltestellen ankündigen“ in einigen Fällen im Hintergrund gestoppt wurde.
 - Allgemeine Verbesserungen
 
-## Version 5.1
-**Veröffentlicht:** 20.09.2024 01:55
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neue Verkehrsnetze: VVS, NRW, VVV & Südtirolmobil
 - Du wirst jetzt automatisch darauf hingewiesen, das Verkehrsnetz zu wechseln, wenn du dich in einem anderen Gebiet befindest. 
@@ -367,7 +369,6 @@
 ## Version 4.2.4
 **Veröffentlicht:** 15.06.2024 18:32
 
-- Die Geschwindigkeit von iCloud Backups wurde erheblich verbessert.
 
 ## Version 4.2.3
 **Veröffentlicht:** 14.06.2024 12:07
@@ -841,8 +842,8 @@
 - Neues Menü zur Schnellauswahl bei der Haltestellensuche.
 - Allgemeine Verbesserungen
 
-## Version 2.2.1
-**Veröffentlicht:** 11.08.2023 17:09
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
