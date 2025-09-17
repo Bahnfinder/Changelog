@@ -99,8 +99,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 6.0.6
-**Veröffentlicht:** 07.02.2025 01:27
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Wichtige Push Benachrichtigungen von „Haltestellen ankündigen“ spielen jetzt einen Ton oder eine Vibration
 - Allgemeine Verbesserungen
@@ -173,8 +173,6 @@
 ## Version 5.1.13
 **Veröffentlicht:** 21.01.2025 01:11
 
-- Die Auslastung wird jetzt verbessert dargestellt
-- Verbesserungen für das DB Verkehrsnetz
 
 ## Version 5.1.12
 **Veröffentlicht:** 18.01.2025 05:03
@@ -218,8 +216,8 @@
 
 - Neues App Icon: „Weihnachten 2024“
 
-## Version 5.1.4
-**Veröffentlicht:** 27.11.2024 00:19
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Das VMV Verkehrsnetz funktioniert jetzt wieder wie erwartet
 - Allgemeine Verbesserungen
@@ -269,6 +267,8 @@
 ## Version 5.0.1
 **Veröffentlicht:** 04.09.2024 02:08
 
+- Bahnfinder läuft jetzt noch schneller.
+- Ein Fehler wurde behoben, der dazu führte, dass die App beim darstellen einiger zweifarbiger Liniennummern abstürzte.
 
 ## Version 5
 **Veröffentlicht:** 01.09.2024 17:57
@@ -970,8 +970,8 @@
 - Ein Fehler bei der Standortsuche wurde behoben
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.4.0
+**Veröffentlicht:** 17.05.2023 02:42
 
 - Automatische Suche bei Verbindungen hinzugefügt
 - Stabilitätsverbesserungen
@@ -980,7 +980,6 @@
 ## Version 1.3.6
 **Veröffentlicht:** 16.05.2023 13:41
 
-- Stabilitätsverbesserungen
 
 ## Version 1.3.5
 **Veröffentlicht:** 16.05.2023 00:53
