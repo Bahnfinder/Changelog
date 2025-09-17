@@ -91,6 +91,8 @@
 ## Version 6.0.8
 **Veröffentlicht:** 12.02.2025 01:08
 
+- Leistungsverbesserungen
+- Allgemeine Verbesserungen
 
 ## Version 6.0.7
 **Veröffentlicht:** 09.02.2025 23:42
@@ -130,6 +132,7 @@
 ## Version 6.0.1
 **Veröffentlicht:** 28.01.2025 02:13
 
+- Allgemeine Verbesserungen
 
 ## Version 6
 **Veröffentlicht:** 27.01.2025 01:01
@@ -1115,8 +1118,8 @@
 - Es wurde ein Hinweis hinzugefügt, der den Nutzer darauf aufmerksam macht, dass die Ortungsdienste deaktiviert sind.
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.0.1
+**Veröffentlicht:** 03.04.2023 04:19
 
 - Ab sofort können Favoriten direkt aus der Suche heraus hinzugefügt werden.
 - Allgemeine Verbesserungen und Fehlerbehebungen.
