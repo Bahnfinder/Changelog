@@ -261,8 +261,8 @@
 - Ein Fehler wurde behoben, der dazu führte, dass die App beim anschauen von Verbindungen abstürzt.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.0.2
+**Veröffentlicht:** 05.09.2024 15:32
 
 - Ein Fehler wurde behoben, der dazu führte, dass die App beim Wechsel des Verkehrsnetzes auf iPads abstürzte. 
 
@@ -490,8 +490,8 @@
 - Einrichtung verbessert
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.5
+**Veröffentlicht:** 20.03.2024 19:10
 
 - Anpassungen an App Icons
 - Design Anpassungen
@@ -966,11 +966,6 @@
 ## Version 1.5.0
 **Veröffentlicht:** 18.05.2023 15:13
 
-- Die Gleisnummer ist ab sofort im Fahrtverlauf sichtbar
-- Neues Design bei Fahrtverlauf
-- Die angepinnte Route wird ab sofort in der Verbindungsliste angezeigt
-- Ein Fehler bei der Standortsuche wurde behoben
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.4.0
 **Veröffentlicht:** 17.05.2023 02:42
@@ -979,8 +974,8 @@
 - Stabilitätsverbesserungen
 - Fehlerbehebungen
 
-## Version 1.3.6
-**Veröffentlicht:** 16.05.2023 13:41
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Stabilitätsverbesserungen
 
@@ -1063,6 +1058,7 @@
 ## Version 1.0.12
 **Veröffentlicht:** 18.04.2023 00:53
 
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.0.11
 **Veröffentlicht:** 17.04.2023 01:22
