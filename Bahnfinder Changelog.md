@@ -22,8 +22,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 6.1.4
-**Veröffentlicht:** 29.05.2025 00:36
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Berechnung der Größe von lokalen Backups ist jetzt stabiler
 - Allgemeine Verbesserungen
@@ -704,8 +704,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.2
+**Veröffentlicht:** 13.10.2023 12:39
 
 - Das Layout der Linieninfos wurde für alle Gerätegrössen angepasst.
 - Die Lesbarkeit der Anzahl an Zwischenhalten im Verbindungsdetail wurde verbessert.
@@ -766,6 +766,8 @@
 ## Version 2.2.14
 **Veröffentlicht:** 18.09.2023 17:13
 
+- Mit der Funktion "Notfallsuche" wird versucht, stets eine Verbindung für dich zu finden. Selbst in Situationen wie späten Stunden in einem entlegenen Dorf werden dir beispielsweise lange Fußwege zum nächsten Ort vorgeschlagen, um in jedem Fall nach Hause zu kommen.
+- Allgemeine Verbesserungen
 
 ## Version 2.2.13
 **Veröffentlicht:** 16.09.2023 02:03
@@ -812,8 +814,6 @@
 ## Version 2.2.6
 **Veröffentlicht:** 01.09.2023 00:40
 
-- Kleine Designänderungen
-- Allgemeine Verbesserungen
 
 ## Version 2.2.5
 **Veröffentlicht:** 31.08.2023 11:56
@@ -995,9 +995,6 @@
 ## Version 1.3.3
 **Veröffentlicht:** 12.05.2023 22:22
 
-- Design Anpassungen
-- Stabilitätsverbesserungen
-- Fehlerbehebungen
 
 ## Version 1.3.2
 **Veröffentlicht:** 12.05.2023 05:14
