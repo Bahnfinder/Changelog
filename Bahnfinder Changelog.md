@@ -31,6 +31,11 @@
 ## Version 6.1.3
 **Veröffentlicht:** 19.05.2025 15:18
 
+- Die Anzahl von Backups wird jetzt angezeigt
+- Die Backup Einstellungen laden jetzt deutlich schneller, selbst bei vielen Backups 
+- iCloud Backups werden nun vollständig angezeigt, auch wenn du mehr als 100 hast
+- Leistungsverbesserungen
+- Allgemeine Verbesserungen
 
 ## Version 6.1.2
 **Veröffentlicht:** 18.05.2025 22:29
@@ -430,7 +435,6 @@
 ## Version 4.1.14
 **Veröffentlicht:** 12.05.2024 22:31
 
-- Allgemeine Verbesserungen
 
 ## Version 4.1.13
 **Veröffentlicht:** 12.05.2024 15:34
@@ -657,9 +661,6 @@
 ## Version 2.3.10
 **Veröffentlicht:** 28.10.2023 19:18
 
-- Die Darstellung des Standortpfeils wurde verbessert.
-- Die Haltestellensymbol UI wurde verbessert.
-- Allgemeine Verbesserungen
 
 ## Version 2.3.9
 **Veröffentlicht:** 22.10.2023 16:09
@@ -716,8 +717,8 @@
 - Fehlerbehebungen
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.0
+**Veröffentlicht:** 11.10.2023 11:43
 
 - Der AVV Augsburg wurde als Verkehrsnetz hinzugefügt.
 - Komplett neues Menü zum auswählen des App Icons.
@@ -779,6 +780,9 @@
 ## Version 2.2.11
 **Veröffentlicht:** 14.09.2023 01:16
 
+- iOS 17 Kompatibilität
+- 3D Optionen wurden zur Karte hinzugefügt.
+- Allgemeine Verbesserungen
 
 ## Version 2.2.10
 **Veröffentlicht:** 11.09.2023 11:05
