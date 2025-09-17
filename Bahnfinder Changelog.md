@@ -437,8 +437,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 4.1.13
-**Veröffentlicht:** 12.05.2024 15:34
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -465,7 +465,6 @@
 ## Version 4.1.9
 **Geplant:** 01.04.2024 00:00
 
-- Am 1. April feiert Bahnfinder seinen 1. Geburtstag. Feiere diesen besonderen Tag mit einem exklusiven App Icon!
 
 ## Version 4.1.8
 **Veröffentlicht:** 23.03.2024 00:08
@@ -669,6 +668,9 @@
 ## Version 2.3.9
 **Veröffentlicht:** 22.10.2023 16:09
 
+- Die Darstellung des Fahrtfortschritts im Fahrtverlauf markiert jetzt die Haltestelle, an dem sich das Fahrzeug gerade befindet.
+- Eine neue Verbindungsoption „Minimale Umsteigezeit“ wurde hinzugefügt.
+- Allgemeine Verbesserungen
 
 ## Version 2.3.8
 **Veröffentlicht:** 20.10.2023 17:31
@@ -943,8 +945,8 @@
 - Die Zeit einer gesuchten Verbindung wird jetzt im Verlauf angezeigt.
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.5.3
+**Veröffentlicht:** 26.05.2023 04:25
 
 - Allgemeine Verbesserungen
 
