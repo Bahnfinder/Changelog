@@ -11,8 +11,8 @@
 - Alle Neuerungen: Unter „Info > Neues in Bahnfinder“ findest du alle Neuerungen aus allen bisherigen Bahnfinder Versionen.
 - Über 15 weitere Verbesserungen machen Bahnfinder noch besser und schneller.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.1.6
+**Veröffentlicht:** 24.06.2025 23:20
 
 - Designanpassungen
 - Allgemeine Verbesserungen
@@ -86,7 +86,6 @@
 ## Version 6.0.9
 **Veröffentlicht:** 12.02.2025 03:24
 
-- Ein Fehler wurde behoben, der in manchen Situationen zum Einfrieren und Abstürzen der App führte.
 
 ## Version 6.0.8
 **Veröffentlicht:** 12.02.2025 01:08
@@ -137,38 +136,6 @@
 ## Version 6
 **Veröffentlicht:** 27.01.2025 01:01
 
-- Karten
-- • Karten für den Fahrtverlauf und Verbindungen wurden komplett überarbeitet
-- • Haltestellennamen sind jetzt direkt sichtbar
-- • Übersichtlicheres Design
-- • Erweiterte Informationen für Verbindungen z.B. Umstiege
-- Neues Design
-- • Überarbeitete App Icon Einstellungen
-- • Realistischer Timer bei „Erinnerungen“
-- • „Poof“ Effekt beim entfernen von angepinnten Verbindungen oder Abfahrten
-- • Eingefärbte Einstellungen
-- • Und viele weitere
-- Besuchte Haltestellen
-- • Du kannst deine besuchten Haltestellen in einer Liste oder auf einer Karte ansehen
-- • Verschiedene Optionen zum Sortieren
-- • Du kannst sehen, auf welchem Platz deiner meistbesuchten Haltestellen eine bestimmte Haltestelle ist
-- • Kalenderansicht zeigt Datum und Uhrzeit deiner Haltestellenbesuche
-- • Du kannst außerdem sehen, wie oft du mit einer Haltestelle interagiert hast
-- Live Map (Beta)
-- • Verfolge dein Fahrzeug in Echtzeit auf einer Karte
-- • Funktioniert momentan nur in Bayern mit bestimmten Fahrzeugen
-- Sekundengenaue Abfahrtszeiten
-- • Unterstützte Fahrzeuge werden sekundengenau angezeigt (Kommt in einem späteren Update)
-- Screenshot teilen
-- • Du kannst deine Verbindung jetzt bequem mit deinen Freunden teilen
-- Neue Symbole für Favoriten
-- • Mit 29 neuen Symbolen kannst du deine favorisierten Haltestellen noch individueller gestalten
-- Neue App Icons
-- • „Modern Rot (hell / dunkel)“, „Modern Schwarz Vibrant“
-- Verbesserungen bei VoiceOver
-- Neuer Splash Screen beim einrichten der App
-- Neues Verkehrsnetz: NAH.SH
-- Über 60 weitere Neuerungen machen Bahnfinder noch besser und schneller
 
 ## Version 5.1.13
 **Veröffentlicht:** 21.01.2025 01:11
@@ -473,8 +440,8 @@
 - Backups und weitere Dateien können jetzt über die „Dateien“ App ausgetauscht werden
 - Layout Anpassungen für kleinere Geräte
 
-## Version 4.1.7
-**Veröffentlicht:** 22.03.2024 01:08
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neue Option: Erweiterte Analyse
 - Daten wie beispielsweise Lokale Backups können jetzt über iTunes ausgetauscht werden.
@@ -535,6 +502,10 @@
 ## Version 4.0.1
 **Veröffentlicht:** 06.03.2024 01:56
 
+- 2 neue App Icons: „Mund“ und „Mitternacht Mund“
+- Die Fahrzeugnummer ist jetzt unter Linieninfos sichtbar. 
+- Neue Designoptionen für den Suchen Button in Verbindung
+- Allgemeine Verbesserungen
 
 ## Version 4.0
 **Veröffentlicht:** 26.02.2024 15:09
@@ -574,8 +545,8 @@
 - Fehlerbehebungen
 - Allgemeine Verbesserungen
 
-## Version 3.1.1
-**Veröffentlicht:** 02.02.2024 12:41
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -784,8 +755,8 @@
 - 3D Optionen wurden zur Karte hinzugefügt.
 - Allgemeine Verbesserungen
 
-## Version 2.2.10
-**Veröffentlicht:** 11.09.2023 11:05
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Karte wurde überarbeitet und bietet jetzt eine verbesserte Navigation.
 - Allgemeine Verbesserungen
@@ -1051,6 +1022,10 @@
 ## Version 1.1.0
 **Veröffentlicht:** 21.04.2023 06:06
 
+- Verbindung anpinnen: Deine ausgewählte Route wird gespeichert und bleibt bis zum Ende deiner Fahrt oben angeheftet. Mit nur einem Klick kannst du sie jederzeit wieder aufrufen.
+- Designpaket „Glas“ wurde für den hellen Modus optimiert.
+- Dein aktueller Standort bei Abfahrten wird nun automatisch aktualisiert.
+- Allgemeine Verbesserungen und Fehlerbehebungen.
 
 ## Version 1.0.12
 **Veröffentlicht:** 18.04.2023 00:53
@@ -1065,8 +1040,6 @@
 ## Version 1.0.10
 **Veröffentlicht:** 14.04.2023 21:13
 
-- Suche verbessert
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.0.9
 **Veröffentlicht:** 11.04.2023 23:05
