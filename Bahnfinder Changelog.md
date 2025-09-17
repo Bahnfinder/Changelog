@@ -241,8 +241,8 @@
 - Ein Fehler wurde behoben, der dazu führte, dass „Haltestellen ankündigen“ in einigen Fällen im Hintergrund gestoppt wurde.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.1
+**Veröffentlicht:** 20.09.2024 01:55
 
 - Neue Verkehrsnetze: VVS, NRW, VVV & Südtirolmobil
 - Du wirst jetzt automatisch darauf hingewiesen, das Verkehrsnetz zu wechseln, wenn du dich in einem anderen Gebiet befindest. 
@@ -294,7 +294,6 @@
 ## Version 4.4.4
 **Veröffentlicht:** 11.07.2024 03:33
 
-- Fehlerbehebungen
 
 ## Version 4.4.3
 **Veröffentlicht:** 06.07.2024 20:33
@@ -369,6 +368,7 @@
 ## Version 4.2.4
 **Veröffentlicht:** 15.06.2024 18:32
 
+- Die Geschwindigkeit von iCloud Backups wurde erheblich verbessert.
 
 ## Version 4.2.3
 **Veröffentlicht:** 14.06.2024 12:07
@@ -842,8 +842,8 @@
 - Neues Menü zur Schnellauswahl bei der Haltestellensuche.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.1
+**Veröffentlicht:** 11.08.2023 17:09
 
 - Allgemeine Verbesserungen
 
@@ -885,8 +885,8 @@
 
 - Fehlerbehebungen
 
-## Version 2.0.3
-**Veröffentlicht:** 21.07.2023 01:29
+## Version null
+**Veröffentlicht:** – No release date available
 
 - VVO hinzugefügt
 - Anzeige der Favoriten Symbole verbessert
