@@ -117,8 +117,8 @@
 - Zu lange Gleisnummern im Verbindungsdetail werden jetzt separat dargestellt, wenn der Platz nicht ausreicht
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.0.3
+**Veröffentlicht:** 31.01.2025 03:41
 
 - Verbesserte Darstellung von Bahnhofsnamen
 - Allgemeine Verbesserungen
@@ -296,8 +296,8 @@
 
 - Fehlerbehebungen
 
-## Version 4.4.3
-**Veröffentlicht:** 06.07.2024 20:33
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Ein Fehler, der zum Absturz der App beim Aktualisieren des Fahrtverlaufs unter bestimmten Bedingungen führte, wurde behoben.
 
@@ -524,6 +524,13 @@
 ## Version 4.1
 **Veröffentlicht:** 08.03.2024 13:33
 
+- Neuer „Synchronisieren“ Bildschirm.
+- Neue Option hinzugefügt, um im Suchverlauf die Interaktionsart einer Haltestelle anzuzeigen.
+- Neue Option zum anzeigen der letzten Verwendung im Suchverlauf.
+- Die App kann jetzt auch durch ein lokales Backup wiederhergestellt werden, wenn Bahnfinder neu eingerichtet wird.
+- Ein Fehler wurde behoben, durch den in einigen Fällen keine lokalen Backups aus „Dateien“ wiederhergestellt werden konnten. 
+- Ab sofort wird nach jedem Bahnfinder Update automatisch ein lokales Backup erstellt. 
+- Allgemeine Verbesserungen
 
 ## Version 4.0.1
 **Veröffentlicht:** 06.03.2024 01:56
@@ -977,8 +984,8 @@
 
 - Stabilitätsverbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.3.5
+**Veröffentlicht:** 16.05.2023 00:53
 
 - Fehlerbehebungen und Stabilitätsverbesserungen
 
