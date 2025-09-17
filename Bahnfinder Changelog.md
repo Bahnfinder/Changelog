@@ -102,8 +102,6 @@
 ## Version 6.0.6
 **Veröffentlicht:** 07.02.2025 01:27
 
-- Wichtige Push Benachrichtigungen von „Haltestellen ankündigen“ spielen jetzt einen Ton oder eine Vibration
-- Allgemeine Verbesserungen
 
 ## Version 6.0.5
 **Veröffentlicht:** 05.02.2025 01:29
@@ -241,8 +239,8 @@
 - Ein Fehler wurde behoben, der dazu führte, dass „Haltestellen ankündigen“ in einigen Fällen im Hintergrund gestoppt wurde.
 - Allgemeine Verbesserungen
 
-## Version 5.1
-**Veröffentlicht:** 20.09.2024 01:55
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neue Verkehrsnetze: VVS, NRW, VVV & Südtirolmobil
 - Du wirst jetzt automatisch darauf hingewiesen, das Verkehrsnetz zu wechseln, wenn du dich in einem anderen Gebiet befindest. 
@@ -524,13 +522,6 @@
 ## Version 4.1
 **Veröffentlicht:** 08.03.2024 13:33
 
-- Neuer „Synchronisieren“ Bildschirm.
-- Neue Option hinzugefügt, um im Suchverlauf die Interaktionsart einer Haltestelle anzuzeigen.
-- Neue Option zum anzeigen der letzten Verwendung im Suchverlauf.
-- Die App kann jetzt auch durch ein lokales Backup wiederhergestellt werden, wenn Bahnfinder neu eingerichtet wird.
-- Ein Fehler wurde behoben, durch den in einigen Fällen keine lokalen Backups aus „Dateien“ wiederhergestellt werden konnten. 
-- Ab sofort wird nach jedem Bahnfinder Update automatisch ein lokales Backup erstellt. 
-- Allgemeine Verbesserungen
 
 ## Version 4.0.1
 **Veröffentlicht:** 06.03.2024 01:56
@@ -575,8 +566,6 @@
 ## Version 3.1.2
 **Veröffentlicht:** 10.02.2024 07:37
 
-- Fehlerbehebungen
-- Allgemeine Verbesserungen
 
 ## Version 3.1.1
 **Veröffentlicht:** 02.02.2024 12:41
@@ -602,10 +591,26 @@
 ## Version 3.0.1
 **Veröffentlicht:** 18.01.2024 14:58
 
+- Allgemeine Verbesserungen
 
 ## Version 3.0.0
 **Veröffentlicht:** 02.01.2024 16:59
 
+- Bahnfinder 3 bietet spannende Neuerungen, die deinen Alltag noch einfacher machen. Das sind die größten Änderungen:
+- Haltestellen vorlesen: Lasse dir nicht nur die nächsten Haltestellen vorlesen, sondern erhalte auch Erinnerungen zum Aussteigen.
+- Überarbeiteter Fahrtverlauf: Verfolge dein Fahrzeug sekundengenau mit einem noch detaillierteren Fahrtverlauf.
+- Kompakte Abfahrten: Neues auswählbares Design für Abfahrten.
+- Verbindungsdetail: Erfahre noch mehr informationen über deine ausgewählte Fahrt, wie zum Beispiel die Fahrtdauer in einem Fahrzeug. Ausserdem wird die aktuelle Fahrt Live aktualisiert.
+- Neue App Icons: iOS 5, TestFlight, TestFlight geriffelt, Mitternacht, Vereiste Weihnachten, Vereiste Weihnachten Mund, Weihnachtsgeschenk, Weihnachtsgeschenk Mund
+- Weitere Neuerungen:
+- Du kannst ab sofort einen Fahrtverlauf anpinnen
+- Die Darstellung von Haltestellennamen kann angepasst werden
+- Neue Einstellung: „Hoher Kontrast für Gleisanzeige“ im Verbindungsdetail
+- Zeiten werden verbessert dargestellt
+- Abfahrten, die von einem anderen Bildschirm geöffnet werden, werden jetzt verkleinert dargestellt
+- Touch Menü schnell eingesetzt werden
+- Die Suche ist jetzt noch schneller
+- Über 30 weitere Verbesserungen machen Bahnfinder noch noch schneller und zuverlässiger.
 
 ## Version 2.3.16
 **Veröffentlicht:** 20.12.2023 09:49
@@ -881,9 +886,6 @@
 ## Version 2.0.2
 **Veröffentlicht:** 20.07.2023 03:14
 
-- Konfigurationen von ausgeblendeten Linien können ab sofort gespeichert werden.
-- Favoriten Symbole werden in Abfahrten gezeigt.
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 2.0.1
 **Veröffentlicht:** 15.07.2023 00:02
@@ -1095,8 +1097,8 @@
 - Setup Assistenten hinzugefügt.
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version 1.0.3
-**Veröffentlicht:** 03.04.2023 23:08
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neue App Icons
 - Es wurde ein Hinweis hinzugefügt, der den Nutzer darauf aufmerksam macht, dass die Ortungsdienste deaktiviert sind.
