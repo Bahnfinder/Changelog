@@ -683,8 +683,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.6
+**Veröffentlicht:** 18.10.2023 23:24
 
 - Fehlerbehebungen
 
@@ -927,8 +927,8 @@
 - Erhebliche Leistungsverbesserungen
 - Und viele weitere kleine Änderungen…
 
-## Version 1.5.6
-**Veröffentlicht:** 06.06.2023 17:36
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Einrichtung wurde verbessert.
 - Ein Fehler wurde behoben, der eventuell dazu führte, dass Favoriten eines Verkehrsnetzes mit anderen Verkehrsnetzen vermischt wurden.
