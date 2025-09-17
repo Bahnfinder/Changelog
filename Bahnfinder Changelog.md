@@ -435,6 +435,7 @@
 ## Version 4.1.14
 **Veröffentlicht:** 12.05.2024 22:31
 
+- Allgemeine Verbesserungen
 
 ## Version 4.1.13
 **Veröffentlicht:** 12.05.2024 15:34
@@ -661,6 +662,9 @@
 ## Version 2.3.10
 **Veröffentlicht:** 28.10.2023 19:18
 
+- Die Darstellung des Standortpfeils wurde verbessert.
+- Die Haltestellensymbol UI wurde verbessert.
+- Allgemeine Verbesserungen
 
 ## Version 2.3.9
 **Veröffentlicht:** 22.10.2023 16:09
