@@ -319,8 +319,8 @@
 - Verbesserungen im Abfahrten Popover
 - Die Berechnung von Fußwegen wurde verbessert
 
-## Version 4.3.3
-**Veröffentlicht:** 24.06.2024 21:40
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Push Benachrichtigungen können jetzt während der Einrichtung aktiviert werden.
 - Allgemeine Verbesserungen 
@@ -496,8 +496,8 @@
 - Anpassungen an App Icons
 - Design Anpassungen
 
-## Version 4.1.4
-**Veröffentlicht:** 19.03.2024 16:44
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -750,8 +750,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.16
+**Veröffentlicht:** 20.09.2023 02:35
 
 - Die Darstellung zweifarbiger Linien wurde verbessert.
 - Updates für Linieninfos
