@@ -235,8 +235,8 @@
 - Verbesserte Hinweise für die Standortfreigabe
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.1.1
+**Veröffentlicht:** 21.09.2024 07:10
 
 - Ein Fehler wurde behoben, der dazu führte, dass „Haltestellen ankündigen“ in einigen Fällen im Hintergrund gestoppt wurde.
 - Allgemeine Verbesserungen
@@ -455,8 +455,8 @@
 - Die Anzeige von Entfernungen unter Favoriten wurde behoben.
 - Allgemeine Verbesserungen
 
-## Version 4.1.10
-**Veröffentlicht:** 07.05.2024 14:53
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Nach einer umfassenden internen Umstrukturierung bietet Bahnfinder nun verbesserte Zuverlässigkeit, mehr Geschwindigkeit und erleichterte Wartung für den Entwickler.
 - Der „Bahnfinder“ Text unter Info wurde verschönert.
@@ -504,6 +504,10 @@
 ## Version 4.1.3
 **Veröffentlicht:** 18.03.2024 14:01
 
+- Erweiterte Diagnosedaten können jetzt optional aktiviert werden.
+- Lokale Backups können jetzt automatisch gelöscht werden.
+- Die Darstellung von lokalen Backups wurde verbessert.
+- Allgemeine Verbesserungen
 
 ## Version 4.1.2
 **Veröffentlicht:** 15.03.2024 12:35
@@ -768,6 +772,8 @@
 ## Version 2.2.13
 **Veröffentlicht:** 16.09.2023 02:03
 
+- Neue Tipps.
+- Allgemeine Verbesserungen
 
 ## Version 2.2.12
 **Veröffentlicht:** 15.09.2023 08:35
