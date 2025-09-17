@@ -258,8 +258,6 @@
 ## Version 5.0.3
 **Veröffentlicht:** 06.09.2024 03:16
 
-- Ein Fehler wurde behoben, der dazu führte, dass die App beim anschauen von Verbindungen abstürzt.
-- Allgemeine Verbesserungen
 
 ## Version 5.0.2
 **Veröffentlicht:** 05.09.2024 15:32
@@ -424,7 +422,6 @@
 ## Version 4.1.16
 **Veröffentlicht:** 16.05.2024 00:09
 
-- MVV: Nachtbusse werden jetzt in einer spezifischen Farbe dargestellt (Lässt sich deaktivieren)
 
 ## Version 4.1.15
 **Veröffentlicht:** 15.05.2024 22:58
@@ -629,8 +626,8 @@
 - 4 neue App Icons: „Vereiste Weihnachten“, „Vereiste Weihnachten Mund“, „Weihnachtsgeschenk“ und „Weihnachtsgeschenk Mund“.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.15
+**Veröffentlicht:** 13.12.2023 23:32
 
 - Allgemeine Verbesserungen
 
@@ -1087,8 +1084,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.0.7
-**Veröffentlicht:** 10.04.2023 03:17
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Kritische Fehlerbehebungen
 
