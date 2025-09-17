@@ -86,6 +86,7 @@
 ## Version 6.0.9
 **Veröffentlicht:** 12.02.2025 03:24
 
+- Ein Fehler wurde behoben, der in manchen Situationen zum Einfrieren und Abstürzen der App führte.
 
 ## Version 6.0.8
 **Veröffentlicht:** 12.02.2025 01:08
@@ -119,8 +120,6 @@
 ## Version 6.0.3
 **Veröffentlicht:** 31.01.2025 03:41
 
-- Verbesserte Darstellung von Bahnhofsnamen
-- Allgemeine Verbesserungen
 
 ## Version 6.0.2
 **Veröffentlicht:** 29.01.2025 15:04
@@ -136,6 +135,38 @@
 ## Version 6
 **Veröffentlicht:** 27.01.2025 01:01
 
+- Karten
+- • Karten für den Fahrtverlauf und Verbindungen wurden komplett überarbeitet
+- • Haltestellennamen sind jetzt direkt sichtbar
+- • Übersichtlicheres Design
+- • Erweiterte Informationen für Verbindungen z.B. Umstiege
+- Neues Design
+- • Überarbeitete App Icon Einstellungen
+- • Realistischer Timer bei „Erinnerungen“
+- • „Poof“ Effekt beim entfernen von angepinnten Verbindungen oder Abfahrten
+- • Eingefärbte Einstellungen
+- • Und viele weitere
+- Besuchte Haltestellen
+- • Du kannst deine besuchten Haltestellen in einer Liste oder auf einer Karte ansehen
+- • Verschiedene Optionen zum Sortieren
+- • Du kannst sehen, auf welchem Platz deiner meistbesuchten Haltestellen eine bestimmte Haltestelle ist
+- • Kalenderansicht zeigt Datum und Uhrzeit deiner Haltestellenbesuche
+- • Du kannst außerdem sehen, wie oft du mit einer Haltestelle interagiert hast
+- Live Map (Beta)
+- • Verfolge dein Fahrzeug in Echtzeit auf einer Karte
+- • Funktioniert momentan nur in Bayern mit bestimmten Fahrzeugen
+- Sekundengenaue Abfahrtszeiten
+- • Unterstützte Fahrzeuge werden sekundengenau angezeigt (Kommt in einem späteren Update)
+- Screenshot teilen
+- • Du kannst deine Verbindung jetzt bequem mit deinen Freunden teilen
+- Neue Symbole für Favoriten
+- • Mit 29 neuen Symbolen kannst du deine favorisierten Haltestellen noch individueller gestalten
+- Neue App Icons
+- • „Modern Rot (hell / dunkel)“, „Modern Schwarz Vibrant“
+- Verbesserungen bei VoiceOver
+- Neuer Splash Screen beim einrichten der App
+- Neues Verkehrsnetz: NAH.SH
+- Über 60 weitere Neuerungen machen Bahnfinder noch besser und schneller
 
 ## Version 5.1.13
 **Veröffentlicht:** 21.01.2025 01:11
@@ -440,8 +471,8 @@
 - Backups und weitere Dateien können jetzt über die „Dateien“ App ausgetauscht werden
 - Layout Anpassungen für kleinere Geräte
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.7
+**Veröffentlicht:** 22.03.2024 01:08
 
 - Neue Option: Erweiterte Analyse
 - Daten wie beispielsweise Lokale Backups können jetzt über iTunes ausgetauscht werden.
@@ -545,8 +576,8 @@
 - Fehlerbehebungen
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 3.1.1
+**Veröffentlicht:** 02.02.2024 12:41
 
 - Allgemeine Verbesserungen
 
@@ -559,8 +590,8 @@
 - Verbesserte Darstellung von Linienwegen auf der Karte
 - Allgemeine Verbesserungen
 
-## Version 3.0.2
-**Veröffentlicht:** 25.01.2024 15:35
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Haltestellen vorlesen liest jetzt auch die Abfahrtszeit vor.
 - Neue Option: „Verbindungsdetail Live aktualisieren“
@@ -691,26 +722,6 @@
 ## Version 2.3.0
 **Veröffentlicht:** 11.10.2023 11:43
 
-- Der AVV Augsburg wurde als Verkehrsnetz hinzugefügt.
-- Komplett neues Menü zum auswählen des App Icons.
-- Bahnfinder, Ring, Gefüllter Ring.
-- Die Favoritensymbole werden jetzt in jedem Bereich der App angezeigt.
-- Neue Option zum anzeigen von Ortsnamen hinter dem Haltestellennamen.
-- Überarbeitete Anzeige von „nächster Haltestelle“: Der Standortpfeil, der die nächste Haltestelle anzeigt, ist jetzt in allen Bereichen der App sichtbar. Ausserdem wird nun unterschieden, ob die Haltestelle die nächste ist oder man sich an dieser befindet.
-- Detaillierte Umsteigeinformationen auf der Verbindungskarte hinzugefügt.
-- Neue Option zum auswählen, ob das Favoritensymbol unter Abfahrten hinter der Liniennummer oder hinter der Zielhaltestelle angezeigt werden soll.
-- Das Design kann jetzt abhängig vom Erscheinungsbild ausgewählt werden.
-- Neue Linieninformation „Orte“
-- Zwischenstopps sind jetzt im Verbindungsdetail sichtbar.
-- Wichtige Haltestellen werden in der Suche hervorgehoben.
-- Neues Menü „Experimente“: Teste kleine Features der App bevor sie veröffentlicht werden.
-- Der Aktuelle Standort kann jetzt über das Schnellauswahlmenü unter Verbindung eingesetzt werden.
-- Neue Kontextmenüs unter Verbindung zum zurücksetzen der Optionen und Zeit.
-- Verbesserte Unterstützung für zweifarbige Linien.
-- Die Designs wurden verbessert.
-- Verbesserte Stabilität
-- Fehlerbehebungen
-- Allgemeine Verbesserungen
 
 ## Version 2.2.17
 **Veröffentlicht:** 20.09.2023 17:52
@@ -755,8 +766,8 @@
 - 3D Optionen wurden zur Karte hinzugefügt.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.10
+**Veröffentlicht:** 11.09.2023 11:05
 
 - Die Karte wurde überarbeitet und bietet jetzt eine verbesserte Navigation.
 - Allgemeine Verbesserungen
@@ -1040,6 +1051,8 @@
 ## Version 1.0.10
 **Veröffentlicht:** 14.04.2023 21:13
 
+- Suche verbessert
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.0.9
 **Veröffentlicht:** 11.04.2023 23:05
