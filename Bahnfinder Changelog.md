@@ -445,6 +445,7 @@
 ## Version 4.1.12
 **Veröffentlicht:** 10.05.2024 14:10
 
+- Allgemeine Verbesserungen
 
 ## Version 4.1.11
 **Veröffentlicht:** 08.05.2024 16:43
@@ -749,8 +750,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 2.2.16
-**Veröffentlicht:** 20.09.2023 02:35
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Darstellung zweifarbiger Linien wurde verbessert.
 - Updates für Linieninfos
