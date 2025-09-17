@@ -17,8 +17,8 @@
 - Designanpassungen
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.1.5
+**Veröffentlicht:** 01.06.2025 23:30
 
 - Allgemeine Verbesserungen
 
@@ -78,8 +78,8 @@
 
 - Verbesserungen für VoiceOver
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.0.10
+**Veröffentlicht:** 16.02.2025 17:24
 
 - Allgemeine Verbesserungen
 
@@ -417,9 +417,6 @@
 ## Version 4.1.17
 **Veröffentlicht:** 16.05.2024 15:26
 
-- Anpassungen für ältere Geräte und iOS Versionen.
-- Die Darstellung des Standortpfeils wurde verbessert.
-- Fehlerbehebungen
 
 ## Version 4.1.16
 **Veröffentlicht:** 16.05.2024 00:09
@@ -602,6 +599,7 @@
 ## Version 3.0.1
 **Veröffentlicht:** 18.01.2024 14:58
 
+- Allgemeine Verbesserungen
 
 ## Version 3.0.0
 **Veröffentlicht:** 02.01.2024 16:59
@@ -768,14 +766,14 @@
 - Mit der Funktion "Notfallsuche" wird versucht, stets eine Verbindung für dich zu finden. Selbst in Situationen wie späten Stunden in einem entlegenen Dorf werden dir beispielsweise lange Fußwege zum nächsten Ort vorgeschlagen, um in jedem Fall nach Hause zu kommen.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.13
+**Veröffentlicht:** 16.09.2023 02:03
 
 - Neue Tipps.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.12
+**Veröffentlicht:** 15.09.2023 08:35
 
 - Verbesserungen für das Liniendesign
 - Allgemeine Verbesserungen
@@ -945,8 +943,8 @@
 - Die Zeit einer gesuchten Verbindung wird jetzt im Verlauf angezeigt.
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.5.3
+**Veröffentlicht:** 26.05.2023 04:25
 
 - Allgemeine Verbesserungen
 
