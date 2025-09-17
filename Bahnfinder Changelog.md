@@ -97,6 +97,7 @@
 ## Version 6.0.7
 **Veröffentlicht:** 09.02.2025 23:42
 
+- Allgemeine Verbesserungen
 
 ## Version 6.0.6
 **Veröffentlicht:** 07.02.2025 01:27
@@ -190,8 +191,8 @@
 
 - Weitere Informationen über den Ausfall des DB Verkehrsnetzes hinzugefügt 
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.1.9
+**Veröffentlicht:** 12.01.2025 06:09
 
 - Verkehrsnetz vorübergehend nicht verfügbar ist. Ich arbeite mit Hochdruck an einer Lösung. Du kannst dich benachrichtigen lassen, sobald es wieder funktioniert.
 - Verkehrsnetzes.
@@ -220,8 +221,6 @@
 ## Version 5.1.4
 **Veröffentlicht:** 27.11.2024 00:19
 
-- Das VMV Verkehrsnetz funktioniert jetzt wieder wie erwartet
-- Allgemeine Verbesserungen
 
 ## Version 5.1.3
 **Veröffentlicht:** 27.09.2024 17:57
@@ -305,8 +304,8 @@
 
 - Ein Fehler wurde behoben, der dazu führte, dass unter bestimmten Umständen ein Lokales Backup beim einrichten von Bahnfinder nicht wiederhergestellt werden konnte.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.4.1
+**Veröffentlicht:** 01.07.2024 17:20
 
 - Ein Neustart der App wird jetzt vorausgesetzt, um das Verkehrsnetz zu wechseln.
 - Fehlerbehebungen
@@ -439,6 +438,7 @@
 ## Version 4.1.13
 **Veröffentlicht:** 12.05.2024 15:34
 
+- Allgemeine Verbesserungen
 
 ## Version 4.1.12
 **Veröffentlicht:** 10.05.2024 14:10
@@ -746,7 +746,6 @@
 ## Version 2.2.17
 **Veröffentlicht:** 20.09.2023 17:52
 
-- Allgemeine Verbesserungen
 
 ## Version 2.2.16
 **Veröffentlicht:** 20.09.2023 02:35
@@ -1066,6 +1065,7 @@
 ## Version 1.0.11
 **Veröffentlicht:** 17.04.2023 01:22
 
+- Fehlerbehebungen
 
 ## Version 1.0.10
 **Veröffentlicht:** 14.04.2023 21:13
