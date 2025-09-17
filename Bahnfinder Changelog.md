@@ -56,6 +56,17 @@
 ## Version 6.1
 **Veröffentlicht:** 26.04.2025 00:45
 
+- Liniennummern und andere Objekte zeigen jetzt realistische Reflexionen, die sich an die Neigung des Geräts anpassen
+- Ausgefallene Haltestellen werden jetzt auf den Karten angezeigt
+- Favorisierte Haltestellen werden jetzt mit dem entsprechenden Symbol auf den Karten angezeigt
+- Die Verbindungsoptionen werden jetzt nicht mehr in einem separaten Fenster geöffnet 
+- Ein neuer Splash Screen für „Haltestellen ankündigen“ wurde hinzugefügt
+- Splash Screens wurden überarbeitet
+- Mehr Informationen über den Entwickler wurden hinzugefügt 
+- Alle Buttons in der App haben jetzt ein runderes Design 
+- Die Optionen für „Automatisch bereinigen“ bei lokalen Backups wurden visuell überarbeitet
+- Designverbesserungen 
+- Allgemeine Verbesserungen
 
 ## Version 6.0.12
 **Veröffentlicht:** 02.03.2025 02:36
@@ -701,8 +712,8 @@
 - „Karte“ und „Anpinnen“ wurden im Verbindungsdetail getauscht, um einheitlich mit dem Fahrtverlauf dargestellt zu werden.
 - Allgemeine Verbesserungen
 
-## Version 2.3.1
-**Veröffentlicht:** 12.10.2023 12:23
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Im Verbindungsdetail wird jetzt die Ankunft in Minuten gezeigt.
 - Verbesserte Darstellung von Zeiten.
@@ -923,8 +934,8 @@
 - Ein Fehler wurde behoben, der eventuell dazu führte, dass Favoriten eines Verkehrsnetzes mit anderen Verkehrsnetzen vermischt wurden.
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.5.5
+**Veröffentlicht:** 05.06.2023 15:42
 
 - Sekundengenaue Zeiten: Abfahrten und Verbindungen werden jetzt in Sekunden angezeigt, wenn die Wartezeit unter 1 Minute ist.
 - Allgemeine Verbesserungen und Fehlerbehebungen
