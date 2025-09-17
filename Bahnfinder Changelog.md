@@ -325,8 +325,8 @@
 - Push Benachrichtigungen können jetzt während der Einrichtung aktiviert werden.
 - Allgemeine Verbesserungen 
 
-## Version 4.3.2
-**Veröffentlicht:** 23.06.2024 16:44
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Entfallene Fahrzeuge werden jetzt einheitlich dargestellt.
 
@@ -414,8 +414,8 @@
 - Neues App Icon „Weiss Inline“
 - Darstellungsanpassungen für kleinere Geräte
 
-## Version 4.1.17
-**Veröffentlicht:** 16.05.2024 15:26
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Anpassungen für ältere Geräte und iOS Versionen.
 - Die Darstellung des Standortpfeils wurde verbessert.
@@ -435,7 +435,6 @@
 ## Version 4.1.14
 **Veröffentlicht:** 12.05.2024 22:31
 
-- Allgemeine Verbesserungen
 
 ## Version 4.1.13
 **Veröffentlicht:** 12.05.2024 15:34
@@ -450,6 +449,10 @@
 ## Version 4.1.11
 **Veröffentlicht:** 08.05.2024 16:43
 
+- Das Liniensymbol für die Tram 21 im MVV wurde aktualisiert.
+- Einige Verkehrsnetzspezifische Probleme wurden behoben.
+- Die Anzeige von Entfernungen unter Favoriten wurde behoben.
+- Allgemeine Verbesserungen
 
 ## Version 4.1.10
 **Veröffentlicht:** 07.05.2024 14:53
@@ -1066,8 +1069,8 @@
 
 - Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.0.10
+**Veröffentlicht:** 14.04.2023 21:13
 
 - Suche verbessert
 - Allgemeine Verbesserungen und Fehlerbehebungen
