@@ -203,8 +203,8 @@
 - Frohes neues Jahr!
 - Verbesserte Beschriftungen für VoiceOver
 
-## Version 5.1.7
-**Veröffentlicht:** 19.12.2024 03:54
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Ein Fehler wurde behoben, der dazu führte, dass die App beim Ansehen bestimmter Verbindungen abstürzte. 
 
@@ -255,8 +255,8 @@
 - Anpassungen für iOS 18
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.0.3
+**Veröffentlicht:** 06.09.2024 03:16
 
 - Ein Fehler wurde behoben, der dazu führte, dass die App beim anschauen von Verbindungen abstürzt.
 - Allgemeine Verbesserungen
@@ -344,6 +344,7 @@
 ## Version 4.2.8
 **Veröffentlicht:** 20.06.2024 21:56
 
+- Die Beschreibung vom DB Provider wurde geändert.
 
 ## Version 4.2.7
 **Veröffentlicht:** 20.06.2024 01:04
@@ -562,8 +563,6 @@
 ## Version 3.1.4
 **Veröffentlicht:** 15.02.2024 16:58
 
-- Neue Hinweise, wenn keine Abfahrten an der gewählten Haltestelle verfügbar sind.
-- Allgemeine Verbesserungen
 
 ## Version 3.1.3
 **Veröffentlicht:** 12.02.2024 17:29
@@ -929,9 +928,6 @@
 ## Version 1.5.6
 **Veröffentlicht:** 06.06.2023 17:36
 
-- Die Einrichtung wurde verbessert.
-- Ein Fehler wurde behoben, der eventuell dazu führte, dass Favoriten eines Verkehrsnetzes mit anderen Verkehrsnetzen vermischt wurden.
-- Allgemeine Verbesserungen und Fehlerbehebungen.
 
 ## Version 1.5.5
 **Veröffentlicht:** 05.06.2023 15:42
