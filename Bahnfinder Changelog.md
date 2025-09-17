@@ -173,8 +173,6 @@
 ## Version 5.1.13
 **Veröffentlicht:** 21.01.2025 01:11
 
-- Die Auslastung wird jetzt verbessert dargestellt
-- Verbesserungen für das DB Verkehrsnetz
 
 ## Version 5.1.12
 **Veröffentlicht:** 18.01.2025 05:03
@@ -186,8 +184,8 @@
 
 - Dieses Update enthält API Updates für das Deutsche Bahn Verkehrsnetz, welches jetzt wieder wie erwartet funktioniert!
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.1.10
+**Veröffentlicht:** 13.01.2025 01:03
 
 - Weitere Informationen über den Ausfall des DB Verkehrsnetzes hinzugefügt 
 
@@ -753,9 +751,6 @@
 ## Version 2.2.16
 **Veröffentlicht:** 20.09.2023 02:35
 
-- Die Darstellung zweifarbiger Linien wurde verbessert.
-- Updates für Linieninfos
-- Allgemeine Verbesserungen
 
 ## Version 2.2.15
 **Veröffentlicht:** 19.09.2023 15:08
@@ -897,6 +892,9 @@
 ## Version 2.0.2
 **Veröffentlicht:** 20.07.2023 03:14
 
+- Konfigurationen von ausgeblendeten Linien können ab sofort gespeichert werden.
+- Favoriten Symbole werden in Abfahrten gezeigt.
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 2.0.1
 **Veröffentlicht:** 15.07.2023 00:02
@@ -1022,8 +1020,8 @@
 
 - Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.2.1
+**Veröffentlicht:** 08.05.2023 23:07
 
 - Fehlerbehebungen
 
