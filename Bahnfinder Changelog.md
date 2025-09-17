@@ -1,7 +1,6 @@
 ## Version 6.2.1
 **Veröffentlicht:** 08.09.2025 16:34
 
-- Das Naldo Verkehrsnetz funktioniert jetzt wieder wie erwartet.
 
 ## Version 6.2
 **Veröffentlicht:** 31.07.2025 22:56
@@ -353,8 +352,8 @@
 - Verbesserte Anzeige von Haltestellennamen auf der Verbindungskarte.
 - Allgemeine Verbesserungen
 
-## Version 4.2.6
-**Veröffentlicht:** 18.06.2024 02:47
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Anpassungen und Fehlerbehebungen für iPad
 - Anpassungen und Fehlerbehebungen für Mac
@@ -712,8 +711,8 @@
 - „Karte“ und „Anpinnen“ wurden im Verbindungsdetail getauscht, um einheitlich mit dem Fahrtverlauf dargestellt zu werden.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.1
+**Veröffentlicht:** 12.10.2023 12:23
 
 - Im Verbindungsdetail wird jetzt die Ankunft in Minuten gezeigt.
 - Verbesserte Darstellung von Zeiten.
@@ -1079,8 +1078,6 @@
 ## Version 1.0.9
 **Veröffentlicht:** 11.04.2023 23:05
 
-- Ein Fehler wurde behoben, durch den die App keine Inhalte mehr geladen hat, wenn sie eine gewisse Zeit im Hintergrund war. 
-- Der Fehler könnte bei einigen Nutzern dennoch auftreten, schließe die App dazu aus dem Multitasking Menü und öffne sie erneut. 
 
 ## Version 1.0.8
 **Veröffentlicht:** 11.04.2023 02:45
@@ -1095,8 +1092,6 @@
 ## Version 1.0.6
 **Veröffentlicht:** 08.04.2023 02:04
 
-- Ein kritischer Fehler, der die App an bestimmten Standorten zum Absturz brachte, wurde behoben.
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.0.5
 **Veröffentlicht:** 06.04.2023 04:16
