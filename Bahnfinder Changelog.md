@@ -114,8 +114,6 @@
 ## Version 6.0.4
 **Veröffentlicht:** 01.02.2025 23:31
 
-- Zu lange Gleisnummern im Verbindungsdetail werden jetzt separat dargestellt, wenn der Platz nicht ausreicht
-- Allgemeine Verbesserungen
 
 ## Version 6.0.3
 **Veröffentlicht:** 31.01.2025 03:41
@@ -934,8 +932,8 @@
 - Ein Fehler wurde behoben, der eventuell dazu führte, dass Favoriten eines Verkehrsnetzes mit anderen Verkehrsnetzen vermischt wurden.
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version 1.5.5
-**Veröffentlicht:** 05.06.2023 15:42
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Sekundengenaue Zeiten: Abfahrten und Verbindungen werden jetzt in Sekunden angezeigt, wenn die Wartezeit unter 1 Minute ist.
 - Allgemeine Verbesserungen und Fehlerbehebungen
@@ -966,6 +964,11 @@
 ## Version 1.5.0
 **Veröffentlicht:** 18.05.2023 15:13
 
+- Die Gleisnummer ist ab sofort im Fahrtverlauf sichtbar
+- Neues Design bei Fahrtverlauf
+- Die angepinnte Route wird ab sofort in der Verbindungsliste angezeigt
+- Ein Fehler bei der Standortsuche wurde behoben
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.4.0
 **Veröffentlicht:** 17.05.2023 02:42
@@ -974,8 +977,8 @@
 - Stabilitätsverbesserungen
 - Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.3.6
+**Veröffentlicht:** 16.05.2023 13:41
 
 - Stabilitätsverbesserungen
 
