@@ -465,6 +465,7 @@
 ## Version 4.1.9
 **Geplant:** 01.04.2024 00:00
 
+- Am 1. April feiert Bahnfinder seinen 1. Geburtstag. Feiere diesen besonderen Tag mit einem exklusiven App Icon!
 
 ## Version 4.1.8
 **Veröffentlicht:** 23.03.2024 00:08
@@ -810,8 +811,8 @@
 
 - Allgemeine Verbesserungen 
 
-## Version 2.2.6
-**Veröffentlicht:** 01.09.2023 00:40
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Kleine Designänderungen
 - Allgemeine Verbesserungen
