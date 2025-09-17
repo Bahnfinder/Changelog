@@ -197,8 +197,8 @@
 - Verkehrsnetz vorübergehend nicht verfügbar ist. Ich arbeite mit Hochdruck an einer Lösung. Du kannst dich benachrichtigen lassen, sobald es wieder funktioniert.
 - Verkehrsnetzes.
 
-## Version 5.1.8
-**Veröffentlicht:** 08.01.2025 20:32
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Frohes neues Jahr!
 - Verbesserte Beschriftungen für VoiceOver
@@ -227,11 +227,12 @@
 ## Version 5.1.3
 **Veröffentlicht:** 27.09.2024 17:57
 
-- Ein Darstellungsfehler wurde behoben
 
 ## Version 5.1.2
 **Veröffentlicht:** 22.09.2024 15:19
 
+- Verbesserte Hinweise für die Standortfreigabe
+- Allgemeine Verbesserungen
 
 ## Version 5.1.1
 **Veröffentlicht:** 21.09.2024 07:10
@@ -448,10 +449,6 @@
 ## Version 4.1.11
 **Veröffentlicht:** 08.05.2024 16:43
 
-- Das Liniensymbol für die Tram 21 im MVV wurde aktualisiert.
-- Einige Verkehrsnetzspezifische Probleme wurden behoben.
-- Die Anzeige von Entfernungen unter Favoriten wurde behoben.
-- Allgemeine Verbesserungen
 
 ## Version 4.1.10
 **Veröffentlicht:** 07.05.2024 14:53
@@ -605,6 +602,21 @@
 ## Version 3.0.0
 **Veröffentlicht:** 02.01.2024 16:59
 
+- Bahnfinder 3 bietet spannende Neuerungen, die deinen Alltag noch einfacher machen. Das sind die größten Änderungen:
+- Haltestellen vorlesen: Lasse dir nicht nur die nächsten Haltestellen vorlesen, sondern erhalte auch Erinnerungen zum Aussteigen.
+- Überarbeiteter Fahrtverlauf: Verfolge dein Fahrzeug sekundengenau mit einem noch detaillierteren Fahrtverlauf.
+- Kompakte Abfahrten: Neues auswählbares Design für Abfahrten.
+- Verbindungsdetail: Erfahre noch mehr informationen über deine ausgewählte Fahrt, wie zum Beispiel die Fahrtdauer in einem Fahrzeug. Ausserdem wird die aktuelle Fahrt Live aktualisiert.
+- Neue App Icons: iOS 5, TestFlight, TestFlight geriffelt, Mitternacht, Vereiste Weihnachten, Vereiste Weihnachten Mund, Weihnachtsgeschenk, Weihnachtsgeschenk Mund
+- Weitere Neuerungen:
+- Du kannst ab sofort einen Fahrtverlauf anpinnen
+- Die Darstellung von Haltestellennamen kann angepasst werden
+- Neue Einstellung: „Hoher Kontrast für Gleisanzeige“ im Verbindungsdetail
+- Zeiten werden verbessert dargestellt
+- Abfahrten, die von einem anderen Bildschirm geöffnet werden, werden jetzt verkleinert dargestellt
+- Touch Menü schnell eingesetzt werden
+- Die Suche ist jetzt noch schneller
+- Über 30 weitere Verbesserungen machen Bahnfinder noch noch schneller und zuverlässiger.
 
 ## Version 2.3.16
 **Veröffentlicht:** 20.12.2023 09:49
@@ -815,8 +827,8 @@
 - Ein neuer Hinweisdialog informiert Benutzer, wenn sie sich in einem Gebiet mit Verkehrsnetz befinden, das derzeit nicht ausgewählt ist.
 - Allgemeine Verbesserungen
 
-## Version 2.2.3
-**Veröffentlicht:** 17.08.2023 11:24
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -917,8 +929,8 @@
 - Ein Fehler wurde behoben, der eventuell dazu führte, dass Favoriten eines Verkehrsnetzes mit anderen Verkehrsnetzen vermischt wurden.
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version 1.5.5
-**Veröffentlicht:** 05.06.2023 15:42
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Sekundengenaue Zeiten: Abfahrten und Verbindungen werden jetzt in Sekunden angezeigt, wenn die Wartezeit unter 1 Minute ist.
 - Allgemeine Verbesserungen und Fehlerbehebungen
