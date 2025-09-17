@@ -319,8 +319,8 @@
 - Verbesserungen im Abfahrten Popover
 - Die Berechnung von Fußwegen wurde verbessert
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.3.3
+**Veröffentlicht:** 24.06.2024 21:40
 
 - Push Benachrichtigungen können jetzt während der Einrichtung aktiviert werden.
 - Allgemeine Verbesserungen 
@@ -465,7 +465,6 @@
 ## Version 4.1.9
 **Geplant:** 01.04.2024 00:00
 
-- Am 1. April feiert Bahnfinder seinen 1. Geburtstag. Feiere diesen besonderen Tag mit einem exklusiven App Icon!
 
 ## Version 4.1.8
 **Veröffentlicht:** 23.03.2024 00:08
@@ -496,8 +495,8 @@
 - Anpassungen an App Icons
 - Design Anpassungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.4
+**Veröffentlicht:** 19.03.2024 16:44
 
 - Allgemeine Verbesserungen
 
