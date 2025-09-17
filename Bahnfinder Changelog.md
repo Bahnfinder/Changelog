@@ -117,8 +117,8 @@
 - Zu lange Gleisnummern im Verbindungsdetail werden jetzt separat dargestellt, wenn der Platz nicht ausreicht
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.0.3
+**Veröffentlicht:** 31.01.2025 03:41
 
 - Verbesserte Darstellung von Bahnhofsnamen
 - Allgemeine Verbesserungen
@@ -496,8 +496,8 @@
 - Anpassungen an App Icons
 - Design Anpassungen
 
-## Version 4.1.4
-**Veröffentlicht:** 19.03.2024 16:44
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -954,9 +954,6 @@
 ## Version 1.5.2
 **Veröffentlicht:** 25.05.2023 04:40
 
-- Eine Option zum anrufen von Rufbussen wurde hinzugefügt
-- Stabilität wurde verbessert
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.5.1
 **Veröffentlicht:** 22.05.2023 22:56
@@ -1042,8 +1039,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.1.2
+**Veröffentlicht:** 25.04.2023 04:22
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
