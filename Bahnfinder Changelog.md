@@ -86,6 +86,7 @@
 ## Version 6.0.9
 **Veröffentlicht:** 12.02.2025 03:24
 
+- Ein Fehler wurde behoben, der in manchen Situationen zum Einfrieren und Abstürzen der App führte.
 
 ## Version 6.0.8
 **Veröffentlicht:** 12.02.2025 01:08
@@ -329,8 +330,8 @@
 
 - Entfallene Fahrzeuge werden jetzt einheitlich dargestellt.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.3.1
+**Veröffentlicht:** 23.06.2024 01:00
 
 - Kleine Anpassungen bei der Einrichtung
 
@@ -400,8 +401,8 @@
 - Ein Fehler wurde behoben, der dazu führte, dass die Liniensymbole nach einer Wiederherstellung nicht angezeigt wurden.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.19
+**Veröffentlicht:** 20.05.2024 19:02
 
 - Das App Icon „Weiss Inline“ heisst jetzt „Modern Weiß“
 - Fehlerbehebungen
@@ -475,9 +476,13 @@
 ## Version 4.1.7
 **Veröffentlicht:** 22.03.2024 01:08
 
+- Neue Option: Erweiterte Analyse
+- Daten wie beispielsweise Lokale Backups können jetzt über iTunes ausgetauscht werden.
+- Neues App Icon: „Bahnfindi“
+- iCloud Synchronisierung wurde optimiert 
 
-## Version 4.1.6
-**Veröffentlicht:** 21.03.2024 13:16
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Das letzte Backup auf iCloud wird jetzt unter „Synchronisierung“ angezeigt
 - Die iCloud Synchronisierung wurde erheblich verbessert
@@ -974,8 +979,8 @@
 - Stabilitätsverbesserungen
 - Fehlerbehebungen
 
-## Version 1.3.6
-**Veröffentlicht:** 16.05.2023 13:41
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Stabilitätsverbesserungen
 
@@ -1045,6 +1050,7 @@
 ## Version 1.1.1
 **Veröffentlicht:** 21.04.2023 20:55
 
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.1.0
 **Veröffentlicht:** 21.04.2023 06:06
