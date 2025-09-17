@@ -315,9 +315,6 @@
 ## Version 4.4
 **Veröffentlicht:** 27.06.2024 16:01
 
-- Neues App Icon: „Flipswitch“
-- Verbesserungen im Abfahrten Popover
-- Die Berechnung von Fußwegen wurde verbessert
 
 ## Version 4.3.3
 **Veröffentlicht:** 24.06.2024 21:40
@@ -455,8 +452,8 @@
 - Die Anzeige von Entfernungen unter Favoriten wurde behoben.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.10
+**Veröffentlicht:** 07.05.2024 14:53
 
 - Nach einer umfassenden internen Umstrukturierung bietet Bahnfinder nun verbesserte Zuverlässigkeit, mehr Geschwindigkeit und erleichterte Wartung für den Entwickler.
 - Der „Bahnfinder“ Text unter Info wurde verschönert.
@@ -499,7 +496,6 @@
 ## Version 4.1.4
 **Veröffentlicht:** 19.03.2024 16:44
 
-- Allgemeine Verbesserungen
 
 ## Version 4.1.3
 **Veröffentlicht:** 18.03.2024 14:01
