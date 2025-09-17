@@ -361,8 +361,8 @@
 - Die Funktion „Legacy iCloud Synchronisierung“ wurde entfernt.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.2.5
+**Veröffentlicht:** 17.06.2024 10:46
 
 - Hauptbahnhöfe werden jetzt verbessert angezeigt.
 
@@ -673,8 +673,8 @@
 - Eine neue Verbindungsoption „Minimale Umsteigezeit“ wurde hinzugefügt.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.8
+**Veröffentlicht:** 20.10.2023 17:31
 
 - Allgemeine Verbesserungen
 
@@ -704,8 +704,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 2.3.2
-**Veröffentlicht:** 13.10.2023 12:39
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Das Layout der Linieninfos wurde für alle Gerätegrössen angepasst.
 - Die Lesbarkeit der Anzahl an Zwischenhalten im Verbindungsdetail wurde verbessert.
@@ -823,8 +823,8 @@
 - In der Suche werden jetzt 50 Haltestellen in der Nähe angezeigt.
 - Allgemeine Verbesserungen
 
-## Version 2.2.4
-**Veröffentlicht:** 30.08.2023 12:04
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Anzeige der Umsteigezeit ist nun in den Verbindungsdetails sichtbar.
 - Das Layout der Abfahrtszeiten wurde optimiert, um eine höhere Anzahl von Abfahrten gleichzeitig anzeigen zu können.
