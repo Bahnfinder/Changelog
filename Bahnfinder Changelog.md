@@ -20,7 +20,6 @@
 ## Version 6.1.5
 **Veröffentlicht:** 01.06.2025 23:30
 
-- Allgemeine Verbesserungen
 
 ## Version 6.1.4
 **Veröffentlicht:** 29.05.2025 00:36
@@ -83,8 +82,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.0.9
+**Veröffentlicht:** 12.02.2025 03:24
 
 - Ein Fehler wurde behoben, der in manchen Situationen zum Einfrieren und Abstürzen der App führte.
 
@@ -889,10 +888,6 @@
 ## Version 2.0.3
 **Veröffentlicht:** 21.07.2023 01:29
 
-- VVO hinzugefügt
-- Anzeige der Favoriten Symbole verbessert
-- Designverbesserungen
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 2.0.2
 **Veröffentlicht:** 20.07.2023 03:14
