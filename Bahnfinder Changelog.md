@@ -68,8 +68,8 @@
 - Designverbesserungen 
 - Allgemeine Verbesserungen
 
-## Version 6.0.12
-**Veröffentlicht:** 02.03.2025 02:36
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -296,8 +296,8 @@
 
 - Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.4.3
+**Veröffentlicht:** 06.07.2024 20:33
 
 - Ein Fehler, der zum Absturz der App beim Aktualisieren des Fahrtverlaufs unter bestimmten Bedingungen führte, wurde behoben.
 
@@ -356,10 +356,6 @@
 ## Version 4.2.6
 **Veröffentlicht:** 18.06.2024 02:47
 
-- Anpassungen und Fehlerbehebungen für iPad
-- Anpassungen und Fehlerbehebungen für Mac
-- Die Funktion „Legacy iCloud Synchronisierung“ wurde entfernt.
-- Allgemeine Verbesserungen
 
 ## Version 4.2.5
 **Veröffentlicht:** 17.06.2024 10:46
@@ -659,8 +655,8 @@
 - Option: Energiesparende Standortermittlung
 - Allgemeine Verbesserungen 
 
-## Version 2.3.10
-**Veröffentlicht:** 28.10.2023 19:18
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Darstellung des Standortpfeils wurde verbessert.
 - Die Haltestellensymbol UI wurde verbessert.
