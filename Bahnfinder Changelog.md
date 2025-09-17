@@ -73,8 +73,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.0.11
+**Veröffentlicht:** 22.02.2025 09:46
 
 - Verbesserungen für VoiceOver
 
@@ -319,8 +319,8 @@
 - Verbesserungen im Abfahrten Popover
 - Die Berechnung von Fußwegen wurde verbessert
 
-## Version 4.3.3
-**Veröffentlicht:** 24.06.2024 21:40
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Push Benachrichtigungen können jetzt während der Einrichtung aktiviert werden.
 - Allgemeine Verbesserungen 
@@ -569,8 +569,6 @@
 ## Version 3.1.3
 **Veröffentlicht:** 12.02.2024 17:29
 
-- Fehlerbehebungen
-- Allgemeine Verbesserungen
 
 ## Version 3.1.2
 **Veröffentlicht:** 10.02.2024 07:37
@@ -750,8 +748,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.16
+**Veröffentlicht:** 20.09.2023 02:35
 
 - Die Darstellung zweifarbiger Linien wurde verbessert.
 - Updates für Linieninfos
@@ -806,8 +804,8 @@
 - Start gefunden wurde.
 - Allgemeine Verbesserungen
 
-## Version 2.2.7
-**Veröffentlicht:** 02.09.2023 08:49
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen 
 
