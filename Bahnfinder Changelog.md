@@ -1,6 +1,7 @@
 ## Version 6.2.1
 **Veröffentlicht:** 08.09.2025 16:34
 
+- Das Naldo Verkehrsnetz funktioniert jetzt wieder wie erwartet.
 
 ## Version 6.2
 **Veröffentlicht:** 31.07.2025 22:56
@@ -36,8 +37,8 @@
 - Leistungsverbesserungen
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.1.2
+**Veröffentlicht:** 18.05.2025 22:29
 
 - Die Größe eines Backups wird jetzt angezeigt. Zusätzlich wird die relative Größe im Vergleich zu anderen Backups dargestellt
 - Allgemeine Verbesserungen
@@ -193,8 +194,6 @@
 ## Version 5.1.9
 **Veröffentlicht:** 12.01.2025 06:09
 
-- Verkehrsnetz vorübergehend nicht verfügbar ist. Ich arbeite mit Hochdruck an einer Lösung. Du kannst dich benachrichtigen lassen, sobald es wieder funktioniert.
-- Verkehrsnetzes.
 
 ## Version 5.1.8
 **Veröffentlicht:** 08.01.2025 20:32
@@ -321,8 +320,6 @@
 ## Version 4.3.3
 **Veröffentlicht:** 24.06.2024 21:40
 
-- Push Benachrichtigungen können jetzt während der Einrichtung aktiviert werden.
-- Allgemeine Verbesserungen 
 
 ## Version 4.3.2
 **Veröffentlicht:** 23.06.2024 16:44
@@ -942,6 +939,8 @@
 ## Version 1.5.4
 **Veröffentlicht:** 01.06.2023 03:49
 
+- Die Zeit einer gesuchten Verbindung wird jetzt im Verlauf angezeigt.
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.5.3
 **Veröffentlicht:** 26.05.2023 04:25
