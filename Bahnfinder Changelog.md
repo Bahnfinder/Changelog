@@ -197,8 +197,8 @@
 - Verkehrsnetz vorübergehend nicht verfügbar ist. Ich arbeite mit Hochdruck an einer Lösung. Du kannst dich benachrichtigen lassen, sobald es wieder funktioniert.
 - Verkehrsnetzes.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.1.8
+**Veröffentlicht:** 08.01.2025 20:32
 
 - Frohes neues Jahr!
 - Verbesserte Beschriftungen für VoiceOver
@@ -227,6 +227,7 @@
 ## Version 5.1.3
 **Veröffentlicht:** 27.09.2024 17:57
 
+- Ein Darstellungsfehler wurde behoben
 
 ## Version 5.1.2
 **Veröffentlicht:** 22.09.2024 15:19
@@ -360,8 +361,8 @@
 - Die Funktion „Legacy iCloud Synchronisierung“ wurde entfernt.
 - Allgemeine Verbesserungen
 
-## Version 4.2.5
-**Veröffentlicht:** 17.06.2024 10:46
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Hauptbahnhöfe werden jetzt verbessert angezeigt.
 
@@ -449,6 +450,10 @@
 ## Version 4.1.11
 **Veröffentlicht:** 08.05.2024 16:43
 
+- Das Liniensymbol für die Tram 21 im MVV wurde aktualisiert.
+- Einige Verkehrsnetzspezifische Probleme wurden behoben.
+- Die Anzeige von Entfernungen unter Favoriten wurde behoben.
+- Allgemeine Verbesserungen
 
 ## Version 4.1.10
 **Veröffentlicht:** 07.05.2024 14:53
@@ -827,8 +832,8 @@
 - Ein neuer Hinweisdialog informiert Benutzer, wenn sie sich in einem Gebiet mit Verkehrsnetz befinden, das derzeit nicht ausgewählt ist.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.3
+**Veröffentlicht:** 17.08.2023 11:24
 
 - Allgemeine Verbesserungen
 
@@ -929,8 +934,8 @@
 - Ein Fehler wurde behoben, der eventuell dazu führte, dass Favoriten eines Verkehrsnetzes mit anderen Verkehrsnetzen vermischt wurden.
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.5.5
+**Veröffentlicht:** 05.06.2023 15:42
 
 - Sekundengenaue Zeiten: Abfahrten und Verbindungen werden jetzt in Sekunden angezeigt, wenn die Wartezeit unter 1 Minute ist.
 - Allgemeine Verbesserungen und Fehlerbehebungen
@@ -1082,8 +1087,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.0.7
-**Veröffentlicht:** 10.04.2023 03:17
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Kritische Fehlerbehebungen
 
