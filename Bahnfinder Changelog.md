@@ -97,6 +97,7 @@
 ## Version 6.0.7
 **Veröffentlicht:** 09.02.2025 23:42
 
+- Allgemeine Verbesserungen
 
 ## Version 6.0.6
 **Veröffentlicht:** 07.02.2025 01:27
@@ -217,8 +218,8 @@
 
 - Neues App Icon: „Weihnachten 2024“
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.1.4
+**Veröffentlicht:** 27.11.2024 00:19
 
 - Das VMV Verkehrsnetz funktioniert jetzt wieder wie erwartet
 - Allgemeine Verbesserungen
@@ -271,8 +272,8 @@
 - Bahnfinder läuft jetzt noch schneller.
 - Ein Fehler wurde behoben, der dazu führte, dass die App beim darstellen einiger zweifarbiger Liniennummern abstürzte.
 
-## Version 5
-**Veröffentlicht:** 01.09.2024 17:57
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Liniennummer in Verbindungsliste: du kannst jetzt aussuchen, ob du die Liniennummer oder das Fahrzeugsymbol in der Verbindungsliste sehen möchtest. 
 - Verbesserungen im Fahrtverlauf: im Fahrtverlauf werden jetzt weitere Informationen zu deinem Fahrzeug angezeigt. Du kannst genau sehen, von welchem Gleis dein Fahrzeug fährt oder welche Haltestellen ausfallen.
@@ -334,8 +335,8 @@
 
 - Kleine Anpassungen bei der Einrichtung
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.3.0
+**Veröffentlicht:** 21.06.2024 08:52
 
 - Neue Verkehrsnetze: BVG, HVV, RMV, RailTeam & Naldo
 - Allgemeine Verbesserungen
@@ -483,6 +484,11 @@
 ## Version 4.1.6
 **Veröffentlicht:** 21.03.2024 13:16
 
+- Das letzte Backup auf iCloud wird jetzt unter „Synchronisierung“ angezeigt
+- Die iCloud Synchronisierung wurde erheblich verbessert
+- Es wurden verschiedene Schutzmechanismen in die Synchronisierung eingebaut
+- Einrichtung verbessert
+- Allgemeine Verbesserungen
 
 ## Version 4.1.5
 **Veröffentlicht:** 20.03.2024 19:10
@@ -805,8 +811,8 @@
 
 - Allgemeine Verbesserungen 
 
-## Version 2.2.6
-**Veröffentlicht:** 01.09.2023 00:40
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Kleine Designänderungen
 - Allgemeine Verbesserungen
