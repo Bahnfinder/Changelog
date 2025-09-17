@@ -20,6 +20,7 @@
 ## Version 6.1.5
 **Veröffentlicht:** 01.06.2025 23:30
 
+- Allgemeine Verbesserungen
 
 ## Version 6.1.4
 **Veröffentlicht:** 29.05.2025 00:36
@@ -360,8 +361,8 @@
 - Die Funktion „Legacy iCloud Synchronisierung“ wurde entfernt.
 - Allgemeine Verbesserungen
 
-## Version 4.2.5
-**Veröffentlicht:** 17.06.2024 10:46
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Hauptbahnhöfe werden jetzt verbessert angezeigt.
 
@@ -672,8 +673,8 @@
 - Eine neue Verbindungsoption „Minimale Umsteigezeit“ wurde hinzugefügt.
 - Allgemeine Verbesserungen
 
-## Version 2.3.8
-**Veröffentlicht:** 20.10.2023 17:31
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -888,6 +889,10 @@
 ## Version 2.0.3
 **Veröffentlicht:** 21.07.2023 01:29
 
+- VVO hinzugefügt
+- Anzeige der Favoriten Symbole verbessert
+- Designverbesserungen
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 2.0.2
 **Veröffentlicht:** 20.07.2023 03:14
