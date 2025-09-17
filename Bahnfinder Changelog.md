@@ -203,8 +203,8 @@
 - Frohes neues Jahr!
 - Verbesserte Beschriftungen für VoiceOver
 
-## Version 5.1.7
-**Veröffentlicht:** 19.12.2024 03:54
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Ein Fehler wurde behoben, der dazu führte, dass die App beim Ansehen bestimmter Verbindungen abstürzte. 
 
@@ -333,7 +333,6 @@
 ## Version 4.3.1
 **Veröffentlicht:** 23.06.2024 01:00
 
-- Kleine Anpassungen bei der Einrichtung
 
 ## Version 4.3.0
 **Veröffentlicht:** 21.06.2024 08:52
