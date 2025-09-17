@@ -255,8 +255,8 @@
 - Anpassungen für iOS 18
 - Allgemeine Verbesserungen
 
-## Version 5.0.3
-**Veröffentlicht:** 06.09.2024 03:16
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Ein Fehler wurde behoben, der dazu führte, dass die App beim anschauen von Verbindungen abstürzt.
 - Allgemeine Verbesserungen
@@ -294,6 +294,7 @@
 ## Version 4.4.4
 **Veröffentlicht:** 11.07.2024 03:33
 
+- Fehlerbehebungen
 
 ## Version 4.4.3
 **Veröffentlicht:** 06.07.2024 20:33
@@ -343,7 +344,6 @@
 ## Version 4.2.8
 **Veröffentlicht:** 20.06.2024 21:56
 
-- Die Beschreibung vom DB Provider wurde geändert.
 
 ## Version 4.2.7
 **Veröffentlicht:** 20.06.2024 01:04
@@ -885,8 +885,8 @@
 
 - Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.0.3
+**Veröffentlicht:** 21.07.2023 01:29
 
 - VVO hinzugefügt
 - Anzeige der Favoriten Symbole verbessert
