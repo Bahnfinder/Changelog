@@ -117,8 +117,8 @@
 - Zu lange Gleisnummern im Verbindungsdetail werden jetzt separat dargestellt, wenn der Platz nicht ausreicht
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.0.3
+**Veröffentlicht:** 31.01.2025 03:41
 
 - Verbesserte Darstellung von Bahnhofsnamen
 - Allgemeine Verbesserungen
@@ -581,6 +581,7 @@
 ## Version 3.1.1
 **Veröffentlicht:** 02.02.2024 12:41
 
+- Allgemeine Verbesserungen
 
 ## Version 3.1
 **Veröffentlicht:** 01.02.2024 16:55
@@ -698,8 +699,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 2.3.3
-**Veröffentlicht:** 16.10.2023 20:33
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -749,8 +750,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 2.2.16
-**Veröffentlicht:** 20.09.2023 02:35
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Darstellung zweifarbiger Linien wurde verbessert.
 - Updates für Linieninfos
@@ -859,6 +860,11 @@
 ## Version 2.1.2
 **Veröffentlicht:** 01.08.2023 09:16
 
+- Linieninfos: Mit "Linieninfos" (Beta) erfährst du alles Wissenswerte über deine Linien. Hier kannst du nachschlagen, welche Distanz ein Fahrzeug zurücklegt, wie lange es insgesamt fährt und vieles mehr.
+- Neues Symbol für veränderte Verbindungsoptionen.
+- Bei „Linien ausblenden“ können nun alle Linien mit einen Knopfdruck ausgeblendet oder eingeblendet werden.
+- Neue Favoriten Symbole 
+- Allgemeine Verbesserungen
 
 ## Version 2.1.1
 **Veröffentlicht:** 28.07.2023 19:11
