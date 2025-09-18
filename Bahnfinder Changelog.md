@@ -25,6 +25,8 @@
 ## Version 6.1.4
 **Veröffentlicht:** 29.05.2025 00:36
 
+- Die Berechnung der Größe von lokalen Backups ist jetzt stabiler
+- Allgemeine Verbesserungen
 
 ## Version 6.1.3
 **Veröffentlicht:** 19.05.2025 15:18
@@ -127,8 +129,8 @@
 - Die Verkehrsnetzsuche bei der Einrichtung kann jetzt abgebrochen werden.
 - Allgemeine Verbesserungen
 
-## Version 6.0.1
-**Veröffentlicht:** 28.01.2025 02:13
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -835,8 +837,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.2
+**Veröffentlicht:** 14.08.2023 09:53
 
 - Neues Menü zur Schnellauswahl bei der Haltestellensuche.
 - Allgemeine Verbesserungen
@@ -872,6 +874,12 @@
 ## Version 2.1
 **Veröffentlicht:** 27.07.2023 15:20
 
+- Neues Design in "Verbindung".
+- Verkehrsnetz spezifische Einstellungen hinzugefügt.
+- Neue Favoriten Symbole.
+- Neuer "Zurücksetzen" Dialog.
+- Neue Option, zum ausblenden des "Suchen" Button, wenn "Automatische Suche" aktiviert ist.
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 2.0.4
 **Veröffentlicht:** 24.07.2023 00:19
@@ -946,6 +954,9 @@
 ## Version 1.5.2
 **Veröffentlicht:** 25.05.2023 04:40
 
+- Eine Option zum anrufen von Rufbussen wurde hinzugefügt
+- Stabilität wurde verbessert
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.5.1
 **Veröffentlicht:** 22.05.2023 22:56
@@ -1036,8 +1047,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.1.1
+**Veröffentlicht:** 21.04.2023 20:55
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
@@ -1103,9 +1114,6 @@
 ## Version 1.0.3
 **Veröffentlicht:** 03.04.2023 23:08
 
-- Neue App Icons
-- Es wurde ein Hinweis hinzugefügt, der den Nutzer darauf aufmerksam macht, dass die Ortungsdienste deaktiviert sind.
-- Allgemeine Verbesserungen und Fehlerbehebungen.
 
 ## Version 1.0.1
 **Veröffentlicht:** 03.04.2023 04:19
