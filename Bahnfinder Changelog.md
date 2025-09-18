@@ -25,8 +25,6 @@
 ## Version 6.1.4
 **Veröffentlicht:** 29.05.2025 00:36
 
-- Die Berechnung der Größe von lokalen Backups ist jetzt stabiler
-- Allgemeine Verbesserungen
 
 ## Version 6.1.3
 **Veröffentlicht:** 19.05.2025 15:18
@@ -173,8 +171,6 @@
 ## Version 5.1.13
 **Veröffentlicht:** 21.01.2025 01:11
 
-- Die Auslastung wird jetzt verbessert dargestellt
-- Verbesserungen für das DB Verkehrsnetz
 
 ## Version 5.1.12
 **Veröffentlicht:** 18.01.2025 05:03
@@ -499,6 +495,7 @@
 ## Version 4.1.4
 **Veröffentlicht:** 19.03.2024 16:44
 
+- Allgemeine Verbesserungen
 
 ## Version 4.1.3
 **Veröffentlicht:** 18.03.2024 14:01
@@ -810,8 +807,8 @@
 
 - Allgemeine Verbesserungen 
 
-## Version 2.2.6
-**Veröffentlicht:** 01.09.2023 00:40
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Kleine Designänderungen
 - Allgemeine Verbesserungen
@@ -847,8 +844,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 2.2
-**Veröffentlicht:** 09.08.2023 20:22
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Dieses Update enthält interne Optimierungen, die Bahnfinder noch schneller und stabiler machen.
 - Neues, optionales Layout für eine verbesserte einhändige Bedienung. (Vorerst nur bei Abfahrten)
@@ -1008,6 +1005,7 @@
 ## Version 1.3.1
 **Veröffentlicht:** 11.05.2023 03:36
 
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.3.0
 **Veröffentlicht:** 10.05.2023 14:19
@@ -1053,10 +1051,6 @@
 ## Version 1.1.0
 **Veröffentlicht:** 21.04.2023 06:06
 
-- Verbindung anpinnen: Deine ausgewählte Route wird gespeichert und bleibt bis zum Ende deiner Fahrt oben angeheftet. Mit nur einem Klick kannst du sie jederzeit wieder aufrufen.
-- Designpaket „Glas“ wurde für den hellen Modus optimiert.
-- Dein aktueller Standort bei Abfahrten wird nun automatisch aktualisiert.
-- Allgemeine Verbesserungen und Fehlerbehebungen.
 
 ## Version 1.0.12
 **Veröffentlicht:** 18.04.2023 00:53
