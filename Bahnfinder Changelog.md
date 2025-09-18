@@ -11,8 +11,8 @@
 - Alle Neuerungen: Unter „Info > Neues in Bahnfinder“ findest du alle Neuerungen aus allen bisherigen Bahnfinder Versionen.
 - Über 15 weitere Verbesserungen machen Bahnfinder noch besser und schneller.
 
-## Version 6.1.6
-**Veröffentlicht:** 24.06.2025 23:20
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Designanpassungen
 - Allgemeine Verbesserungen
@@ -712,8 +712,8 @@
 - „Karte“ und „Anpinnen“ wurden im Verbindungsdetail getauscht, um einheitlich mit dem Fahrtverlauf dargestellt zu werden.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.1
+**Veröffentlicht:** 12.10.2023 12:23
 
 - Im Verbindungsdetail wird jetzt die Ankunft in Minuten gezeigt.
 - Verbesserte Darstellung von Zeiten.
