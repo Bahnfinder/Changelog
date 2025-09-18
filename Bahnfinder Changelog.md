@@ -22,8 +22,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 6.1.4
-**Veröffentlicht:** 29.05.2025 00:36
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Berechnung der Größe von lokalen Backups ist jetzt stabiler
 - Allgemeine Verbesserungen
@@ -123,8 +123,8 @@
 - Verbesserte Darstellung von Bahnhofsnamen
 - Allgemeine Verbesserungen
 
-## Version 6.0.2
-**Veröffentlicht:** 29.01.2025 15:04
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Verkehrsnetzsuche bei der Einrichtung kann jetzt abgebrochen werden.
 - Allgemeine Verbesserungen
@@ -221,8 +221,6 @@
 ## Version 5.1.4
 **Veröffentlicht:** 27.11.2024 00:19
 
-- Das VMV Verkehrsnetz funktioniert jetzt wieder wie erwartet
-- Allgemeine Verbesserungen
 
 ## Version 5.1.3
 **Veröffentlicht:** 27.09.2024 17:57
@@ -572,8 +570,8 @@
 - Fehlerbehebungen
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 3.1.2
+**Veröffentlicht:** 10.02.2024 07:37
 
 - Fehlerbehebungen
 - Allgemeine Verbesserungen
@@ -662,6 +660,9 @@
 ## Version 2.3.10
 **Veröffentlicht:** 28.10.2023 19:18
 
+- Die Darstellung des Standortpfeils wurde verbessert.
+- Die Haltestellensymbol UI wurde verbessert.
+- Allgemeine Verbesserungen
 
 ## Version 2.3.9
 **Veröffentlicht:** 22.10.2023 16:09
@@ -951,9 +952,6 @@
 ## Version 1.5.2
 **Veröffentlicht:** 25.05.2023 04:40
 
-- Eine Option zum anrufen von Rufbussen wurde hinzugefügt
-- Stabilität wurde verbessert
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.5.1
 **Veröffentlicht:** 22.05.2023 22:56
@@ -1039,8 +1037,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.1.2
+**Veröffentlicht:** 25.04.2023 04:22
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
