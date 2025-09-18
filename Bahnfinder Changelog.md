@@ -99,8 +99,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.0.6
+**Veröffentlicht:** 07.02.2025 01:27
 
 - Wichtige Push Benachrichtigungen von „Haltestellen ankündigen“ spielen jetzt einen Ton oder eine Vibration
 - Allgemeine Verbesserungen
@@ -213,8 +213,8 @@
 
 - Die Linienfarben für die S5 (MVV) wurden hinzugefügt.
 
-## Version 5.1.5
-**Veröffentlicht:** 10.12.2024 05:15
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neues App Icon: „Weihnachten 2024“
 
@@ -356,6 +356,10 @@
 ## Version 4.2.6
 **Veröffentlicht:** 18.06.2024 02:47
 
+- Anpassungen und Fehlerbehebungen für iPad
+- Anpassungen und Fehlerbehebungen für Mac
+- Die Funktion „Legacy iCloud Synchronisierung“ wurde entfernt.
+- Allgemeine Verbesserungen
 
 ## Version 4.2.5
 **Veröffentlicht:** 17.06.2024 10:46
