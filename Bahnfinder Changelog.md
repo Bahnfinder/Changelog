@@ -599,8 +599,8 @@
 - Neue Option: „Verbindungsdetail Live aktualisieren“
 - Allgemeine Verbesserungen
 
-## Version 3.0.1
-**Veröffentlicht:** 18.01.2024 14:58
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -662,6 +662,9 @@
 ## Version 2.3.10
 **Veröffentlicht:** 28.10.2023 19:18
 
+- Die Darstellung des Standortpfeils wurde verbessert.
+- Die Haltestellensymbol UI wurde verbessert.
+- Allgemeine Verbesserungen
 
 ## Version 2.3.9
 **Veröffentlicht:** 22.10.2023 16:09
@@ -775,8 +778,6 @@
 ## Version 2.2.12
 **Veröffentlicht:** 15.09.2023 08:35
 
-- Verbesserungen für das Liniendesign
-- Allgemeine Verbesserungen
 
 ## Version 2.2.11
 **Veröffentlicht:** 14.09.2023 01:16
@@ -981,13 +982,13 @@
 
 - Stabilitätsverbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.3.5
+**Veröffentlicht:** 16.05.2023 00:53
 
 - Fehlerbehebungen und Stabilitätsverbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.3.4
+**Veröffentlicht:** 13.05.2023 10:27
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
