@@ -391,8 +391,8 @@
 
 - Neues App Icon "Modern Schwarz"
 
-## Version 4.2.0
-**Veröffentlicht:** 10.06.2024 11:36
+## Version null
+**Veröffentlicht:** – No release date available
 
 - „Synchronisieren“ wurde in „Backups“ umbenannt. Es ist jetzt möglich, unbegrenzt viele verschiedene iCloud Backups zu erstellen und zu verwalten. Nutzer können jetzt ihre Backups mit einer komplett neuen Oberfläche verwalten und wiederherstellen. 
 - Auf der Fahrtverlauf Karte werden jetzt Abfahrtszeiten angezeigt.
