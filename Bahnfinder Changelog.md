@@ -194,12 +194,12 @@
 ## Version 5.1.9
 **Veröffentlicht:** 12.01.2025 06:09
 
+- Verkehrsnetz vorübergehend nicht verfügbar ist. Ich arbeite mit Hochdruck an einer Lösung. Du kannst dich benachrichtigen lassen, sobald es wieder funktioniert.
+- Verkehrsnetzes.
 
 ## Version 5.1.8
 **Veröffentlicht:** 08.01.2025 20:32
 
-- Frohes neues Jahr!
-- Verbesserte Beschriftungen für VoiceOver
 
 ## Version 5.1.7
 **Veröffentlicht:** 19.12.2024 03:54
@@ -219,6 +219,8 @@
 ## Version 5.1.4
 **Veröffentlicht:** 27.11.2024 00:19
 
+- Das VMV Verkehrsnetz funktioniert jetzt wieder wie erwartet
+- Allgemeine Verbesserungen
 
 ## Version 5.1.3
 **Veröffentlicht:** 27.09.2024 17:57
@@ -957,7 +959,6 @@
 ## Version 1.5.1
 **Veröffentlicht:** 22.05.2023 22:56
 
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.5.0
 **Veröffentlicht:** 18.05.2023 15:13
@@ -978,7 +979,6 @@
 ## Version 1.3.6
 **Veröffentlicht:** 16.05.2023 13:41
 
-- Stabilitätsverbesserungen
 
 ## Version 1.3.5
 **Veröffentlicht:** 16.05.2023 00:53
@@ -990,8 +990,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.3.3
+**Veröffentlicht:** 12.05.2023 22:22
 
 - Design Anpassungen
 - Stabilitätsverbesserungen
