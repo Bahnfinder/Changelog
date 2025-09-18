@@ -203,8 +203,8 @@
 - Frohes neues Jahr!
 - Verbesserte Beschriftungen für VoiceOver
 
-## Version 5.1.7
-**Veröffentlicht:** 19.12.2024 03:54
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Ein Fehler wurde behoben, der dazu führte, dass die App beim Ansehen bestimmter Verbindungen abstürzte. 
 
@@ -599,8 +599,8 @@
 - Neue Option: „Verbindungsdetail Live aktualisieren“
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 3.0.1
+**Veröffentlicht:** 18.01.2024 14:58
 
 - Allgemeine Verbesserungen
 
@@ -778,6 +778,8 @@
 ## Version 2.2.12
 **Veröffentlicht:** 15.09.2023 08:35
 
+- Verbesserungen für das Liniendesign
+- Allgemeine Verbesserungen
 
 ## Version 2.2.11
 **Veröffentlicht:** 14.09.2023 01:16
