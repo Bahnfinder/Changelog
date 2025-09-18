@@ -1,7 +1,6 @@
 ## Version 6.2.1
 **Veröffentlicht:** 08.09.2025 16:34
 
-- Das Naldo Verkehrsnetz funktioniert jetzt wieder wie erwartet.
 
 ## Version 6.2
 **Veröffentlicht:** 31.07.2025 22:56
@@ -213,8 +212,8 @@
 
 - Die Linienfarben für die S5 (MVV) wurden hinzugefügt.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.1.5
+**Veröffentlicht:** 10.12.2024 05:15
 
 - Neues App Icon: „Weihnachten 2024“
 
@@ -275,6 +274,16 @@
 ## Version 5
 **Veröffentlicht:** 01.09.2024 17:57
 
+- Liniennummer in Verbindungsliste: du kannst jetzt aussuchen, ob du die Liniennummer oder das Fahrzeugsymbol in der Verbindungsliste sehen möchtest. 
+- Verbesserungen im Fahrtverlauf: im Fahrtverlauf werden jetzt weitere Informationen zu deinem Fahrzeug angezeigt. Du kannst genau sehen, von welchem Gleis dein Fahrzeug fährt oder welche Haltestellen ausfallen.
+- Wagenreihung: Du kannst dir jetzt über den Fahrtverlauf die Wagenreihung von ICEs ansehen.
+- Auslastung: Bei bestimmten Fahrzeugen siehst du, wie ausgelastet deine Fahrt sein wird.
+- Fahrpreise: im Verbindungsdetail kannst du dir die aktuellen Ticketpreise für deine Fahrt ansehen.
+- Haltestellen ankündigen: „Haltestellen vorlesen“ heißt jetzt „Haltestellen ankündigen“. Du kannst dir die nächsten Haltestellen jetzt auch als Push Mitteilung anzeigen lassen, falls du mal keine Kopfhörer dabei hast.
+- Erinnerungen: Erinnerungen sind jetzt auch für Verbindungen verfügbar.
+- Neue Design Einstellungen: Mit den neuen Design Einstellungen kannst du dein gewünschtes Design noch einfacher und übersichtlicher ändern. 
+- Wichtige Haltestellen filtern: du kannst in der Suche auswählen, ob du nur die wichtigsten Haltestellen in deiner Nähe sehen möchtest. Diese basieren auf deinen Favoriten, benutzten und besuchten Haltestellen.
+- Über 90 weitere Neuerungen machen Bahnfinder noch besser und schneller.
 
 ## Version 4.4.5
 **Veröffentlicht:** 12.08.2024 15:00
@@ -294,6 +303,7 @@
 ## Version 4.4.2
 **Veröffentlicht:** 05.07.2024 17:07
 
+- Ein Fehler wurde behoben, der dazu führte, dass unter bestimmten Umständen ein Lokales Backup beim einrichten von Bahnfinder nicht wiederhergestellt werden konnte.
 
 ## Version 4.4.1
 **Veröffentlicht:** 01.07.2024 17:20
@@ -855,8 +865,8 @@
 - Neue Favoriten Symbole 
 - Allgemeine Verbesserungen
 
-## Version 2.1.1
-**Veröffentlicht:** 28.07.2023 19:11
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Fehlerbehebungen
 
@@ -1031,8 +1041,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.1.2
+**Veröffentlicht:** 25.04.2023 04:22
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
