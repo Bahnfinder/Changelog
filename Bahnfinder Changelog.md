@@ -179,6 +179,7 @@
 ## Version 5.1.12
 **Veröffentlicht:** 18.01.2025 05:03
 
+- Verbesserungen für das DB Verkehrsnetz
 
 ## Version 5.1.11
 **Veröffentlicht:** 15.01.2025 00:41
@@ -188,6 +189,7 @@
 ## Version 5.1.10
 **Veröffentlicht:** 13.01.2025 01:03
 
+- Weitere Informationen über den Ausfall des DB Verkehrsnetzes hinzugefügt 
 
 ## Version 5.1.9
 **Veröffentlicht:** 12.01.2025 06:09
@@ -273,6 +275,16 @@
 ## Version 5
 **Veröffentlicht:** 01.09.2024 17:57
 
+- Liniennummer in Verbindungsliste: du kannst jetzt aussuchen, ob du die Liniennummer oder das Fahrzeugsymbol in der Verbindungsliste sehen möchtest. 
+- Verbesserungen im Fahrtverlauf: im Fahrtverlauf werden jetzt weitere Informationen zu deinem Fahrzeug angezeigt. Du kannst genau sehen, von welchem Gleis dein Fahrzeug fährt oder welche Haltestellen ausfallen.
+- Wagenreihung: Du kannst dir jetzt über den Fahrtverlauf die Wagenreihung von ICEs ansehen.
+- Auslastung: Bei bestimmten Fahrzeugen siehst du, wie ausgelastet deine Fahrt sein wird.
+- Fahrpreise: im Verbindungsdetail kannst du dir die aktuellen Ticketpreise für deine Fahrt ansehen.
+- Haltestellen ankündigen: „Haltestellen vorlesen“ heißt jetzt „Haltestellen ankündigen“. Du kannst dir die nächsten Haltestellen jetzt auch als Push Mitteilung anzeigen lassen, falls du mal keine Kopfhörer dabei hast.
+- Erinnerungen: Erinnerungen sind jetzt auch für Verbindungen verfügbar.
+- Neue Design Einstellungen: Mit den neuen Design Einstellungen kannst du dein gewünschtes Design noch einfacher und übersichtlicher ändern. 
+- Wichtige Haltestellen filtern: du kannst in der Suche auswählen, ob du nur die wichtigsten Haltestellen in deiner Nähe sehen möchtest. Diese basieren auf deinen Favoriten, benutzten und besuchten Haltestellen.
+- Über 90 weitere Neuerungen machen Bahnfinder noch besser und schneller.
 
 ## Version 4.4.5
 **Veröffentlicht:** 12.08.2024 15:00
@@ -396,8 +408,8 @@
 - Fehlerbehebungen
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.18
+**Veröffentlicht:** 18.05.2024 21:41
 
 - Neues App Icon „Weiss Inline“
 - Darstellungsanpassungen für kleinere Geräte
@@ -492,10 +504,6 @@
 ## Version 4.1.3
 **Veröffentlicht:** 18.03.2024 14:01
 
-- Erweiterte Diagnosedaten können jetzt optional aktiviert werden.
-- Lokale Backups können jetzt automatisch gelöscht werden.
-- Die Darstellung von lokalen Backups wurde verbessert.
-- Allgemeine Verbesserungen
 
 ## Version 4.1.2
 **Veröffentlicht:** 15.03.2024 12:35
@@ -769,8 +777,8 @@
 - Verbesserungen für das Liniendesign
 - Allgemeine Verbesserungen
 
-## Version 2.2.11
-**Veröffentlicht:** 14.09.2023 01:16
+## Version null
+**Veröffentlicht:** – No release date available
 
 - iOS 17 Kompatibilität
 - 3D Optionen wurden zur Karte hinzugefügt.
@@ -877,6 +885,10 @@
 ## Version 2.0.3
 **Veröffentlicht:** 21.07.2023 01:29
 
+- VVO hinzugefügt
+- Anzeige der Favoriten Symbole verbessert
+- Designverbesserungen
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 2.0.2
 **Veröffentlicht:** 20.07.2023 03:14
@@ -1088,8 +1100,8 @@
 - Anschlüsse können ab sofort von einer Verbindung aus durch tippen auf den Haltestellen Namen abgerufen werden.
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.0.4
+**Veröffentlicht:** 05.04.2023 04:18
 
 - KVV als Verkehrsnetz hinzugefügt.
 - Setup Assistenten hinzugefügt.
