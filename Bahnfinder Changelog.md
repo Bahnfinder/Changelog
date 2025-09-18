@@ -1,5 +1,5 @@
-## Version 6.2.1
-**Veröffentlicht:** 08.09.2025 16:34
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Das Naldo Verkehrsnetz funktioniert jetzt wieder wie erwartet.
 
@@ -37,8 +37,8 @@
 - Leistungsverbesserungen
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.1.2
+**Veröffentlicht:** 18.05.2025 22:29
 
 - Die Größe eines Backups wird jetzt angezeigt. Zusätzlich wird die relative Größe im Vergleich zu anderen Backups dargestellt
 - Allgemeine Verbesserungen
@@ -78,8 +78,8 @@
 
 - Verbesserungen für VoiceOver
 
-## Version 6.0.10
-**Veröffentlicht:** 16.02.2025 17:24
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -1052,8 +1052,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.1.0
-**Veröffentlicht:** 21.04.2023 06:06
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Verbindung anpinnen: Deine ausgewählte Route wird gespeichert und bleibt bis zum Ende deiner Fahrt oben angeheftet. Mit nur einem Klick kannst du sie jederzeit wieder aufrufen.
 - Designpaket „Glas“ wurde für den hellen Modus optimiert.
