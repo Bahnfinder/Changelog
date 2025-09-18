@@ -123,8 +123,8 @@
 - Verbesserte Darstellung von Bahnhofsnamen
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.0.2
+**Veröffentlicht:** 29.01.2025 15:04
 
 - Die Verkehrsnetzsuche bei der Einrichtung kann jetzt abgebrochen werden.
 - Allgemeine Verbesserungen
@@ -197,8 +197,8 @@
 - Verkehrsnetz vorübergehend nicht verfügbar ist. Ich arbeite mit Hochdruck an einer Lösung. Du kannst dich benachrichtigen lassen, sobald es wieder funktioniert.
 - Verkehrsnetzes.
 
-## Version 5.1.8
-**Veröffentlicht:** 08.01.2025 20:32
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Frohes neues Jahr!
 - Verbesserte Beschriftungen für VoiceOver
@@ -432,8 +432,8 @@
 - Die Funktion "Haltestelle Automatisch ausfüllen" kann jetzt deaktiviert werden.
 - Allgemeine Verbesserungen
 
-## Version 4.1.14
-**Veröffentlicht:** 12.05.2024 22:31
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -966,6 +966,11 @@
 ## Version 1.5.0
 **Veröffentlicht:** 18.05.2023 15:13
 
+- Die Gleisnummer ist ab sofort im Fahrtverlauf sichtbar
+- Neues Design bei Fahrtverlauf
+- Die angepinnte Route wird ab sofort in der Verbindungsliste angezeigt
+- Ein Fehler bei der Standortsuche wurde behoben
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.4.0
 **Veröffentlicht:** 17.05.2023 02:42
