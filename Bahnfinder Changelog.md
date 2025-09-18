@@ -213,8 +213,8 @@
 
 - Die Linienfarben für die S5 (MVV) wurden hinzugefügt.
 
-## Version 5.1.5
-**Veröffentlicht:** 10.12.2024 05:15
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neues App Icon: „Weihnachten 2024“
 
@@ -515,8 +515,8 @@
 - Erweiterte Diagnosedaten können jetzt per Mail gesendet werden.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.1
+**Veröffentlicht:** 10.03.2024 22:38
 
 - Neue Verkehrsnetze hinzugefügt: MVG (Märkischer Kreis), VMS, VMV, VRN
 - Allgemeine Verbesserungen
@@ -581,6 +581,7 @@
 ## Version 3.1.1
 **Veröffentlicht:** 02.02.2024 12:41
 
+- Allgemeine Verbesserungen
 
 ## Version 3.1
 **Veröffentlicht:** 01.02.2024 16:55
