@@ -129,8 +129,8 @@
 - Die Verkehrsnetzsuche bei der Einrichtung kann jetzt abgebrochen werden.
 - Allgemeine Verbesserungen
 
-## Version 6.0.1
-**Veröffentlicht:** 28.01.2025 02:13
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -688,8 +688,8 @@
 
 - Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.5
+**Veröffentlicht:** 18.10.2023 17:03
 
 - Die Darstellung des Standortpfeils wurde verbessert.
 - Allgemeine Verbesserungen
@@ -784,6 +784,9 @@
 ## Version 2.2.11
 **Veröffentlicht:** 14.09.2023 01:16
 
+- iOS 17 Kompatibilität
+- 3D Optionen wurden zur Karte hinzugefügt.
+- Allgemeine Verbesserungen
 
 ## Version 2.2.10
 **Veröffentlicht:** 11.09.2023 11:05
@@ -814,8 +817,8 @@
 - Kleine Designänderungen
 - Allgemeine Verbesserungen
 
-## Version 2.2.5
-**Veröffentlicht:** 31.08.2023 11:56
+## Version null
+**Veröffentlicht:** – No release date available
 
 - In der Suche werden jetzt 50 Haltestellen in der Nähe angezeigt.
 - Allgemeine Verbesserungen
@@ -979,7 +982,6 @@
 ## Version 1.3.6
 **Veröffentlicht:** 16.05.2023 13:41
 
-- Stabilitätsverbesserungen
 
 ## Version 1.3.5
 **Veröffentlicht:** 16.05.2023 00:53
@@ -989,7 +991,6 @@
 ## Version 1.3.4
 **Veröffentlicht:** 13.05.2023 10:27
 
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.3.3
 **Veröffentlicht:** 12.05.2023 22:22
@@ -1008,8 +1009,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.3.0
+**Veröffentlicht:** 10.05.2023 14:19
 
 - Zwischenstopps hinzugefügt
 - Verbindungen: Abfahrt oder Ankunftszeit kann ausgewählt werden
@@ -1034,8 +1035,8 @@
 - Falls die Haltestelle, die beim Start der App gefunden wurde, durch eine andere ersetzt werden soll, können Ausnahmen erstellt werden.
 - Allgemeine Verbesserungen und Fehlerbehebungen wurden durchgeführt.
 
-## Version 1.1.3
-**Veröffentlicht:** 27.04.2023 03:25
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
