@@ -31,6 +31,11 @@
 ## Version 6.1.3
 **Veröffentlicht:** 19.05.2025 15:18
 
+- Die Anzahl von Backups wird jetzt angezeigt
+- Die Backup Einstellungen laden jetzt deutlich schneller, selbst bei vielen Backups 
+- iCloud Backups werden nun vollständig angezeigt, auch wenn du mehr als 100 hast
+- Leistungsverbesserungen
+- Allgemeine Verbesserungen
 
 ## Version 6.1.2
 **Veröffentlicht:** 18.05.2025 22:29
@@ -250,8 +255,8 @@
 - Anpassungen für iOS 18
 - Allgemeine Verbesserungen
 
-## Version 5.0.3
-**Veröffentlicht:** 06.09.2024 03:16
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Ein Fehler wurde behoben, der dazu führte, dass die App beim anschauen von Verbindungen abstürzt.
 - Allgemeine Verbesserungen
@@ -424,8 +429,6 @@
 ## Version 4.1.15
 **Veröffentlicht:** 15.05.2024 22:58
 
-- Die Funktion "Haltestelle Automatisch ausfüllen" kann jetzt deaktiviert werden.
-- Allgemeine Verbesserungen
 
 ## Version 4.1.14
 **Veröffentlicht:** 12.05.2024 22:31
@@ -1055,8 +1058,8 @@
 - Dein aktueller Standort bei Abfahrten wird nun automatisch aktualisiert.
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.0.12
+**Veröffentlicht:** 18.04.2023 00:53
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
