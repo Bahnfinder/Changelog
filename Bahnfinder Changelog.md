@@ -186,8 +186,8 @@
 
 - Dieses Update enthält API Updates für das Deutsche Bahn Verkehrsnetz, welches jetzt wieder wie erwartet funktioniert!
 
-## Version 5.1.10
-**Veröffentlicht:** 13.01.2025 01:03
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Weitere Informationen über den Ausfall des DB Verkehrsnetzes hinzugefügt 
 
@@ -481,8 +481,8 @@
 - Neues App Icon: „Bahnfindi“
 - iCloud Synchronisierung wurde optimiert 
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.6
+**Veröffentlicht:** 21.03.2024 13:16
 
 - Das letzte Backup auf iCloud wird jetzt unter „Synchronisierung“ angezeigt
 - Die iCloud Synchronisierung wurde erheblich verbessert
@@ -515,8 +515,8 @@
 - Erweiterte Diagnosedaten können jetzt per Mail gesendet werden.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.1
+**Veröffentlicht:** 10.03.2024 22:38
 
 - Neue Verkehrsnetze hinzugefügt: MVG (Märkischer Kreis), VMS, VMV, VRN
 - Allgemeine Verbesserungen
@@ -578,8 +578,8 @@
 - Fehlerbehebungen
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 3.1.1
+**Veröffentlicht:** 02.02.2024 12:41
 
 - Allgemeine Verbesserungen
 
@@ -910,13 +910,26 @@
 ## Version 2.0
 **Veröffentlicht:** 12.07.2023 08:34
 
+- Bahnfinder 2 ist das Umfangreichste Update bisher und macht Bahnfinder noch schneller, übersichtlicher und schöner.
+- Das ist neu: 
+- Neues, übersichtlicheres Aussehen durch differenzierte Farben und weiteren Anpassungen.
+- Neue Design Optionen
+- 2 neue Design Pakete 
+- „Automatisch folgen“: Mit der Funktion „Automatisch folgen“ werden dir jederzeit Abfahrten der nächsten Haltestelle angezeigt, während du dich fortbewegst.
+- „Automatisch suchen“: Suche deine Verbindung automatisch, sobald du eine Start und Zielhaltestelle ausgewählt hast. 
+- Linien können unter Abfahrten ausgeblendet werden.
+- Mehr Informationen bei Verbindungen 
+- Eigene Icons bei Haltestellen Favoriten
+- Ankünfte bei Haltestellen  
+- Verbesserte Unterstützung für Rufbusse
+- Gehzeit in Minuten 
+- Karte bei Verbindung
+- Erhebliche Leistungsverbesserungen
+- Und viele weitere kleine Änderungen…
 
 ## Version 1.5.6
 **Veröffentlicht:** 06.06.2023 17:36
 
-- Die Einrichtung wurde verbessert.
-- Ein Fehler wurde behoben, der eventuell dazu führte, dass Favoriten eines Verkehrsnetzes mit anderen Verkehrsnetzen vermischt wurden.
-- Allgemeine Verbesserungen und Fehlerbehebungen.
 
 ## Version 1.5.5
 **Veröffentlicht:** 05.06.2023 15:42
@@ -1060,9 +1073,11 @@
 - Suche verbessert
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.0.9
-**Veröffentlicht:** 11.04.2023 23:05
+## Version null
+**Veröffentlicht:** – No release date available
 
+- Ein Fehler wurde behoben, durch den die App keine Inhalte mehr geladen hat, wenn sie eine gewisse Zeit im Hintergrund war. 
+- Der Fehler könnte bei einigen Nutzern dennoch auftreten, schließe die App dazu aus dem Multitasking Menü und öffne sie erneut. 
 
 ## Version 1.0.8
 **Veröffentlicht:** 11.04.2023 02:45
