@@ -264,7 +264,6 @@
 ## Version 5.0.2
 **Veröffentlicht:** 05.09.2024 15:32
 
-- Ein Fehler wurde behoben, der dazu führte, dass die App beim Wechsel des Verkehrsnetzes auf iPads abstürzte. 
 
 ## Version 5.0.1
 **Veröffentlicht:** 04.09.2024 02:08
@@ -315,6 +314,9 @@
 ## Version 4.4
 **Veröffentlicht:** 27.06.2024 16:01
 
+- Neues App Icon: „Flipswitch“
+- Verbesserungen im Abfahrten Popover
+- Die Berechnung von Fußwegen wurde verbessert
 
 ## Version 4.3.3
 **Veröffentlicht:** 24.06.2024 21:40
@@ -626,8 +628,8 @@
 - 4 neue App Icons: „Vereiste Weihnachten“, „Vereiste Weihnachten Mund“, „Weihnachtsgeschenk“ und „Weihnachtsgeschenk Mund“.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.15
+**Veröffentlicht:** 13.12.2023 23:32
 
 - Allgemeine Verbesserungen
 
@@ -781,9 +783,6 @@
 ## Version 2.2.11
 **Veröffentlicht:** 14.09.2023 01:16
 
-- iOS 17 Kompatibilität
-- 3D Optionen wurden zur Karte hinzugefügt.
-- Allgemeine Verbesserungen
 
 ## Version 2.2.10
 **Veröffentlicht:** 11.09.2023 11:05
@@ -791,8 +790,8 @@
 - Die Karte wurde überarbeitet und bietet jetzt eine verbesserte Navigation.
 - Allgemeine Verbesserungen
 
-## Version 2.2.9
-**Veröffentlicht:** 08.09.2023 14:39
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Lange Fusswege werden jetzt unter Verbindung markiert.
 - Allgemeine Verbesserungen
@@ -924,8 +923,8 @@
 - Erhebliche Leistungsverbesserungen
 - Und viele weitere kleine Änderungen…
 
-## Version 1.5.6
-**Veröffentlicht:** 06.06.2023 17:36
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Einrichtung wurde verbessert.
 - Ein Fehler wurde behoben, der eventuell dazu führte, dass Favoriten eines Verkehrsnetzes mit anderen Verkehrsnetzen vermischt wurden.
