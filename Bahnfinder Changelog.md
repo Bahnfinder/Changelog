@@ -129,8 +129,8 @@
 - Die Verkehrsnetzsuche bei der Einrichtung kann jetzt abgebrochen werden.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.0.1
+**Veröffentlicht:** 28.01.2025 02:13
 
 - Allgemeine Verbesserungen
 
@@ -817,8 +817,8 @@
 - Kleine Designänderungen
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.5
+**Veröffentlicht:** 31.08.2023 11:56
 
 - In der Suche werden jetzt 50 Haltestellen in der Nähe angezeigt.
 - Allgemeine Verbesserungen
@@ -901,8 +901,8 @@
 - Favoriten Symbole werden in Abfahrten gezeigt.
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 2.0.1
-**Veröffentlicht:** 15.07.2023 00:02
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Option zum auswählen der Ansicht beim App Start hinzugefügt.
 - Allgemeine Verbesserungen und Fehlerbehebungen
@@ -982,6 +982,7 @@
 ## Version 1.3.6
 **Veröffentlicht:** 16.05.2023 13:41
 
+- Stabilitätsverbesserungen
 
 ## Version 1.3.5
 **Veröffentlicht:** 16.05.2023 00:53
@@ -991,6 +992,7 @@
 ## Version 1.3.4
 **Veröffentlicht:** 13.05.2023 10:27
 
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.3.3
 **Veröffentlicht:** 12.05.2023 22:22
@@ -1035,8 +1037,8 @@
 - Falls die Haltestelle, die beim Start der App gefunden wurde, durch eine andere ersetzt werden soll, können Ausnahmen erstellt werden.
 - Allgemeine Verbesserungen und Fehlerbehebungen wurden durchgeführt.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.1.3
+**Veröffentlicht:** 27.04.2023 03:25
 
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
