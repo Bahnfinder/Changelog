@@ -391,8 +391,8 @@
 
 - Neues App Icon "Modern Schwarz"
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.2.0
+**Veröffentlicht:** 10.06.2024 11:36
 
 - „Synchronisieren“ wurde in „Backups“ umbenannt. Es ist jetzt möglich, unbegrenzt viele verschiedene iCloud Backups zu erstellen und zu verwalten. Nutzer können jetzt ihre Backups mit einer komplett neuen Oberfläche verwalten und wiederherstellen. 
 - Auf der Fahrtverlauf Karte werden jetzt Abfahrtszeiten angezeigt.
@@ -823,8 +823,8 @@
 - In der Suche werden jetzt 50 Haltestellen in der Nähe angezeigt.
 - Allgemeine Verbesserungen
 
-## Version 2.2.4
-**Veröffentlicht:** 30.08.2023 12:04
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Anzeige der Umsteigezeit ist nun in den Verbindungsdetails sichtbar.
 - Das Layout der Abfahrtszeiten wurde optimiert, um eine höhere Anzahl von Abfahrten gleichzeitig anzeigen zu können.
@@ -975,9 +975,6 @@
 ## Version 1.4.0
 **Veröffentlicht:** 17.05.2023 02:42
 
-- Automatische Suche bei Verbindungen hinzugefügt
-- Stabilitätsverbesserungen
-- Fehlerbehebungen
 
 ## Version 1.3.6
 **Veröffentlicht:** 16.05.2023 13:41
