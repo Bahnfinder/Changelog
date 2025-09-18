@@ -583,8 +583,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 3.1
-**Veröffentlicht:** 01.02.2024 16:55
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Du kannst ab sofort spenden, um die weitere Entwicklung von Bahnfinder zu unterstützen :)
 - Neue Favoriten Symbole hinzugefügt
@@ -857,8 +857,8 @@
 - Neue Informationen bei „Linieninfos“: Längste und kürzeste Distanz zwischen zwei Haltestellen.
 - Allgemeine Verbesserungen 
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.1.2
+**Veröffentlicht:** 01.08.2023 09:16
 
 - Linieninfos: Mit "Linieninfos" (Beta) erfährst du alles Wissenswerte über deine Linien. Hier kannst du nachschlagen, welche Distanz ein Fahrzeug zurücklegt, wie lange es insgesamt fährt und vieles mehr.
 - Neues Symbol für veränderte Verbindungsoptionen.
