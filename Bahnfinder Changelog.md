@@ -470,8 +470,6 @@
 ## Version 4.1.8
 **Veröffentlicht:** 23.03.2024 00:08
 
-- Backups und weitere Dateien können jetzt über die „Dateien“ App ausgetauscht werden
-- Layout Anpassungen für kleinere Geräte
 
 ## Version 4.1.7
 **Veröffentlicht:** 22.03.2024 01:08
@@ -712,8 +710,8 @@
 - „Karte“ und „Anpinnen“ wurden im Verbindungsdetail getauscht, um einheitlich mit dem Fahrtverlauf dargestellt zu werden.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.1
+**Veröffentlicht:** 12.10.2023 12:23
 
 - Im Verbindungsdetail wird jetzt die Ankunft in Minuten gezeigt.
 - Verbesserte Darstellung von Zeiten.
@@ -781,8 +779,8 @@
 - Verbesserungen für das Liniendesign
 - Allgemeine Verbesserungen
 
-## Version 2.2.11
-**Veröffentlicht:** 14.09.2023 01:16
+## Version null
+**Veröffentlicht:** – No release date available
 
 - iOS 17 Kompatibilität
 - 3D Optionen wurden zur Karte hinzugefügt.
@@ -797,12 +795,12 @@
 ## Version 2.2.9
 **Veröffentlicht:** 08.09.2023 14:39
 
+- Lange Fusswege werden jetzt unter Verbindung markiert.
+- Allgemeine Verbesserungen
 
 ## Version 2.2.8
 **Veröffentlicht:** 04.09.2023 16:00
 
-- Start gefunden wurde.
-- Allgemeine Verbesserungen
 
 ## Version 2.2.7
 **Veröffentlicht:** 02.09.2023 08:49
@@ -908,22 +906,6 @@
 ## Version 2.0
 **Veröffentlicht:** 12.07.2023 08:34
 
-- Bahnfinder 2 ist das Umfangreichste Update bisher und macht Bahnfinder noch schneller, übersichtlicher und schöner.
-- Das ist neu: 
-- Neues, übersichtlicheres Aussehen durch differenzierte Farben und weiteren Anpassungen.
-- Neue Design Optionen
-- 2 neue Design Pakete 
-- „Automatisch folgen“: Mit der Funktion „Automatisch folgen“ werden dir jederzeit Abfahrten der nächsten Haltestelle angezeigt, während du dich fortbewegst.
-- „Automatisch suchen“: Suche deine Verbindung automatisch, sobald du eine Start und Zielhaltestelle ausgewählt hast. 
-- Linien können unter Abfahrten ausgeblendet werden.
-- Mehr Informationen bei Verbindungen 
-- Eigene Icons bei Haltestellen Favoriten
-- Ankünfte bei Haltestellen  
-- Verbesserte Unterstützung für Rufbusse
-- Gehzeit in Minuten 
-- Karte bei Verbindung
-- Erhebliche Leistungsverbesserungen
-- Und viele weitere kleine Änderungen…
 
 ## Version 1.5.6
 **Veröffentlicht:** 06.06.2023 17:36
@@ -956,8 +938,8 @@
 - Stabilität wurde verbessert
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.5.1
+**Veröffentlicht:** 22.05.2023 22:56
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
@@ -1043,7 +1025,6 @@
 ## Version 1.1.2
 **Veröffentlicht:** 25.04.2023 04:22
 
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.1.1
 **Veröffentlicht:** 21.04.2023 20:55
