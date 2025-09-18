@@ -289,7 +289,6 @@
 ## Version 4.4.5
 **Veröffentlicht:** 12.08.2024 15:00
 
-- Das BVG Verkehrsnetz funktioniert jetzt wieder wie erwartet.
 
 ## Version 4.4.4
 **Veröffentlicht:** 11.07.2024 03:33
@@ -447,8 +446,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.11
+**Veröffentlicht:** 08.05.2024 16:43
 
 - Das Liniensymbol für die Tram 21 im MVV wurde aktualisiert.
 - Einige Verkehrsnetzspezifische Probleme wurden behoben.
@@ -678,8 +677,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.7
+**Veröffentlicht:** 19.10.2023 01:21
 
 - Allgemeine Verbesserungen
 
@@ -688,8 +687,8 @@
 
 - Fehlerbehebungen
 
-## Version 2.3.5
-**Veröffentlicht:** 18.10.2023 17:03
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Darstellung des Standortpfeils wurde verbessert.
 - Allgemeine Verbesserungen
