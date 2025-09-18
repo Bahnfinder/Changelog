@@ -53,8 +53,8 @@
 - Ein Fehler wurde behoben, der in seltenen Fällen zu Abstürzen beim verwenden von „Lokale Backups“ geführt hat
 - Allgemeine Verbesserungen 
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.1
+**Veröffentlicht:** 26.04.2025 00:45
 
 - Liniennummern und andere Objekte zeigen jetzt realistische Reflexionen, die sich an die Neigung des Geräts anpassen
 - Ausgefallene Haltestellen werden jetzt auf den Karten angezeigt
@@ -1014,6 +1014,11 @@
 ## Version 1.3.0
 **Veröffentlicht:** 10.05.2023 14:19
 
+- Zwischenstopps hinzugefügt
+- Verbindungen: Abfahrt oder Ankunftszeit kann ausgewählt werden
+- Suche verbessert
+- Verbesserung für Ausfälle
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.2.2
 **Veröffentlicht:** 09.05.2023 13:10
