@@ -81,6 +81,7 @@
 ## Version 6.0.10
 **Veröffentlicht:** 16.02.2025 17:24
 
+- Allgemeine Verbesserungen
 
 ## Version 6.0.9
 **Veröffentlicht:** 12.02.2025 03:24
@@ -449,6 +450,10 @@
 ## Version 4.1.11
 **Veröffentlicht:** 08.05.2024 16:43
 
+- Das Liniensymbol für die Tram 21 im MVV wurde aktualisiert.
+- Einige Verkehrsnetzspezifische Probleme wurden behoben.
+- Die Anzeige von Entfernungen unter Favoriten wurde behoben.
+- Allgemeine Verbesserungen
 
 ## Version 4.1.10
 **Veröffentlicht:** 07.05.2024 14:53
@@ -510,8 +515,8 @@
 - Erweiterte Diagnosedaten können jetzt per Mail gesendet werden.
 - Allgemeine Verbesserungen
 
-## Version 4.1.1
-**Veröffentlicht:** 10.03.2024 22:38
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neue Verkehrsnetze hinzugefügt: MVG (Märkischer Kreis), VMS, VMV, VRN
 - Allgemeine Verbesserungen
@@ -576,7 +581,6 @@
 ## Version 3.1.1
 **Veröffentlicht:** 02.02.2024 12:41
 
-- Allgemeine Verbesserungen
 
 ## Version 3.1
 **Veröffentlicht:** 01.02.2024 16:55
@@ -719,14 +723,34 @@
 ## Version 2.3.0
 **Veröffentlicht:** 11.10.2023 11:43
 
+- Der AVV Augsburg wurde als Verkehrsnetz hinzugefügt.
+- Komplett neues Menü zum auswählen des App Icons.
+- Bahnfinder, Ring, Gefüllter Ring.
+- Die Favoritensymbole werden jetzt in jedem Bereich der App angezeigt.
+- Neue Option zum anzeigen von Ortsnamen hinter dem Haltestellennamen.
+- Überarbeitete Anzeige von „nächster Haltestelle“: Der Standortpfeil, der die nächste Haltestelle anzeigt, ist jetzt in allen Bereichen der App sichtbar. Ausserdem wird nun unterschieden, ob die Haltestelle die nächste ist oder man sich an dieser befindet.
+- Detaillierte Umsteigeinformationen auf der Verbindungskarte hinzugefügt.
+- Neue Option zum auswählen, ob das Favoritensymbol unter Abfahrten hinter der Liniennummer oder hinter der Zielhaltestelle angezeigt werden soll.
+- Das Design kann jetzt abhängig vom Erscheinungsbild ausgewählt werden.
+- Neue Linieninformation „Orte“
+- Zwischenstopps sind jetzt im Verbindungsdetail sichtbar.
+- Wichtige Haltestellen werden in der Suche hervorgehoben.
+- Neues Menü „Experimente“: Teste kleine Features der App bevor sie veröffentlicht werden.
+- Der Aktuelle Standort kann jetzt über das Schnellauswahlmenü unter Verbindung eingesetzt werden.
+- Neue Kontextmenüs unter Verbindung zum zurücksetzen der Optionen und Zeit.
+- Verbesserte Unterstützung für zweifarbige Linien.
+- Die Designs wurden verbessert.
+- Verbesserte Stabilität
+- Fehlerbehebungen
+- Allgemeine Verbesserungen
 
 ## Version 2.2.17
 **Veröffentlicht:** 20.09.2023 17:52
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.16
+**Veröffentlicht:** 20.09.2023 02:35
 
 - Die Darstellung zweifarbiger Linien wurde verbessert.
 - Updates für Linieninfos
@@ -1045,14 +1069,14 @@
 
 - Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.0.10
+**Veröffentlicht:** 14.04.2023 21:13
 
 - Suche verbessert
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.0.9
+**Veröffentlicht:** 11.04.2023 23:05
 
 - Ein Fehler wurde behoben, durch den die App keine Inhalte mehr geladen hat, wenn sie eine gewisse Zeit im Hintergrund war. 
 - Der Fehler könnte bei einigen Nutzern dennoch auftreten, schließe die App dazu aus dem Multitasking Menü und öffne sie erneut. 
