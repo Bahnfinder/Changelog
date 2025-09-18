@@ -255,8 +255,8 @@
 - Anpassungen für iOS 18
 - Allgemeine Verbesserungen
 
-## Version 5.0.3
-**Veröffentlicht:** 06.09.2024 03:16
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Ein Fehler wurde behoben, der dazu führte, dass die App beim anschauen von Verbindungen abstürzt.
 - Allgemeine Verbesserungen
@@ -857,8 +857,8 @@
 - Neue Informationen bei „Linieninfos“: Längste und kürzeste Distanz zwischen zwei Haltestellen.
 - Allgemeine Verbesserungen 
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.1.2
+**Veröffentlicht:** 01.08.2023 09:16
 
 - Linieninfos: Mit "Linieninfos" (Beta) erfährst du alles Wissenswerte über deine Linien. Hier kannst du nachschlagen, welche Distanz ein Fahrzeug zurücklegt, wie lange es insgesamt fährt und vieles mehr.
 - Neues Symbol für veränderte Verbindungsoptionen.
