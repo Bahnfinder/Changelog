@@ -227,6 +227,7 @@
 ## Version 5.1.3
 **Veröffentlicht:** 27.09.2024 17:57
 
+- Ein Darstellungsfehler wurde behoben
 
 ## Version 5.1.2
 **Veröffentlicht:** 22.09.2024 15:19
@@ -332,6 +333,7 @@
 ## Version 4.3.1
 **Veröffentlicht:** 23.06.2024 01:00
 
+- Kleine Anpassungen bei der Einrichtung
 
 ## Version 4.3.0
 **Veröffentlicht:** 21.06.2024 08:52
@@ -392,12 +394,6 @@
 ## Version 4.2.0
 **Veröffentlicht:** 10.06.2024 11:36
 
-- „Synchronisieren“ wurde in „Backups“ umbenannt. Es ist jetzt möglich, unbegrenzt viele verschiedene iCloud Backups zu erstellen und zu verwalten. Nutzer können jetzt ihre Backups mit einer komplett neuen Oberfläche verwalten und wiederherstellen. 
-- Auf der Fahrtverlauf Karte werden jetzt Abfahrtszeiten angezeigt.
-- Neue Option, um „Haltestellen vorlesen“ automatisch zu beenden, wenn Kopfhörer getrennt wurden.
-- Die Einrichtung wurde verbessert
-- Ein Fehler wurde behoben, der dazu führte, dass die Liniensymbole nach einer Wiederherstellung nicht angezeigt wurden.
-- Allgemeine Verbesserungen
 
 ## Version 4.1.19
 **Veröffentlicht:** 20.05.2024 19:02
@@ -581,8 +577,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 3.1
-**Veröffentlicht:** 01.02.2024 16:55
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Du kannst ab sofort spenden, um die weitere Entwicklung von Bahnfinder zu unterstützen :)
 - Neue Favoriten Symbole hinzugefügt
@@ -743,8 +739,8 @@
 - Fehlerbehebungen
 - Allgemeine Verbesserungen
 
-## Version 2.2.17
-**Veröffentlicht:** 20.09.2023 17:52
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
