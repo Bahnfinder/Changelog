@@ -22,8 +22,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 6.1.4
-**Veröffentlicht:** 29.05.2025 00:36
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Berechnung der Größe von lokalen Backups ist jetzt stabiler
 - Allgemeine Verbesserungen
@@ -389,6 +389,7 @@
 ## Version 4.2.1
 **Veröffentlicht:** 11.06.2024 23:51
 
+- Neues App Icon "Modern Schwarz"
 
 ## Version 4.2.0
 **Veröffentlicht:** 10.06.2024 11:36
@@ -1000,8 +1001,8 @@
 - Stabilitätsverbesserungen
 - Fehlerbehebungen
 
-## Version 1.3.2
-**Veröffentlicht:** 12.05.2023 05:14
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Stabilität erheblich verbessert
 
@@ -1086,8 +1087,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.0.7
+**Veröffentlicht:** 10.04.2023 03:17
 
 - Kritische Fehlerbehebungen
 
