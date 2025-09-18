@@ -184,6 +184,7 @@
 ## Version 5.1.11
 **Veröffentlicht:** 15.01.2025 00:41
 
+- Dieses Update enthält API Updates für das Deutsche Bahn Verkehrsnetz, welches jetzt wieder wie erwartet funktioniert!
 
 ## Version 5.1.10
 **Veröffentlicht:** 13.01.2025 01:03
@@ -234,8 +235,8 @@
 - Verbesserte Hinweise für die Standortfreigabe
 - Allgemeine Verbesserungen
 
-## Version 5.1.1
-**Veröffentlicht:** 21.09.2024 07:10
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Ein Fehler wurde behoben, der dazu führte, dass „Haltestellen ankündigen“ in einigen Fällen im Hintergrund gestoppt wurde.
 - Allgemeine Verbesserungen
@@ -311,8 +312,8 @@
 - Ein Neustart der App wird jetzt vorausgesetzt, um das Verkehrsnetz zu wechseln.
 - Fehlerbehebungen
 
-## Version 4.4
-**Veröffentlicht:** 27.06.2024 16:01
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neues App Icon: „Flipswitch“
 - Verbesserungen im Abfahrten Popover
@@ -363,7 +364,6 @@
 ## Version 4.2.5
 **Veröffentlicht:** 17.06.2024 10:46
 
-- Hauptbahnhöfe werden jetzt verbessert angezeigt.
 
 ## Version 4.2.4
 **Veröffentlicht:** 15.06.2024 18:32
@@ -1024,8 +1024,8 @@
 
 - Fehlerbehebungen
 
-## Version 1.2.1
-**Veröffentlicht:** 08.05.2023 23:07
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Fehlerbehebungen
 
