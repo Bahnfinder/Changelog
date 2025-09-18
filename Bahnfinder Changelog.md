@@ -11,8 +11,8 @@
 - Alle Neuerungen: Unter „Info > Neues in Bahnfinder“ findest du alle Neuerungen aus allen bisherigen Bahnfinder Versionen.
 - Über 15 weitere Verbesserungen machen Bahnfinder noch besser und schneller.
 
-## Version 6.1.6
-**Veröffentlicht:** 24.06.2025 23:20
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Designanpassungen
 - Allgemeine Verbesserungen
@@ -312,8 +312,8 @@
 - Ein Neustart der App wird jetzt vorausgesetzt, um das Verkehrsnetz zu wechseln.
 - Fehlerbehebungen
 
-## Version 4.4
-**Veröffentlicht:** 27.06.2024 16:01
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neues App Icon: „Flipswitch“
 - Verbesserungen im Abfahrten Popover
