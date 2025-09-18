@@ -40,8 +40,6 @@
 ## Version 6.1.2
 **Veröffentlicht:** 18.05.2025 22:29
 
-- Die Größe eines Backups wird jetzt angezeigt. Zusätzlich wird die relative Größe im Vergleich zu anderen Backups dargestellt
-- Allgemeine Verbesserungen
 
 ## Version 6.1.1
 **Veröffentlicht:** 28.04.2025 18:53
@@ -221,8 +219,6 @@
 ## Version 5.1.4
 **Veröffentlicht:** 27.11.2024 00:19
 
-- Das VMV Verkehrsnetz funktioniert jetzt wieder wie erwartet
-- Allgemeine Verbesserungen
 
 ## Version 5.1.3
 **Veröffentlicht:** 27.09.2024 17:57
@@ -286,8 +282,8 @@
 - Wichtige Haltestellen filtern: du kannst in der Suche auswählen, ob du nur die wichtigsten Haltestellen in deiner Nähe sehen möchtest. Diese basieren auf deinen Favoriten, benutzten und besuchten Haltestellen.
 - Über 90 weitere Neuerungen machen Bahnfinder noch besser und schneller.
 
-## Version 4.4.5
-**Veröffentlicht:** 12.08.2024 15:00
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Das BVG Verkehrsnetz funktioniert jetzt wieder wie erwartet.
 
@@ -341,8 +337,8 @@
 - Neue Verkehrsnetze: BVG, HVV, RMV, RailTeam & Naldo
 - Allgemeine Verbesserungen
 
-## Version 4.2.8
-**Veröffentlicht:** 20.06.2024 21:56
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Beschreibung vom DB Provider wurde geändert.
 
@@ -504,6 +500,10 @@
 ## Version 4.1.3
 **Veröffentlicht:** 18.03.2024 14:01
 
+- Erweiterte Diagnosedaten können jetzt optional aktiviert werden.
+- Lokale Backups können jetzt automatisch gelöscht werden.
+- Die Darstellung von lokalen Backups wurde verbessert.
+- Allgemeine Verbesserungen
 
 ## Version 4.1.2
 **Veröffentlicht:** 15.03.2024 12:35
@@ -765,8 +765,8 @@
 - Mit der Funktion "Notfallsuche" wird versucht, stets eine Verbindung für dich zu finden. Selbst in Situationen wie späten Stunden in einem entlegenen Dorf werden dir beispielsweise lange Fußwege zum nächsten Ort vorgeschlagen, um in jedem Fall nach Hause zu kommen.
 - Allgemeine Verbesserungen
 
-## Version 2.2.13
-**Veröffentlicht:** 16.09.2023 02:03
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neue Tipps.
 - Allgemeine Verbesserungen
