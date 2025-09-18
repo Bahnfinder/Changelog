@@ -1,6 +1,7 @@
 ## Version 6.2.1
 **Veröffentlicht:** 08.09.2025 16:34
 
+- Das Naldo Verkehrsnetz funktioniert jetzt wieder wie erwartet.
 
 ## Version 6.2
 **Veröffentlicht:** 31.07.2025 22:56
@@ -82,8 +83,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 6.0.9
-**Veröffentlicht:** 12.02.2025 03:24
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Ein Fehler wurde behoben, der in manchen Situationen zum Einfrieren und Abstürzen der App führte.
 
@@ -559,8 +560,8 @@
 - Synchronisierung zu begrenzen, um Daten und Batterieverbrauch zu reduzieren. 
 - Allgemeine Verbesserungen
 
-## Version 3.1.4
-**Veröffentlicht:** 15.02.2024 16:58
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neue Hinweise, wenn keine Abfahrten an der gewählten Haltestelle verfügbar sind.
 - Allgemeine Verbesserungen
@@ -703,8 +704,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 2.3.2
-**Veröffentlicht:** 13.10.2023 12:39
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Das Layout der Linieninfos wurde für alle Gerätegrössen angepasst.
 - Die Lesbarkeit der Anzahl an Zwischenhalten im Verbindungsdetail wurde verbessert.
@@ -865,8 +866,8 @@
 - Neue Favoriten Symbole 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.1.1
+**Veröffentlicht:** 28.07.2023 19:11
 
 - Fehlerbehebungen
 
@@ -900,8 +901,8 @@
 - Favoriten Symbole werden in Abfahrten gezeigt.
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 2.0.1
-**Veröffentlicht:** 15.07.2023 00:02
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Option zum auswählen der Ansicht beim App Start hinzugefügt.
 - Allgemeine Verbesserungen und Fehlerbehebungen
@@ -1094,8 +1095,6 @@
 ## Version 1.0.6
 **Veröffentlicht:** 08.04.2023 02:04
 
-- Ein kritischer Fehler, der die App an bestimmten Standorten zum Absturz brachte, wurde behoben.
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.0.5
 **Veröffentlicht:** 06.04.2023 04:16
