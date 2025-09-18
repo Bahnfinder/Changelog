@@ -25,8 +25,6 @@
 ## Version 6.1.4
 **Veröffentlicht:** 29.05.2025 00:36
 
-- Die Berechnung der Größe von lokalen Backups ist jetzt stabiler
-- Allgemeine Verbesserungen
 
 ## Version 6.1.3
 **Veröffentlicht:** 19.05.2025 15:18
@@ -429,6 +427,8 @@
 ## Version 4.1.15
 **Veröffentlicht:** 15.05.2024 22:58
 
+- Die Funktion "Haltestelle Automatisch ausfüllen" kann jetzt deaktiviert werden.
+- Allgemeine Verbesserungen
 
 ## Version 4.1.14
 **Veröffentlicht:** 12.05.2024 22:31
@@ -755,8 +755,8 @@
 - Updates für Linieninfos
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.15
+**Veröffentlicht:** 19.09.2023 15:08
 
 - Ein Fehler wurde behoben, der dazu geführt hat, dass auf der Karte eine veraltete Verbindung angezeigt wurde.
 - Allgemeine Verbesserungen
@@ -835,8 +835,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 2.2.2
-**Veröffentlicht:** 14.08.2023 09:53
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neues Menü zur Schnellauswahl bei der Haltestellensuche.
 - Allgemeine Verbesserungen
@@ -872,12 +872,6 @@
 ## Version 2.1
 **Veröffentlicht:** 27.07.2023 15:20
 
-- Neues Design in "Verbindung".
-- Verkehrsnetz spezifische Einstellungen hinzugefügt.
-- Neue Favoriten Symbole.
-- Neuer "Zurücksetzen" Dialog.
-- Neue Option, zum ausblenden des "Suchen" Button, wenn "Automatische Suche" aktiviert ist.
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 2.0.4
 **Veröffentlicht:** 24.07.2023 00:19
@@ -952,9 +946,6 @@
 ## Version 1.5.2
 **Veröffentlicht:** 25.05.2023 04:40
 
-- Eine Option zum anrufen von Rufbussen wurde hinzugefügt
-- Stabilität wurde verbessert
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.5.1
 **Veröffentlicht:** 22.05.2023 22:56
@@ -1045,8 +1036,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.1.1
-**Veröffentlicht:** 21.04.2023 20:55
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
