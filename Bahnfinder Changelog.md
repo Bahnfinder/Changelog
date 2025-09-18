@@ -203,8 +203,8 @@
 - Frohes neues Jahr!
 - Verbesserte Beschriftungen für VoiceOver
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.1.7
+**Veröffentlicht:** 19.12.2024 03:54
 
 - Ein Fehler wurde behoben, der dazu führte, dass die App beim Ansehen bestimmter Verbindungen abstürzte. 
 
@@ -688,8 +688,8 @@
 
 - Fehlerbehebungen
 
-## Version 2.3.5
-**Veröffentlicht:** 18.10.2023 17:03
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Darstellung des Standortpfeils wurde verbessert.
 - Allgemeine Verbesserungen
@@ -784,9 +784,6 @@
 ## Version 2.2.11
 **Veröffentlicht:** 14.09.2023 01:16
 
-- iOS 17 Kompatibilität
-- 3D Optionen wurden zur Karte hinzugefügt.
-- Allgemeine Verbesserungen
 
 ## Version 2.2.10
 **Veröffentlicht:** 11.09.2023 11:05
@@ -1011,8 +1008,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.3.0
-**Veröffentlicht:** 10.05.2023 14:19
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Zwischenstopps hinzugefügt
 - Verbindungen: Abfahrt oder Ankunftszeit kann ausgewählt werden
