@@ -94,8 +94,8 @@
 - Leistungsverbesserungen
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.0.7
+**Veröffentlicht:** 09.02.2025 23:42
 
 - Allgemeine Verbesserungen
 
@@ -535,6 +535,10 @@
 ## Version 4.0.1
 **Veröffentlicht:** 06.03.2024 01:56
 
+- 2 neue App Icons: „Mund“ und „Mitternacht Mund“
+- Die Fahrzeugnummer ist jetzt unter Linieninfos sichtbar. 
+- Neue Designoptionen für den Suchen Button in Verbindung
+- Allgemeine Verbesserungen
 
 ## Version 4.0
 **Veröffentlicht:** 26.02.2024 15:09
@@ -1036,6 +1040,7 @@
 ## Version 1.1.3
 **Veröffentlicht:** 27.04.2023 03:25
 
+- Allgemeine Verbesserungen und Fehlerbehebungen.
 
 ## Version 1.1.2
 **Veröffentlicht:** 25.04.2023 04:22
@@ -1087,8 +1092,8 @@
 
 - Kritische Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.0.6
+**Veröffentlicht:** 08.04.2023 02:04
 
 - Ein kritischer Fehler, der die App an bestimmten Standorten zum Absturz brachte, wurde behoben.
 - Allgemeine Verbesserungen und Fehlerbehebungen
@@ -1106,8 +1111,8 @@
 - Setup Assistenten hinzugefügt.
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version 1.0.3
-**Veröffentlicht:** 03.04.2023 23:08
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neue App Icons
 - Es wurde ein Hinweis hinzugefügt, der den Nutzer darauf aufmerksam macht, dass die Ortungsdienste deaktiviert sind.
