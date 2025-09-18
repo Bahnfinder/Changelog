@@ -607,6 +607,21 @@
 ## Version 3.0.0
 **Veröffentlicht:** 02.01.2024 16:59
 
+- Bahnfinder 3 bietet spannende Neuerungen, die deinen Alltag noch einfacher machen. Das sind die größten Änderungen:
+- Haltestellen vorlesen: Lasse dir nicht nur die nächsten Haltestellen vorlesen, sondern erhalte auch Erinnerungen zum Aussteigen.
+- Überarbeiteter Fahrtverlauf: Verfolge dein Fahrzeug sekundengenau mit einem noch detaillierteren Fahrtverlauf.
+- Kompakte Abfahrten: Neues auswählbares Design für Abfahrten.
+- Verbindungsdetail: Erfahre noch mehr informationen über deine ausgewählte Fahrt, wie zum Beispiel die Fahrtdauer in einem Fahrzeug. Ausserdem wird die aktuelle Fahrt Live aktualisiert.
+- Neue App Icons: iOS 5, TestFlight, TestFlight geriffelt, Mitternacht, Vereiste Weihnachten, Vereiste Weihnachten Mund, Weihnachtsgeschenk, Weihnachtsgeschenk Mund
+- Weitere Neuerungen:
+- Du kannst ab sofort einen Fahrtverlauf anpinnen
+- Die Darstellung von Haltestellennamen kann angepasst werden
+- Neue Einstellung: „Hoher Kontrast für Gleisanzeige“ im Verbindungsdetail
+- Zeiten werden verbessert dargestellt
+- Abfahrten, die von einem anderen Bildschirm geöffnet werden, werden jetzt verkleinert dargestellt
+- Touch Menü schnell eingesetzt werden
+- Die Suche ist jetzt noch schneller
+- Über 30 weitere Verbesserungen machen Bahnfinder noch noch schneller und zuverlässiger.
 
 ## Version 2.3.16
 **Veröffentlicht:** 20.12.2023 09:49
@@ -779,8 +794,8 @@
 - Die Karte wurde überarbeitet und bietet jetzt eine verbesserte Navigation.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.9
+**Veröffentlicht:** 08.09.2023 14:39
 
 - Lange Fusswege werden jetzt unter Verbindung markiert.
 - Allgemeine Verbesserungen
@@ -836,6 +851,11 @@
 ## Version 2.2
 **Veröffentlicht:** 09.08.2023 20:22
 
+- Dieses Update enthält interne Optimierungen, die Bahnfinder noch schneller und stabiler machen.
+- Neues, optionales Layout für eine verbesserte einhändige Bedienung. (Vorerst nur bei Abfahrten)
+- Ausgefallene Haltestellen werden jetzt unter Verbindungen angezeigt.
+- Neue Informationen bei „Linieninfos“: Längste und kürzeste Distanz zwischen zwei Haltestellen.
+- Allgemeine Verbesserungen 
 
 ## Version 2.1.2
 **Veröffentlicht:** 01.08.2023 09:16
@@ -849,7 +869,6 @@
 ## Version 2.1.1
 **Veröffentlicht:** 28.07.2023 19:11
 
-- Fehlerbehebungen
 
 ## Version 2.1
 **Veröffentlicht:** 27.07.2023 15:20
@@ -926,10 +945,9 @@
 - Die Zeit einer gesuchten Verbindung wird jetzt im Verlauf angezeigt.
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.5.3
-**Veröffentlicht:** 26.05.2023 04:25
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Allgemeine Verbesserungen
 
 ## Version 1.5.2
 **Veröffentlicht:** 25.05.2023 04:40
@@ -1032,8 +1050,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.1.0
+**Veröffentlicht:** 21.04.2023 06:06
 
 - Verbindung anpinnen: Deine ausgewählte Route wird gespeichert und bleibt bis zum Ende deiner Fahrt oben angeheftet. Mit nur einem Klick kannst du sie jederzeit wieder aufrufen.
 - Designpaket „Glas“ wurde für den hellen Modus optimiert.
