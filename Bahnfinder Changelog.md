@@ -637,6 +637,8 @@
 ## Version 2.3.14
 **Veröffentlicht:** 08.12.2023 03:16
 
+- Bahnfinder wünscht euch eine schöne Weihnachtszeit!
+- App Icon hinzugefügt.
 
 ## Version 2.3.13
 **Veröffentlicht:** 03.11.2023 16:35
@@ -710,8 +712,8 @@
 - „Karte“ und „Anpinnen“ wurden im Verbindungsdetail getauscht, um einheitlich mit dem Fahrtverlauf dargestellt zu werden.
 - Allgemeine Verbesserungen
 
-## Version 2.3.1
-**Veröffentlicht:** 12.10.2023 12:23
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Im Verbindungsdetail wird jetzt die Ankunft in Minuten gezeigt.
 - Verbesserte Darstellung von Zeiten.
@@ -764,6 +766,8 @@
 ## Version 2.2.14
 **Veröffentlicht:** 18.09.2023 17:13
 
+- Mit der Funktion "Notfallsuche" wird versucht, stets eine Verbindung für dich zu finden. Selbst in Situationen wie späten Stunden in einem entlegenen Dorf werden dir beispielsweise lange Fußwege zum nächsten Ort vorgeschlagen, um in jedem Fall nach Hause zu kommen.
+- Allgemeine Verbesserungen
 
 ## Version 2.2.13
 **Veröffentlicht:** 16.09.2023 02:03
@@ -787,6 +791,8 @@
 ## Version 2.2.10
 **Veröffentlicht:** 11.09.2023 11:05
 
+- Die Karte wurde überarbeitet und bietet jetzt eine verbesserte Navigation.
+- Allgemeine Verbesserungen
 
 ## Version 2.2.9
 **Veröffentlicht:** 08.09.2023 14:39
@@ -1062,6 +1068,7 @@
 ## Version 1.0.11
 **Veröffentlicht:** 17.04.2023 01:22
 
+- Fehlerbehebungen
 
 ## Version 1.0.10
 **Veröffentlicht:** 14.04.2023 21:13
