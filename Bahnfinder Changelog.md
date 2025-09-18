@@ -344,6 +344,7 @@
 ## Version 4.2.8
 **Veröffentlicht:** 20.06.2024 21:56
 
+- Die Beschreibung vom DB Provider wurde geändert.
 
 ## Version 4.2.7
 **Veröffentlicht:** 20.06.2024 01:04
@@ -677,8 +678,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.7
+**Veröffentlicht:** 19.10.2023 01:21
 
 - Allgemeine Verbesserungen
 
@@ -978,8 +979,8 @@
 - Stabilitätsverbesserungen
 - Fehlerbehebungen
 
-## Version 1.3.6
-**Veröffentlicht:** 16.05.2023 13:41
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Stabilitätsverbesserungen
 
@@ -1089,7 +1090,6 @@
 ## Version 1.0.7
 **Veröffentlicht:** 10.04.2023 03:17
 
-- Kritische Fehlerbehebungen
 
 ## Version 1.0.6
 **Veröffentlicht:** 08.04.2023 02:04
