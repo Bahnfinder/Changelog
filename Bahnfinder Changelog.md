@@ -43,8 +43,8 @@
 - Die Größe eines Backups wird jetzt angezeigt. Zusätzlich wird die relative Größe im Vergleich zu anderen Backups dargestellt
 - Allgemeine Verbesserungen
 
-## Version 6.1.1
-**Veröffentlicht:** 28.04.2025 18:53
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Release Version
 - Automatische Backups werden jetzt nach einer Wiederherstellung automatisch aktiviert
@@ -389,7 +389,6 @@
 ## Version 4.2.1
 **Veröffentlicht:** 11.06.2024 23:51
 
-- Neues App Icon "Modern Schwarz"
 
 ## Version 4.2.0
 **Veröffentlicht:** 10.06.2024 11:36
@@ -493,6 +492,8 @@
 ## Version 4.1.5
 **Veröffentlicht:** 20.03.2024 19:10
 
+- Anpassungen an App Icons
+- Design Anpassungen
 
 ## Version 4.1.4
 **Veröffentlicht:** 19.03.2024 16:44
@@ -632,8 +633,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.14
+**Veröffentlicht:** 08.12.2023 03:16
 
 - Bahnfinder wünscht euch eine schöne Weihnachtszeit!
 - App Icon hinzugefügt.
@@ -858,6 +859,11 @@
 ## Version 2.1.2
 **Veröffentlicht:** 01.08.2023 09:16
 
+- Linieninfos: Mit "Linieninfos" (Beta) erfährst du alles Wissenswerte über deine Linien. Hier kannst du nachschlagen, welche Distanz ein Fahrzeug zurücklegt, wie lange es insgesamt fährt und vieles mehr.
+- Neues Symbol für veränderte Verbindungsoptionen.
+- Bei „Linien ausblenden“ können nun alle Linien mit einen Knopfdruck ausgeblendet oder eingeblendet werden.
+- Neue Favoriten Symbole 
+- Allgemeine Verbesserungen
 
 ## Version 2.1.1
 **Veröffentlicht:** 28.07.2023 19:11
@@ -975,7 +981,6 @@
 ## Version 1.3.6
 **Veröffentlicht:** 16.05.2023 13:41
 
-- Stabilitätsverbesserungen
 
 ## Version 1.3.5
 **Veröffentlicht:** 16.05.2023 00:53
