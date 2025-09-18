@@ -11,8 +11,8 @@
 - Alle Neuerungen: Unter „Info > Neues in Bahnfinder“ findest du alle Neuerungen aus allen bisherigen Bahnfinder Versionen.
 - Über 15 weitere Verbesserungen machen Bahnfinder noch besser und schneller.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.1.6
+**Veröffentlicht:** 24.06.2025 23:20
 
 - Designanpassungen
 - Allgemeine Verbesserungen
@@ -184,7 +184,6 @@
 ## Version 5.1.11
 **Veröffentlicht:** 15.01.2025 00:41
 
-- Dieses Update enthält API Updates für das Deutsche Bahn Verkehrsnetz, welches jetzt wieder wie erwartet funktioniert!
 
 ## Version 5.1.10
 **Veröffentlicht:** 13.01.2025 01:03
