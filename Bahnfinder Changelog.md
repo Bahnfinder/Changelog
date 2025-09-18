@@ -184,6 +184,7 @@
 ## Version 5.1.11
 **Veröffentlicht:** 15.01.2025 00:41
 
+- Dieses Update enthält API Updates für das Deutsche Bahn Verkehrsnetz, welches jetzt wieder wie erwartet funktioniert!
 
 ## Version 5.1.10
 **Veröffentlicht:** 13.01.2025 01:03
@@ -661,9 +662,6 @@
 ## Version 2.3.10
 **Veröffentlicht:** 28.10.2023 19:18
 
-- Die Darstellung des Standortpfeils wurde verbessert.
-- Die Haltestellensymbol UI wurde verbessert.
-- Allgemeine Verbesserungen
 
 ## Version 2.3.9
 **Veröffentlicht:** 22.10.2023 16:09
@@ -983,13 +981,13 @@
 
 - Stabilitätsverbesserungen
 
-## Version 1.3.5
-**Veröffentlicht:** 16.05.2023 00:53
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Fehlerbehebungen und Stabilitätsverbesserungen
 
-## Version 1.3.4
-**Veröffentlicht:** 13.05.2023 10:27
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
