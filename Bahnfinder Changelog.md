@@ -435,6 +435,7 @@
 ## Version 4.1.14
 **Veröffentlicht:** 12.05.2024 22:31
 
+- Allgemeine Verbesserungen
 
 ## Version 4.1.13
 **Veröffentlicht:** 12.05.2024 15:34
@@ -571,8 +572,8 @@
 - Fehlerbehebungen
 - Allgemeine Verbesserungen
 
-## Version 3.1.2
-**Veröffentlicht:** 10.02.2024 07:37
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Fehlerbehebungen
 - Allgemeine Verbesserungen
@@ -714,6 +715,11 @@
 ## Version 2.3.1
 **Veröffentlicht:** 12.10.2023 12:23
 
+- Im Verbindungsdetail wird jetzt die Ankunft in Minuten gezeigt.
+- Verbesserte Darstellung von Zeiten.
+- Ein Fehler wurde behoben, der dazu geführt hat, dass unter bestimmten Umständen Text in Abfahrten abgeschnitten wurde.
+- Fehlerbehebungen
+- Allgemeine Verbesserungen
 
 ## Version 2.3.0
 **Veröffentlicht:** 11.10.2023 11:43
@@ -766,8 +772,6 @@
 ## Version 2.2.13
 **Veröffentlicht:** 16.09.2023 02:03
 
-- Neue Tipps.
-- Allgemeine Verbesserungen
 
 ## Version 2.2.12
 **Veröffentlicht:** 15.09.2023 08:35
@@ -934,8 +938,8 @@
 - Sekundengenaue Zeiten: Abfahrten und Verbindungen werden jetzt in Sekunden angezeigt, wenn die Wartezeit unter 1 Minute ist.
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.5.4
+**Veröffentlicht:** 01.06.2023 03:49
 
 - Die Zeit einer gesuchten Verbindung wird jetzt im Verlauf angezeigt.
 - Allgemeine Verbesserungen und Fehlerbehebungen
