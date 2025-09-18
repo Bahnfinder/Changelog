@@ -229,8 +229,8 @@
 
 - Ein Darstellungsfehler wurde behoben
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.1.2
+**Veröffentlicht:** 22.09.2024 15:19
 
 - Verbesserte Hinweise für die Standortfreigabe
 - Allgemeine Verbesserungen
@@ -371,8 +371,8 @@
 
 - Die Geschwindigkeit von iCloud Backups wurde erheblich verbessert.
 
-## Version 4.2.3
-**Veröffentlicht:** 14.06.2024 12:07
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Nutzer werden ab jetzt darauf hingewiesen, wenn sie sich in einer nicht unterstützen Region befinden.
 - Die nächste Haltestelle wird jetzt auch in der Suche markiert.
@@ -874,12 +874,6 @@
 ## Version 2.1
 **Veröffentlicht:** 27.07.2023 15:20
 
-- Neues Design in "Verbindung".
-- Verkehrsnetz spezifische Einstellungen hinzugefügt.
-- Neue Favoriten Symbole.
-- Neuer "Zurücksetzen" Dialog.
-- Neue Option, zum ausblenden des "Suchen" Button, wenn "Automatische Suche" aktiviert ist.
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 2.0.4
 **Veröffentlicht:** 24.07.2023 00:19
@@ -1040,7 +1034,6 @@
 ## Version 1.1.3
 **Veröffentlicht:** 27.04.2023 03:25
 
-- Allgemeine Verbesserungen und Fehlerbehebungen.
 
 ## Version 1.1.2
 **Veröffentlicht:** 25.04.2023 04:22
