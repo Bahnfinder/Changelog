@@ -6,6 +6,10 @@
 ## Version 6.2
 **Veröffentlicht:** 31.07.2025 22:56
 
+- Inkognito: Im Inkognito Modus kannst du Verbindungen suchen, ohne dass sie im Verlauf sichtbar werden. 
+- Rückreise finden: Finde direkt eine Rückreise einer gefahrenen Verbindung aus deinem Verlauf.
+- Alle Neuerungen: Unter „Info > Neues in Bahnfinder“ findest du alle Neuerungen aus allen bisherigen Bahnfinder Versionen.
+- Über 15 weitere Verbesserungen machen Bahnfinder noch besser und schneller.
 
 ## Version 6.1.6
 **Veröffentlicht:** 24.06.2025 23:20
@@ -407,6 +411,8 @@
 ## Version 4.1.18
 **Veröffentlicht:** 18.05.2024 21:41
 
+- Neues App Icon „Weiss Inline“
+- Darstellungsanpassungen für kleinere Geräte
 
 ## Version 4.1.17
 **Veröffentlicht:** 16.05.2024 15:26
@@ -537,22 +543,6 @@
 ## Version 4.0
 **Veröffentlicht:** 26.02.2024 15:09
 
-- Bahnfinder 4 kommt mit spannenden Neuerungen, die deinen Alltag noch besser und einfacher machen. Zu den größten Neuerungen gehören:
-- Erinnerungen: Lasse dich rechtzeitig an Abfahrten erinnern.
-- Neuer „Synchronisieren“ Tab: „iCloud“ heisst jetzt „Synchronisieren“. Du kannst jetzt sowohl iCloud als auch Lokale Backups erstellen und wiederherstellen und diese sogar in andere Apps exportieren.
-- Menü.
-- Verbindungen direkt aus dem Fahrtverlauf suchen: Du kannst über das 3D Touch Menü eine bestimmte Haltestelle als Ziel auswählen und schnell eine Verbindungssuche starten.
-- Modus für noch effizienteres Multitasking.
-- Weitere Neuerungen: 
-- Neue Einstellungen für Haltestellen vorlesen: Personalisiere die Ansagen der Haltestellennamen mit neuen Einstellungsmöglichkeiten.
-- Neue Einstellungen für Wichtige Haltestellen: Markiere und verwalte wichtige Haltestellen direkt in den Einstellungen.
-- Option: Suche sortieren nach Distanz: Finde jetzt Haltestellen und Verbindungen, sortiert nach der Entfernung zu deinem Standort.
-- Verbesserte Suche: Die Optionen „Automatische Suche“ und „Suchen Button ausblenden“ wurden für eine intuitive Nutzung kombiniert.
-- Option: Standortpfeil im Fahrtverlauf: Lasse dir deinen aktuellen Standort im Fahrtverlauf mit einem Pfeil neben dem Haltestellennamen anzeigen.
-- Verbesserte Kategorien in den Einstellungen: Finde Einstellungen schneller mit den neu organisierten Kategorien.
-- Hinweis für Haltestellenansagen: Erhalte einen Hinweis beim Start, wenn „Nur wichtige Haltestellen vorlesen“ aktiviert ist.
-- Synchronisierung zu begrenzen, um Daten und Batterieverbrauch zu reduzieren. 
-- Allgemeine Verbesserungen
 
 ## Version 3.1.4
 **Veröffentlicht:** 15.02.2024 16:58
@@ -637,6 +627,7 @@
 ## Version 2.3.13
 **Veröffentlicht:** 03.11.2023 16:35
 
+- Fehlerbehebungen
 
 ## Version 2.3.12
 **Veröffentlicht:** 31.10.2023 20:40
