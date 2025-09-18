@@ -432,8 +432,8 @@
 - Die Funktion "Haltestelle Automatisch ausfüllen" kann jetzt deaktiviert werden.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.14
+**Veröffentlicht:** 12.05.2024 22:31
 
 - Allgemeine Verbesserungen
 
@@ -632,7 +632,6 @@
 ## Version 2.3.15
 **Veröffentlicht:** 13.12.2023 23:32
 
-- Allgemeine Verbesserungen
 
 ## Version 2.3.14
 **Veröffentlicht:** 08.12.2023 03:16
