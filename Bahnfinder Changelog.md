@@ -56,6 +56,17 @@
 ## Version 6.1
 **Veröffentlicht:** 26.04.2025 00:45
 
+- Liniennummern und andere Objekte zeigen jetzt realistische Reflexionen, die sich an die Neigung des Geräts anpassen
+- Ausgefallene Haltestellen werden jetzt auf den Karten angezeigt
+- Favorisierte Haltestellen werden jetzt mit dem entsprechenden Symbol auf den Karten angezeigt
+- Die Verbindungsoptionen werden jetzt nicht mehr in einem separaten Fenster geöffnet 
+- Ein neuer Splash Screen für „Haltestellen ankündigen“ wurde hinzugefügt
+- Splash Screens wurden überarbeitet
+- Mehr Informationen über den Entwickler wurden hinzugefügt 
+- Alle Buttons in der App haben jetzt ein runderes Design 
+- Die Optionen für „Automatisch bereinigen“ bei lokalen Backups wurden visuell überarbeitet
+- Designverbesserungen 
+- Allgemeine Verbesserungen
 
 ## Version 6.0.12
 **Veröffentlicht:** 02.03.2025 02:36
@@ -498,8 +509,8 @@
 - Die Darstellung von lokalen Backups wurde verbessert.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.2
+**Veröffentlicht:** 15.03.2024 12:35
 
 - Erweiterte Diagnosedaten können jetzt per Mail gesendet werden.
 - Allgemeine Verbesserungen
@@ -591,6 +602,7 @@
 ## Version 3.0.1
 **Veröffentlicht:** 18.01.2024 14:58
 
+- Allgemeine Verbesserungen
 
 ## Version 3.0.0
 **Veröffentlicht:** 02.01.2024 16:59
@@ -963,9 +975,6 @@
 ## Version 1.4.0
 **Veröffentlicht:** 17.05.2023 02:42
 
-- Automatische Suche bei Verbindungen hinzugefügt
-- Stabilitätsverbesserungen
-- Fehlerbehebungen
 
 ## Version 1.3.6
 **Veröffentlicht:** 16.05.2023 13:41
@@ -982,8 +991,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.3.3
+**Veröffentlicht:** 12.05.2023 22:22
 
 - Design Anpassungen
 - Stabilitätsverbesserungen
@@ -1016,6 +1025,7 @@
 ## Version 1.2.1
 **Veröffentlicht:** 08.05.2023 23:07
 
+- Fehlerbehebungen
 
 ## Version 1.2.0
 **Veröffentlicht:** 06.05.2023 00:35
