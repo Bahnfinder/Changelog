@@ -56,17 +56,6 @@
 ## Version 6.1
 **Veröffentlicht:** 26.04.2025 00:45
 
-- Liniennummern und andere Objekte zeigen jetzt realistische Reflexionen, die sich an die Neigung des Geräts anpassen
-- Ausgefallene Haltestellen werden jetzt auf den Karten angezeigt
-- Favorisierte Haltestellen werden jetzt mit dem entsprechenden Symbol auf den Karten angezeigt
-- Die Verbindungsoptionen werden jetzt nicht mehr in einem separaten Fenster geöffnet 
-- Ein neuer Splash Screen für „Haltestellen ankündigen“ wurde hinzugefügt
-- Splash Screens wurden überarbeitet
-- Mehr Informationen über den Entwickler wurden hinzugefügt 
-- Alle Buttons in der App haben jetzt ein runderes Design 
-- Die Optionen für „Automatisch bereinigen“ bei lokalen Backups wurden visuell überarbeitet
-- Designverbesserungen 
-- Allgemeine Verbesserungen
 
 ## Version 6.0.12
 **Veröffentlicht:** 02.03.2025 02:36
@@ -94,8 +83,8 @@
 - Leistungsverbesserungen
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.0.7
+**Veröffentlicht:** 09.02.2025 23:42
 
 - Allgemeine Verbesserungen
 
@@ -391,8 +380,8 @@
 
 - Neues App Icon "Modern Schwarz"
 
-## Version 4.2.0
-**Veröffentlicht:** 10.06.2024 11:36
+## Version null
+**Veröffentlicht:** – No release date available
 
 - „Synchronisieren“ wurde in „Backups“ umbenannt. Es ist jetzt möglich, unbegrenzt viele verschiedene iCloud Backups zu erstellen und zu verwalten. Nutzer können jetzt ihre Backups mit einer komplett neuen Oberfläche verwalten und wiederherstellen. 
 - Auf der Fahrtverlauf Karte werden jetzt Abfahrtszeiten angezeigt.
@@ -575,6 +564,8 @@
 ## Version 3.1.2
 **Veröffentlicht:** 10.02.2024 07:37
 
+- Fehlerbehebungen
+- Allgemeine Verbesserungen
 
 ## Version 3.1.1
 **Veröffentlicht:** 02.02.2024 12:41
@@ -602,8 +593,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 3.0.0
+**Veröffentlicht:** 02.01.2024 16:59
 
 - Bahnfinder 3 bietet spannende Neuerungen, die deinen Alltag noch einfacher machen. Das sind die größten Änderungen:
 - Haltestellen vorlesen: Lasse dir nicht nur die nächsten Haltestellen vorlesen, sondern erhalte auch Erinnerungen zum Aussteigen.
