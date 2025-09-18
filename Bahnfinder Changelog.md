@@ -56,17 +56,6 @@
 ## Version 6.1
 **Veröffentlicht:** 26.04.2025 00:45
 
-- Liniennummern und andere Objekte zeigen jetzt realistische Reflexionen, die sich an die Neigung des Geräts anpassen
-- Ausgefallene Haltestellen werden jetzt auf den Karten angezeigt
-- Favorisierte Haltestellen werden jetzt mit dem entsprechenden Symbol auf den Karten angezeigt
-- Die Verbindungsoptionen werden jetzt nicht mehr in einem separaten Fenster geöffnet 
-- Ein neuer Splash Screen für „Haltestellen ankündigen“ wurde hinzugefügt
-- Splash Screens wurden überarbeitet
-- Mehr Informationen über den Entwickler wurden hinzugefügt 
-- Alle Buttons in der App haben jetzt ein runderes Design 
-- Die Optionen für „Automatisch bereinigen“ bei lokalen Backups wurden visuell überarbeitet
-- Designverbesserungen 
-- Allgemeine Verbesserungen
 
 ## Version 6.0.12
 **Veröffentlicht:** 02.03.2025 02:36
@@ -114,8 +103,6 @@
 ## Version 6.0.4
 **Veröffentlicht:** 01.02.2025 23:31
 
-- Zu lange Gleisnummern im Verbindungsdetail werden jetzt separat dargestellt, wenn der Platz nicht ausreicht
-- Allgemeine Verbesserungen
 
 ## Version 6.0.3
 **Veröffentlicht:** 31.01.2025 03:41
@@ -255,8 +242,8 @@
 - Anpassungen für iOS 18
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.0.3
+**Veröffentlicht:** 06.09.2024 03:16
 
 - Ein Fehler wurde behoben, der dazu führte, dass die App beim anschauen von Verbindungen abstürzt.
 - Allgemeine Verbesserungen
@@ -592,8 +579,8 @@
 - Verbesserte Darstellung von Linienwegen auf der Karte
 - Allgemeine Verbesserungen
 
-## Version 3.0.2
-**Veröffentlicht:** 25.01.2024 15:35
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Haltestellen vorlesen liest jetzt auch die Abfahrtszeit vor.
 - Neue Option: „Verbindungsdetail Live aktualisieren“
@@ -750,8 +737,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 2.2.16
-**Veröffentlicht:** 20.09.2023 02:35
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Darstellung zweifarbiger Linien wurde verbessert.
 - Updates für Linieninfos
