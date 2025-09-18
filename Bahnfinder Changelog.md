@@ -117,8 +117,8 @@
 - Zu lange Gleisnummern im Verbindungsdetail werden jetzt separat dargestellt, wenn der Platz nicht ausreicht
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.0.3
+**Veröffentlicht:** 31.01.2025 03:41
 
 - Verbesserte Darstellung von Bahnhofsnamen
 - Allgemeine Verbesserungen
@@ -261,8 +261,8 @@
 - Ein Fehler wurde behoben, der dazu führte, dass die App beim anschauen von Verbindungen abstürzt.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.0.2
+**Veröffentlicht:** 05.09.2024 15:32
 
 - Ein Fehler wurde behoben, der dazu führte, dass die App beim Wechsel des Verkehrsnetzes auf iPads abstürzte. 
 
@@ -344,7 +344,6 @@
 ## Version 4.2.8
 **Veröffentlicht:** 20.06.2024 21:56
 
-- Die Beschreibung vom DB Provider wurde geändert.
 
 ## Version 4.2.7
 **Veröffentlicht:** 20.06.2024 01:04
@@ -678,8 +677,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 2.3.7
-**Veröffentlicht:** 19.10.2023 01:21
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -992,6 +991,7 @@
 ## Version 1.3.4
 **Veröffentlicht:** 13.05.2023 10:27
 
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.3.3
 **Veröffentlicht:** 12.05.2023 22:22
