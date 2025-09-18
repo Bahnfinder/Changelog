@@ -56,6 +56,17 @@
 ## Version 6.1
 **Veröffentlicht:** 26.04.2025 00:45
 
+- Liniennummern und andere Objekte zeigen jetzt realistische Reflexionen, die sich an die Neigung des Geräts anpassen
+- Ausgefallene Haltestellen werden jetzt auf den Karten angezeigt
+- Favorisierte Haltestellen werden jetzt mit dem entsprechenden Symbol auf den Karten angezeigt
+- Die Verbindungsoptionen werden jetzt nicht mehr in einem separaten Fenster geöffnet 
+- Ein neuer Splash Screen für „Haltestellen ankündigen“ wurde hinzugefügt
+- Splash Screens wurden überarbeitet
+- Mehr Informationen über den Entwickler wurden hinzugefügt 
+- Alle Buttons in der App haben jetzt ein runderes Design 
+- Die Optionen für „Automatisch bereinigen“ bei lokalen Backups wurden visuell überarbeitet
+- Designverbesserungen 
+- Allgemeine Verbesserungen
 
 ## Version 6.0.12
 **Veröffentlicht:** 02.03.2025 02:36
@@ -380,8 +391,8 @@
 
 - Neues App Icon "Modern Schwarz"
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.2.0
+**Veröffentlicht:** 10.06.2024 11:36
 
 - „Synchronisieren“ wurde in „Backups“ umbenannt. Es ist jetzt möglich, unbegrenzt viele verschiedene iCloud Backups zu erstellen und zu verwalten. Nutzer können jetzt ihre Backups mit einer komplett neuen Oberfläche verwalten und wiederherstellen. 
 - Auf der Fahrtverlauf Karte werden jetzt Abfahrtszeiten angezeigt.
