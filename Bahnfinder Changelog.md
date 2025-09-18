@@ -197,8 +197,8 @@
 - Verkehrsnetz vorübergehend nicht verfügbar ist. Ich arbeite mit Hochdruck an einer Lösung. Du kannst dich benachrichtigen lassen, sobald es wieder funktioniert.
 - Verkehrsnetzes.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.1.8
+**Veröffentlicht:** 08.01.2025 20:32
 
 - Frohes neues Jahr!
 - Verbesserte Beschriftungen für VoiceOver
@@ -432,8 +432,8 @@
 - Die Funktion "Haltestelle Automatisch ausfüllen" kann jetzt deaktiviert werden.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.14
+**Veröffentlicht:** 12.05.2024 22:31
 
 - Allgemeine Verbesserungen
 
@@ -599,8 +599,8 @@
 - Neue Option: „Verbindungsdetail Live aktualisieren“
 - Allgemeine Verbesserungen
 
-## Version 3.0.1
-**Veröffentlicht:** 18.01.2024 14:58
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -629,8 +629,8 @@
 - 4 neue App Icons: „Vereiste Weihnachten“, „Vereiste Weihnachten Mund“, „Weihnachtsgeschenk“ und „Weihnachtsgeschenk Mund“.
 - Allgemeine Verbesserungen
 
-## Version 2.3.15
-**Veröffentlicht:** 13.12.2023 23:32
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -676,7 +676,6 @@
 ## Version 2.3.8
 **Veröffentlicht:** 20.10.2023 17:31
 
-- Allgemeine Verbesserungen
 
 ## Version 2.3.7
 **Veröffentlicht:** 19.10.2023 01:21
@@ -753,9 +752,6 @@
 ## Version 2.2.16
 **Veröffentlicht:** 20.09.2023 02:35
 
-- Die Darstellung zweifarbiger Linien wurde verbessert.
-- Updates für Linieninfos
-- Allgemeine Verbesserungen
 
 ## Version 2.2.15
 **Veröffentlicht:** 19.09.2023 15:08
@@ -800,8 +796,8 @@
 - Lange Fusswege werden jetzt unter Verbindung markiert.
 - Allgemeine Verbesserungen
 
-## Version 2.2.8
-**Veröffentlicht:** 04.09.2023 16:00
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Start gefunden wurde.
 - Allgemeine Verbesserungen
@@ -1004,7 +1000,6 @@
 ## Version 1.3.2
 **Veröffentlicht:** 12.05.2023 05:14
 
-- Stabilität erheblich verbessert
 
 ## Version 1.3.1
 **Veröffentlicht:** 11.05.2023 03:36
