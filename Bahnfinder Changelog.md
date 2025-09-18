@@ -1,6 +1,7 @@
 ## Version 6.2.1
 **Veröffentlicht:** 08.09.2025 16:34
 
+- Das Naldo Verkehrsnetz funktioniert jetzt wieder wie erwartet.
 
 ## Version 6.2
 **Veröffentlicht:** 31.07.2025 22:56
@@ -183,7 +184,6 @@
 ## Version 5.1.11
 **Veröffentlicht:** 15.01.2025 00:41
 
-- Dieses Update enthält API Updates für das Deutsche Bahn Verkehrsnetz, welches jetzt wieder wie erwartet funktioniert!
 
 ## Version 5.1.10
 **Veröffentlicht:** 13.01.2025 01:03
@@ -413,8 +413,8 @@
 - Neues App Icon „Weiss Inline“
 - Darstellungsanpassungen für kleinere Geräte
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.17
+**Veröffentlicht:** 16.05.2024 15:26
 
 - Anpassungen für ältere Geräte und iOS Versionen.
 - Die Darstellung des Standortpfeils wurde verbessert.
@@ -768,8 +768,8 @@
 - Mit der Funktion "Notfallsuche" wird versucht, stets eine Verbindung für dich zu finden. Selbst in Situationen wie späten Stunden in einem entlegenen Dorf werden dir beispielsweise lange Fußwege zum nächsten Ort vorgeschlagen, um in jedem Fall nach Hause zu kommen.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.13
+**Veröffentlicht:** 16.09.2023 02:03
 
 - Neue Tipps.
 - Allgemeine Verbesserungen
@@ -983,8 +983,8 @@
 
 - Stabilitätsverbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.3.5
+**Veröffentlicht:** 16.05.2023 00:53
 
 - Fehlerbehebungen und Stabilitätsverbesserungen
 
