@@ -426,8 +426,8 @@
 
 - MVV: Nachtbusse werden jetzt in einer spezifischen Farbe dargestellt (Lässt sich deaktivieren)
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.15
+**Veröffentlicht:** 15.05.2024 22:58
 
 - Die Funktion "Haltestelle Automatisch ausfüllen" kann jetzt deaktiviert werden.
 - Allgemeine Verbesserungen
@@ -666,8 +666,8 @@
 - Die Haltestellensymbol UI wurde verbessert.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.9
+**Veröffentlicht:** 22.10.2023 16:09
 
 - Die Darstellung des Fahrtfortschritts im Fahrtverlauf markiert jetzt die Haltestelle, an dem sich das Fahrzeug gerade befindet.
 - Eine neue Verbindungsoption „Minimale Umsteigezeit“ wurde hinzugefügt.
@@ -681,7 +681,6 @@
 ## Version 2.3.7
 **Veröffentlicht:** 19.10.2023 01:21
 
-- Allgemeine Verbesserungen
 
 ## Version 2.3.6
 **Veröffentlicht:** 18.10.2023 23:24
@@ -691,9 +690,11 @@
 ## Version 2.3.5
 **Veröffentlicht:** 18.10.2023 17:03
 
+- Die Darstellung des Standortpfeils wurde verbessert.
+- Allgemeine Verbesserungen
 
-## Version 2.3.4
-**Veröffentlicht:** 17.10.2023 12:02
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -722,6 +723,26 @@
 ## Version 2.3.0
 **Veröffentlicht:** 11.10.2023 11:43
 
+- Der AVV Augsburg wurde als Verkehrsnetz hinzugefügt.
+- Komplett neues Menü zum auswählen des App Icons.
+- Bahnfinder, Ring, Gefüllter Ring.
+- Die Favoritensymbole werden jetzt in jedem Bereich der App angezeigt.
+- Neue Option zum anzeigen von Ortsnamen hinter dem Haltestellennamen.
+- Überarbeitete Anzeige von „nächster Haltestelle“: Der Standortpfeil, der die nächste Haltestelle anzeigt, ist jetzt in allen Bereichen der App sichtbar. Ausserdem wird nun unterschieden, ob die Haltestelle die nächste ist oder man sich an dieser befindet.
+- Detaillierte Umsteigeinformationen auf der Verbindungskarte hinzugefügt.
+- Neue Option zum auswählen, ob das Favoritensymbol unter Abfahrten hinter der Liniennummer oder hinter der Zielhaltestelle angezeigt werden soll.
+- Das Design kann jetzt abhängig vom Erscheinungsbild ausgewählt werden.
+- Neue Linieninformation „Orte“
+- Zwischenstopps sind jetzt im Verbindungsdetail sichtbar.
+- Wichtige Haltestellen werden in der Suche hervorgehoben.
+- Neues Menü „Experimente“: Teste kleine Features der App bevor sie veröffentlicht werden.
+- Der Aktuelle Standort kann jetzt über das Schnellauswahlmenü unter Verbindung eingesetzt werden.
+- Neue Kontextmenüs unter Verbindung zum zurücksetzen der Optionen und Zeit.
+- Verbesserte Unterstützung für zweifarbige Linien.
+- Die Designs wurden verbessert.
+- Verbesserte Stabilität
+- Fehlerbehebungen
+- Allgemeine Verbesserungen
 
 ## Version 2.2.17
 **Veröffentlicht:** 20.09.2023 17:52
@@ -775,6 +796,8 @@
 ## Version 2.2.9
 **Veröffentlicht:** 08.09.2023 14:39
 
+- Lange Fusswege werden jetzt unter Verbindung markiert.
+- Allgemeine Verbesserungen
 
 ## Version 2.2.8
 **Veröffentlicht:** 04.09.2023 16:00
@@ -1077,8 +1100,6 @@
 ## Version 1.0.5
 **Veröffentlicht:** 06.04.2023 04:16
 
-- Anschlüsse können ab sofort von einer Verbindung aus durch tippen auf den Haltestellen Namen abgerufen werden.
-- Allgemeine Verbesserungen und Fehlerbehebungen.
 
 ## Version 1.0.4
 **Veröffentlicht:** 05.04.2023 04:18
