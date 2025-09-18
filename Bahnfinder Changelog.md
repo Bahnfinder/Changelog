@@ -218,8 +218,8 @@
 
 - Neues App Icon: „Weihnachten 2024“
 
-## Version 5.1.4
-**Veröffentlicht:** 27.11.2024 00:19
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Das VMV Verkehrsnetz funktioniert jetzt wieder wie erwartet
 - Allgemeine Verbesserungen
@@ -235,8 +235,8 @@
 - Verbesserte Hinweise für die Standortfreigabe
 - Allgemeine Verbesserungen
 
-## Version 5.1.1
-**Veröffentlicht:** 21.09.2024 07:10
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Ein Fehler wurde behoben, der dazu führte, dass „Haltestellen ankündigen“ in einigen Fällen im Hintergrund gestoppt wurde.
 - Allgemeine Verbesserungen
@@ -940,14 +940,14 @@
 - Sekundengenaue Zeiten: Abfahrten und Verbindungen werden jetzt in Sekunden angezeigt, wenn die Wartezeit unter 1 Minute ist.
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.5.4
+**Veröffentlicht:** 01.06.2023 03:49
 
 - Die Zeit einer gesuchten Verbindung wird jetzt im Verlauf angezeigt.
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.5.3
+**Veröffentlicht:** 26.05.2023 04:25
 
 - Allgemeine Verbesserungen
 
