@@ -123,8 +123,8 @@
 - Verbesserte Darstellung von Bahnhofsnamen
 - Allgemeine Verbesserungen
 
-## Version 6.0.2
-**Veröffentlicht:** 29.01.2025 15:04
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Verkehrsnetzsuche bei der Einrichtung kann jetzt abgebrochen werden.
 - Allgemeine Verbesserungen
@@ -289,6 +289,7 @@
 ## Version 4.4.5
 **Veröffentlicht:** 12.08.2024 15:00
 
+- Das BVG Verkehrsnetz funktioniert jetzt wieder wie erwartet.
 
 ## Version 4.4.4
 **Veröffentlicht:** 11.07.2024 03:33
@@ -601,7 +602,6 @@
 ## Version 3.0.1
 **Veröffentlicht:** 18.01.2024 14:58
 
-- Allgemeine Verbesserungen
 
 ## Version 3.0.0
 **Veröffentlicht:** 02.01.2024 16:59
@@ -687,8 +687,8 @@
 
 - Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.5
+**Veröffentlicht:** 18.10.2023 17:03
 
 - Die Darstellung des Standortpfeils wurde verbessert.
 - Allgemeine Verbesserungen
