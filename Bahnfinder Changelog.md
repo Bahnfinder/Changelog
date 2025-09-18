@@ -43,8 +43,8 @@
 - Die Größe eines Backups wird jetzt angezeigt. Zusätzlich wird die relative Größe im Vergleich zu anderen Backups dargestellt
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.1.1
+**Veröffentlicht:** 28.04.2025 18:53
 
 - Release Version
 - Automatische Backups werden jetzt nach einer Wiederherstellung automatisch aktiviert
@@ -309,8 +309,6 @@
 ## Version 4.4.1
 **Veröffentlicht:** 01.07.2024 17:20
 
-- Ein Neustart der App wird jetzt vorausgesetzt, um das Verkehrsnetz zu wechseln.
-- Fehlerbehebungen
 
 ## Version 4.4
 **Veröffentlicht:** 27.06.2024 16:01
@@ -811,8 +809,8 @@
 
 - Allgemeine Verbesserungen 
 
-## Version 2.2.6
-**Veröffentlicht:** 01.09.2023 00:40
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Kleine Designänderungen
 - Allgemeine Verbesserungen
@@ -949,6 +947,7 @@
 ## Version 1.5.3
 **Veröffentlicht:** 26.05.2023 04:25
 
+- Allgemeine Verbesserungen
 
 ## Version 1.5.2
 **Veröffentlicht:** 25.05.2023 04:40
@@ -1022,7 +1021,6 @@
 ## Version 1.2.2
 **Veröffentlicht:** 09.05.2023 13:10
 
-- Fehlerbehebungen
 
 ## Version 1.2.1
 **Veröffentlicht:** 08.05.2023 23:07
