@@ -712,8 +712,8 @@
 - „Karte“ und „Anpinnen“ wurden im Verbindungsdetail getauscht, um einheitlich mit dem Fahrtverlauf dargestellt zu werden.
 - Allgemeine Verbesserungen
 
-## Version 2.3.1
-**Veröffentlicht:** 12.10.2023 12:23
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Im Verbindungsdetail wird jetzt die Ankunft in Minuten gezeigt.
 - Verbesserte Darstellung von Zeiten.
@@ -797,8 +797,6 @@
 ## Version 2.2.9
 **Veröffentlicht:** 08.09.2023 14:39
 
-- Lange Fusswege werden jetzt unter Verbindung markiert.
-- Allgemeine Verbesserungen
 
 ## Version 2.2.8
 **Veröffentlicht:** 04.09.2023 16:00
@@ -901,8 +899,8 @@
 - Favoriten Symbole werden in Abfahrten gezeigt.
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.0.1
+**Veröffentlicht:** 15.07.2023 00:02
 
 - Option zum auswählen der Ansicht beim App Start hinzugefügt.
 - Allgemeine Verbesserungen und Fehlerbehebungen
@@ -958,8 +956,8 @@
 - Stabilität wurde verbessert
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.5.1
-**Veröffentlicht:** 22.05.2023 22:56
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
