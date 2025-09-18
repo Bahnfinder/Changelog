@@ -289,7 +289,6 @@
 ## Version 4.4.5
 **Veröffentlicht:** 12.08.2024 15:00
 
-- Das BVG Verkehrsnetz funktioniert jetzt wieder wie erwartet.
 
 ## Version 4.4.4
 **Veröffentlicht:** 11.07.2024 03:33
@@ -371,8 +370,8 @@
 
 - Die Geschwindigkeit von iCloud Backups wurde erheblich verbessert.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.2.3
+**Veröffentlicht:** 14.06.2024 12:07
 
 - Nutzer werden ab jetzt darauf hingewiesen, wenn sie sich in einer nicht unterstützen Region befinden.
 - Die nächste Haltestelle wird jetzt auch in der Suche markiert.
@@ -1087,8 +1086,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.0.7
-**Veröffentlicht:** 10.04.2023 03:17
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Kritische Fehlerbehebungen
 
@@ -1104,8 +1103,8 @@
 - Anschlüsse können ab sofort von einer Verbindung aus durch tippen auf den Haltestellen Namen abgerufen werden.
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.0.4
+**Veröffentlicht:** 05.04.2023 04:18
 
 - KVV als Verkehrsnetz hinzugefügt.
 - Setup Assistenten hinzugefügt.
