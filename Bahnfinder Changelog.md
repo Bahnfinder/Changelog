@@ -194,8 +194,6 @@
 ## Version 5.1.9
 **Veröffentlicht:** 12.01.2025 06:09
 
-- Verkehrsnetz vorübergehend nicht verfügbar ist. Ich arbeite mit Hochdruck an einer Lösung. Du kannst dich benachrichtigen lassen, sobald es wieder funktioniert.
-- Verkehrsnetzes.
 
 ## Version 5.1.8
 **Veröffentlicht:** 08.01.2025 20:32
@@ -221,8 +219,6 @@
 ## Version 5.1.4
 **Veröffentlicht:** 27.11.2024 00:19
 
-- Das VMV Verkehrsnetz funktioniert jetzt wieder wie erwartet
-- Allgemeine Verbesserungen
 
 ## Version 5.1.3
 **Veröffentlicht:** 27.09.2024 17:57
@@ -504,6 +500,10 @@
 ## Version 4.1.3
 **Veröffentlicht:** 18.03.2024 14:01
 
+- Erweiterte Diagnosedaten können jetzt optional aktiviert werden.
+- Lokale Backups können jetzt automatisch gelöscht werden.
+- Die Darstellung von lokalen Backups wurde verbessert.
+- Allgemeine Verbesserungen
 
 ## Version 4.1.2
 **Veröffentlicht:** 15.03.2024 12:35
@@ -777,8 +777,8 @@
 - Verbesserungen für das Liniendesign
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.11
+**Veröffentlicht:** 14.09.2023 01:16
 
 - iOS 17 Kompatibilität
 - 3D Optionen wurden zur Karte hinzugefügt.
@@ -990,8 +990,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.3.3
-**Veröffentlicht:** 12.05.2023 22:22
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Design Anpassungen
 - Stabilitätsverbesserungen
