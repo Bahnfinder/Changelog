@@ -129,8 +129,8 @@
 - Die Verkehrsnetzsuche bei der Einrichtung kann jetzt abgebrochen werden.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.0.1
+**Veröffentlicht:** 28.01.2025 02:13
 
 - Allgemeine Verbesserungen
 
@@ -1114,6 +1114,9 @@
 ## Version 1.0.3
 **Veröffentlicht:** 03.04.2023 23:08
 
+- Neue App Icons
+- Es wurde ein Hinweis hinzugefügt, der den Nutzer darauf aufmerksam macht, dass die Ortungsdienste deaktiviert sind.
+- Allgemeine Verbesserungen und Fehlerbehebungen.
 
 ## Version 1.0.1
 **Veröffentlicht:** 03.04.2023 04:19
