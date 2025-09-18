@@ -73,8 +73,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.0.11
+**Veröffentlicht:** 22.02.2025 09:46
 
 - Verbesserungen für VoiceOver
 
@@ -83,8 +83,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 6.0.9
-**Veröffentlicht:** 12.02.2025 03:24
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Ein Fehler wurde behoben, der in manchen Situationen zum Einfrieren und Abstürzen der App führte.
 
@@ -255,8 +255,8 @@
 - Anpassungen für iOS 18
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.0.3
+**Veröffentlicht:** 06.09.2024 03:16
 
 - Ein Fehler wurde behoben, der dazu führte, dass die App beim anschauen von Verbindungen abstürzt.
 - Allgemeine Verbesserungen
@@ -476,10 +476,6 @@
 ## Version 4.1.7
 **Veröffentlicht:** 22.03.2024 01:08
 
-- Neue Option: Erweiterte Analyse
-- Daten wie beispielsweise Lokale Backups können jetzt über iTunes ausgetauscht werden.
-- Neues App Icon: „Bahnfindi“
-- iCloud Synchronisierung wurde optimiert 
 
 ## Version 4.1.6
 **Veröffentlicht:** 21.03.2024 13:16
@@ -654,10 +650,6 @@
 ## Version 2.3.11
 **Veröffentlicht:** 30.10.2023 19:06
 
-- Die Standortermittlung ist jetzt noch genauer.
-- Die Entfernung der Haltestellen wird jetzt im Verlauf angezeigt.
-- Option: Energiesparende Standortermittlung
-- Allgemeine Verbesserungen 
 
 ## Version 2.3.10
 **Veröffentlicht:** 28.10.2023 19:18
@@ -1068,7 +1060,6 @@
 ## Version 1.0.11
 **Veröffentlicht:** 17.04.2023 01:22
 
-- Fehlerbehebungen
 
 ## Version 1.0.10
 **Veröffentlicht:** 14.04.2023 21:13
