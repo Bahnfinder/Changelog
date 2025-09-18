@@ -86,7 +86,6 @@
 ## Version 6.0.9
 **Veröffentlicht:** 12.02.2025 03:24
 
-- Ein Fehler wurde behoben, der in manchen Situationen zum Einfrieren und Abstürzen der App führte.
 
 ## Version 6.0.8
 **Veröffentlicht:** 12.02.2025 01:08
@@ -572,8 +571,8 @@
 - Fehlerbehebungen
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 3.1.2
+**Veröffentlicht:** 10.02.2024 07:37
 
 - Fehlerbehebungen
 - Allgemeine Verbesserungen
@@ -772,6 +771,8 @@
 ## Version 2.2.13
 **Veröffentlicht:** 16.09.2023 02:03
 
+- Neue Tipps.
+- Allgemeine Verbesserungen
 
 ## Version 2.2.12
 **Veröffentlicht:** 15.09.2023 08:35
@@ -786,8 +787,8 @@
 - 3D Optionen wurden zur Karte hinzugefügt.
 - Allgemeine Verbesserungen
 
-## Version 2.2.10
-**Veröffentlicht:** 11.09.2023 11:05
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Karte wurde überarbeitet und bietet jetzt eine verbesserte Navigation.
 - Allgemeine Verbesserungen
@@ -833,7 +834,6 @@
 ## Version 2.2.3
 **Veröffentlicht:** 17.08.2023 11:24
 
-- Allgemeine Verbesserungen
 
 ## Version 2.2.2
 **Veröffentlicht:** 14.08.2023 09:53
