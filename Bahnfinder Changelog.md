@@ -123,8 +123,8 @@
 - Verbesserte Darstellung von Bahnhofsnamen
 - Allgemeine Verbesserungen
 
-## Version 6.0.2
-**Veröffentlicht:** 29.01.2025 15:04
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Verkehrsnetzsuche bei der Einrichtung kann jetzt abgebrochen werden.
 - Allgemeine Verbesserungen
@@ -966,11 +966,6 @@
 ## Version 1.5.0
 **Veröffentlicht:** 18.05.2023 15:13
 
-- Die Gleisnummer ist ab sofort im Fahrtverlauf sichtbar
-- Neues Design bei Fahrtverlauf
-- Die angepinnte Route wird ab sofort in der Verbindungsliste angezeigt
-- Ein Fehler bei der Standortsuche wurde behoben
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.4.0
 **Veröffentlicht:** 17.05.2023 02:42
@@ -1111,8 +1106,8 @@
 - Setup Assistenten hinzugefügt.
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.0.3
+**Veröffentlicht:** 03.04.2023 23:08
 
 - Neue App Icons
 - Es wurde ein Hinweis hinzugefügt, der den Nutzer darauf aufmerksam macht, dass die Ortungsdienste deaktiviert sind.
