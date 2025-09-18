@@ -73,8 +73,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 6.0.11
-**Veröffentlicht:** 22.02.2025 09:46
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Verbesserungen für VoiceOver
 
@@ -255,8 +255,8 @@
 - Anpassungen für iOS 18
 - Allgemeine Verbesserungen
 
-## Version 5.0.3
-**Veröffentlicht:** 06.09.2024 03:16
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Ein Fehler wurde behoben, der dazu führte, dass die App beim anschauen von Verbindungen abstürzt.
 - Allgemeine Verbesserungen
@@ -634,8 +634,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.14
+**Veröffentlicht:** 08.12.2023 03:16
 
 - Bahnfinder wünscht euch eine schöne Weihnachtszeit!
 - App Icon hinzugefügt.
@@ -851,6 +851,11 @@
 ## Version 2.2
 **Veröffentlicht:** 09.08.2023 20:22
 
+- Dieses Update enthält interne Optimierungen, die Bahnfinder noch schneller und stabiler machen.
+- Neues, optionales Layout für eine verbesserte einhändige Bedienung. (Vorerst nur bei Abfahrten)
+- Ausgefallene Haltestellen werden jetzt unter Verbindungen angezeigt.
+- Neue Informationen bei „Linieninfos“: Längste und kürzeste Distanz zwischen zwei Haltestellen.
+- Allgemeine Verbesserungen 
 
 ## Version 2.1.2
 **Veröffentlicht:** 01.08.2023 09:16
@@ -932,6 +937,8 @@
 ## Version 1.5.5
 **Veröffentlicht:** 05.06.2023 15:42
 
+- Sekundengenaue Zeiten: Abfahrten und Verbindungen werden jetzt in Sekunden angezeigt, wenn die Wartezeit unter 1 Minute ist.
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.5.4
 **Veröffentlicht:** 01.06.2023 03:49
