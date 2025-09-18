@@ -129,8 +129,8 @@
 - Die Verkehrsnetzsuche bei der Einrichtung kann jetzt abgebrochen werden.
 - Allgemeine Verbesserungen
 
-## Version 6.0.1
-**Veröffentlicht:** 28.01.2025 02:13
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -814,8 +814,6 @@
 ## Version 2.2.6
 **Veröffentlicht:** 01.09.2023 00:40
 
-- Kleine Designänderungen
-- Allgemeine Verbesserungen
 
 ## Version 2.2.5
 **Veröffentlicht:** 31.08.2023 11:56
@@ -1006,8 +1004,8 @@
 
 - Stabilität erheblich verbessert
 
-## Version 1.3.1
-**Veröffentlicht:** 11.05.2023 03:36
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
@@ -1068,6 +1066,7 @@
 ## Version 1.0.11
 **Veröffentlicht:** 17.04.2023 01:22
 
+- Fehlerbehebungen
 
 ## Version 1.0.10
 **Veröffentlicht:** 14.04.2023 21:13
