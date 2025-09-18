@@ -1,6 +1,7 @@
 ## Version 6.2.1
 **Veröffentlicht:** 08.09.2025 16:34
 
+- Das Naldo Verkehrsnetz funktioniert jetzt wieder wie erwartet.
 
 ## Version 6.2
 **Veröffentlicht:** 31.07.2025 22:56
@@ -178,7 +179,6 @@
 ## Version 5.1.12
 **Veröffentlicht:** 18.01.2025 05:03
 
-- Verbesserungen für das DB Verkehrsnetz
 
 ## Version 5.1.11
 **Veröffentlicht:** 15.01.2025 00:41
@@ -188,7 +188,6 @@
 ## Version 5.1.10
 **Veröffentlicht:** 13.01.2025 01:03
 
-- Weitere Informationen über den Ausfall des DB Verkehrsnetzes hinzugefügt 
 
 ## Version 5.1.9
 **Veröffentlicht:** 12.01.2025 06:09
@@ -274,16 +273,6 @@
 ## Version 5
 **Veröffentlicht:** 01.09.2024 17:57
 
-- Liniennummer in Verbindungsliste: du kannst jetzt aussuchen, ob du die Liniennummer oder das Fahrzeugsymbol in der Verbindungsliste sehen möchtest. 
-- Verbesserungen im Fahrtverlauf: im Fahrtverlauf werden jetzt weitere Informationen zu deinem Fahrzeug angezeigt. Du kannst genau sehen, von welchem Gleis dein Fahrzeug fährt oder welche Haltestellen ausfallen.
-- Wagenreihung: Du kannst dir jetzt über den Fahrtverlauf die Wagenreihung von ICEs ansehen.
-- Auslastung: Bei bestimmten Fahrzeugen siehst du, wie ausgelastet deine Fahrt sein wird.
-- Fahrpreise: im Verbindungsdetail kannst du dir die aktuellen Ticketpreise für deine Fahrt ansehen.
-- Haltestellen ankündigen: „Haltestellen vorlesen“ heißt jetzt „Haltestellen ankündigen“. Du kannst dir die nächsten Haltestellen jetzt auch als Push Mitteilung anzeigen lassen, falls du mal keine Kopfhörer dabei hast.
-- Erinnerungen: Erinnerungen sind jetzt auch für Verbindungen verfügbar.
-- Neue Design Einstellungen: Mit den neuen Design Einstellungen kannst du dein gewünschtes Design noch einfacher und übersichtlicher ändern. 
-- Wichtige Haltestellen filtern: du kannst in der Suche auswählen, ob du nur die wichtigsten Haltestellen in deiner Nähe sehen möchtest. Diese basieren auf deinen Favoriten, benutzten und besuchten Haltestellen.
-- Über 90 weitere Neuerungen machen Bahnfinder noch besser und schneller.
 
 ## Version 4.4.5
 **Veröffentlicht:** 12.08.2024 15:00
@@ -407,8 +396,8 @@
 - Fehlerbehebungen
 - Allgemeine Verbesserungen
 
-## Version 4.1.18
-**Veröffentlicht:** 18.05.2024 21:41
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neues App Icon „Weiss Inline“
 - Darstellungsanpassungen für kleinere Geräte
@@ -888,10 +877,6 @@
 ## Version 2.0.3
 **Veröffentlicht:** 21.07.2023 01:29
 
-- VVO hinzugefügt
-- Anzeige der Favoriten Symbole verbessert
-- Designverbesserungen
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 2.0.2
 **Veröffentlicht:** 20.07.2023 03:14
@@ -945,8 +930,8 @@
 - Die Zeit einer gesuchten Verbindung wird jetzt im Verlauf angezeigt.
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.5.3
+**Veröffentlicht:** 26.05.2023 04:25
 
 - Allgemeine Verbesserungen
 
@@ -971,8 +956,8 @@
 - Ein Fehler bei der Standortsuche wurde behoben
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.4.0
+**Veröffentlicht:** 17.05.2023 02:42
 
 - Automatische Suche bei Verbindungen hinzugefügt
 - Stabilitätsverbesserungen
@@ -1103,8 +1088,8 @@
 - Anschlüsse können ab sofort von einer Verbindung aus durch tippen auf den Haltestellen Namen abgerufen werden.
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version 1.0.4
-**Veröffentlicht:** 05.04.2023 04:18
+## Version null
+**Veröffentlicht:** – No release date available
 
 - KVV als Verkehrsnetz hinzugefügt.
 - Setup Assistenten hinzugefügt.
