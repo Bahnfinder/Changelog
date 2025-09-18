@@ -315,9 +315,6 @@
 ## Version 4.4
 **Veröffentlicht:** 27.06.2024 16:01
 
-- Neues App Icon: „Flipswitch“
-- Verbesserungen im Abfahrten Popover
-- Die Berechnung von Fußwegen wurde verbessert
 
 ## Version 4.3.3
 **Veröffentlicht:** 24.06.2024 21:40
@@ -592,8 +589,8 @@
 - Verbesserte Darstellung von Linienwegen auf der Karte
 - Allgemeine Verbesserungen
 
-## Version 3.0.2
-**Veröffentlicht:** 25.01.2024 15:35
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Haltestellen vorlesen liest jetzt auch die Abfahrtszeit vor.
 - Neue Option: „Verbindungsdetail Live aktualisieren“
@@ -629,8 +626,8 @@
 - 4 neue App Icons: „Vereiste Weihnachten“, „Vereiste Weihnachten Mund“, „Weihnachtsgeschenk“ und „Weihnachtsgeschenk Mund“.
 - Allgemeine Verbesserungen
 
-## Version 2.3.15
-**Veröffentlicht:** 13.12.2023 23:32
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -823,8 +820,8 @@
 - In der Suche werden jetzt 50 Haltestellen in der Nähe angezeigt.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.4
+**Veröffentlicht:** 30.08.2023 12:04
 
 - Die Anzeige der Umsteigezeit ist nun in den Verbindungsdetails sichtbar.
 - Das Layout der Abfahrtszeiten wurde optimiert, um eine höhere Anzahl von Abfahrten gleichzeitig anzeigen zu können.
@@ -975,6 +972,9 @@
 ## Version 1.4.0
 **Veröffentlicht:** 17.05.2023 02:42
 
+- Automatische Suche bei Verbindungen hinzugefügt
+- Stabilitätsverbesserungen
+- Fehlerbehebungen
 
 ## Version 1.3.6
 **Veröffentlicht:** 16.05.2023 13:41
