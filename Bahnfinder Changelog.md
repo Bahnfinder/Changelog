@@ -208,8 +208,8 @@
 
 - Ein Fehler wurde behoben, der dazu führte, dass die App beim Ansehen bestimmter Verbindungen abstürzte. 
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.1.6
+**Veröffentlicht:** 16.12.2024 13:31
 
 - Die Linienfarben für die S5 (MVV) wurden hinzugefügt.
 
@@ -857,8 +857,8 @@
 - Neue Informationen bei „Linieninfos“: Längste und kürzeste Distanz zwischen zwei Haltestellen.
 - Allgemeine Verbesserungen 
 
-## Version 2.1.2
-**Veröffentlicht:** 01.08.2023 09:16
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Linieninfos: Mit "Linieninfos" (Beta) erfährst du alles Wissenswerte über deine Linien. Hier kannst du nachschlagen, welche Distanz ein Fahrzeug zurücklegt, wie lange es insgesamt fährt und vieles mehr.
 - Neues Symbol für veränderte Verbindungsoptionen.
