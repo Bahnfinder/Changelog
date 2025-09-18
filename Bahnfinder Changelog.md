@@ -102,6 +102,8 @@
 ## Version 6.0.6
 **Veröffentlicht:** 07.02.2025 01:27
 
+- Wichtige Push Benachrichtigungen von „Haltestellen ankündigen“ spielen jetzt einen Ton oder eine Vibration
+- Allgemeine Verbesserungen
 
 ## Version 6.0.5
 **Veröffentlicht:** 05.02.2025 01:29
@@ -342,6 +344,7 @@
 ## Version 4.2.8
 **Veröffentlicht:** 20.06.2024 21:56
 
+- Die Beschreibung vom DB Provider wurde geändert.
 
 ## Version 4.2.7
 **Veröffentlicht:** 20.06.2024 01:04
@@ -683,7 +686,6 @@
 ## Version 2.3.6
 **Veröffentlicht:** 18.10.2023 23:24
 
-- Fehlerbehebungen
 
 ## Version 2.3.5
 **Veröffentlicht:** 18.10.2023 17:03
