@@ -229,8 +229,8 @@
 
 - Ein Darstellungsfehler wurde behoben
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.1.2
+**Veröffentlicht:** 22.09.2024 15:19
 
 - Verbesserte Hinweise für die Standortfreigabe
 - Allgemeine Verbesserungen
@@ -371,8 +371,8 @@
 
 - Die Geschwindigkeit von iCloud Backups wurde erheblich verbessert.
 
-## Version 4.2.3
-**Veröffentlicht:** 14.06.2024 12:07
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Nutzer werden ab jetzt darauf hingewiesen, wenn sie sich in einer nicht unterstützen Region befinden.
 - Die nächste Haltestelle wird jetzt auch in der Suche markiert.
@@ -857,8 +857,8 @@
 - Neue Informationen bei „Linieninfos“: Längste und kürzeste Distanz zwischen zwei Haltestellen.
 - Allgemeine Verbesserungen 
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.1.2
+**Veröffentlicht:** 01.08.2023 09:16
 
 - Linieninfos: Mit "Linieninfos" (Beta) erfährst du alles Wissenswerte über deine Linien. Hier kannst du nachschlagen, welche Distanz ein Fahrzeug zurücklegt, wie lange es insgesamt fährt und vieles mehr.
 - Neues Symbol für veränderte Verbindungsoptionen.
@@ -866,8 +866,8 @@
 - Neue Favoriten Symbole 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.1.1
+**Veröffentlicht:** 28.07.2023 19:11
 
 - Fehlerbehebungen
 
@@ -992,6 +992,7 @@
 ## Version 1.3.4
 **Veröffentlicht:** 13.05.2023 10:27
 
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.3.3
 **Veröffentlicht:** 12.05.2023 22:22
@@ -1103,8 +1104,8 @@
 - Anschlüsse können ab sofort von einer Verbindung aus durch tippen auf den Haltestellen Namen abgerufen werden.
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version 1.0.4
-**Veröffentlicht:** 05.04.2023 04:18
+## Version null
+**Veröffentlicht:** – No release date available
 
 - KVV als Verkehrsnetz hinzugefügt.
 - Setup Assistenten hinzugefügt.
