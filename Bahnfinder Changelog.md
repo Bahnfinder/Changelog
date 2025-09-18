@@ -86,6 +86,7 @@
 ## Version 6.0.9
 **Veröffentlicht:** 12.02.2025 03:24
 
+- Ein Fehler wurde behoben, der in manchen Situationen zum Einfrieren und Abstürzen der App führte.
 
 ## Version 6.0.8
 **Veröffentlicht:** 12.02.2025 01:08
@@ -571,8 +572,8 @@
 - Fehlerbehebungen
 - Allgemeine Verbesserungen
 
-## Version 3.1.2
-**Veröffentlicht:** 10.02.2024 07:37
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Fehlerbehebungen
 - Allgemeine Verbesserungen
@@ -661,9 +662,6 @@
 ## Version 2.3.10
 **Veröffentlicht:** 28.10.2023 19:18
 
-- Die Darstellung des Standortpfeils wurde verbessert.
-- Die Haltestellensymbol UI wurde verbessert.
-- Allgemeine Verbesserungen
 
 ## Version 2.3.9
 **Veröffentlicht:** 22.10.2023 16:09
@@ -787,8 +785,8 @@
 - 3D Optionen wurden zur Karte hinzugefügt.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.10
+**Veröffentlicht:** 11.09.2023 11:05
 
 - Die Karte wurde überarbeitet und bietet jetzt eine verbesserte Navigation.
 - Allgemeine Verbesserungen
@@ -834,6 +832,7 @@
 ## Version 2.2.3
 **Veröffentlicht:** 17.08.2023 11:24
 
+- Allgemeine Verbesserungen
 
 ## Version 2.2.2
 **Veröffentlicht:** 14.08.2023 09:53
@@ -1040,8 +1039,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version 1.1.2
-**Veröffentlicht:** 25.04.2023 04:22
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
