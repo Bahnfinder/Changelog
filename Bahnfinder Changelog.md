@@ -68,8 +68,8 @@
 - Designverbesserungen 
 - Allgemeine Verbesserungen
 
-## Version 6.0.12
-**Veröffentlicht:** 02.03.2025 02:36
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -83,8 +83,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.0.9
+**Veröffentlicht:** 12.02.2025 03:24
 
 - Ein Fehler wurde behoben, der in manchen Situationen zum Einfrieren und Abstürzen der App führte.
 
@@ -286,8 +286,8 @@
 - Wichtige Haltestellen filtern: du kannst in der Suche auswählen, ob du nur die wichtigsten Haltestellen in deiner Nähe sehen möchtest. Diese basieren auf deinen Favoriten, benutzten und besuchten Haltestellen.
 - Über 90 weitere Neuerungen machen Bahnfinder noch besser und schneller.
 
-## Version 4.4.5
-**Veröffentlicht:** 12.08.2024 15:00
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Das BVG Verkehrsnetz funktioniert jetzt wieder wie erwartet.
 
@@ -424,7 +424,6 @@
 ## Version 4.1.16
 **Veröffentlicht:** 16.05.2024 00:09
 
-- MVV: Nachtbusse werden jetzt in einer spezifischen Farbe dargestellt (Lässt sich deaktivieren)
 
 ## Version 4.1.15
 **Veröffentlicht:** 15.05.2024 22:58
@@ -458,9 +457,6 @@
 ## Version 4.1.10
 **Veröffentlicht:** 07.05.2024 14:53
 
-- Nach einer umfassenden internen Umstrukturierung bietet Bahnfinder nun verbesserte Zuverlässigkeit, mehr Geschwindigkeit und erleichterte Wartung für den Entwickler.
-- Der „Bahnfinder“ Text unter Info wurde verschönert.
-- Allgemeine Verbesserungen
 
 ## Version 4.1.9
 **Geplant:** 01.04.2024 00:00
@@ -476,6 +472,10 @@
 ## Version 4.1.7
 **Veröffentlicht:** 22.03.2024 01:08
 
+- Neue Option: Erweiterte Analyse
+- Daten wie beispielsweise Lokale Backups können jetzt über iTunes ausgetauscht werden.
+- Neues App Icon: „Bahnfindi“
+- iCloud Synchronisierung wurde optimiert 
 
 ## Version 4.1.6
 **Veröffentlicht:** 21.03.2024 13:16
@@ -650,6 +650,10 @@
 ## Version 2.3.11
 **Veröffentlicht:** 30.10.2023 19:06
 
+- Die Standortermittlung ist jetzt noch genauer.
+- Die Entfernung der Haltestellen wird jetzt im Verlauf angezeigt.
+- Option: Energiesparende Standortermittlung
+- Allgemeine Verbesserungen 
 
 ## Version 2.3.10
 **Veröffentlicht:** 28.10.2023 19:18
@@ -675,13 +679,13 @@
 
 - Allgemeine Verbesserungen
 
-## Version 2.3.6
-**Veröffentlicht:** 18.10.2023 23:24
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Fehlerbehebungen
 
-## Version 2.3.5
-**Veröffentlicht:** 18.10.2023 17:03
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Darstellung des Standortpfeils wurde verbessert.
 - Allgemeine Verbesserungen
@@ -1044,8 +1048,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.1.0
-**Veröffentlicht:** 21.04.2023 06:06
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Verbindung anpinnen: Deine ausgewählte Route wird gespeichert und bleibt bis zum Ende deiner Fahrt oben angeheftet. Mit nur einem Klick kannst du sie jederzeit wieder aufrufen.
 - Designpaket „Glas“ wurde für den hellen Modus optimiert.
@@ -1060,6 +1064,7 @@
 ## Version 1.0.11
 **Veröffentlicht:** 17.04.2023 01:22
 
+- Fehlerbehebungen
 
 ## Version 1.0.10
 **Veröffentlicht:** 14.04.2023 21:13
