@@ -22,8 +22,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.1.4
+**Veröffentlicht:** 29.05.2025 00:36
 
 - Die Berechnung der Größe von lokalen Backups ist jetzt stabiler
 - Allgemeine Verbesserungen
@@ -123,8 +123,8 @@
 - Verbesserte Darstellung von Bahnhofsnamen
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.0.2
+**Veröffentlicht:** 29.01.2025 15:04
 
 - Die Verkehrsnetzsuche bei der Einrichtung kann jetzt abgebrochen werden.
 - Allgemeine Verbesserungen
@@ -221,6 +221,8 @@
 ## Version 5.1.4
 **Veröffentlicht:** 27.11.2024 00:19
 
+- Das VMV Verkehrsnetz funktioniert jetzt wieder wie erwartet
+- Allgemeine Verbesserungen
 
 ## Version 5.1.3
 **Veröffentlicht:** 27.09.2024 17:57
@@ -310,8 +312,8 @@
 - Ein Neustart der App wird jetzt vorausgesetzt, um das Verkehrsnetz zu wechseln.
 - Fehlerbehebungen
 
-## Version 4.4
-**Veröffentlicht:** 27.06.2024 16:01
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neues App Icon: „Flipswitch“
 - Verbesserungen im Abfahrten Popover
@@ -835,8 +837,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 2.2.2
-**Veröffentlicht:** 14.08.2023 09:53
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neues Menü zur Schnellauswahl bei der Haltestellensuche.
 - Allgemeine Verbesserungen
@@ -952,6 +954,9 @@
 ## Version 1.5.2
 **Veröffentlicht:** 25.05.2023 04:40
 
+- Eine Option zum anrufen von Rufbussen wurde hinzugefügt
+- Stabilität wurde verbessert
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.5.1
 **Veröffentlicht:** 22.05.2023 22:56
@@ -1080,7 +1085,6 @@
 ## Version 1.0.8
 **Veröffentlicht:** 11.04.2023 02:45
 
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.0.7
 **Veröffentlicht:** 10.04.2023 03:17
