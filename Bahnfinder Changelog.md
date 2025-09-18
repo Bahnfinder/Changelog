@@ -186,8 +186,8 @@
 
 - Dieses Update enthält API Updates für das Deutsche Bahn Verkehrsnetz, welches jetzt wieder wie erwartet funktioniert!
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.1.10
+**Veröffentlicht:** 13.01.2025 01:03
 
 - Weitere Informationen über den Ausfall des DB Verkehrsnetzes hinzugefügt 
 
@@ -447,8 +447,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 4.1.11
-**Veröffentlicht:** 08.05.2024 16:43
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Das Liniensymbol für die Tram 21 im MVV wurde aktualisiert.
 - Einige Verkehrsnetzspezifische Probleme wurden behoben.
@@ -678,8 +678,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 2.3.7
-**Veröffentlicht:** 19.10.2023 01:21
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -930,6 +930,9 @@
 ## Version 1.5.6
 **Veröffentlicht:** 06.06.2023 17:36
 
+- Die Einrichtung wurde verbessert.
+- Ein Fehler wurde behoben, der eventuell dazu führte, dass Favoriten eines Verkehrsnetzes mit anderen Verkehrsnetzen vermischt wurden.
+- Allgemeine Verbesserungen und Fehlerbehebungen.
 
 ## Version 1.5.5
 **Veröffentlicht:** 05.06.2023 15:42
@@ -1073,8 +1076,8 @@
 - Suche verbessert
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.0.9
+**Veröffentlicht:** 11.04.2023 23:05
 
 - Ein Fehler wurde behoben, durch den die App keine Inhalte mehr geladen hat, wenn sie eine gewisse Zeit im Hintergrund war. 
 - Der Fehler könnte bei einigen Nutzern dennoch auftreten, schließe die App dazu aus dem Multitasking Menü und öffne sie erneut. 
