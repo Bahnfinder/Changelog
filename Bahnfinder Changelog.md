@@ -22,8 +22,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.1.4
+**Veröffentlicht:** 29.05.2025 00:36
 
 - Die Berechnung der Größe von lokalen Backups ist jetzt stabiler
 - Allgemeine Verbesserungen
@@ -599,8 +599,8 @@
 - Neue Option: „Verbindungsdetail Live aktualisieren“
 - Allgemeine Verbesserungen
 
-## Version 3.0.1
-**Veröffentlicht:** 18.01.2024 14:58
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -910,22 +910,6 @@
 ## Version 2.0
 **Veröffentlicht:** 12.07.2023 08:34
 
-- Bahnfinder 2 ist das Umfangreichste Update bisher und macht Bahnfinder noch schneller, übersichtlicher und schöner.
-- Das ist neu: 
-- Neues, übersichtlicheres Aussehen durch differenzierte Farben und weiteren Anpassungen.
-- Neue Design Optionen
-- 2 neue Design Pakete 
-- „Automatisch folgen“: Mit der Funktion „Automatisch folgen“ werden dir jederzeit Abfahrten der nächsten Haltestelle angezeigt, während du dich fortbewegst.
-- „Automatisch suchen“: Suche deine Verbindung automatisch, sobald du eine Start und Zielhaltestelle ausgewählt hast. 
-- Linien können unter Abfahrten ausgeblendet werden.
-- Mehr Informationen bei Verbindungen 
-- Eigene Icons bei Haltestellen Favoriten
-- Ankünfte bei Haltestellen  
-- Verbesserte Unterstützung für Rufbusse
-- Gehzeit in Minuten 
-- Karte bei Verbindung
-- Erhebliche Leistungsverbesserungen
-- Und viele weitere kleine Änderungen…
 
 ## Version 1.5.6
 **Veröffentlicht:** 06.06.2023 17:36
@@ -1001,8 +985,8 @@
 - Stabilitätsverbesserungen
 - Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.3.2
+**Veröffentlicht:** 12.05.2023 05:14
 
 - Stabilität erheblich verbessert
 
