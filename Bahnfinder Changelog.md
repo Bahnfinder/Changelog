@@ -200,6 +200,8 @@
 ## Version 5.1.8
 **Veröffentlicht:** 08.01.2025 20:32
 
+- Frohes neues Jahr!
+- Verbesserte Beschriftungen für VoiceOver
 
 ## Version 5.1.7
 **Veröffentlicht:** 19.12.2024 03:54
@@ -855,8 +857,8 @@
 - Neue Informationen bei „Linieninfos“: Längste und kürzeste Distanz zwischen zwei Haltestellen.
 - Allgemeine Verbesserungen 
 
-## Version 2.1.2
-**Veröffentlicht:** 01.08.2023 09:16
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Linieninfos: Mit "Linieninfos" (Beta) erfährst du alles Wissenswerte über deine Linien. Hier kannst du nachschlagen, welche Distanz ein Fahrzeug zurücklegt, wie lange es insgesamt fährt und vieles mehr.
 - Neues Symbol für veränderte Verbindungsoptionen.
@@ -959,6 +961,7 @@
 ## Version 1.5.1
 **Veröffentlicht:** 22.05.2023 22:56
 
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.5.0
 **Veröffentlicht:** 18.05.2023 15:13
@@ -979,6 +982,7 @@
 ## Version 1.3.6
 **Veröffentlicht:** 16.05.2023 13:41
 
+- Stabilitätsverbesserungen
 
 ## Version 1.3.5
 **Veröffentlicht:** 16.05.2023 00:53
