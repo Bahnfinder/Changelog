@@ -126,9 +126,11 @@
 ## Version 6.0.2
 **Veröffentlicht:** 29.01.2025 15:04
 
+- Die Verkehrsnetzsuche bei der Einrichtung kann jetzt abgebrochen werden.
+- Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.0.1
+**Veröffentlicht:** 28.01.2025 02:13
 
 - Allgemeine Verbesserungen
 
@@ -225,7 +227,6 @@
 ## Version 5.1.3
 **Veröffentlicht:** 27.09.2024 17:57
 
-- Ein Darstellungsfehler wurde behoben
 
 ## Version 5.1.2
 **Veröffentlicht:** 22.09.2024 15:19
@@ -323,8 +324,8 @@
 - Push Benachrichtigungen können jetzt während der Einrichtung aktiviert werden.
 - Allgemeine Verbesserungen 
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.3.2
+**Veröffentlicht:** 23.06.2024 16:44
 
 - Entfallene Fahrzeuge werden jetzt einheitlich dargestellt.
 
@@ -561,8 +562,6 @@
 ## Version 3.1.4
 **Veröffentlicht:** 15.02.2024 16:58
 
-- Neue Hinweise, wenn keine Abfahrten an der gewählten Haltestelle verfügbar sind.
-- Allgemeine Verbesserungen
 
 ## Version 3.1.3
 **Veröffentlicht:** 12.02.2024 17:29
@@ -671,8 +670,8 @@
 - Eine neue Verbindungsoption „Minimale Umsteigezeit“ wurde hinzugefügt.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.8
+**Veröffentlicht:** 20.10.2023 17:31
 
 - Allgemeine Verbesserungen
 
@@ -809,8 +808,8 @@
 
 - Allgemeine Verbesserungen 
 
-## Version 2.2.6
-**Veröffentlicht:** 01.09.2023 00:40
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Kleine Designänderungen
 - Allgemeine Verbesserungen
@@ -952,17 +951,14 @@
 ## Version 1.5.2
 **Veröffentlicht:** 25.05.2023 04:40
 
-- Eine Option zum anrufen von Rufbussen wurde hinzugefügt
-- Stabilität wurde verbessert
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.5.1
 **Veröffentlicht:** 22.05.2023 22:56
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.5.0
-**Veröffentlicht:** 18.05.2023 15:13
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Gleisnummer ist ab sofort im Fahrtverlauf sichtbar
 - Neues Design bei Fahrtverlauf
@@ -992,8 +988,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.3.3
+**Veröffentlicht:** 12.05.2023 22:22
 
 - Design Anpassungen
 - Stabilitätsverbesserungen
@@ -1002,6 +998,7 @@
 ## Version 1.3.2
 **Veröffentlicht:** 12.05.2023 05:14
 
+- Stabilität erheblich verbessert
 
 ## Version 1.3.1
 **Veröffentlicht:** 11.05.2023 03:36
