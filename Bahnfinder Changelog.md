@@ -208,8 +208,8 @@
 
 - Ein Fehler wurde behoben, der dazu führte, dass die App beim Ansehen bestimmter Verbindungen abstürzte. 
 
-## Version 5.1.6
-**Veröffentlicht:** 16.12.2024 13:31
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Linienfarben für die S5 (MVV) wurden hinzugefügt.
 
@@ -389,6 +389,7 @@
 ## Version 4.2.1
 **Veröffentlicht:** 11.06.2024 23:51
 
+- Neues App Icon "Modern Schwarz"
 
 ## Version 4.2.0
 **Veröffentlicht:** 10.06.2024 11:36
@@ -711,8 +712,8 @@
 - „Karte“ und „Anpinnen“ wurden im Verbindungsdetail getauscht, um einheitlich mit dem Fahrtverlauf dargestellt zu werden.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.1
+**Veröffentlicht:** 12.10.2023 12:23
 
 - Im Verbindungsdetail wird jetzt die Ankunft in Minuten gezeigt.
 - Verbesserte Darstellung von Zeiten.
