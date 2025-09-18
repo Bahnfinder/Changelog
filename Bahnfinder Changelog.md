@@ -126,11 +126,9 @@
 ## Version 6.0.2
 **Veröffentlicht:** 29.01.2025 15:04
 
-- Die Verkehrsnetzsuche bei der Einrichtung kann jetzt abgebrochen werden.
-- Allgemeine Verbesserungen
 
-## Version 6.0.1
-**Veröffentlicht:** 28.01.2025 02:13
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -213,8 +211,8 @@
 
 - Die Linienfarben für die S5 (MVV) wurden hinzugefügt.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.1.5
+**Veröffentlicht:** 10.12.2024 05:15
 
 - Neues App Icon: „Weihnachten 2024“
 
@@ -325,8 +323,8 @@
 - Push Benachrichtigungen können jetzt während der Einrichtung aktiviert werden.
 - Allgemeine Verbesserungen 
 
-## Version 4.3.2
-**Veröffentlicht:** 23.06.2024 16:44
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Entfallene Fahrzeuge werden jetzt einheitlich dargestellt.
 
@@ -673,8 +671,8 @@
 - Eine neue Verbindungsoption „Minimale Umsteigezeit“ wurde hinzugefügt.
 - Allgemeine Verbesserungen
 
-## Version 2.3.8
-**Veröffentlicht:** 20.10.2023 17:31
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -994,8 +992,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.3.3
-**Veröffentlicht:** 12.05.2023 22:22
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Design Anpassungen
 - Stabilitätsverbesserungen
@@ -1004,7 +1002,6 @@
 ## Version 1.3.2
 **Veröffentlicht:** 12.05.2023 05:14
 
-- Stabilität erheblich verbessert
 
 ## Version 1.3.1
 **Veröffentlicht:** 11.05.2023 03:36
