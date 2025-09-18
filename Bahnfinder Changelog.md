@@ -669,9 +669,6 @@
 ## Version 2.3.9
 **Veröffentlicht:** 22.10.2023 16:09
 
-- Die Darstellung des Fahrtfortschritts im Fahrtverlauf markiert jetzt die Haltestelle, an dem sich das Fahrzeug gerade befindet.
-- Eine neue Verbindungsoption „Minimale Umsteigezeit“ wurde hinzugefügt.
-- Allgemeine Verbesserungen
 
 ## Version 2.3.8
 **Veröffentlicht:** 20.10.2023 17:31
@@ -681,6 +678,7 @@
 ## Version 2.3.7
 **Veröffentlicht:** 19.10.2023 01:21
 
+- Allgemeine Verbesserungen
 
 ## Version 2.3.6
 **Veröffentlicht:** 18.10.2023 23:24
@@ -693,13 +691,13 @@
 - Die Darstellung des Standortpfeils wurde verbessert.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.4
+**Veröffentlicht:** 17.10.2023 12:02
 
 - Allgemeine Verbesserungen
 
-## Version 2.3.3
-**Veröffentlicht:** 16.10.2023 20:33
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -948,7 +946,6 @@
 ## Version 1.5.3
 **Veröffentlicht:** 26.05.2023 04:25
 
-- Allgemeine Verbesserungen
 
 ## Version 1.5.2
 **Veröffentlicht:** 25.05.2023 04:40
@@ -1100,6 +1097,8 @@
 ## Version 1.0.5
 **Veröffentlicht:** 06.04.2023 04:16
 
+- Anschlüsse können ab sofort von einer Verbindung aus durch tippen auf den Haltestellen Namen abgerufen werden.
+- Allgemeine Verbesserungen und Fehlerbehebungen.
 
 ## Version 1.0.4
 **Veröffentlicht:** 05.04.2023 04:18
