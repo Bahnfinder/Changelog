@@ -435,7 +435,6 @@
 ## Version 4.1.14
 **Veröffentlicht:** 12.05.2024 22:31
 
-- Allgemeine Verbesserungen
 
 ## Version 4.1.13
 **Veröffentlicht:** 12.05.2024 15:34
@@ -599,8 +598,8 @@
 - Neue Option: „Verbindungsdetail Live aktualisieren“
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 3.0.1
+**Veröffentlicht:** 18.01.2024 14:58
 
 - Allgemeine Verbesserungen
 
@@ -629,8 +628,8 @@
 - 4 neue App Icons: „Vereiste Weihnachten“, „Vereiste Weihnachten Mund“, „Weihnachtsgeschenk“ und „Weihnachtsgeschenk Mund“.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.15
+**Veröffentlicht:** 13.12.2023 23:32
 
 - Allgemeine Verbesserungen
 
@@ -676,6 +675,7 @@
 ## Version 2.3.8
 **Veröffentlicht:** 20.10.2023 17:31
 
+- Allgemeine Verbesserungen
 
 ## Version 2.3.7
 **Veröffentlicht:** 19.10.2023 01:21
@@ -714,11 +714,6 @@
 ## Version 2.3.1
 **Veröffentlicht:** 12.10.2023 12:23
 
-- Im Verbindungsdetail wird jetzt die Ankunft in Minuten gezeigt.
-- Verbesserte Darstellung von Zeiten.
-- Ein Fehler wurde behoben, der dazu geführt hat, dass unter bestimmten Umständen Text in Abfahrten abgeschnitten wurde.
-- Fehlerbehebungen
-- Allgemeine Verbesserungen
 
 ## Version 2.3.0
 **Veröffentlicht:** 11.10.2023 11:43
@@ -752,6 +747,9 @@
 ## Version 2.2.16
 **Veröffentlicht:** 20.09.2023 02:35
 
+- Die Darstellung zweifarbiger Linien wurde verbessert.
+- Updates für Linieninfos
+- Allgemeine Verbesserungen
 
 ## Version 2.2.15
 **Veröffentlicht:** 19.09.2023 15:08
@@ -796,8 +794,8 @@
 - Lange Fusswege werden jetzt unter Verbindung markiert.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.8
+**Veröffentlicht:** 04.09.2023 16:00
 
 - Start gefunden wurde.
 - Allgemeine Verbesserungen
@@ -936,8 +934,8 @@
 - Sekundengenaue Zeiten: Abfahrten und Verbindungen werden jetzt in Sekunden angezeigt, wenn die Wartezeit unter 1 Minute ist.
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.5.4
-**Veröffentlicht:** 01.06.2023 03:49
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Zeit einer gesuchten Verbindung wird jetzt im Verlauf angezeigt.
 - Allgemeine Verbesserungen und Fehlerbehebungen
@@ -1000,6 +998,7 @@
 ## Version 1.3.2
 **Veröffentlicht:** 12.05.2023 05:14
 
+- Stabilität erheblich verbessert
 
 ## Version 1.3.1
 **Veröffentlicht:** 11.05.2023 03:36
