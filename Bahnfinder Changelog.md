@@ -94,8 +94,8 @@
 - Leistungsverbesserungen
 - Allgemeine Verbesserungen
 
-## Version 6.0.7
-**Veröffentlicht:** 09.02.2025 23:42
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -535,10 +535,6 @@
 ## Version 4.0.1
 **Veröffentlicht:** 06.03.2024 01:56
 
-- 2 neue App Icons: „Mund“ und „Mitternacht Mund“
-- Die Fahrzeugnummer ist jetzt unter Linieninfos sichtbar. 
-- Neue Designoptionen für den Suchen Button in Verbindung
-- Allgemeine Verbesserungen
 
 ## Version 4.0
 **Veröffentlicht:** 26.02.2024 15:09
@@ -979,8 +975,8 @@
 - Stabilitätsverbesserungen
 - Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.3.6
+**Veröffentlicht:** 16.05.2023 13:41
 
 - Stabilitätsverbesserungen
 
@@ -1040,7 +1036,6 @@
 ## Version 1.1.3
 **Veröffentlicht:** 27.04.2023 03:25
 
-- Allgemeine Verbesserungen und Fehlerbehebungen.
 
 ## Version 1.1.2
 **Veröffentlicht:** 25.04.2023 04:22
@@ -1090,9 +1085,10 @@
 ## Version 1.0.7
 **Veröffentlicht:** 10.04.2023 03:17
 
+- Kritische Fehlerbehebungen
 
-## Version 1.0.6
-**Veröffentlicht:** 08.04.2023 02:04
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Ein kritischer Fehler, der die App an bestimmten Standorten zum Absturz brachte, wurde behoben.
 - Allgemeine Verbesserungen und Fehlerbehebungen
