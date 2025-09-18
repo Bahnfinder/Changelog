@@ -338,6 +338,8 @@
 ## Version 4.3.0
 **Veröffentlicht:** 21.06.2024 08:52
 
+- Neue Verkehrsnetze: BVG, HVV, RMV, RailTeam & Naldo
+- Allgemeine Verbesserungen
 
 ## Version 4.2.8
 **Veröffentlicht:** 20.06.2024 21:56
@@ -533,6 +535,10 @@
 ## Version 4.0.1
 **Veröffentlicht:** 06.03.2024 01:56
 
+- 2 neue App Icons: „Mund“ und „Mitternacht Mund“
+- Die Fahrzeugnummer ist jetzt unter Linieninfos sichtbar. 
+- Neue Designoptionen für den Suchen Button in Verbindung
+- Allgemeine Verbesserungen
 
 ## Version 4.0
 **Veröffentlicht:** 26.02.2024 15:09
@@ -709,6 +715,11 @@
 ## Version 2.3.1
 **Veröffentlicht:** 12.10.2023 12:23
 
+- Im Verbindungsdetail wird jetzt die Ankunft in Minuten gezeigt.
+- Verbesserte Darstellung von Zeiten.
+- Ein Fehler wurde behoben, der dazu geführt hat, dass unter bestimmten Umständen Text in Abfahrten abgeschnitten wurde.
+- Fehlerbehebungen
+- Allgemeine Verbesserungen
 
 ## Version 2.3.0
 **Veröffentlicht:** 11.10.2023 11:43
