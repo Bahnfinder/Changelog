@@ -102,8 +102,6 @@
 ## Version 6.0.6
 **Veröffentlicht:** 07.02.2025 01:27
 
-- Wichtige Push Benachrichtigungen von „Haltestellen ankündigen“ spielen jetzt einen Ton oder eine Vibration
-- Allgemeine Verbesserungen
 
 ## Version 6.0.5
 **Veröffentlicht:** 05.02.2025 01:29
@@ -184,6 +182,7 @@
 ## Version 5.1.11
 **Veröffentlicht:** 15.01.2025 00:41
 
+- Dieses Update enthält API Updates für das Deutsche Bahn Verkehrsnetz, welches jetzt wieder wie erwartet funktioniert!
 
 ## Version 5.1.10
 **Veröffentlicht:** 13.01.2025 01:03
@@ -343,7 +342,6 @@
 ## Version 4.2.8
 **Veröffentlicht:** 20.06.2024 21:56
 
-- Die Beschreibung vom DB Provider wurde geändert.
 
 ## Version 4.2.7
 **Veröffentlicht:** 20.06.2024 01:04
