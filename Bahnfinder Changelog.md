@@ -88,8 +88,8 @@
 
 - Ein Fehler wurde behoben, der in manchen Situationen zum Einfrieren und Abstürzen der App führte.
 
-## Version 6.0.8
-**Veröffentlicht:** 12.02.2025 01:08
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Leistungsverbesserungen
 - Allgemeine Verbesserungen
@@ -309,8 +309,6 @@
 ## Version 4.4.1
 **Veröffentlicht:** 01.07.2024 17:20
 
-- Ein Neustart der App wird jetzt vorausgesetzt, um das Verkehrsnetz zu wechseln.
-- Fehlerbehebungen
 
 ## Version 4.4
 **Veröffentlicht:** 27.06.2024 16:01
@@ -707,10 +705,6 @@
 ## Version 2.3.2
 **Veröffentlicht:** 13.10.2023 12:39
 
-- Das Layout der Linieninfos wurde für alle Gerätegrössen angepasst.
-- Die Lesbarkeit der Anzahl an Zwischenhalten im Verbindungsdetail wurde verbessert.
-- „Karte“ und „Anpinnen“ wurden im Verbindungsdetail getauscht, um einheitlich mit dem Fahrtverlauf dargestellt zu werden.
-- Allgemeine Verbesserungen
 
 ## Version 2.3.1
 **Veröffentlicht:** 12.10.2023 12:23
@@ -809,7 +803,6 @@
 ## Version 2.2.7
 **Veröffentlicht:** 02.09.2023 08:49
 
-- Allgemeine Verbesserungen 
 
 ## Version 2.2.6
 **Veröffentlicht:** 01.09.2023 00:40
@@ -1111,8 +1104,8 @@
 - Setup Assistenten hinzugefügt.
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version 1.0.3
-**Veröffentlicht:** 03.04.2023 23:08
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neue App Icons
 - Es wurde ein Hinweis hinzugefügt, der den Nutzer darauf aufmerksam macht, dass die Ortungsdienste deaktiviert sind.
