@@ -129,8 +129,8 @@
 - Die Verkehrsnetzsuche bei der Einrichtung kann jetzt abgebrochen werden.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.0.1
+**Veröffentlicht:** 28.01.2025 02:13
 
 - Allgemeine Verbesserungen
 
@@ -493,8 +493,6 @@
 ## Version 4.1.5
 **Veröffentlicht:** 20.03.2024 19:10
 
-- Anpassungen an App Icons
-- Design Anpassungen
 
 ## Version 4.1.4
 **Veröffentlicht:** 19.03.2024 16:44
@@ -634,8 +632,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 2.3.14
-**Veröffentlicht:** 08.12.2023 03:16
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Bahnfinder wünscht euch eine schöne Weihnachtszeit!
 - App Icon hinzugefügt.
@@ -814,6 +812,8 @@
 ## Version 2.2.6
 **Veröffentlicht:** 01.09.2023 00:40
 
+- Kleine Designänderungen
+- Allgemeine Verbesserungen
 
 ## Version 2.2.5
 **Veröffentlicht:** 31.08.2023 11:56
@@ -858,11 +858,6 @@
 ## Version 2.1.2
 **Veröffentlicht:** 01.08.2023 09:16
 
-- Linieninfos: Mit "Linieninfos" (Beta) erfährst du alles Wissenswerte über deine Linien. Hier kannst du nachschlagen, welche Distanz ein Fahrzeug zurücklegt, wie lange es insgesamt fährt und vieles mehr.
-- Neues Symbol für veränderte Verbindungsoptionen.
-- Bei „Linien ausblenden“ können nun alle Linien mit einen Knopfdruck ausgeblendet oder eingeblendet werden.
-- Neue Favoriten Symbole 
-- Allgemeine Verbesserungen
 
 ## Version 2.1.1
 **Veröffentlicht:** 28.07.2023 19:11
@@ -1004,8 +999,8 @@
 
 - Stabilität erheblich verbessert
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.3.1
+**Veröffentlicht:** 11.05.2023 03:36
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
