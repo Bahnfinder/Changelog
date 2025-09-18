@@ -200,6 +200,8 @@
 ## Version 5.1.8
 **Veröffentlicht:** 08.01.2025 20:32
 
+- Frohes neues Jahr!
+- Verbesserte Beschriftungen für VoiceOver
 
 ## Version 5.1.7
 **Veröffentlicht:** 19.12.2024 03:54
@@ -415,6 +417,9 @@
 ## Version 4.1.17
 **Veröffentlicht:** 16.05.2024 15:26
 
+- Anpassungen für ältere Geräte und iOS Versionen.
+- Die Darstellung des Standortpfeils wurde verbessert.
+- Fehlerbehebungen
 
 ## Version 4.1.16
 **Veröffentlicht:** 16.05.2024 00:09
@@ -440,7 +445,6 @@
 ## Version 4.1.12
 **Veröffentlicht:** 10.05.2024 14:10
 
-- Allgemeine Verbesserungen
 
 ## Version 4.1.11
 **Veröffentlicht:** 08.05.2024 16:43
@@ -468,8 +472,8 @@
 - Backups und weitere Dateien können jetzt über die „Dateien“ App ausgetauscht werden
 - Layout Anpassungen für kleinere Geräte
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.7
+**Veröffentlicht:** 22.03.2024 01:08
 
 - Neue Option: Erweiterte Analyse
 - Daten wie beispielsweise Lokale Backups können jetzt über iTunes ausgetauscht werden.
@@ -938,8 +942,6 @@
 ## Version 1.5.4
 **Veröffentlicht:** 01.06.2023 03:49
 
-- Die Zeit einer gesuchten Verbindung wird jetzt im Verlauf angezeigt.
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.5.3
 **Veröffentlicht:** 26.05.2023 04:25
