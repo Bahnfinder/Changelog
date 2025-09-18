@@ -229,8 +229,8 @@
 
 - Ein Darstellungsfehler wurde behoben
 
-## Version 5.1.2
-**Veröffentlicht:** 22.09.2024 15:19
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Verbesserte Hinweise für die Standortfreigabe
 - Allgemeine Verbesserungen
@@ -797,6 +797,8 @@
 ## Version 2.2.9
 **Veröffentlicht:** 08.09.2023 14:39
 
+- Lange Fusswege werden jetzt unter Verbindung markiert.
+- Allgemeine Verbesserungen
 
 ## Version 2.2.8
 **Veröffentlicht:** 04.09.2023 16:00
@@ -864,8 +866,8 @@
 - Neue Favoriten Symbole 
 - Allgemeine Verbesserungen
 
-## Version 2.1.1
-**Veröffentlicht:** 28.07.2023 19:11
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Fehlerbehebungen
 
@@ -990,7 +992,6 @@
 ## Version 1.3.4
 **Veröffentlicht:** 13.05.2023 10:27
 
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.3.3
 **Veröffentlicht:** 12.05.2023 22:22
@@ -1040,8 +1041,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.1.2
+**Veröffentlicht:** 25.04.2023 04:22
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
