@@ -304,6 +304,7 @@
 ## Version 4.4.2
 **Veröffentlicht:** 05.07.2024 17:07
 
+- Ein Fehler wurde behoben, der dazu führte, dass unter bestimmten Umständen ein Lokales Backup beim einrichten von Bahnfinder nicht wiederhergestellt werden konnte.
 
 ## Version 4.4.1
 **Veröffentlicht:** 01.07.2024 17:20
@@ -355,6 +356,10 @@
 ## Version 4.2.6
 **Veröffentlicht:** 18.06.2024 02:47
 
+- Anpassungen und Fehlerbehebungen für iPad
+- Anpassungen und Fehlerbehebungen für Mac
+- Die Funktion „Legacy iCloud Synchronisierung“ wurde entfernt.
+- Allgemeine Verbesserungen
 
 ## Version 4.2.5
 **Veröffentlicht:** 17.06.2024 10:46
@@ -384,6 +389,7 @@
 ## Version 4.2.1
 **Veröffentlicht:** 11.06.2024 23:51
 
+- Neues App Icon "Modern Schwarz"
 
 ## Version 4.2.0
 **Veröffentlicht:** 10.06.2024 11:36
@@ -526,8 +532,8 @@
 - Ab sofort wird nach jedem Bahnfinder Update automatisch ein lokales Backup erstellt. 
 - Allgemeine Verbesserungen
 
-## Version 4.0.1
-**Veröffentlicht:** 06.03.2024 01:56
+## Version null
+**Veröffentlicht:** – No release date available
 
 - 2 neue App Icons: „Mund“ und „Mitternacht Mund“
 - Die Fahrzeugnummer ist jetzt unter Linieninfos sichtbar. 
@@ -593,8 +599,8 @@
 - Neue Option: „Verbindungsdetail Live aktualisieren“
 - Allgemeine Verbesserungen
 
-## Version 3.0.1
-**Veröffentlicht:** 18.01.2024 14:58
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -637,6 +643,7 @@
 ## Version 2.3.13
 **Veröffentlicht:** 03.11.2023 16:35
 
+- Fehlerbehebungen
 
 ## Version 2.3.12
 **Veröffentlicht:** 31.10.2023 20:40
@@ -690,7 +697,6 @@
 ## Version 2.3.4
 **Veröffentlicht:** 17.10.2023 12:02
 
-- Allgemeine Verbesserungen
 
 ## Version 2.3.3
 **Veröffentlicht:** 16.10.2023 20:33
@@ -790,8 +796,6 @@
 ## Version 2.2.9
 **Veröffentlicht:** 08.09.2023 14:39
 
-- Lange Fusswege werden jetzt unter Verbindung markiert.
-- Allgemeine Verbesserungen
 
 ## Version 2.2.8
 **Veröffentlicht:** 04.09.2023 16:00
@@ -1058,8 +1062,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.0.11
+**Veröffentlicht:** 17.04.2023 01:22
 
 - Fehlerbehebungen
 
