@@ -235,8 +235,8 @@
 - Verbesserte Hinweise für die Standortfreigabe
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.1.1
+**Veröffentlicht:** 21.09.2024 07:10
 
 - Ein Fehler wurde behoben, der dazu führte, dass „Haltestellen ankündigen“ in einigen Fällen im Hintergrund gestoppt wurde.
 - Allgemeine Verbesserungen
@@ -312,8 +312,8 @@
 - Ein Neustart der App wird jetzt vorausgesetzt, um das Verkehrsnetz zu wechseln.
 - Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.4
+**Veröffentlicht:** 27.06.2024 16:01
 
 - Neues App Icon: „Flipswitch“
 - Verbesserungen im Abfahrten Popover
@@ -364,6 +364,7 @@
 ## Version 4.2.5
 **Veröffentlicht:** 17.06.2024 10:46
 
+- Hauptbahnhöfe werden jetzt verbessert angezeigt.
 
 ## Version 4.2.4
 **Veröffentlicht:** 15.06.2024 18:32
@@ -500,8 +501,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 4.1.3
-**Veröffentlicht:** 18.03.2024 14:01
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Erweiterte Diagnosedaten können jetzt optional aktiviert werden.
 - Lokale Backups können jetzt automatisch gelöscht werden.
@@ -810,8 +811,8 @@
 
 - Allgemeine Verbesserungen 
 
-## Version 2.2.6
-**Veröffentlicht:** 01.09.2023 00:40
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Kleine Designänderungen
 - Allgemeine Verbesserungen
@@ -1024,8 +1025,8 @@
 
 - Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.2.1
+**Veröffentlicht:** 08.05.2023 23:07
 
 - Fehlerbehebungen
 
