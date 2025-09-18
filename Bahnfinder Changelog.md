@@ -200,8 +200,6 @@
 ## Version 5.1.8
 **Veröffentlicht:** 08.01.2025 20:32
 
-- Frohes neues Jahr!
-- Verbesserte Beschriftungen für VoiceOver
 
 ## Version 5.1.7
 **Veröffentlicht:** 19.12.2024 03:54
@@ -417,9 +415,6 @@
 ## Version 4.1.17
 **Veröffentlicht:** 16.05.2024 15:26
 
-- Anpassungen für ältere Geräte und iOS Versionen.
-- Die Darstellung des Standortpfeils wurde verbessert.
-- Fehlerbehebungen
 
 ## Version 4.1.16
 **Veröffentlicht:** 16.05.2024 00:09
@@ -473,8 +468,8 @@
 - Backups und weitere Dateien können jetzt über die „Dateien“ App ausgetauscht werden
 - Layout Anpassungen für kleinere Geräte
 
-## Version 4.1.7
-**Veröffentlicht:** 22.03.2024 01:08
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neue Option: Erweiterte Analyse
 - Daten wie beispielsweise Lokale Backups können jetzt über iTunes ausgetauscht werden.
@@ -532,8 +527,8 @@
 - Ab sofort wird nach jedem Bahnfinder Update automatisch ein lokales Backup erstellt. 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.0.1
+**Veröffentlicht:** 06.03.2024 01:56
 
 - 2 neue App Icons: „Mund“ und „Mitternacht Mund“
 - Die Fahrzeugnummer ist jetzt unter Linieninfos sichtbar. 
@@ -599,8 +594,8 @@
 - Neue Option: „Verbindungsdetail Live aktualisieren“
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 3.0.1
+**Veröffentlicht:** 18.01.2024 14:58
 
 - Allgemeine Verbesserungen
 
@@ -697,6 +692,7 @@
 ## Version 2.3.4
 **Veröffentlicht:** 17.10.2023 12:02
 
+- Allgemeine Verbesserungen
 
 ## Version 2.3.3
 **Veröffentlicht:** 16.10.2023 20:33
@@ -796,6 +792,8 @@
 ## Version 2.2.9
 **Veröffentlicht:** 08.09.2023 14:39
 
+- Lange Fusswege werden jetzt unter Verbindung markiert.
+- Allgemeine Verbesserungen
 
 ## Version 2.2.8
 **Veröffentlicht:** 04.09.2023 16:00
