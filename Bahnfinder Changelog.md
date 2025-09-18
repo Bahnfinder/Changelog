@@ -341,8 +341,8 @@
 - Neue Verkehrsnetze: BVG, HVV, RMV, RailTeam & Naldo
 - Allgemeine Verbesserungen
 
-## Version 4.2.8
-**Veröffentlicht:** 20.06.2024 21:56
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Beschreibung vom DB Provider wurde geändert.
 
@@ -501,8 +501,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.3
+**Veröffentlicht:** 18.03.2024 14:01
 
 - Erweiterte Diagnosedaten können jetzt optional aktiviert werden.
 - Lokale Backups können jetzt automatisch gelöscht werden.
@@ -748,7 +748,6 @@
 ## Version 2.2.17
 **Veröffentlicht:** 20.09.2023 17:52
 
-- Allgemeine Verbesserungen
 
 ## Version 2.2.16
 **Veröffentlicht:** 20.09.2023 02:35
@@ -811,8 +810,8 @@
 
 - Allgemeine Verbesserungen 
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.6
+**Veröffentlicht:** 01.09.2023 00:40
 
 - Kleine Designänderungen
 - Allgemeine Verbesserungen
