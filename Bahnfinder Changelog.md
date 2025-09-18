@@ -1,7 +1,6 @@
 ## Version 6.2.1
 **Veröffentlicht:** 08.09.2025 16:34
 
-- Das Naldo Verkehrsnetz funktioniert jetzt wieder wie erwartet.
 
 ## Version 6.2
 **Veröffentlicht:** 31.07.2025 22:56
@@ -213,8 +212,8 @@
 
 - Die Linienfarben für die S5 (MVV) wurden hinzugefügt.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.1.5
+**Veröffentlicht:** 10.12.2024 05:15
 
 - Neues App Icon: „Weihnachten 2024“
 
@@ -414,8 +413,8 @@
 - Neues App Icon „Weiss Inline“
 - Darstellungsanpassungen für kleinere Geräte
 
-## Version 4.1.17
-**Veröffentlicht:** 16.05.2024 15:26
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Anpassungen für ältere Geräte und iOS Versionen.
 - Die Darstellung des Standortpfeils wurde verbessert.
@@ -769,8 +768,8 @@
 - Mit der Funktion "Notfallsuche" wird versucht, stets eine Verbindung für dich zu finden. Selbst in Situationen wie späten Stunden in einem entlegenen Dorf werden dir beispielsweise lange Fußwege zum nächsten Ort vorgeschlagen, um in jedem Fall nach Hause zu kommen.
 - Allgemeine Verbesserungen
 
-## Version 2.2.13
-**Veröffentlicht:** 16.09.2023 02:03
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neue Tipps.
 - Allgemeine Verbesserungen
@@ -984,8 +983,8 @@
 
 - Stabilitätsverbesserungen
 
-## Version 1.3.5
-**Veröffentlicht:** 16.05.2023 00:53
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Fehlerbehebungen und Stabilitätsverbesserungen
 
