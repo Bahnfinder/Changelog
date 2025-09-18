@@ -371,8 +371,8 @@
 
 - Die Geschwindigkeit von iCloud Backups wurde erheblich verbessert.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.2.3
+**Veröffentlicht:** 14.06.2024 12:07
 
 - Nutzer werden ab jetzt darauf hingewiesen, wenn sie sich in einer nicht unterstützen Region befinden.
 - Die nächste Haltestelle wird jetzt auch in der Suche markiert.
@@ -874,6 +874,12 @@
 ## Version 2.1
 **Veröffentlicht:** 27.07.2023 15:20
 
+- Neues Design in "Verbindung".
+- Verkehrsnetz spezifische Einstellungen hinzugefügt.
+- Neue Favoriten Symbole.
+- Neuer "Zurücksetzen" Dialog.
+- Neue Option, zum ausblenden des "Suchen" Button, wenn "Automatische Suche" aktiviert ist.
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 2.0.4
 **Veröffentlicht:** 24.07.2023 00:19
@@ -901,8 +907,8 @@
 - Option zum auswählen der Ansicht beim App Start hinzugefügt.
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 2.0
-**Veröffentlicht:** 12.07.2023 08:34
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Bahnfinder 2 ist das Umfangreichste Update bisher und macht Bahnfinder noch schneller, übersichtlicher und schöner.
 - Das ist neu: 
@@ -1034,6 +1040,7 @@
 ## Version 1.1.3
 **Veröffentlicht:** 27.04.2023 03:25
 
+- Allgemeine Verbesserungen und Fehlerbehebungen.
 
 ## Version 1.1.2
 **Veröffentlicht:** 25.04.2023 04:22
