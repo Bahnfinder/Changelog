@@ -20,7 +20,6 @@
 ## Version 6.1.5
 **Veröffentlicht:** 01.06.2025 23:30
 
-- Allgemeine Verbesserungen
 
 ## Version 6.1.4
 **Veröffentlicht:** 29.05.2025 00:36
@@ -46,6 +45,12 @@
 ## Version 6.1.1
 **Veröffentlicht:** 28.04.2025 18:53
 
+- Release Version
+- Automatische Backups werden jetzt nach einer Wiederherstellung automatisch aktiviert
+- Die falsche Schriftgrösse von Liniennummern auf der Karte wurde behoben
+- Nach dem ersten einrichten der App wird jetzt der richtige „Was ist neu“ Screen angezeigt
+- Ein Fehler wurde behoben, der in seltenen Fällen zu Abstürzen beim verwenden von „Lokale Backups“ geführt hat
+- Allgemeine Verbesserungen 
 
 ## Version 6.1
 **Veröffentlicht:** 26.04.2025 00:45
@@ -67,8 +72,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.0.11
+**Veröffentlicht:** 22.02.2025 09:46
 
 - Verbesserungen für VoiceOver
 
@@ -459,7 +464,6 @@
 ## Version 4.1.9
 **Geplant:** 01.04.2024 00:00
 
-- Am 1. April feiert Bahnfinder seinen 1. Geburtstag. Feiere diesen besonderen Tag mit einem exklusiven App Icon!
 
 ## Version 4.1.8
 **Veröffentlicht:** 23.03.2024 00:08
@@ -503,8 +507,8 @@
 - Die Darstellung von lokalen Backups wurde verbessert.
 - Allgemeine Verbesserungen
 
-## Version 4.1.2
-**Veröffentlicht:** 15.03.2024 12:35
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Erweiterte Diagnosedaten können jetzt per Mail gesendet werden.
 - Allgemeine Verbesserungen
@@ -631,6 +635,8 @@
 ## Version 2.3.14
 **Veröffentlicht:** 08.12.2023 03:16
 
+- Bahnfinder wünscht euch eine schöne Weihnachtszeit!
+- App Icon hinzugefügt.
 
 ## Version 2.3.13
 **Veröffentlicht:** 03.11.2023 16:35
@@ -643,8 +649,8 @@
 - Ausgefallene Fahrzeuge werden jetzt bei Verbindungen angezeigt.
 - Allgemeine Verbesserungen 
 
-## Version 2.3.11
-**Veröffentlicht:** 30.10.2023 19:06
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Standortermittlung ist jetzt noch genauer.
 - Die Entfernung der Haltestellen wird jetzt im Verlauf angezeigt.
@@ -803,8 +809,8 @@
 
 - Allgemeine Verbesserungen 
 
-## Version 2.2.6
-**Veröffentlicht:** 01.09.2023 00:40
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Kleine Designänderungen
 - Allgemeine Verbesserungen
@@ -858,8 +864,8 @@
 - Neue Favoriten Symbole 
 - Allgemeine Verbesserungen
 
-## Version 2.1.1
-**Veröffentlicht:** 28.07.2023 19:11
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Fehlerbehebungen
 
@@ -998,8 +1004,8 @@
 
 - Stabilität erheblich verbessert
 
-## Version 1.3.1
-**Veröffentlicht:** 11.05.2023 03:36
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
@@ -1025,6 +1031,9 @@
 ## Version 1.2.0
 **Veröffentlicht:** 06.05.2023 00:35
 
+- Ab sofort kann die Starthaltestelle ausgetauscht werden.
+- Falls die Haltestelle, die beim Start der App gefunden wurde, durch eine andere ersetzt werden soll, können Ausnahmen erstellt werden.
+- Allgemeine Verbesserungen und Fehlerbehebungen wurden durchgeführt.
 
 ## Version 1.1.3
 **Veröffentlicht:** 27.04.2023 03:25
