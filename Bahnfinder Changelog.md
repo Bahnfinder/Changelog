@@ -218,8 +218,8 @@
 
 - Neues App Icon: „Weihnachten 2024“
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.1.4
+**Veröffentlicht:** 27.11.2024 00:19
 
 - Das VMV Verkehrsnetz funktioniert jetzt wieder wie erwartet
 - Allgemeine Verbesserungen
@@ -364,10 +364,9 @@
 ## Version 4.2.5
 **Veröffentlicht:** 17.06.2024 10:46
 
-- Hauptbahnhöfe werden jetzt verbessert angezeigt.
 
-## Version 4.2.4
-**Veröffentlicht:** 15.06.2024 18:32
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Geschwindigkeit von iCloud Backups wurde erheblich verbessert.
 
@@ -1114,6 +1113,9 @@
 ## Version 1.0.3
 **Veröffentlicht:** 03.04.2023 23:08
 
+- Neue App Icons
+- Es wurde ein Hinweis hinzugefügt, der den Nutzer darauf aufmerksam macht, dass die Ortungsdienste deaktiviert sind.
+- Allgemeine Verbesserungen und Fehlerbehebungen.
 
 ## Version 1.0.1
 **Veröffentlicht:** 03.04.2023 04:19
