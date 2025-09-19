@@ -184,7 +184,6 @@
 ## Version 5.1.11
 **Veröffentlicht:** 15.01.2025 00:41
 
-- Dieses Update enthält API Updates für das Deutsche Bahn Verkehrsnetz, welches jetzt wieder wie erwartet funktioniert!
 
 ## Version 5.1.10
 **Veröffentlicht:** 13.01.2025 01:03
@@ -213,8 +212,8 @@
 
 - Die Linienfarben für die S5 (MVV) wurden hinzugefügt.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.1.5
+**Veröffentlicht:** 10.12.2024 05:15
 
 - Neues App Icon: „Weihnachten 2024“
 
@@ -356,6 +355,10 @@
 ## Version 4.2.6
 **Veröffentlicht:** 18.06.2024 02:47
 
+- Anpassungen und Fehlerbehebungen für iPad
+- Anpassungen und Fehlerbehebungen für Mac
+- Die Funktion „Legacy iCloud Synchronisierung“ wurde entfernt.
+- Allgemeine Verbesserungen
 
 ## Version 4.2.5
 **Veröffentlicht:** 17.06.2024 10:46
@@ -436,6 +439,7 @@
 ## Version 4.1.13
 **Veröffentlicht:** 12.05.2024 15:34
 
+- Allgemeine Verbesserungen
 
 ## Version 4.1.12
 **Veröffentlicht:** 10.05.2024 14:10
@@ -527,8 +531,8 @@
 - Ab sofort wird nach jedem Bahnfinder Update automatisch ein lokales Backup erstellt. 
 - Allgemeine Verbesserungen
 
-## Version 4.0.1
-**Veröffentlicht:** 06.03.2024 01:56
+## Version null
+**Veröffentlicht:** – No release date available
 
 - 2 neue App Icons: „Mund“ und „Mitternacht Mund“
 - Die Fahrzeugnummer ist jetzt unter Linieninfos sichtbar. 
@@ -697,7 +701,6 @@
 ## Version 2.3.3
 **Veröffentlicht:** 16.10.2023 20:33
 
-- Allgemeine Verbesserungen
 
 ## Version 2.3.2
 **Veröffentlicht:** 13.10.2023 12:39
@@ -984,8 +987,8 @@
 
 - Fehlerbehebungen und Stabilitätsverbesserungen
 
-## Version 1.3.4
-**Veröffentlicht:** 13.05.2023 10:27
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
@@ -1080,6 +1083,7 @@
 ## Version 1.0.8
 **Veröffentlicht:** 11.04.2023 02:45
 
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.0.7
 **Veröffentlicht:** 10.04.2023 03:17
