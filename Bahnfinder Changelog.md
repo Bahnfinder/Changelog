@@ -569,6 +569,8 @@
 ## Version 3.1.3
 **Veröffentlicht:** 12.02.2024 17:29
 
+- Fehlerbehebungen
+- Allgemeine Verbesserungen
 
 ## Version 3.1.2
 **Veröffentlicht:** 10.02.2024 07:37
@@ -792,8 +794,8 @@
 - Die Karte wurde überarbeitet und bietet jetzt eine verbesserte Navigation.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.9
+**Veröffentlicht:** 08.09.2023 14:39
 
 - Lange Fusswege werden jetzt unter Verbindung markiert.
 - Allgemeine Verbesserungen
@@ -949,8 +951,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 1.5.2
-**Veröffentlicht:** 25.05.2023 04:40
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Eine Option zum anrufen von Rufbussen wurde hinzugefügt
 - Stabilität wurde verbessert
