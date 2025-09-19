@@ -73,8 +73,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 6.0.11
-**Veröffentlicht:** 22.02.2025 09:46
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Verbesserungen für VoiceOver
 
@@ -269,8 +269,6 @@
 ## Version 5.0.1
 **Veröffentlicht:** 04.09.2024 02:08
 
-- Bahnfinder läuft jetzt noch schneller.
-- Ein Fehler wurde behoben, der dazu führte, dass die App beim darstellen einiger zweifarbiger Liniennummern abstürzte.
 
 ## Version 5
 **Veröffentlicht:** 01.09.2024 17:57
@@ -429,8 +427,6 @@
 ## Version 4.1.15
 **Veröffentlicht:** 15.05.2024 22:58
 
-- Die Funktion "Haltestelle Automatisch ausfüllen" kann jetzt deaktiviert werden.
-- Allgemeine Verbesserungen
 
 ## Version 4.1.14
 **Veröffentlicht:** 12.05.2024 22:31
@@ -704,8 +700,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.2
+**Veröffentlicht:** 13.10.2023 12:39
 
 - Das Layout der Linieninfos wurde für alle Gerätegrössen angepasst.
 - Die Lesbarkeit der Anzahl an Zwischenhalten im Verbindungsdetail wurde verbessert.
@@ -975,9 +971,6 @@
 ## Version 1.4.0
 **Veröffentlicht:** 17.05.2023 02:42
 
-- Automatische Suche bei Verbindungen hinzugefügt
-- Stabilitätsverbesserungen
-- Fehlerbehebungen
 
 ## Version 1.3.6
 **Veröffentlicht:** 16.05.2023 13:41
@@ -1107,6 +1100,9 @@
 ## Version 1.0.4
 **Veröffentlicht:** 05.04.2023 04:18
 
+- KVV als Verkehrsnetz hinzugefügt.
+- Setup Assistenten hinzugefügt.
+- Allgemeine Verbesserungen und Fehlerbehebungen.
 
 ## Version 1.0.3
 **Veröffentlicht:** 03.04.2023 23:08
