@@ -575,8 +575,6 @@
 ## Version 3.1.2
 **Veröffentlicht:** 10.02.2024 07:37
 
-- Fehlerbehebungen
-- Allgemeine Verbesserungen
 
 ## Version 3.1.1
 **Veröffentlicht:** 02.02.2024 12:41
