@@ -176,8 +176,8 @@
 - Die Auslastung wird jetzt verbessert dargestellt
 - Verbesserungen für das DB Verkehrsnetz
 
-## Version 5.1.12
-**Veröffentlicht:** 18.01.2025 05:03
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Verbesserungen für das DB Verkehrsnetz
 
@@ -330,8 +330,8 @@
 
 - Entfallene Fahrzeuge werden jetzt einheitlich dargestellt.
 
-## Version 4.3.1
-**Veröffentlicht:** 23.06.2024 01:00
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Kleine Anpassungen bei der Einrichtung
 
