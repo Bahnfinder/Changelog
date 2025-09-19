@@ -232,8 +232,6 @@
 ## Version 5.1.2
 **Veröffentlicht:** 22.09.2024 15:19
 
-- Verbesserte Hinweise für die Standortfreigabe
-- Allgemeine Verbesserungen
 
 ## Version 5.1.1
 **Veröffentlicht:** 21.09.2024 07:10
@@ -306,8 +304,8 @@
 
 - Ein Fehler wurde behoben, der dazu führte, dass unter bestimmten Umständen ein Lokales Backup beim einrichten von Bahnfinder nicht wiederhergestellt werden konnte.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.4.1
+**Veröffentlicht:** 01.07.2024 17:20
 
 - Ein Neustart der App wird jetzt vorausgesetzt, um das Verkehrsnetz zu wechseln.
 - Fehlerbehebungen
@@ -688,8 +686,8 @@
 
 - Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.5
+**Veröffentlicht:** 18.10.2023 17:03
 
 - Die Darstellung des Standortpfeils wurde verbessert.
 - Allgemeine Verbesserungen
@@ -1050,7 +1048,6 @@
 ## Version 1.1.1
 **Veröffentlicht:** 21.04.2023 20:55
 
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.1.0
 **Veröffentlicht:** 21.04.2023 06:06
