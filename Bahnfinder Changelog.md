@@ -123,8 +123,8 @@
 - Verbesserte Darstellung von Bahnhofsnamen
 - Allgemeine Verbesserungen
 
-## Version 6.0.2
-**Veröffentlicht:** 29.01.2025 15:04
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Verkehrsnetzsuche bei der Einrichtung kann jetzt abgebrochen werden.
 - Allgemeine Verbesserungen
@@ -179,6 +179,7 @@
 ## Version 5.1.12
 **Veröffentlicht:** 18.01.2025 05:03
 
+- Verbesserungen für das DB Verkehrsnetz
 
 ## Version 5.1.11
 **Veröffentlicht:** 15.01.2025 00:41
@@ -207,8 +208,8 @@
 
 - Ein Fehler wurde behoben, der dazu führte, dass die App beim Ansehen bestimmter Verbindungen abstürzte. 
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.1.6
+**Veröffentlicht:** 16.12.2024 13:31
 
 - Die Linienfarben für die S5 (MVV) wurden hinzugefügt.
 
@@ -559,8 +560,8 @@
 - Synchronisierung zu begrenzen, um Daten und Batterieverbrauch zu reduzieren. 
 - Allgemeine Verbesserungen
 
-## Version 3.1.4
-**Veröffentlicht:** 15.02.2024 16:58
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neue Hinweise, wenn keine Abfahrten an der gewählten Haltestelle verfügbar sind.
 - Allgemeine Verbesserungen
@@ -636,6 +637,8 @@
 ## Version 2.3.14
 **Veröffentlicht:** 08.12.2023 03:16
 
+- Bahnfinder wünscht euch eine schöne Weihnachtszeit!
+- App Icon hinzugefügt.
 
 ## Version 2.3.13
 **Veröffentlicht:** 03.11.2023 16:35
