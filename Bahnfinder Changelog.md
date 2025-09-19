@@ -81,6 +81,7 @@
 ## Version 6.0.10
 **Veröffentlicht:** 16.02.2025 17:24
 
+- Allgemeine Verbesserungen
 
 ## Version 6.0.9
 **Veröffentlicht:** 12.02.2025 03:24
@@ -101,8 +102,6 @@
 ## Version 6.0.6
 **Veröffentlicht:** 07.02.2025 01:27
 
-- Wichtige Push Benachrichtigungen von „Haltestellen ankündigen“ spielen jetzt einen Ton oder eine Vibration
-- Allgemeine Verbesserungen
 
 ## Version 6.0.5
 **Veröffentlicht:** 05.02.2025 01:29
@@ -687,8 +686,8 @@
 
 - Fehlerbehebungen
 
-## Version 2.3.5
-**Veröffentlicht:** 18.10.2023 17:03
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Darstellung des Standortpfeils wurde verbessert.
 - Allgemeine Verbesserungen
@@ -793,8 +792,8 @@
 - Die Karte wurde überarbeitet und bietet jetzt eine verbesserte Navigation.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.9
+**Veröffentlicht:** 08.09.2023 14:39
 
 - Lange Fusswege werden jetzt unter Verbindung markiert.
 - Allgemeine Verbesserungen
@@ -825,6 +824,11 @@
 ## Version 2.2.4
 **Veröffentlicht:** 30.08.2023 12:04
 
+- Die Anzeige der Umsteigezeit ist nun in den Verbindungsdetails sichtbar.
+- Das Layout der Abfahrtszeiten wurde optimiert, um eine höhere Anzahl von Abfahrten gleichzeitig anzeigen zu können.
+- Die Suchgeschwindigkeit wurde signifikant erhöht.
+- Ein neuer Hinweisdialog informiert Benutzer, wenn sie sich in einem Gebiet mit Verkehrsnetz befinden, das derzeit nicht ausgewählt ist.
+- Allgemeine Verbesserungen
 
 ## Version 2.2.3
 **Veröffentlicht:** 17.08.2023 11:24
