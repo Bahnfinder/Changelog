@@ -20,6 +20,7 @@
 ## Version 6.1.5
 **Veröffentlicht:** 01.06.2025 23:30
 
+- Allgemeine Verbesserungen
 
 ## Version 6.1.4
 **Veröffentlicht:** 29.05.2025 00:36
@@ -131,6 +132,7 @@
 ## Version 6.0.1
 **Veröffentlicht:** 28.01.2025 02:13
 
+- Allgemeine Verbesserungen
 
 ## Version 6
 **Veröffentlicht:** 27.01.2025 01:01
@@ -593,9 +595,6 @@
 ## Version 3.0.2
 **Veröffentlicht:** 25.01.2024 15:35
 
-- Haltestellen vorlesen liest jetzt auch die Abfahrtszeit vor.
-- Neue Option: „Verbindungsdetail Live aktualisieren“
-- Allgemeine Verbesserungen
 
 ## Version 3.0.1
 **Veröffentlicht:** 18.01.2024 14:58
@@ -688,6 +687,8 @@
 ## Version 2.3.5
 **Veröffentlicht:** 18.10.2023 17:03
 
+- Die Darstellung des Standortpfeils wurde verbessert.
+- Allgemeine Verbesserungen
 
 ## Version 2.3.4
 **Veröffentlicht:** 17.10.2023 12:02
@@ -892,6 +893,9 @@
 ## Version 2.0.2
 **Veröffentlicht:** 20.07.2023 03:14
 
+- Konfigurationen von ausgeblendeten Linien können ab sofort gespeichert werden.
+- Favoriten Symbole werden in Abfahrten gezeigt.
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 2.0.1
 **Veröffentlicht:** 15.07.2023 00:02
