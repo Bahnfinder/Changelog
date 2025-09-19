@@ -583,8 +583,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 3.1
-**Veröffentlicht:** 01.02.2024 16:55
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Du kannst ab sofort spenden, um die weitere Entwicklung von Bahnfinder zu unterstützen :)
 - Neue Favoriten Symbole hinzugefügt
@@ -937,6 +937,8 @@
 ## Version 1.5.5
 **Veröffentlicht:** 05.06.2023 15:42
 
+- Sekundengenaue Zeiten: Abfahrten und Verbindungen werden jetzt in Sekunden angezeigt, wenn die Wartezeit unter 1 Minute ist.
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.5.4
 **Veröffentlicht:** 01.06.2023 03:49
@@ -1080,8 +1082,8 @@
 - Ein Fehler wurde behoben, durch den die App keine Inhalte mehr geladen hat, wenn sie eine gewisse Zeit im Hintergrund war. 
 - Der Fehler könnte bei einigen Nutzern dennoch auftreten, schließe die App dazu aus dem Multitasking Menü und öffne sie erneut. 
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.0.8
+**Veröffentlicht:** 11.04.2023 02:45
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
