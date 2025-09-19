@@ -3,8 +3,8 @@
 
 - Das Naldo Verkehrsnetz funktioniert jetzt wieder wie erwartet.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.2
+**Veröffentlicht:** 31.07.2025 22:56
 
 - Inkognito: Im Inkognito Modus kannst du Verbindungen suchen, ohne dass sie im Verlauf sichtbar werden. 
 - Rückreise finden: Finde direkt eine Rückreise einer gefahrenen Verbindung aus deinem Verlauf.
@@ -71,6 +71,7 @@
 ## Version 6.0.12
 **Veröffentlicht:** 02.03.2025 02:36
 
+- Allgemeine Verbesserungen
 
 ## Version 6.0.11
 **Veröffentlicht:** 22.02.2025 09:46
@@ -183,6 +184,7 @@
 ## Version 5.1.11
 **Veröffentlicht:** 15.01.2025 00:41
 
+- Dieses Update enthält API Updates für das Deutsche Bahn Verkehrsnetz, welches jetzt wieder wie erwartet funktioniert!
 
 ## Version 5.1.10
 **Veröffentlicht:** 13.01.2025 01:03
@@ -219,6 +221,8 @@
 ## Version 5.1.4
 **Veröffentlicht:** 27.11.2024 00:19
 
+- Das VMV Verkehrsnetz funktioniert jetzt wieder wie erwartet
+- Allgemeine Verbesserungen
 
 ## Version 5.1.3
 **Veröffentlicht:** 27.09.2024 17:57
@@ -385,7 +389,6 @@
 ## Version 4.2.1
 **Veröffentlicht:** 11.06.2024 23:51
 
-- Neues App Icon "Modern Schwarz"
 
 ## Version 4.2.0
 **Veröffentlicht:** 10.06.2024 11:36
@@ -431,7 +434,6 @@
 ## Version 4.1.14
 **Veröffentlicht:** 12.05.2024 22:31
 
-- Allgemeine Verbesserungen
 
 ## Version 4.1.13
 **Veröffentlicht:** 12.05.2024 15:34
@@ -511,8 +513,8 @@
 - Erweiterte Diagnosedaten können jetzt per Mail gesendet werden.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.1
+**Veröffentlicht:** 10.03.2024 22:38
 
 - Neue Verkehrsnetze hinzugefügt: MVG (Märkischer Kreis), VMS, VMV, VRN
 - Allgemeine Verbesserungen
@@ -867,8 +869,8 @@
 
 - Fehlerbehebungen
 
-## Version 2.1
-**Veröffentlicht:** 27.07.2023 15:20
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neues Design in "Verbindung".
 - Verkehrsnetz spezifische Einstellungen hinzugefügt.
@@ -975,8 +977,8 @@
 - Stabilitätsverbesserungen
 - Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.3.6
+**Veröffentlicht:** 16.05.2023 13:41
 
 - Stabilitätsverbesserungen
 
@@ -1069,6 +1071,8 @@
 ## Version 1.0.10
 **Veröffentlicht:** 14.04.2023 21:13
 
+- Suche verbessert
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.0.9
 **Veröffentlicht:** 11.04.2023 23:05
