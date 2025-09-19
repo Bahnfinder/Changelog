@@ -301,8 +301,8 @@
 
 - Ein Fehler, der zum Absturz der App beim Aktualisieren des Fahrtverlaufs unter bestimmten Bedingungen führte, wurde behoben.
 
-## Version 4.4.2
-**Veröffentlicht:** 05.07.2024 17:07
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Ein Fehler wurde behoben, der dazu führte, dass unter bestimmten Umständen ein Lokales Backup beim einrichten von Bahnfinder nicht wiederhergestellt werden konnte.
 
@@ -380,8 +380,8 @@
 - Ein Fehler wurde behoben, der die App beim Laden einiger Verbindungen zum Absturz brachte.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.2.2
+**Veröffentlicht:** 13.06.2024 19:31
 
 - Neues App Icon „Modern echtes schwarz“ 
 - Anpassungen bei „Backups“
@@ -509,8 +509,8 @@
 - Die Darstellung von lokalen Backups wurde verbessert.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.2
+**Veröffentlicht:** 15.03.2024 12:35
 
 - Erweiterte Diagnosedaten können jetzt per Mail gesendet werden.
 - Allgemeine Verbesserungen
@@ -1079,6 +1079,8 @@
 ## Version 1.0.9
 **Veröffentlicht:** 11.04.2023 23:05
 
+- Ein Fehler wurde behoben, durch den die App keine Inhalte mehr geladen hat, wenn sie eine gewisse Zeit im Hintergrund war. 
+- Der Fehler könnte bei einigen Nutzern dennoch auftreten, schließe die App dazu aus dem Multitasking Menü und öffne sie erneut. 
 
 ## Version 1.0.8
 **Veröffentlicht:** 11.04.2023 02:45
