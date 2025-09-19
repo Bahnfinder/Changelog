@@ -512,6 +512,8 @@
 ## Version 4.1.2
 **Veröffentlicht:** 15.03.2024 12:35
 
+- Erweiterte Diagnosedaten können jetzt per Mail gesendet werden.
+- Allgemeine Verbesserungen
 
 ## Version 4.1.1
 **Veröffentlicht:** 10.03.2024 22:38
