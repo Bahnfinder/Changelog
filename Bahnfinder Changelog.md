@@ -748,7 +748,6 @@
 ## Version 2.2.17
 **Veröffentlicht:** 20.09.2023 17:52
 
-- Allgemeine Verbesserungen
 
 ## Version 2.2.16
 **Veröffentlicht:** 20.09.2023 02:35
@@ -835,7 +834,6 @@
 ## Version 2.2.3
 **Veröffentlicht:** 17.08.2023 11:24
 
-- Allgemeine Verbesserungen
 
 ## Version 2.2.2
 **Veröffentlicht:** 14.08.2023 09:53
@@ -848,8 +846,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 2.2
-**Veröffentlicht:** 09.08.2023 20:22
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Dieses Update enthält interne Optimierungen, die Bahnfinder noch schneller und stabiler machen.
 - Neues, optionales Layout für eine verbesserte einhändige Bedienung. (Vorerst nur bei Abfahrten)
@@ -1004,7 +1002,6 @@
 ## Version 1.3.2
 **Veröffentlicht:** 12.05.2023 05:14
 
-- Stabilität erheblich verbessert
 
 ## Version 1.3.1
 **Veröffentlicht:** 11.05.2023 03:36
@@ -1042,8 +1039,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.1.2
+**Veröffentlicht:** 25.04.2023 04:22
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
