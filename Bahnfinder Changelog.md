@@ -132,6 +132,7 @@
 ## Version 6.0.1
 **Veröffentlicht:** 28.01.2025 02:13
 
+- Allgemeine Verbesserungen
 
 ## Version 6
 **Veröffentlicht:** 27.01.2025 01:01
@@ -196,8 +197,8 @@
 - Verkehrsnetz vorübergehend nicht verfügbar ist. Ich arbeite mit Hochdruck an einer Lösung. Du kannst dich benachrichtigen lassen, sobald es wieder funktioniert.
 - Verkehrsnetzes.
 
-## Version 5.1.8
-**Veröffentlicht:** 08.01.2025 20:32
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Frohes neues Jahr!
 - Verbesserte Beschriftungen für VoiceOver
@@ -265,8 +266,8 @@
 
 - Ein Fehler wurde behoben, der dazu führte, dass die App beim Wechsel des Verkehrsnetzes auf iPads abstürzte. 
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.0.1
+**Veröffentlicht:** 04.09.2024 02:08
 
 - Bahnfinder läuft jetzt noch schneller.
 - Ein Fehler wurde behoben, der dazu führte, dass die App beim darstellen einiger zweifarbiger Liniennummern abstürzte.
@@ -321,6 +322,8 @@
 ## Version 4.3.3
 **Veröffentlicht:** 24.06.2024 21:40
 
+- Push Benachrichtigungen können jetzt während der Einrichtung aktiviert werden.
+- Allgemeine Verbesserungen 
 
 ## Version 4.3.2
 **Veröffentlicht:** 23.06.2024 16:44
@@ -338,8 +341,8 @@
 - Neue Verkehrsnetze: BVG, HVV, RMV, RailTeam & Naldo
 - Allgemeine Verbesserungen
 
-## Version 4.2.8
-**Veröffentlicht:** 20.06.2024 21:56
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Beschreibung vom DB Provider wurde geändert.
 
@@ -745,6 +748,7 @@
 ## Version 2.2.17
 **Veröffentlicht:** 20.09.2023 17:52
 
+- Allgemeine Verbesserungen
 
 ## Version 2.2.16
 **Veröffentlicht:** 20.09.2023 02:35
@@ -1078,8 +1082,8 @@
 - Ein Fehler wurde behoben, durch den die App keine Inhalte mehr geladen hat, wenn sie eine gewisse Zeit im Hintergrund war. 
 - Der Fehler könnte bei einigen Nutzern dennoch auftreten, schließe die App dazu aus dem Multitasking Menü und öffne sie erneut. 
 
-## Version 1.0.8
-**Veröffentlicht:** 11.04.2023 02:45
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
@@ -1100,8 +1104,8 @@
 - Anschlüsse können ab sofort von einer Verbindung aus durch tippen auf den Haltestellen Namen abgerufen werden.
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.0.4
+**Veröffentlicht:** 05.04.2023 04:18
 
 - KVV als Verkehrsnetz hinzugefügt.
 - Setup Assistenten hinzugefügt.
