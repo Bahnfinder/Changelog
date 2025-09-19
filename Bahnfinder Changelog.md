@@ -560,8 +560,8 @@
 - Synchronisierung zu begrenzen, um Daten und Batterieverbrauch zu reduzieren. 
 - Allgemeine Verbesserungen
 
-## Version 3.1.4
-**Veröffentlicht:** 15.02.2024 16:58
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neue Hinweise, wenn keine Abfahrten an der gewählten Haltestelle verfügbar sind.
 - Allgemeine Verbesserungen
@@ -659,8 +659,8 @@
 - Option: Energiesparende Standortermittlung
 - Allgemeine Verbesserungen 
 
-## Version 2.3.10
-**Veröffentlicht:** 28.10.2023 19:18
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Darstellung des Standortpfeils wurde verbessert.
 - Die Haltestellensymbol UI wurde verbessert.
@@ -784,9 +784,6 @@
 ## Version 2.2.11
 **Veröffentlicht:** 14.09.2023 01:16
 
-- iOS 17 Kompatibilität
-- 3D Optionen wurden zur Karte hinzugefügt.
-- Allgemeine Verbesserungen
 
 ## Version 2.2.10
 **Veröffentlicht:** 11.09.2023 11:05
@@ -860,6 +857,11 @@
 ## Version 2.1.2
 **Veröffentlicht:** 01.08.2023 09:16
 
+- Linieninfos: Mit "Linieninfos" (Beta) erfährst du alles Wissenswerte über deine Linien. Hier kannst du nachschlagen, welche Distanz ein Fahrzeug zurücklegt, wie lange es insgesamt fährt und vieles mehr.
+- Neues Symbol für veränderte Verbindungsoptionen.
+- Bei „Linien ausblenden“ können nun alle Linien mit einen Knopfdruck ausgeblendet oder eingeblendet werden.
+- Neue Favoriten Symbole 
+- Allgemeine Verbesserungen
 
 ## Version 2.1.1
 **Veröffentlicht:** 28.07.2023 19:11
@@ -902,8 +904,8 @@
 - Option zum auswählen der Ansicht beim App Start hinzugefügt.
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 2.0
-**Veröffentlicht:** 12.07.2023 08:34
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Bahnfinder 2 ist das Umfangreichste Update bisher und macht Bahnfinder noch schneller, übersichtlicher und schöner.
 - Das ist neu: 
@@ -1099,8 +1101,8 @@
 - Anschlüsse können ab sofort von einer Verbindung aus durch tippen auf den Haltestellen Namen abgerufen werden.
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.0.4
+**Veröffentlicht:** 05.04.2023 04:18
 
 - KVV als Verkehrsnetz hinzugefügt.
 - Setup Assistenten hinzugefügt.
