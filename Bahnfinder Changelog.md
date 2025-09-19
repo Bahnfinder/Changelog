@@ -266,8 +266,8 @@
 
 - Ein Fehler wurde behoben, der dazu führte, dass die App beim Wechsel des Verkehrsnetzes auf iPads abstürzte. 
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.0.1
+**Veröffentlicht:** 04.09.2024 02:08
 
 - Bahnfinder läuft jetzt noch schneller.
 - Ein Fehler wurde behoben, der dazu führte, dass die App beim darstellen einiger zweifarbiger Liniennummern abstürzte.
@@ -386,8 +386,8 @@
 - Neues App Icon „Modern echtes schwarz“ 
 - Anpassungen bei „Backups“
 
-## Version 4.2.1
-**Veröffentlicht:** 11.06.2024 23:51
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neues App Icon "Modern Schwarz"
 
@@ -1042,10 +1042,9 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version 1.1.2
-**Veröffentlicht:** 25.04.2023 04:22
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.1.1
 **Veröffentlicht:** 21.04.2023 20:55
