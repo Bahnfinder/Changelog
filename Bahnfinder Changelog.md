@@ -102,8 +102,6 @@
 ## Version 6.0.6
 **Veröffentlicht:** 07.02.2025 01:27
 
-- Wichtige Push Benachrichtigungen von „Haltestellen ankündigen“ spielen jetzt einen Ton oder eine Vibration
-- Allgemeine Verbesserungen
 
 ## Version 6.0.5
 **Veröffentlicht:** 05.02.2025 01:29
@@ -304,6 +302,7 @@
 ## Version 4.4.2
 **Veröffentlicht:** 05.07.2024 17:07
 
+- Ein Fehler wurde behoben, der dazu führte, dass unter bestimmten Umständen ein Lokales Backup beim einrichten von Bahnfinder nicht wiederhergestellt werden konnte.
 
 ## Version 4.4.1
 **Veröffentlicht:** 01.07.2024 17:20
@@ -314,6 +313,9 @@
 ## Version 4.4
 **Veröffentlicht:** 27.06.2024 16:01
 
+- Neues App Icon: „Flipswitch“
+- Verbesserungen im Abfahrten Popover
+- Die Berechnung von Fußwegen wurde verbessert
 
 ## Version 4.3.3
 **Veröffentlicht:** 24.06.2024 21:40
@@ -565,8 +567,6 @@
 ## Version 3.1.3
 **Veröffentlicht:** 12.02.2024 17:29
 
-- Fehlerbehebungen
-- Allgemeine Verbesserungen
 
 ## Version 3.1.2
 **Veröffentlicht:** 10.02.2024 07:37
@@ -805,7 +805,6 @@
 ## Version 2.2.7
 **Veröffentlicht:** 02.09.2023 08:49
 
-- Allgemeine Verbesserungen 
 
 ## Version 2.2.6
 **Veröffentlicht:** 01.09.2023 00:40
@@ -867,8 +866,8 @@
 
 - Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.1
+**Veröffentlicht:** 27.07.2023 15:20
 
 - Neues Design in "Verbindung".
 - Verkehrsnetz spezifische Einstellungen hinzugefügt.
