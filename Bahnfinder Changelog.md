@@ -3,8 +3,8 @@
 
 - Das Naldo Verkehrsnetz funktioniert jetzt wieder wie erwartet.
 
-## Version 6.2
-**Veröffentlicht:** 31.07.2025 22:56
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Inkognito: Im Inkognito Modus kannst du Verbindungen suchen, ohne dass sie im Verlauf sichtbar werden. 
 - Rückreise finden: Finde direkt eine Rückreise einer gefahrenen Verbindung aus deinem Verlauf.
@@ -117,8 +117,8 @@
 - Zu lange Gleisnummern im Verbindungsdetail werden jetzt separat dargestellt, wenn der Platz nicht ausreicht
 - Allgemeine Verbesserungen
 
-## Version 6.0.3
-**Veröffentlicht:** 31.01.2025 03:41
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Verbesserte Darstellung von Bahnhofsnamen
 - Allgemeine Verbesserungen
@@ -333,6 +333,7 @@
 ## Version 4.3.1
 **Veröffentlicht:** 23.06.2024 01:00
 
+- Kleine Anpassungen bei der Einrichtung
 
 ## Version 4.3.0
 **Veröffentlicht:** 21.06.2024 08:52
@@ -625,8 +626,6 @@
 ## Version 2.3.16
 **Veröffentlicht:** 20.12.2023 09:49
 
-- 4 neue App Icons: „Vereiste Weihnachten“, „Vereiste Weihnachten Mund“, „Weihnachtsgeschenk“ und „Weihnachtsgeschenk Mund“.
-- Allgemeine Verbesserungen
 
 ## Version 2.3.15
 **Veröffentlicht:** 13.12.2023 23:32
@@ -1089,6 +1088,7 @@
 ## Version 1.0.7
 **Veröffentlicht:** 10.04.2023 03:17
 
+- Kritische Fehlerbehebungen
 
 ## Version 1.0.6
 **Veröffentlicht:** 08.04.2023 02:04
@@ -1102,8 +1102,8 @@
 - Anschlüsse können ab sofort von einer Verbindung aus durch tippen auf den Haltestellen Namen abgerufen werden.
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version 1.0.4
-**Veröffentlicht:** 05.04.2023 04:18
+## Version null
+**Veröffentlicht:** – No release date available
 
 - KVV als Verkehrsnetz hinzugefügt.
 - Setup Assistenten hinzugefügt.
