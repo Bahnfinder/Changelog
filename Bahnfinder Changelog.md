@@ -184,6 +184,7 @@
 ## Version 5.1.11
 **Veröffentlicht:** 15.01.2025 00:41
 
+- Dieses Update enthält API Updates für das Deutsche Bahn Verkehrsnetz, welches jetzt wieder wie erwartet funktioniert!
 
 ## Version 5.1.10
 **Veröffentlicht:** 13.01.2025 01:03
@@ -390,8 +391,8 @@
 
 - Neues App Icon "Modern Schwarz"
 
-## Version 4.2.0
-**Veröffentlicht:** 10.06.2024 11:36
+## Version null
+**Veröffentlicht:** – No release date available
 
 - „Synchronisieren“ wurde in „Backups“ umbenannt. Es ist jetzt möglich, unbegrenzt viele verschiedene iCloud Backups zu erstellen und zu verwalten. Nutzer können jetzt ihre Backups mit einer komplett neuen Oberfläche verwalten und wiederherstellen. 
 - Auf der Fahrtverlauf Karte werden jetzt Abfahrtszeiten angezeigt.
@@ -531,8 +532,8 @@
 - Ab sofort wird nach jedem Bahnfinder Update automatisch ein lokales Backup erstellt. 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.0.1
+**Veröffentlicht:** 06.03.2024 01:56
 
 - 2 neue App Icons: „Mund“ und „Mitternacht Mund“
 - Die Fahrzeugnummer ist jetzt unter Linieninfos sichtbar. 
@@ -701,6 +702,7 @@
 ## Version 2.3.3
 **Veröffentlicht:** 16.10.2023 20:33
 
+- Allgemeine Verbesserungen
 
 ## Version 2.3.2
 **Veröffentlicht:** 13.10.2023 12:39
@@ -987,8 +989,8 @@
 
 - Fehlerbehebungen und Stabilitätsverbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.3.4
+**Veröffentlicht:** 13.05.2023 10:27
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
