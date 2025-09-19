@@ -91,6 +91,8 @@
 ## Version 6.0.8
 **Veröffentlicht:** 12.02.2025 01:08
 
+- Leistungsverbesserungen
+- Allgemeine Verbesserungen
 
 ## Version 6.0.7
 **Veröffentlicht:** 09.02.2025 23:42
@@ -267,6 +269,8 @@
 ## Version 5.0.1
 **Veröffentlicht:** 04.09.2024 02:08
 
+- Bahnfinder läuft jetzt noch schneller.
+- Ein Fehler wurde behoben, der dazu führte, dass die App beim darstellen einiger zweifarbiger Liniennummern abstürzte.
 
 ## Version 5
 **Veröffentlicht:** 01.09.2024 17:57
@@ -672,14 +676,15 @@
 ## Version 2.3.8
 **Veröffentlicht:** 20.10.2023 17:31
 
+- Allgemeine Verbesserungen
 
 ## Version 2.3.7
 **Veröffentlicht:** 19.10.2023 01:21
 
 - Allgemeine Verbesserungen
 
-## Version 2.3.6
-**Veröffentlicht:** 18.10.2023 23:24
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Fehlerbehebungen
 
@@ -758,8 +763,8 @@
 - Ein Fehler wurde behoben, der dazu geführt hat, dass auf der Karte eine veraltete Verbindung angezeigt wurde.
 - Allgemeine Verbesserungen
 
-## Version 2.2.14
-**Veröffentlicht:** 18.09.2023 17:13
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Mit der Funktion "Notfallsuche" wird versucht, stets eine Verbindung für dich zu finden. Selbst in Situationen wie späten Stunden in einem entlegenen Dorf werden dir beispielsweise lange Fußwege zum nächsten Ort vorgeschlagen, um in jedem Fall nach Hause zu kommen.
 - Allgemeine Verbesserungen
