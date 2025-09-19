@@ -40,6 +40,8 @@
 ## Version 6.1.2
 **Veröffentlicht:** 18.05.2025 22:29
 
+- Die Größe eines Backups wird jetzt angezeigt. Zusätzlich wird die relative Größe im Vergleich zu anderen Backups dargestellt
+- Allgemeine Verbesserungen
 
 ## Version 6.1.1
 **Veröffentlicht:** 28.04.2025 18:53
@@ -326,7 +328,6 @@
 ## Version 4.3.2
 **Veröffentlicht:** 23.06.2024 16:44
 
-- Entfallene Fahrzeuge werden jetzt einheitlich dargestellt.
 
 ## Version 4.3.1
 **Veröffentlicht:** 23.06.2024 01:00
@@ -676,8 +677,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.7
+**Veröffentlicht:** 19.10.2023 01:21
 
 - Allgemeine Verbesserungen
 
@@ -1035,8 +1036,8 @@
 - Falls die Haltestelle, die beim Start der App gefunden wurde, durch eine andere ersetzt werden soll, können Ausnahmen erstellt werden.
 - Allgemeine Verbesserungen und Fehlerbehebungen wurden durchgeführt.
 
-## Version 1.1.3
-**Veröffentlicht:** 27.04.2023 03:25
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
@@ -1048,6 +1049,7 @@
 ## Version 1.1.1
 **Veröffentlicht:** 21.04.2023 20:55
 
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.1.0
 **Veröffentlicht:** 21.04.2023 06:06
