@@ -37,14 +37,14 @@
 - Leistungsverbesserungen
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.1.2
+**Veröffentlicht:** 18.05.2025 22:29
 
 - Die Größe eines Backups wird jetzt angezeigt. Zusätzlich wird die relative Größe im Vergleich zu anderen Backups dargestellt
 - Allgemeine Verbesserungen
 
-## Version 6.1.1
-**Veröffentlicht:** 28.04.2025 18:53
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Release Version
 - Automatische Backups werden jetzt nach einer Wiederherstellung automatisch aktiviert
@@ -361,8 +361,8 @@
 - Die Funktion „Legacy iCloud Synchronisierung“ wurde entfernt.
 - Allgemeine Verbesserungen
 
-## Version 4.2.5
-**Veröffentlicht:** 17.06.2024 10:46
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Hauptbahnhöfe werden jetzt verbessert angezeigt.
 
@@ -424,6 +424,7 @@
 ## Version 4.1.16
 **Veröffentlicht:** 16.05.2024 00:09
 
+- MVV: Nachtbusse werden jetzt in einer spezifischen Farbe dargestellt (Lässt sich deaktivieren)
 
 ## Version 4.1.15
 **Veröffentlicht:** 15.05.2024 22:58
