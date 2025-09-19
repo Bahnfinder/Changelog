@@ -504,10 +504,6 @@
 ## Version 4.1.3
 **Veröffentlicht:** 18.03.2024 14:01
 
-- Erweiterte Diagnosedaten können jetzt optional aktiviert werden.
-- Lokale Backups können jetzt automatisch gelöscht werden.
-- Die Darstellung von lokalen Backups wurde verbessert.
-- Allgemeine Verbesserungen
 
 ## Version 4.1.2
 **Veröffentlicht:** 15.03.2024 12:35
@@ -851,6 +847,11 @@
 ## Version 2.2
 **Veröffentlicht:** 09.08.2023 20:22
 
+- Dieses Update enthält interne Optimierungen, die Bahnfinder noch schneller und stabiler machen.
+- Neues, optionales Layout für eine verbesserte einhändige Bedienung. (Vorerst nur bei Abfahrten)
+- Ausgefallene Haltestellen werden jetzt unter Verbindungen angezeigt.
+- Neue Informationen bei „Linieninfos“: Längste und kürzeste Distanz zwischen zwei Haltestellen.
+- Allgemeine Verbesserungen 
 
 ## Version 2.1.2
 **Veröffentlicht:** 01.08.2023 09:16
@@ -941,8 +942,8 @@
 - Die Zeit einer gesuchten Verbindung wird jetzt im Verlauf angezeigt.
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.5.3
-**Veröffentlicht:** 26.05.2023 04:25
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -1047,8 +1048,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.1.0
+**Veröffentlicht:** 21.04.2023 06:06
 
 - Verbindung anpinnen: Deine ausgewählte Route wird gespeichert und bleibt bis zum Ende deiner Fahrt oben angeheftet. Mit nur einem Klick kannst du sie jederzeit wieder aufrufen.
 - Designpaket „Glas“ wurde für den hellen Modus optimiert.
