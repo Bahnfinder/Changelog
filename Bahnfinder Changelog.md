@@ -224,8 +224,8 @@
 - Das VMV Verkehrsnetz funktioniert jetzt wieder wie erwartet
 - Allgemeine Verbesserungen
 
-## Version 5.1.3
-**Veröffentlicht:** 27.09.2024 17:57
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Ein Darstellungsfehler wurde behoben
 
@@ -394,12 +394,6 @@
 ## Version 4.2.0
 **Veröffentlicht:** 10.06.2024 11:36
 
-- „Synchronisieren“ wurde in „Backups“ umbenannt. Es ist jetzt möglich, unbegrenzt viele verschiedene iCloud Backups zu erstellen und zu verwalten. Nutzer können jetzt ihre Backups mit einer komplett neuen Oberfläche verwalten und wiederherstellen. 
-- Auf der Fahrtverlauf Karte werden jetzt Abfahrtszeiten angezeigt.
-- Neue Option, um „Haltestellen vorlesen“ automatisch zu beenden, wenn Kopfhörer getrennt wurden.
-- Die Einrichtung wurde verbessert
-- Ein Fehler wurde behoben, der dazu führte, dass die Liniensymbole nach einer Wiederherstellung nicht angezeigt wurden.
-- Allgemeine Verbesserungen
 
 ## Version 4.1.19
 **Veröffentlicht:** 20.05.2024 19:02
@@ -421,8 +415,8 @@
 - Die Darstellung des Standortpfeils wurde verbessert.
 - Fehlerbehebungen
 
-## Version 4.1.16
-**Veröffentlicht:** 16.05.2024 00:09
+## Version null
+**Veröffentlicht:** – No release date available
 
 - MVV: Nachtbusse werden jetzt in einer spezifischen Farbe dargestellt (Lässt sich deaktivieren)
 
@@ -602,7 +596,6 @@
 ## Version 3.0.1
 **Veröffentlicht:** 18.01.2024 14:58
 
-- Allgemeine Verbesserungen
 
 ## Version 3.0.0
 **Veröffentlicht:** 02.01.2024 16:59
@@ -837,8 +830,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 2.2.2
-**Veröffentlicht:** 14.08.2023 09:53
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neues Menü zur Schnellauswahl bei der Haltestellensuche.
 - Allgemeine Verbesserungen
@@ -1001,8 +994,8 @@
 - Stabilitätsverbesserungen
 - Fehlerbehebungen
 
-## Version 1.3.2
-**Veröffentlicht:** 12.05.2023 05:14
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Stabilität erheblich verbessert
 
@@ -1070,8 +1063,8 @@
 
 - Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.0.10
+**Veröffentlicht:** 14.04.2023 21:13
 
 - Suche verbessert
 - Allgemeine Verbesserungen und Fehlerbehebungen
