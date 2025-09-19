@@ -22,8 +22,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 6.1.4
-**Veröffentlicht:** 29.05.2025 00:36
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Berechnung der Größe von lokalen Backups ist jetzt stabiler
 - Allgemeine Verbesserungen
@@ -269,8 +269,6 @@
 ## Version 5.0.1
 **Veröffentlicht:** 04.09.2024 02:08
 
-- Bahnfinder läuft jetzt noch schneller.
-- Ein Fehler wurde behoben, der dazu führte, dass die App beim darstellen einiger zweifarbiger Liniennummern abstürzte.
 
 ## Version 5
 **Veröffentlicht:** 01.09.2024 17:57
@@ -380,8 +378,8 @@
 - Ein Fehler wurde behoben, der die App beim Laden einiger Verbindungen zum Absturz brachte.
 - Allgemeine Verbesserungen
 
-## Version 4.2.2
-**Veröffentlicht:** 13.06.2024 19:31
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neues App Icon „Modern echtes schwarz“ 
 - Anpassungen bei „Backups“
@@ -512,8 +510,6 @@
 ## Version 4.1.2
 **Veröffentlicht:** 15.03.2024 12:35
 
-- Erweiterte Diagnosedaten können jetzt per Mail gesendet werden.
-- Allgemeine Verbesserungen
 
 ## Version 4.1.1
 **Veröffentlicht:** 10.03.2024 22:38
@@ -1055,10 +1051,15 @@
 ## Version 1.1.0
 **Veröffentlicht:** 21.04.2023 06:06
 
+- Verbindung anpinnen: Deine ausgewählte Route wird gespeichert und bleibt bis zum Ende deiner Fahrt oben angeheftet. Mit nur einem Klick kannst du sie jederzeit wieder aufrufen.
+- Designpaket „Glas“ wurde für den hellen Modus optimiert.
+- Dein aktueller Standort bei Abfahrten wird nun automatisch aktualisiert.
+- Allgemeine Verbesserungen und Fehlerbehebungen.
 
 ## Version 1.0.12
 **Veröffentlicht:** 18.04.2023 00:53
 
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.0.11
 **Veröffentlicht:** 17.04.2023 01:22
