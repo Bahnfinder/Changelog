@@ -123,8 +123,8 @@
 - Verbesserte Darstellung von Bahnhofsnamen
 - Allgemeine Verbesserungen
 
-## Version 6.0.2
-**Veröffentlicht:** 29.01.2025 15:04
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Verkehrsnetzsuche bei der Einrichtung kann jetzt abgebrochen werden.
 - Allgemeine Verbesserungen
@@ -186,8 +186,8 @@
 
 - Dieses Update enthält API Updates für das Deutsche Bahn Verkehrsnetz, welches jetzt wieder wie erwartet funktioniert!
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.1.10
+**Veröffentlicht:** 13.01.2025 01:03
 
 - Weitere Informationen über den Ausfall des DB Verkehrsnetzes hinzugefügt 
 
@@ -515,8 +515,8 @@
 - Erweiterte Diagnosedaten können jetzt per Mail gesendet werden.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.1
+**Veröffentlicht:** 10.03.2024 22:38
 
 - Neue Verkehrsnetze hinzugefügt: MVG (Märkischer Kreis), VMS, VMV, VRN
 - Allgemeine Verbesserungen
@@ -846,6 +846,7 @@
 ## Version 2.2.1
 **Veröffentlicht:** 11.08.2023 17:09
 
+- Allgemeine Verbesserungen
 
 ## Version 2.2
 **Veröffentlicht:** 09.08.2023 20:22
@@ -1003,7 +1004,6 @@
 ## Version 1.3.2
 **Veröffentlicht:** 12.05.2023 05:14
 
-- Stabilität erheblich verbessert
 
 ## Version 1.3.1
 **Veröffentlicht:** 11.05.2023 03:36
