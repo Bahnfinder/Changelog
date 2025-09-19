@@ -333,7 +333,6 @@
 ## Version 4.3.1
 **Veröffentlicht:** 23.06.2024 01:00
 
-- Kleine Anpassungen bei der Einrichtung
 
 ## Version 4.3.0
 **Veröffentlicht:** 21.06.2024 08:52
@@ -509,8 +508,8 @@
 - Die Darstellung von lokalen Backups wurde verbessert.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.2
+**Veröffentlicht:** 15.03.2024 12:35
 
 - Erweiterte Diagnosedaten können jetzt per Mail gesendet werden.
 - Allgemeine Verbesserungen
@@ -1090,7 +1089,6 @@
 ## Version 1.0.7
 **Veröffentlicht:** 10.04.2023 03:17
 
-- Kritische Fehlerbehebungen
 
 ## Version 1.0.6
 **Veröffentlicht:** 08.04.2023 02:04
