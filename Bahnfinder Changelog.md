@@ -832,8 +832,8 @@
 - Ein neuer Hinweisdialog informiert Benutzer, wenn sie sich in einem Gebiet mit Verkehrsnetz befinden, das derzeit nicht ausgewählt ist.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.3
+**Veröffentlicht:** 17.08.2023 11:24
 
 - Allgemeine Verbesserungen
 
@@ -860,11 +860,6 @@
 ## Version 2.1.2
 **Veröffentlicht:** 01.08.2023 09:16
 
-- Linieninfos: Mit "Linieninfos" (Beta) erfährst du alles Wissenswerte über deine Linien. Hier kannst du nachschlagen, welche Distanz ein Fahrzeug zurücklegt, wie lange es insgesamt fährt und vieles mehr.
-- Neues Symbol für veränderte Verbindungsoptionen.
-- Bei „Linien ausblenden“ können nun alle Linien mit einen Knopfdruck ausgeblendet oder eingeblendet werden.
-- Neue Favoriten Symbole 
-- Allgemeine Verbesserungen
 
 ## Version 2.1.1
 **Veröffentlicht:** 28.07.2023 19:11
@@ -1104,8 +1099,8 @@
 - Anschlüsse können ab sofort von einer Verbindung aus durch tippen auf den Haltestellen Namen abgerufen werden.
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version 1.0.4
-**Veröffentlicht:** 05.04.2023 04:18
+## Version null
+**Veröffentlicht:** – No release date available
 
 - KVV als Verkehrsnetz hinzugefügt.
 - Setup Assistenten hinzugefügt.
