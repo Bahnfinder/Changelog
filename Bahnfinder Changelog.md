@@ -301,8 +301,8 @@
 
 - Ein Fehler, der zum Absturz der App beim Aktualisieren des Fahrtverlaufs unter bestimmten Bedingungen führte, wurde behoben.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.4.2
+**Veröffentlicht:** 05.07.2024 17:07
 
 - Ein Fehler wurde behoben, der dazu führte, dass unter bestimmten Umständen ein Lokales Backup beim einrichten von Bahnfinder nicht wiederhergestellt werden konnte.
 
@@ -662,9 +662,6 @@
 ## Version 2.3.10
 **Veröffentlicht:** 28.10.2023 19:18
 
-- Die Darstellung des Standortpfeils wurde verbessert.
-- Die Haltestellensymbol UI wurde verbessert.
-- Allgemeine Verbesserungen
 
 ## Version 2.3.9
 **Veröffentlicht:** 22.10.2023 16:09
@@ -803,6 +800,8 @@
 ## Version 2.2.8
 **Veröffentlicht:** 04.09.2023 16:00
 
+- Start gefunden wurde.
+- Allgemeine Verbesserungen
 
 ## Version 2.2.7
 **Veröffentlicht:** 02.09.2023 08:49
@@ -1009,8 +1008,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.3.0
-**Veröffentlicht:** 10.05.2023 14:19
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Zwischenstopps hinzugefügt
 - Verbindungen: Abfahrt oder Ankunftszeit kann ausgewählt werden
