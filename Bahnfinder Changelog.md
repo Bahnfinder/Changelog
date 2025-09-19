@@ -46,6 +46,12 @@
 ## Version 6.1.1
 **Veröffentlicht:** 28.04.2025 18:53
 
+- Release Version
+- Automatische Backups werden jetzt nach einer Wiederherstellung automatisch aktiviert
+- Die falsche Schriftgrösse von Liniennummern auf der Karte wurde behoben
+- Nach dem ersten einrichten der App wird jetzt der richtige „Was ist neu“ Screen angezeigt
+- Ein Fehler wurde behoben, der in seltenen Fällen zu Abstürzen beim verwenden von „Lokale Backups“ geführt hat
+- Allgemeine Verbesserungen 
 
 ## Version 6.1
 **Veröffentlicht:** 26.04.2025 00:45
@@ -395,8 +401,8 @@
 - Ein Fehler wurde behoben, der dazu führte, dass die Liniensymbole nach einer Wiederherstellung nicht angezeigt wurden.
 - Allgemeine Verbesserungen
 
-## Version 4.1.19
-**Veröffentlicht:** 20.05.2024 19:02
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Das App Icon „Weiss Inline“ heisst jetzt „Modern Weiß“
 - Fehlerbehebungen
