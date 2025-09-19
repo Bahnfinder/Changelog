@@ -301,8 +301,8 @@
 
 - Ein Fehler, der zum Absturz der App beim Aktualisieren des Fahrtverlaufs unter bestimmten Bedingungen führte, wurde behoben.
 
-## Version 4.4.2
-**Veröffentlicht:** 05.07.2024 17:07
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Ein Fehler wurde behoben, der dazu führte, dass unter bestimmten Umständen ein Lokales Backup beim einrichten von Bahnfinder nicht wiederhergestellt werden konnte.
 
@@ -750,8 +750,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.16
+**Veröffentlicht:** 20.09.2023 02:35
 
 - Die Darstellung zweifarbiger Linien wurde verbessert.
 - Updates für Linieninfos
@@ -803,11 +803,9 @@
 ## Version 2.2.8
 **Veröffentlicht:** 04.09.2023 16:00
 
-- Start gefunden wurde.
-- Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.7
+**Veröffentlicht:** 02.09.2023 08:49
 
 - Allgemeine Verbesserungen 
 
