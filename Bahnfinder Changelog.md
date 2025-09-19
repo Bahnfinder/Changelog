@@ -102,6 +102,8 @@
 ## Version 6.0.6
 **Veröffentlicht:** 07.02.2025 01:27
 
+- Wichtige Push Benachrichtigungen von „Haltestellen ankündigen“ spielen jetzt einen Ton oder eine Vibration
+- Allgemeine Verbesserungen
 
 ## Version 6.0.5
 **Veröffentlicht:** 05.02.2025 01:29
@@ -567,6 +569,8 @@
 ## Version 3.1.3
 **Veröffentlicht:** 12.02.2024 17:29
 
+- Fehlerbehebungen
+- Allgemeine Verbesserungen
 
 ## Version 3.1.2
 **Veröffentlicht:** 10.02.2024 07:37
@@ -805,6 +809,7 @@
 ## Version 2.2.7
 **Veröffentlicht:** 02.09.2023 08:49
 
+- Allgemeine Verbesserungen 
 
 ## Version 2.2.6
 **Veröffentlicht:** 01.09.2023 00:40
@@ -1071,8 +1076,8 @@
 - Suche verbessert
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.0.9
-**Veröffentlicht:** 11.04.2023 23:05
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Ein Fehler wurde behoben, durch den die App keine Inhalte mehr geladen hat, wenn sie eine gewisse Zeit im Hintergrund war. 
 - Der Fehler könnte bei einigen Nutzern dennoch auftreten, schließe die App dazu aus dem Multitasking Menü und öffne sie erneut. 
