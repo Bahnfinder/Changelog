@@ -20,6 +20,7 @@
 ## Version 6.1.5
 **Veröffentlicht:** 01.06.2025 23:30
 
+- Allgemeine Verbesserungen
 
 ## Version 6.1.4
 **Veröffentlicht:** 29.05.2025 00:36
@@ -217,8 +218,8 @@
 
 - Neues App Icon: „Weihnachten 2024“
 
-## Version 5.1.4
-**Veröffentlicht:** 27.11.2024 00:19
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Das VMV Verkehrsnetz funktioniert jetzt wieder wie erwartet
 - Allgemeine Verbesserungen
@@ -464,6 +465,7 @@
 ## Version 4.1.9
 **Geplant:** 01.04.2024 00:00
 
+- Am 1. April feiert Bahnfinder seinen 1. Geburtstag. Feiere diesen besonderen Tag mit einem exklusiven App Icon!
 
 ## Version 4.1.8
 **Veröffentlicht:** 23.03.2024 00:08
@@ -507,8 +509,8 @@
 - Die Darstellung von lokalen Backups wurde verbessert.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.2
+**Veröffentlicht:** 15.03.2024 12:35
 
 - Erweiterte Diagnosedaten können jetzt per Mail gesendet werden.
 - Allgemeine Verbesserungen
@@ -649,8 +651,8 @@
 - Ausgefallene Fahrzeuge werden jetzt bei Verbindungen angezeigt.
 - Allgemeine Verbesserungen 
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.11
+**Veröffentlicht:** 30.10.2023 19:06
 
 - Die Standortermittlung ist jetzt noch genauer.
 - Die Entfernung der Haltestellen wird jetzt im Verlauf angezeigt.
@@ -809,8 +811,8 @@
 
 - Allgemeine Verbesserungen 
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.6
+**Veröffentlicht:** 01.09.2023 00:40
 
 - Kleine Designänderungen
 - Allgemeine Verbesserungen
@@ -864,8 +866,8 @@
 - Neue Favoriten Symbole 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.1.1
+**Veröffentlicht:** 28.07.2023 19:11
 
 - Fehlerbehebungen
 
@@ -1004,8 +1006,8 @@
 
 - Stabilität erheblich verbessert
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.3.1
+**Veröffentlicht:** 11.05.2023 03:36
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
@@ -1112,9 +1114,6 @@
 ## Version 1.0.3
 **Veröffentlicht:** 03.04.2023 23:08
 
-- Neue App Icons
-- Es wurde ein Hinweis hinzugefügt, der den Nutzer darauf aufmerksam macht, dass die Ortungsdienste deaktiviert sind.
-- Allgemeine Verbesserungen und Fehlerbehebungen.
 
 ## Version 1.0.1
 **Veröffentlicht:** 03.04.2023 04:19
