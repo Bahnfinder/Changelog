@@ -264,7 +264,6 @@
 ## Version 5.0.2
 **Veröffentlicht:** 05.09.2024 15:32
 
-- Ein Fehler wurde behoben, der dazu führte, dass die App beim Wechsel des Verkehrsnetzes auf iPads abstürzte. 
 
 ## Version 5.0.1
 **Veröffentlicht:** 04.09.2024 02:08
@@ -319,8 +318,8 @@
 - Verbesserungen im Abfahrten Popover
 - Die Berechnung von Fußwegen wurde verbessert
 
-## Version 4.3.3
-**Veröffentlicht:** 24.06.2024 21:40
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Push Benachrichtigungen können jetzt während der Einrichtung aktiviert werden.
 - Allgemeine Verbesserungen 
@@ -386,8 +385,8 @@
 - Neues App Icon „Modern echtes schwarz“ 
 - Anpassungen bei „Backups“
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.2.1
+**Veröffentlicht:** 11.06.2024 23:51
 
 - Neues App Icon "Modern Schwarz"
 
@@ -518,8 +517,6 @@
 ## Version 4.1.1
 **Veröffentlicht:** 10.03.2024 22:38
 
-- Neue Verkehrsnetze hinzugefügt: MVG (Märkischer Kreis), VMS, VMV, VRN
-- Allgemeine Verbesserungen
 
 ## Version 4.1
 **Veröffentlicht:** 08.03.2024 13:33
@@ -1085,6 +1082,7 @@
 ## Version 1.0.8
 **Veröffentlicht:** 11.04.2023 02:45
 
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.0.7
 **Veröffentlicht:** 10.04.2023 03:17
