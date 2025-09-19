@@ -73,15 +73,14 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.0.11
+**Veröffentlicht:** 22.02.2025 09:46
 
 - Verbesserungen für VoiceOver
 
 ## Version 6.0.10
 **Veröffentlicht:** 16.02.2025 17:24
 
-- Allgemeine Verbesserungen
 
 ## Version 6.0.9
 **Veröffentlicht:** 12.02.2025 03:24
@@ -269,6 +268,8 @@
 ## Version 5.0.1
 **Veröffentlicht:** 04.09.2024 02:08
 
+- Bahnfinder läuft jetzt noch schneller.
+- Ein Fehler wurde behoben, der dazu führte, dass die App beim darstellen einiger zweifarbiger Liniennummern abstürzte.
 
 ## Version 5
 **Veröffentlicht:** 01.09.2024 17:57
@@ -427,6 +428,8 @@
 ## Version 4.1.15
 **Veröffentlicht:** 15.05.2024 22:58
 
+- Die Funktion "Haltestelle Automatisch ausfüllen" kann jetzt deaktiviert werden.
+- Allgemeine Verbesserungen
 
 ## Version 4.1.14
 **Veröffentlicht:** 12.05.2024 22:31
@@ -790,8 +793,8 @@
 - Die Karte wurde überarbeitet und bietet jetzt eine verbesserte Navigation.
 - Allgemeine Verbesserungen
 
-## Version 2.2.9
-**Veröffentlicht:** 08.09.2023 14:39
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Lange Fusswege werden jetzt unter Verbindung markiert.
 - Allgemeine Verbesserungen
@@ -822,11 +825,6 @@
 ## Version 2.2.4
 **Veröffentlicht:** 30.08.2023 12:04
 
-- Die Anzeige der Umsteigezeit ist nun in den Verbindungsdetails sichtbar.
-- Das Layout der Abfahrtszeiten wurde optimiert, um eine höhere Anzahl von Abfahrten gleichzeitig anzeigen zu können.
-- Die Suchgeschwindigkeit wurde signifikant erhöht.
-- Ein neuer Hinweisdialog informiert Benutzer, wenn sie sich in einem Gebiet mit Verkehrsnetz befinden, das derzeit nicht ausgewählt ist.
-- Allgemeine Verbesserungen
 
 ## Version 2.2.3
 **Veröffentlicht:** 17.08.2023 11:24
@@ -971,6 +969,9 @@
 ## Version 1.4.0
 **Veröffentlicht:** 17.05.2023 02:42
 
+- Automatische Suche bei Verbindungen hinzugefügt
+- Stabilitätsverbesserungen
+- Fehlerbehebungen
 
 ## Version 1.3.6
 **Veröffentlicht:** 16.05.2023 13:41
