@@ -216,7 +216,6 @@
 ## Version 5.1.5
 **Veröffentlicht:** 10.12.2024 05:15
 
-- Neues App Icon: „Weihnachten 2024“
 
 ## Version 5.1.4
 **Veröffentlicht:** 27.11.2024 00:19
@@ -424,7 +423,6 @@
 ## Version 4.1.16
 **Veröffentlicht:** 16.05.2024 00:09
 
-- MVV: Nachtbusse werden jetzt in einer spezifischen Farbe dargestellt (Lässt sich deaktivieren)
 
 ## Version 4.1.15
 **Veröffentlicht:** 15.05.2024 22:58
@@ -509,8 +507,8 @@
 - Die Darstellung von lokalen Backups wurde verbessert.
 - Allgemeine Verbesserungen
 
-## Version 4.1.2
-**Veröffentlicht:** 15.03.2024 12:35
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Erweiterte Diagnosedaten können jetzt per Mail gesendet werden.
 - Allgemeine Verbesserungen
@@ -699,8 +697,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 2.3.3
-**Veröffentlicht:** 16.10.2023 20:33
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -788,8 +786,8 @@
 - 3D Optionen wurden zur Karte hinzugefügt.
 - Allgemeine Verbesserungen
 
-## Version 2.2.10
-**Veröffentlicht:** 11.09.2023 11:05
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Karte wurde überarbeitet und bietet jetzt eine verbesserte Navigation.
 - Allgemeine Verbesserungen
@@ -1079,6 +1077,8 @@
 ## Version 1.0.9
 **Veröffentlicht:** 11.04.2023 23:05
 
+- Ein Fehler wurde behoben, durch den die App keine Inhalte mehr geladen hat, wenn sie eine gewisse Zeit im Hintergrund war. 
+- Der Fehler könnte bei einigen Nutzern dennoch auftreten, schließe die App dazu aus dem Multitasking Menü und öffne sie erneut. 
 
 ## Version 1.0.8
 **Veröffentlicht:** 11.04.2023 02:45
