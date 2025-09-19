@@ -380,14 +380,14 @@
 - Ein Fehler wurde behoben, der die App beim Laden einiger Verbindungen zum Absturz brachte.
 - Allgemeine Verbesserungen
 
-## Version 4.2.2
-**Veröffentlicht:** 13.06.2024 19:31
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neues App Icon „Modern echtes schwarz“ 
 - Anpassungen bei „Backups“
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.2.1
+**Veröffentlicht:** 11.06.2024 23:51
 
 - Neues App Icon "Modern Schwarz"
 
@@ -509,8 +509,8 @@
 - Die Darstellung von lokalen Backups wurde verbessert.
 - Allgemeine Verbesserungen
 
-## Version 4.1.2
-**Veröffentlicht:** 15.03.2024 12:35
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Erweiterte Diagnosedaten können jetzt per Mail gesendet werden.
 - Allgemeine Verbesserungen
@@ -1042,9 +1042,10 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.1.2
+**Veröffentlicht:** 25.04.2023 04:22
 
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.1.1
 **Veröffentlicht:** 21.04.2023 20:55
@@ -1078,8 +1079,6 @@
 ## Version 1.0.9
 **Veröffentlicht:** 11.04.2023 23:05
 
-- Ein Fehler wurde behoben, durch den die App keine Inhalte mehr geladen hat, wenn sie eine gewisse Zeit im Hintergrund war. 
-- Der Fehler könnte bei einigen Nutzern dennoch auftreten, schließe die App dazu aus dem Multitasking Menü und öffne sie erneut. 
 
 ## Version 1.0.8
 **Veröffentlicht:** 11.04.2023 02:45
