@@ -40,8 +40,6 @@
 ## Version 6.1.2
 **Veröffentlicht:** 18.05.2025 22:29
 
-- Die Größe eines Backups wird jetzt angezeigt. Zusätzlich wird die relative Größe im Vergleich zu anderen Backups dargestellt
-- Allgemeine Verbesserungen
 
 ## Version 6.1.1
 **Veröffentlicht:** 28.04.2025 18:53
@@ -275,6 +273,16 @@
 ## Version 5
 **Veröffentlicht:** 01.09.2024 17:57
 
+- Liniennummer in Verbindungsliste: du kannst jetzt aussuchen, ob du die Liniennummer oder das Fahrzeugsymbol in der Verbindungsliste sehen möchtest. 
+- Verbesserungen im Fahrtverlauf: im Fahrtverlauf werden jetzt weitere Informationen zu deinem Fahrzeug angezeigt. Du kannst genau sehen, von welchem Gleis dein Fahrzeug fährt oder welche Haltestellen ausfallen.
+- Wagenreihung: Du kannst dir jetzt über den Fahrtverlauf die Wagenreihung von ICEs ansehen.
+- Auslastung: Bei bestimmten Fahrzeugen siehst du, wie ausgelastet deine Fahrt sein wird.
+- Fahrpreise: im Verbindungsdetail kannst du dir die aktuellen Ticketpreise für deine Fahrt ansehen.
+- Haltestellen ankündigen: „Haltestellen vorlesen“ heißt jetzt „Haltestellen ankündigen“. Du kannst dir die nächsten Haltestellen jetzt auch als Push Mitteilung anzeigen lassen, falls du mal keine Kopfhörer dabei hast.
+- Erinnerungen: Erinnerungen sind jetzt auch für Verbindungen verfügbar.
+- Neue Design Einstellungen: Mit den neuen Design Einstellungen kannst du dein gewünschtes Design noch einfacher und übersichtlicher ändern. 
+- Wichtige Haltestellen filtern: du kannst in der Suche auswählen, ob du nur die wichtigsten Haltestellen in deiner Nähe sehen möchtest. Diese basieren auf deinen Favoriten, benutzten und besuchten Haltestellen.
+- Über 90 weitere Neuerungen machen Bahnfinder noch besser und schneller.
 
 ## Version 4.4.5
 **Veröffentlicht:** 12.08.2024 15:00
@@ -364,6 +372,11 @@
 ## Version 4.2.3
 **Veröffentlicht:** 14.06.2024 12:07
 
+- Nutzer werden ab jetzt darauf hingewiesen, wenn sie sich in einer nicht unterstützen Region befinden.
+- Die nächste Haltestelle wird jetzt auch in der Suche markiert.
+- Das Menü bei Abfahrten wurde überarbeitet.
+- Ein Fehler wurde behoben, der die App beim Laden einiger Verbindungen zum Absturz brachte.
+- Allgemeine Verbesserungen
 
 ## Version 4.2.2
 **Veröffentlicht:** 13.06.2024 19:31
