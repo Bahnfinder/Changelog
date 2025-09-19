@@ -78,8 +78,8 @@
 
 - Verbesserungen für VoiceOver
 
-## Version 6.0.10
-**Veröffentlicht:** 16.02.2025 17:24
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -227,6 +227,7 @@
 ## Version 5.1.3
 **Veröffentlicht:** 27.09.2024 17:57
 
+- Ein Darstellungsfehler wurde behoben
 
 ## Version 5.1.2
 **Veröffentlicht:** 22.09.2024 15:19
@@ -348,9 +349,6 @@
 ## Version 4.2.7
 **Veröffentlicht:** 20.06.2024 01:04
 
-- In der Verkehrsnetz Auswahl werden jetzt die zugehörigen Städte angezeigt.
-- Verbesserte Anzeige von Haltestellennamen auf der Verbindungskarte.
-- Allgemeine Verbesserungen
 
 ## Version 4.2.6
 **Veröffentlicht:** 18.06.2024 02:47
@@ -425,8 +423,8 @@
 
 - MVV: Nachtbusse werden jetzt in einer spezifischen Farbe dargestellt (Lässt sich deaktivieren)
 
-## Version 4.1.15
-**Veröffentlicht:** 15.05.2024 22:58
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Funktion "Haltestelle Automatisch ausfüllen" kann jetzt deaktiviert werden.
 - Allgemeine Verbesserungen
@@ -446,8 +444,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.11
+**Veröffentlicht:** 08.05.2024 16:43
 
 - Das Liniensymbol für die Tram 21 im MVV wurde aktualisiert.
 - Einige Verkehrsnetzspezifische Probleme wurden behoben.
@@ -896,6 +894,9 @@
 ## Version 2.0.2
 **Veröffentlicht:** 20.07.2023 03:14
 
+- Konfigurationen von ausgeblendeten Linien können ab sofort gespeichert werden.
+- Favoriten Symbole werden in Abfahrten gezeigt.
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 2.0.1
 **Veröffentlicht:** 15.07.2023 00:02
@@ -959,8 +960,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.5.0
+**Veröffentlicht:** 18.05.2023 15:13
 
 - Die Gleisnummer ist ab sofort im Fahrtverlauf sichtbar
 - Neues Design bei Fahrtverlauf
@@ -1024,6 +1025,7 @@
 ## Version 1.2.1
 **Veröffentlicht:** 08.05.2023 23:07
 
+- Fehlerbehebungen
 
 ## Version 1.2.0
 **Veröffentlicht:** 06.05.2023 00:35
