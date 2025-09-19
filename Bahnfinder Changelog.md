@@ -304,7 +304,6 @@
 ## Version 4.4.2
 **Veröffentlicht:** 05.07.2024 17:07
 
-- Ein Fehler wurde behoben, der dazu führte, dass unter bestimmten Umständen ein Lokales Backup beim einrichten von Bahnfinder nicht wiederhergestellt werden konnte.
 
 ## Version 4.4.1
 **Veröffentlicht:** 01.07.2024 17:20
@@ -315,9 +314,6 @@
 ## Version 4.4
 **Veröffentlicht:** 27.06.2024 16:01
 
-- Neues App Icon: „Flipswitch“
-- Verbesserungen im Abfahrten Popover
-- Die Berechnung von Fußwegen wurde verbessert
 
 ## Version 4.3.3
 **Veröffentlicht:** 24.06.2024 21:40
@@ -328,6 +324,7 @@
 ## Version 4.3.2
 **Veröffentlicht:** 23.06.2024 16:44
 
+- Entfallene Fahrzeuge werden jetzt einheitlich dargestellt.
 
 ## Version 4.3.1
 **Veröffentlicht:** 23.06.2024 01:00
@@ -870,8 +867,8 @@
 
 - Fehlerbehebungen
 
-## Version 2.1
-**Veröffentlicht:** 27.07.2023 15:20
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neues Design in "Verbindung".
 - Verkehrsnetz spezifische Einstellungen hinzugefügt.
@@ -1036,8 +1033,8 @@
 - Falls die Haltestelle, die beim Start der App gefunden wurde, durch eine andere ersetzt werden soll, können Ausnahmen erstellt werden.
 - Allgemeine Verbesserungen und Fehlerbehebungen wurden durchgeführt.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.1.3
+**Veröffentlicht:** 27.04.2023 03:25
 
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
