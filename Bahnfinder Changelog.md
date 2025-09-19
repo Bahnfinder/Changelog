@@ -134,8 +134,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 6
-**Veröffentlicht:** 27.01.2025 01:01
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Karten
 - • Karten für den Fahrtverlauf und Verbindungen wurden komplett überarbeitet
@@ -404,9 +404,6 @@
 ## Version 4.1.19
 **Veröffentlicht:** 20.05.2024 19:02
 
-- Das App Icon „Weiss Inline“ heisst jetzt „Modern Weiß“
-- Fehlerbehebungen
-- Allgemeine Verbesserungen
 
 ## Version 4.1.18
 **Veröffentlicht:** 18.05.2024 21:41
