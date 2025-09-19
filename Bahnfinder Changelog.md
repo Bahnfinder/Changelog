@@ -623,8 +623,8 @@
 - Die Suche ist jetzt noch schneller
 - Über 30 weitere Verbesserungen machen Bahnfinder noch noch schneller und zuverlässiger.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.16
+**Veröffentlicht:** 20.12.2023 09:49
 
 - 4 neue App Icons: „Vereiste Weihnachten“, „Vereiste Weihnachten Mund“, „Weihnachtsgeschenk“ und „Weihnachtsgeschenk Mund“.
 - Allgemeine Verbesserungen
@@ -803,6 +803,8 @@
 ## Version 2.2.8
 **Veröffentlicht:** 04.09.2023 16:00
 
+- Start gefunden wurde.
+- Allgemeine Verbesserungen
 
 ## Version 2.2.7
 **Veröffentlicht:** 02.09.2023 08:49
