@@ -97,6 +97,7 @@
 ## Version 6.0.7
 **Veröffentlicht:** 09.02.2025 23:42
 
+- Allgemeine Verbesserungen
 
 ## Version 6.0.6
 **Veröffentlicht:** 07.02.2025 01:27
@@ -475,10 +476,6 @@
 ## Version 4.1.7
 **Veröffentlicht:** 22.03.2024 01:08
 
-- Neue Option: Erweiterte Analyse
-- Daten wie beispielsweise Lokale Backups können jetzt über iTunes ausgetauscht werden.
-- Neues App Icon: „Bahnfindi“
-- iCloud Synchronisierung wurde optimiert 
 
 ## Version 4.1.6
 **Veröffentlicht:** 21.03.2024 13:16
@@ -514,8 +511,8 @@
 - Erweiterte Diagnosedaten können jetzt per Mail gesendet werden.
 - Allgemeine Verbesserungen
 
-## Version 4.1.1
-**Veröffentlicht:** 10.03.2024 22:38
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neue Verkehrsnetze hinzugefügt: MVG (Märkischer Kreis), VMS, VMV, VRN
 - Allgemeine Verbesserungen
@@ -625,8 +622,6 @@
 ## Version 2.3.16
 **Veröffentlicht:** 20.12.2023 09:49
 
-- 4 neue App Icons: „Vereiste Weihnachten“, „Vereiste Weihnachten Mund“, „Weihnachtsgeschenk“ und „Weihnachtsgeschenk Mund“.
-- Allgemeine Verbesserungen
 
 ## Version 2.3.15
 **Veröffentlicht:** 13.12.2023 23:32
@@ -696,6 +691,7 @@
 ## Version 2.3.4
 **Veröffentlicht:** 17.10.2023 12:02
 
+- Allgemeine Verbesserungen
 
 ## Version 2.3.3
 **Veröffentlicht:** 16.10.2023 20:33
@@ -761,8 +757,8 @@
 - Ein Fehler wurde behoben, der dazu geführt hat, dass auf der Karte eine veraltete Verbindung angezeigt wurde.
 - Allgemeine Verbesserungen
 
-## Version 2.2.14
-**Veröffentlicht:** 18.09.2023 17:13
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Mit der Funktion "Notfallsuche" wird versucht, stets eine Verbindung für dich zu finden. Selbst in Situationen wie späten Stunden in einem entlegenen Dorf werden dir beispielsweise lange Fußwege zum nächsten Ort vorgeschlagen, um in jedem Fall nach Hause zu kommen.
 - Allgemeine Verbesserungen
@@ -846,8 +842,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2
+**Veröffentlicht:** 09.08.2023 20:22
 
 - Dieses Update enthält interne Optimierungen, die Bahnfinder noch schneller und stabiler machen.
 - Neues, optionales Layout für eine verbesserte einhändige Bedienung. (Vorerst nur bei Abfahrten)
@@ -869,8 +865,8 @@
 
 - Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.1
+**Veröffentlicht:** 27.07.2023 15:20
 
 - Neues Design in "Verbindung".
 - Verkehrsnetz spezifische Einstellungen hinzugefügt.
@@ -884,8 +880,8 @@
 
 - Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.0.3
+**Veröffentlicht:** 21.07.2023 01:29
 
 - VVO hinzugefügt
 - Anzeige der Favoriten Symbole verbessert
@@ -973,9 +969,6 @@
 ## Version 1.4.0
 **Veröffentlicht:** 17.05.2023 02:42
 
-- Automatische Suche bei Verbindungen hinzugefügt
-- Stabilitätsverbesserungen
-- Fehlerbehebungen
 
 ## Version 1.3.6
 **Veröffentlicht:** 16.05.2023 13:41
