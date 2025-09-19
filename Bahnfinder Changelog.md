@@ -364,9 +364,10 @@
 ## Version 4.2.5
 **Veröffentlicht:** 17.06.2024 10:46
 
+- Hauptbahnhöfe werden jetzt verbessert angezeigt.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.2.4
+**Veröffentlicht:** 15.06.2024 18:32
 
 - Die Geschwindigkeit von iCloud Backups wurde erheblich verbessert.
 
