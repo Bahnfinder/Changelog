@@ -186,8 +186,8 @@
 
 - Dieses Update enthält API Updates für das Deutsche Bahn Verkehrsnetz, welches jetzt wieder wie erwartet funktioniert!
 
-## Version 5.1.10
-**Veröffentlicht:** 13.01.2025 01:03
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Weitere Informationen über den Ausfall des DB Verkehrsnetzes hinzugefügt 
 
@@ -301,8 +301,8 @@
 
 - Ein Fehler, der zum Absturz der App beim Aktualisieren des Fahrtverlaufs unter bestimmten Bedingungen führte, wurde behoben.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.4.2
+**Veröffentlicht:** 05.07.2024 17:07
 
 - Ein Fehler wurde behoben, der dazu führte, dass unter bestimmten Umständen ein Lokales Backup beim einrichten von Bahnfinder nicht wiederhergestellt werden konnte.
 
@@ -515,8 +515,8 @@
 - Erweiterte Diagnosedaten können jetzt per Mail gesendet werden.
 - Allgemeine Verbesserungen
 
-## Version 4.1.1
-**Veröffentlicht:** 10.03.2024 22:38
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neue Verkehrsnetze hinzugefügt: MVG (Märkischer Kreis), VMS, VMV, VRN
 - Allgemeine Verbesserungen
@@ -846,7 +846,6 @@
 ## Version 2.2.1
 **Veröffentlicht:** 11.08.2023 17:09
 
-- Allgemeine Verbesserungen
 
 ## Version 2.2
 **Veröffentlicht:** 09.08.2023 20:22
