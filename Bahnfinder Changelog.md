@@ -421,8 +421,8 @@
 - Die Darstellung des Standortpfeils wurde verbessert.
 - Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.16
+**Veröffentlicht:** 16.05.2024 00:09
 
 - MVV: Nachtbusse werden jetzt in einer spezifischen Farbe dargestellt (Lässt sich deaktivieren)
 
@@ -623,8 +623,8 @@
 - Die Suche ist jetzt noch schneller
 - Über 30 weitere Verbesserungen machen Bahnfinder noch noch schneller und zuverlässiger.
 
-## Version 2.3.16
-**Veröffentlicht:** 20.12.2023 09:49
+## Version null
+**Veröffentlicht:** – No release date available
 
 - 4 neue App Icons: „Vereiste Weihnachten“, „Vereiste Weihnachten Mund“, „Weihnachtsgeschenk“ und „Weihnachtsgeschenk Mund“.
 - Allgemeine Verbesserungen
