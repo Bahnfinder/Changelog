@@ -102,6 +102,8 @@
 ## Version 6.0.6
 **Veröffentlicht:** 07.02.2025 01:27
 
+- Wichtige Push Benachrichtigungen von „Haltestellen ankündigen“ spielen jetzt einen Ton oder eine Vibration
+- Allgemeine Verbesserungen
 
 ## Version 6.0.5
 **Veröffentlicht:** 05.02.2025 01:29
@@ -320,6 +322,8 @@
 ## Version 4.3.3
 **Veröffentlicht:** 24.06.2024 21:40
 
+- Push Benachrichtigungen können jetzt während der Einrichtung aktiviert werden.
+- Allgemeine Verbesserungen 
 
 ## Version 4.3.2
 **Veröffentlicht:** 23.06.2024 16:44
@@ -508,8 +512,6 @@
 ## Version 4.1.2
 **Veröffentlicht:** 15.03.2024 12:35
 
-- Erweiterte Diagnosedaten können jetzt per Mail gesendet werden.
-- Allgemeine Verbesserungen
 
 ## Version 4.1.1
 **Veröffentlicht:** 10.03.2024 22:38
@@ -577,7 +579,6 @@
 ## Version 3.1.1
 **Veröffentlicht:** 02.02.2024 12:41
 
-- Allgemeine Verbesserungen
 
 ## Version 3.1
 **Veröffentlicht:** 01.02.2024 16:55
@@ -749,9 +750,6 @@
 ## Version 2.2.16
 **Veröffentlicht:** 20.09.2023 02:35
 
-- Die Darstellung zweifarbiger Linien wurde verbessert.
-- Updates für Linieninfos
-- Allgemeine Verbesserungen
 
 ## Version 2.2.15
 **Veröffentlicht:** 19.09.2023 15:08
@@ -1000,7 +998,6 @@
 ## Version 1.3.2
 **Veröffentlicht:** 12.05.2023 05:14
 
-- Stabilität erheblich verbessert
 
 ## Version 1.3.1
 **Veröffentlicht:** 11.05.2023 03:36
