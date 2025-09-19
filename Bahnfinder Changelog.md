@@ -304,6 +304,7 @@
 ## Version 4.4.2
 **Veröffentlicht:** 05.07.2024 17:07
 
+- Ein Fehler wurde behoben, der dazu führte, dass unter bestimmten Umständen ein Lokales Backup beim einrichten von Bahnfinder nicht wiederhergestellt werden konnte.
 
 ## Version 4.4.1
 **Veröffentlicht:** 01.07.2024 17:20
@@ -420,8 +421,8 @@
 - Die Darstellung des Standortpfeils wurde verbessert.
 - Fehlerbehebungen
 
-## Version 4.1.16
-**Veröffentlicht:** 16.05.2024 00:09
+## Version null
+**Veröffentlicht:** – No release date available
 
 - MVV: Nachtbusse werden jetzt in einer spezifischen Farbe dargestellt (Lässt sich deaktivieren)
 
@@ -498,6 +499,7 @@
 ## Version 4.1.4
 **Veröffentlicht:** 19.03.2024 16:44
 
+- Allgemeine Verbesserungen
 
 ## Version 4.1.3
 **Veröffentlicht:** 18.03.2024 14:01
