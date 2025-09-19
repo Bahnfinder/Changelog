@@ -132,7 +132,6 @@
 ## Version 6.0.1
 **Veröffentlicht:** 28.01.2025 02:13
 
-- Allgemeine Verbesserungen
 
 ## Version 6
 **Veröffentlicht:** 27.01.2025 01:01
@@ -266,8 +265,8 @@
 
 - Ein Fehler wurde behoben, der dazu führte, dass die App beim Wechsel des Verkehrsnetzes auf iPads abstürzte. 
 
-## Version 5.0.1
-**Veröffentlicht:** 04.09.2024 02:08
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Bahnfinder läuft jetzt noch schneller.
 - Ein Fehler wurde behoben, der dazu führte, dass die App beim darstellen einiger zweifarbiger Liniennummern abstürzte.
@@ -322,8 +321,6 @@
 ## Version 4.3.3
 **Veröffentlicht:** 24.06.2024 21:40
 
-- Push Benachrichtigungen können jetzt während der Einrichtung aktiviert werden.
-- Allgemeine Verbesserungen 
 
 ## Version 4.3.2
 **Veröffentlicht:** 23.06.2024 16:44
@@ -748,7 +745,6 @@
 ## Version 2.2.17
 **Veröffentlicht:** 20.09.2023 17:52
 
-- Allgemeine Verbesserungen
 
 ## Version 2.2.16
 **Veröffentlicht:** 20.09.2023 02:35
@@ -1104,8 +1100,8 @@
 - Anschlüsse können ab sofort von einer Verbindung aus durch tippen auf den Haltestellen Namen abgerufen werden.
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version 1.0.4
-**Veröffentlicht:** 05.04.2023 04:18
+## Version null
+**Veröffentlicht:** – No release date available
 
 - KVV als Verkehrsnetz hinzugefügt.
 - Setup Assistenten hinzugefügt.
