@@ -394,12 +394,6 @@
 ## Version 4.2.0
 **Veröffentlicht:** 10.06.2024 11:36
 
-- „Synchronisieren“ wurde in „Backups“ umbenannt. Es ist jetzt möglich, unbegrenzt viele verschiedene iCloud Backups zu erstellen und zu verwalten. Nutzer können jetzt ihre Backups mit einer komplett neuen Oberfläche verwalten und wiederherstellen. 
-- Auf der Fahrtverlauf Karte werden jetzt Abfahrtszeiten angezeigt.
-- Neue Option, um „Haltestellen vorlesen“ automatisch zu beenden, wenn Kopfhörer getrennt wurden.
-- Die Einrichtung wurde verbessert
-- Ein Fehler wurde behoben, der dazu führte, dass die Liniensymbole nach einer Wiederherstellung nicht angezeigt wurden.
-- Allgemeine Verbesserungen
 
 ## Version 4.1.19
 **Veröffentlicht:** 20.05.2024 19:02
@@ -414,8 +408,8 @@
 - Neues App Icon „Weiss Inline“
 - Darstellungsanpassungen für kleinere Geräte
 
-## Version 4.1.17
-**Veröffentlicht:** 16.05.2024 15:26
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Anpassungen für ältere Geräte und iOS Versionen.
 - Die Darstellung des Standortpfeils wurde verbessert.
@@ -484,11 +478,6 @@
 ## Version 4.1.6
 **Veröffentlicht:** 21.03.2024 13:16
 
-- Das letzte Backup auf iCloud wird jetzt unter „Synchronisierung“ angezeigt
-- Die iCloud Synchronisierung wurde erheblich verbessert
-- Es wurden verschiedene Schutzmechanismen in die Synchronisierung eingebaut
-- Einrichtung verbessert
-- Allgemeine Verbesserungen
 
 ## Version 4.1.5
 **Veröffentlicht:** 20.03.2024 19:10
@@ -535,10 +524,6 @@
 ## Version 4.0.1
 **Veröffentlicht:** 06.03.2024 01:56
 
-- 2 neue App Icons: „Mund“ und „Mitternacht Mund“
-- Die Fahrzeugnummer ist jetzt unter Linieninfos sichtbar. 
-- Neue Designoptionen für den Suchen Button in Verbindung
-- Allgemeine Verbesserungen
 
 ## Version 4.0
 **Veröffentlicht:** 26.02.2024 15:09
@@ -781,8 +766,8 @@
 - Verbesserungen für das Liniendesign
 - Allgemeine Verbesserungen
 
-## Version 2.2.11
-**Veröffentlicht:** 14.09.2023 01:16
+## Version null
+**Veröffentlicht:** – No release date available
 
 - iOS 17 Kompatibilität
 - 3D Optionen wurden zur Karte hinzugefügt.
@@ -884,6 +869,7 @@
 ## Version 2.0.4
 **Veröffentlicht:** 24.07.2023 00:19
 
+- Fehlerbehebungen
 
 ## Version 2.0.3
 **Veröffentlicht:** 21.07.2023 01:29
@@ -1005,8 +991,8 @@
 
 - Stabilität erheblich verbessert
 
-## Version 1.3.1
-**Veröffentlicht:** 11.05.2023 03:36
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
@@ -1054,10 +1040,6 @@
 ## Version 1.1.0
 **Veröffentlicht:** 21.04.2023 06:06
 
-- Verbindung anpinnen: Deine ausgewählte Route wird gespeichert und bleibt bis zum Ende deiner Fahrt oben angeheftet. Mit nur einem Klick kannst du sie jederzeit wieder aufrufen.
-- Designpaket „Glas“ wurde für den hellen Modus optimiert.
-- Dein aktueller Standort bei Abfahrten wird nun automatisch aktualisiert.
-- Allgemeine Verbesserungen und Fehlerbehebungen.
 
 ## Version 1.0.12
 **Veröffentlicht:** 18.04.2023 00:53
