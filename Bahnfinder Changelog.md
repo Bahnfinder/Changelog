@@ -1111,8 +1111,8 @@
 - Setup Assistenten hinzugefügt.
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version 1.0.3
-**Veröffentlicht:** 03.04.2023 23:08
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neue App Icons
 - Es wurde ein Hinweis hinzugefügt, der den Nutzer darauf aufmerksam macht, dass die Ortungsdienste deaktiviert sind.
