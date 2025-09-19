@@ -102,6 +102,8 @@
 ## Version 6.0.6
 **Veröffentlicht:** 07.02.2025 01:27
 
+- Wichtige Push Benachrichtigungen von „Haltestellen ankündigen“ spielen jetzt einen Ton oder eine Vibration
+- Allgemeine Verbesserungen
 
 ## Version 6.0.5
 **Veröffentlicht:** 05.02.2025 01:29
@@ -573,8 +575,6 @@
 ## Version 3.1.2
 **Veröffentlicht:** 10.02.2024 07:37
 
-- Fehlerbehebungen
-- Allgemeine Verbesserungen
 
 ## Version 3.1.1
 **Veröffentlicht:** 02.02.2024 12:41
@@ -686,8 +686,8 @@
 
 - Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.5
+**Veröffentlicht:** 18.10.2023 17:03
 
 - Die Darstellung des Standortpfeils wurde verbessert.
 - Allgemeine Verbesserungen
@@ -695,7 +695,6 @@
 ## Version 2.3.4
 **Veröffentlicht:** 17.10.2023 12:02
 
-- Allgemeine Verbesserungen
 
 ## Version 2.3.3
 **Veröffentlicht:** 16.10.2023 20:33
