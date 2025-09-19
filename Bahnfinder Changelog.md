@@ -105,8 +105,8 @@
 - Wichtige Push Benachrichtigungen von „Haltestellen ankündigen“ spielen jetzt einen Ton oder eine Vibration
 - Allgemeine Verbesserungen
 
-## Version 6.0.5
-**Veröffentlicht:** 05.02.2025 01:29
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Das Setup wurde verbessert
 - Allgemeine Verbesserungen
@@ -218,8 +218,8 @@
 
 - Neues App Icon: „Weihnachten 2024“
 
-## Version 5.1.4
-**Veröffentlicht:** 27.11.2024 00:19
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Das VMV Verkehrsnetz funktioniert jetzt wieder wie erwartet
 - Allgemeine Verbesserungen
@@ -954,6 +954,9 @@
 ## Version 1.5.2
 **Veröffentlicht:** 25.05.2023 04:40
 
+- Eine Option zum anrufen von Rufbussen wurde hinzugefügt
+- Stabilität wurde verbessert
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.5.1
 **Veröffentlicht:** 22.05.2023 22:56
@@ -986,8 +989,8 @@
 
 - Fehlerbehebungen und Stabilitätsverbesserungen
 
-## Version 1.3.4
-**Veröffentlicht:** 13.05.2023 10:27
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
