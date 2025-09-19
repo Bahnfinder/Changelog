@@ -97,7 +97,6 @@
 ## Version 6.0.7
 **Veröffentlicht:** 09.02.2025 23:42
 
-- Allgemeine Verbesserungen
 
 ## Version 6.0.6
 **Veröffentlicht:** 07.02.2025 01:27
@@ -473,8 +472,8 @@
 - Backups und weitere Dateien können jetzt über die „Dateien“ App ausgetauscht werden
 - Layout Anpassungen für kleinere Geräte
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.7
+**Veröffentlicht:** 22.03.2024 01:08
 
 - Neue Option: Erweiterte Analyse
 - Daten wie beispielsweise Lokale Backups können jetzt über iTunes ausgetauscht werden.
@@ -697,11 +696,11 @@
 ## Version 2.3.4
 **Veröffentlicht:** 17.10.2023 12:02
 
-- Allgemeine Verbesserungen
 
 ## Version 2.3.3
 **Veröffentlicht:** 16.10.2023 20:33
 
+- Allgemeine Verbesserungen
 
 ## Version 2.3.2
 **Veröffentlicht:** 13.10.2023 12:39
@@ -847,8 +846,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 2.2
-**Veröffentlicht:** 09.08.2023 20:22
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Dieses Update enthält interne Optimierungen, die Bahnfinder noch schneller und stabiler machen.
 - Neues, optionales Layout für eine verbesserte einhändige Bedienung. (Vorerst nur bei Abfahrten)
@@ -870,8 +869,8 @@
 
 - Fehlerbehebungen
 
-## Version 2.1
-**Veröffentlicht:** 27.07.2023 15:20
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neues Design in "Verbindung".
 - Verkehrsnetz spezifische Einstellungen hinzugefügt.
@@ -885,8 +884,8 @@
 
 - Fehlerbehebungen
 
-## Version 2.0.3
-**Veröffentlicht:** 21.07.2023 01:29
+## Version null
+**Veröffentlicht:** – No release date available
 
 - VVO hinzugefügt
 - Anzeige der Favoriten Symbole verbessert
