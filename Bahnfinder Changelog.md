@@ -37,8 +37,8 @@
 - Leistungsverbesserungen
 - Allgemeine Verbesserungen
 
-## Version 6.1.2
-**Veröffentlicht:** 18.05.2025 22:29
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Größe eines Backups wird jetzt angezeigt. Zusätzlich wird die relative Größe im Vergleich zu anderen Backups dargestellt
 - Allgemeine Verbesserungen
@@ -389,6 +389,7 @@
 ## Version 4.2.1
 **Veröffentlicht:** 11.06.2024 23:51
 
+- Neues App Icon "Modern Schwarz"
 
 ## Version 4.2.0
 **Veröffentlicht:** 10.06.2024 11:36
@@ -423,7 +424,6 @@
 ## Version 4.1.16
 **Veröffentlicht:** 16.05.2024 00:09
 
-- MVV: Nachtbusse werden jetzt in einer spezifischen Farbe dargestellt (Lässt sich deaktivieren)
 
 ## Version 4.1.15
 **Veröffentlicht:** 15.05.2024 22:58
@@ -434,6 +434,7 @@
 ## Version 4.1.14
 **Veröffentlicht:** 12.05.2024 22:31
 
+- Allgemeine Verbesserungen
 
 ## Version 4.1.13
 **Veröffentlicht:** 12.05.2024 15:34
@@ -815,8 +816,8 @@
 - Kleine Designänderungen
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.5
+**Veröffentlicht:** 31.08.2023 11:56
 
 - In der Suche werden jetzt 50 Haltestellen in der Nähe angezeigt.
 - Allgemeine Verbesserungen
@@ -869,8 +870,8 @@
 
 - Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.1
+**Veröffentlicht:** 27.07.2023 15:20
 
 - Neues Design in "Verbindung".
 - Verkehrsnetz spezifische Einstellungen hinzugefügt.
