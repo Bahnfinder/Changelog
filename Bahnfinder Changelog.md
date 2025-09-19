@@ -88,8 +88,8 @@
 
 - Ein Fehler wurde behoben, der in manchen Situationen zum Einfrieren und Abstürzen der App führte.
 
-## Version 6.0.8
-**Veröffentlicht:** 12.02.2025 01:08
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Leistungsverbesserungen
 - Allgemeine Verbesserungen
@@ -120,6 +120,8 @@
 ## Version 6.0.3
 **Veröffentlicht:** 31.01.2025 03:41
 
+- Verbesserte Darstellung von Bahnhofsnamen
+- Allgemeine Verbesserungen
 
 ## Version 6.0.2
 **Veröffentlicht:** 29.01.2025 15:04
@@ -664,8 +666,8 @@
 - Die Haltestellensymbol UI wurde verbessert.
 - Allgemeine Verbesserungen
 
-## Version 2.3.9
-**Veröffentlicht:** 22.10.2023 16:09
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Darstellung des Fahrtfortschritts im Fahrtverlauf markiert jetzt die Haltestelle, an dem sich das Fahrzeug gerade befindet.
 - Eine neue Verbindungsoption „Minimale Umsteigezeit“ wurde hinzugefügt.
@@ -748,8 +750,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 2.2.16
-**Veröffentlicht:** 20.09.2023 02:35
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Darstellung zweifarbiger Linien wurde verbessert.
 - Updates für Linieninfos
@@ -908,6 +910,22 @@
 ## Version 2.0
 **Veröffentlicht:** 12.07.2023 08:34
 
+- Bahnfinder 2 ist das Umfangreichste Update bisher und macht Bahnfinder noch schneller, übersichtlicher und schöner.
+- Das ist neu: 
+- Neues, übersichtlicheres Aussehen durch differenzierte Farben und weiteren Anpassungen.
+- Neue Design Optionen
+- 2 neue Design Pakete 
+- „Automatisch folgen“: Mit der Funktion „Automatisch folgen“ werden dir jederzeit Abfahrten der nächsten Haltestelle angezeigt, während du dich fortbewegst.
+- „Automatisch suchen“: Suche deine Verbindung automatisch, sobald du eine Start und Zielhaltestelle ausgewählt hast. 
+- Linien können unter Abfahrten ausgeblendet werden.
+- Mehr Informationen bei Verbindungen 
+- Eigene Icons bei Haltestellen Favoriten
+- Ankünfte bei Haltestellen  
+- Verbesserte Unterstützung für Rufbusse
+- Gehzeit in Minuten 
+- Karte bei Verbindung
+- Erhebliche Leistungsverbesserungen
+- Und viele weitere kleine Änderungen…
 
 ## Version 1.5.6
 **Veröffentlicht:** 06.06.2023 17:36
