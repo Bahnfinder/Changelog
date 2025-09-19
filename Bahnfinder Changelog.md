@@ -40,6 +40,8 @@
 ## Version 6.1.2
 **Veröffentlicht:** 18.05.2025 22:29
 
+- Die Größe eines Backups wird jetzt angezeigt. Zusätzlich wird die relative Größe im Vergleich zu anderen Backups dargestellt
+- Allgemeine Verbesserungen
 
 ## Version 6.1.1
 **Veröffentlicht:** 28.04.2025 18:53
@@ -748,8 +750,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 2.2.16
-**Veröffentlicht:** 20.09.2023 02:35
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Darstellung zweifarbiger Linien wurde verbessert.
 - Updates für Linieninfos
@@ -804,8 +806,8 @@
 - Start gefunden wurde.
 - Allgemeine Verbesserungen
 
-## Version 2.2.7
-**Veröffentlicht:** 02.09.2023 08:49
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen 
 
