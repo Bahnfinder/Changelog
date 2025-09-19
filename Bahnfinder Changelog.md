@@ -126,6 +126,8 @@
 ## Version 6.0.2
 **Veröffentlicht:** 29.01.2025 15:04
 
+- Die Verkehrsnetzsuche bei der Einrichtung kann jetzt abgebrochen werden.
+- Allgemeine Verbesserungen
 
 ## Version 6.0.1
 **Veröffentlicht:** 28.01.2025 02:13
@@ -624,8 +626,6 @@
 ## Version 2.3.16
 **Veröffentlicht:** 20.12.2023 09:49
 
-- 4 neue App Icons: „Vereiste Weihnachten“, „Vereiste Weihnachten Mund“, „Weihnachtsgeschenk“ und „Weihnachtsgeschenk Mund“.
-- Allgemeine Verbesserungen
 
 ## Version 2.3.15
 **Veröffentlicht:** 13.12.2023 23:32
@@ -905,8 +905,8 @@
 - Option zum auswählen der Ansicht beim App Start hinzugefügt.
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 2.0
-**Veröffentlicht:** 12.07.2023 08:34
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Bahnfinder 2 ist das Umfangreichste Update bisher und macht Bahnfinder noch schneller, übersichtlicher und schöner.
 - Das ist neu: 
@@ -1018,8 +1018,8 @@
 - Verbesserung für Ausfälle
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.2.2
+**Veröffentlicht:** 09.05.2023 13:10
 
 - Fehlerbehebungen
 
@@ -1085,8 +1085,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.0.7
+**Veröffentlicht:** 10.04.2023 03:17
 
 - Kritische Fehlerbehebungen
 
