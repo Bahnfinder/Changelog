@@ -176,8 +176,8 @@
 - Die Auslastung wird jetzt verbessert dargestellt
 - Verbesserungen für das DB Verkehrsnetz
 
-## Version 5.1.12
-**Veröffentlicht:** 18.01.2025 05:03
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Verbesserungen für das DB Verkehrsnetz
 
@@ -258,6 +258,8 @@
 ## Version 5.0.3
 **Veröffentlicht:** 06.09.2024 03:16
 
+- Ein Fehler wurde behoben, der dazu führte, dass die App beim anschauen von Verbindungen abstürzt.
+- Allgemeine Verbesserungen
 
 ## Version 5.0.2
 **Veröffentlicht:** 05.09.2024 15:32
@@ -339,8 +341,8 @@
 - Neue Verkehrsnetze: BVG, HVV, RMV, RailTeam & Naldo
 - Allgemeine Verbesserungen
 
-## Version 4.2.8
-**Veröffentlicht:** 20.06.2024 21:56
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Beschreibung vom DB Provider wurde geändert.
 
@@ -624,6 +626,8 @@
 ## Version 2.3.16
 **Veröffentlicht:** 20.12.2023 09:49
 
+- 4 neue App Icons: „Vereiste Weihnachten“, „Vereiste Weihnachten Mund“, „Weihnachtsgeschenk“ und „Weihnachtsgeschenk Mund“.
+- Allgemeine Verbesserungen
 
 ## Version 2.3.15
 **Veröffentlicht:** 13.12.2023 23:32
@@ -655,8 +659,8 @@
 - Option: Energiesparende Standortermittlung
 - Allgemeine Verbesserungen 
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.10
+**Veröffentlicht:** 28.10.2023 19:18
 
 - Die Darstellung des Standortpfeils wurde verbessert.
 - Die Haltestellensymbol UI wurde verbessert.
@@ -816,8 +820,6 @@
 ## Version 2.2.5
 **Veröffentlicht:** 31.08.2023 11:56
 
-- In der Suche werden jetzt 50 Haltestellen in der Nähe angezeigt.
-- Allgemeine Verbesserungen
 
 ## Version 2.2.4
 **Veröffentlicht:** 30.08.2023 12:04
