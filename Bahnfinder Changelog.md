@@ -294,7 +294,6 @@
 ## Version 4.4.4
 **Veröffentlicht:** 11.07.2024 03:33
 
-- Fehlerbehebungen
 
 ## Version 4.4.3
 **Veröffentlicht:** 06.07.2024 20:33
@@ -560,8 +559,8 @@
 - Synchronisierung zu begrenzen, um Daten und Batterieverbrauch zu reduzieren. 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 3.1.4
+**Veröffentlicht:** 15.02.2024 16:58
 
 - Neue Hinweise, wenn keine Abfahrten an der gewählten Haltestelle verfügbar sind.
 - Allgemeine Verbesserungen
@@ -659,8 +658,8 @@
 - Option: Energiesparende Standortermittlung
 - Allgemeine Verbesserungen 
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.10
+**Veröffentlicht:** 28.10.2023 19:18
 
 - Die Darstellung des Standortpfeils wurde verbessert.
 - Die Haltestellensymbol UI wurde verbessert.
@@ -673,8 +672,8 @@
 - Eine neue Verbindungsoption „Minimale Umsteigezeit“ wurde hinzugefügt.
 - Allgemeine Verbesserungen
 
-## Version 2.3.8
-**Veröffentlicht:** 20.10.2023 17:31
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -784,6 +783,9 @@
 ## Version 2.2.11
 **Veröffentlicht:** 14.09.2023 01:16
 
+- iOS 17 Kompatibilität
+- 3D Optionen wurden zur Karte hinzugefügt.
+- Allgemeine Verbesserungen
 
 ## Version 2.2.10
 **Veröffentlicht:** 11.09.2023 11:05
@@ -904,8 +906,8 @@
 - Option zum auswählen der Ansicht beim App Start hinzugefügt.
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.0
+**Veröffentlicht:** 12.07.2023 08:34
 
 - Bahnfinder 2 ist das Umfangreichste Update bisher und macht Bahnfinder noch schneller, übersichtlicher und schöner.
 - Das ist neu: 
@@ -998,8 +1000,8 @@
 - Stabilitätsverbesserungen
 - Fehlerbehebungen
 
-## Version 1.3.2
-**Veröffentlicht:** 12.05.2023 05:14
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Stabilität erheblich verbessert
 
@@ -1115,8 +1117,8 @@
 - Es wurde ein Hinweis hinzugefügt, der den Nutzer darauf aufmerksam macht, dass die Ortungsdienste deaktiviert sind.
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version 1.0.1
-**Veröffentlicht:** 03.04.2023 04:19
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Ab sofort können Favoriten direkt aus der Suche heraus hinzugefügt werden.
 - Allgemeine Verbesserungen und Fehlerbehebungen.
