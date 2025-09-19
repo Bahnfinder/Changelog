@@ -595,6 +595,9 @@
 ## Version 3.0.2
 **Veröffentlicht:** 25.01.2024 15:35
 
+- Haltestellen vorlesen liest jetzt auch die Abfahrtszeit vor.
+- Neue Option: „Verbindungsdetail Live aktualisieren“
+- Allgemeine Verbesserungen
 
 ## Version 3.0.1
 **Veröffentlicht:** 18.01.2024 14:58
@@ -623,8 +626,6 @@
 ## Version 2.3.16
 **Veröffentlicht:** 20.12.2023 09:49
 
-- 4 neue App Icons: „Vereiste Weihnachten“, „Vereiste Weihnachten Mund“, „Weihnachtsgeschenk“ und „Weihnachtsgeschenk Mund“.
-- Allgemeine Verbesserungen
 
 ## Version 2.3.15
 **Veröffentlicht:** 13.12.2023 23:32
@@ -640,6 +641,7 @@
 ## Version 2.3.13
 **Veröffentlicht:** 03.11.2023 16:35
 
+- Fehlerbehebungen
 
 ## Version 2.3.12
 **Veröffentlicht:** 31.10.2023 20:40
@@ -962,11 +964,6 @@
 ## Version 1.5.0
 **Veröffentlicht:** 18.05.2023 15:13
 
-- Die Gleisnummer ist ab sofort im Fahrtverlauf sichtbar
-- Neues Design bei Fahrtverlauf
-- Die angepinnte Route wird ab sofort in der Verbindungsliste angezeigt
-- Ein Fehler bei der Standortsuche wurde behoben
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.4.0
 **Veröffentlicht:** 17.05.2023 02:42
