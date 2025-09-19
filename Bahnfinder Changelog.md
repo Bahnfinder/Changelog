@@ -1,5 +1,5 @@
-## Version 6.2.1
-**Veröffentlicht:** 08.09.2025 16:34
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Das Naldo Verkehrsnetz funktioniert jetzt wieder wie erwartet.
 
@@ -301,8 +301,8 @@
 
 - Ein Fehler, der zum Absturz der App beim Aktualisieren des Fahrtverlaufs unter bestimmten Bedingungen führte, wurde behoben.
 
-## Version 4.4.2
-**Veröffentlicht:** 05.07.2024 17:07
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Ein Fehler wurde behoben, der dazu führte, dass unter bestimmten Umständen ein Lokales Backup beim einrichten von Bahnfinder nicht wiederhergestellt werden konnte.
 
@@ -521,8 +521,8 @@
 - Neue Verkehrsnetze hinzugefügt: MVG (Märkischer Kreis), VMS, VMV, VRN
 - Allgemeine Verbesserungen
 
-## Version 4.1
-**Veröffentlicht:** 08.03.2024 13:33
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neuer „Synchronisieren“ Bildschirm.
 - Neue Option hinzugefügt, um im Suchverlauf die Interaktionsart einer Haltestelle anzuzeigen.
@@ -602,7 +602,6 @@
 ## Version 3.0.1
 **Veröffentlicht:** 18.01.2024 14:58
 
-- Allgemeine Verbesserungen
 
 ## Version 3.0.0
 **Veröffentlicht:** 02.01.2024 16:59
@@ -659,9 +658,12 @@
 - Option: Energiesparende Standortermittlung
 - Allgemeine Verbesserungen 
 
-## Version 2.3.10
-**Veröffentlicht:** 28.10.2023 19:18
+## Version null
+**Veröffentlicht:** – No release date available
 
+- Die Darstellung des Standortpfeils wurde verbessert.
+- Die Haltestellensymbol UI wurde verbessert.
+- Allgemeine Verbesserungen
 
 ## Version 2.3.9
 **Veröffentlicht:** 22.10.2023 16:09
@@ -747,8 +749,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 2.2.16
-**Veröffentlicht:** 20.09.2023 02:35
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Darstellung zweifarbiger Linien wurde verbessert.
 - Updates für Linieninfos
@@ -1008,8 +1010,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.3.0
+**Veröffentlicht:** 10.05.2023 14:19
 
 - Zwischenstopps hinzugefügt
 - Verbindungen: Abfahrt oder Ankunftszeit kann ausgewählt werden
