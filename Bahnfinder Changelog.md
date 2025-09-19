@@ -206,6 +206,7 @@
 ## Version 5.1.7
 **Veröffentlicht:** 19.12.2024 03:54
 
+- Ein Fehler wurde behoben, der dazu führte, dass die App beim Ansehen bestimmter Verbindungen abstürzte. 
 
 ## Version 5.1.6
 **Veröffentlicht:** 16.12.2024 13:31
@@ -226,7 +227,6 @@
 ## Version 5.1.3
 **Veröffentlicht:** 27.09.2024 17:57
 
-- Ein Darstellungsfehler wurde behoben
 
 ## Version 5.1.2
 **Veröffentlicht:** 22.09.2024 15:19
@@ -446,16 +446,16 @@
 
 - Allgemeine Verbesserungen
 
-## Version 4.1.11
-**Veröffentlicht:** 08.05.2024 16:43
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Das Liniensymbol für die Tram 21 im MVV wurde aktualisiert.
 - Einige Verkehrsnetzspezifische Probleme wurden behoben.
 - Die Anzeige von Entfernungen unter Favoriten wurde behoben.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.10
+**Veröffentlicht:** 07.05.2024 14:53
 
 - Nach einer umfassenden internen Umstrukturierung bietet Bahnfinder nun verbesserte Zuverlässigkeit, mehr Geschwindigkeit und erleichterte Wartung für den Entwickler.
 - Der „Bahnfinder“ Text unter Info wurde verschönert.
@@ -503,6 +503,10 @@
 ## Version 4.1.3
 **Veröffentlicht:** 18.03.2024 14:01
 
+- Erweiterte Diagnosedaten können jetzt optional aktiviert werden.
+- Lokale Backups können jetzt automatisch gelöscht werden.
+- Die Darstellung von lokalen Backups wurde verbessert.
+- Allgemeine Verbesserungen
 
 ## Version 4.1.2
 **Veröffentlicht:** 15.03.2024 12:35
@@ -892,9 +896,6 @@
 ## Version 2.0.2
 **Veröffentlicht:** 20.07.2023 03:14
 
-- Konfigurationen von ausgeblendeten Linien können ab sofort gespeichert werden.
-- Favoriten Symbole werden in Abfahrten gezeigt.
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 2.0.1
 **Veröffentlicht:** 15.07.2023 00:02
@@ -958,8 +959,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.5.0
-**Veröffentlicht:** 18.05.2023 15:13
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Gleisnummer ist ab sofort im Fahrtverlauf sichtbar
 - Neues Design bei Fahrtverlauf
@@ -1023,7 +1024,6 @@
 ## Version 1.2.1
 **Veröffentlicht:** 08.05.2023 23:07
 
-- Fehlerbehebungen
 
 ## Version 1.2.0
 **Veröffentlicht:** 06.05.2023 00:35
