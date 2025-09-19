@@ -105,8 +105,8 @@
 - Wichtige Push Benachrichtigungen von „Haltestellen ankündigen“ spielen jetzt einen Ton oder eine Vibration
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.0.5
+**Veröffentlicht:** 05.02.2025 01:29
 
 - Das Setup wurde verbessert
 - Allgemeine Verbesserungen
@@ -218,8 +218,8 @@
 
 - Neues App Icon: „Weihnachten 2024“
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.1.4
+**Veröffentlicht:** 27.11.2024 00:19
 
 - Das VMV Verkehrsnetz funktioniert jetzt wieder wie erwartet
 - Allgemeine Verbesserungen
@@ -989,8 +989,8 @@
 
 - Fehlerbehebungen und Stabilitätsverbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.3.4
+**Veröffentlicht:** 13.05.2023 10:27
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
