@@ -224,8 +224,8 @@
 - Das VMV Verkehrsnetz funktioniert jetzt wieder wie erwartet
 - Allgemeine Verbesserungen
 
-## Version 5.1.3
-**Veröffentlicht:** 27.09.2024 17:57
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Ein Darstellungsfehler wurde behoben
 
@@ -496,8 +496,8 @@
 - Anpassungen an App Icons
 - Design Anpassungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.4
+**Veröffentlicht:** 19.03.2024 16:44
 
 - Allgemeine Verbesserungen
 
@@ -666,8 +666,8 @@
 - Die Haltestellensymbol UI wurde verbessert.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.9
+**Veröffentlicht:** 22.10.2023 16:09
 
 - Die Darstellung des Fahrtfortschritts im Fahrtverlauf markiert jetzt die Haltestelle, an dem sich das Fahrzeug gerade befindet.
 - Eine neue Verbindungsoption „Minimale Umsteigezeit“ wurde hinzugefügt.
@@ -686,6 +686,7 @@
 ## Version 2.3.6
 **Veröffentlicht:** 18.10.2023 23:24
 
+- Fehlerbehebungen
 
 ## Version 2.3.5
 **Veröffentlicht:** 18.10.2023 17:03
@@ -1036,8 +1037,8 @@
 - Falls die Haltestelle, die beim Start der App gefunden wurde, durch eine andere ersetzt werden soll, können Ausnahmen erstellt werden.
 - Allgemeine Verbesserungen und Fehlerbehebungen wurden durchgeführt.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.1.3
+**Veröffentlicht:** 27.04.2023 03:25
 
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
