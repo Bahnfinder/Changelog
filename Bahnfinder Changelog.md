@@ -11,8 +11,8 @@
 - Alle Neuerungen: Unter „Info > Neues in Bahnfinder“ findest du alle Neuerungen aus allen bisherigen Bahnfinder Versionen.
 - Über 15 weitere Verbesserungen machen Bahnfinder noch besser und schneller.
 
-## Version 6.1.6
-**Veröffentlicht:** 24.06.2025 23:20
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Designanpassungen
 - Allgemeine Verbesserungen
@@ -462,8 +462,8 @@
 - Der „Bahnfinder“ Text unter Info wurde verschönert.
 - Allgemeine Verbesserungen
 
-## Version 4.1.9
-**Geplant:** 01.04.2024 00:00
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Am 1. April feiert Bahnfinder seinen 1. Geburtstag. Feiere diesen besonderen Tag mit einem exklusiven App Icon!
 
