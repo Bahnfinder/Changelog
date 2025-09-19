@@ -123,8 +123,8 @@
 - Verbesserte Darstellung von Bahnhofsnamen
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.0.2
+**Veröffentlicht:** 29.01.2025 15:04
 
 - Die Verkehrsnetzsuche bei der Einrichtung kann jetzt abgebrochen werden.
 - Allgemeine Verbesserungen
@@ -643,7 +643,6 @@
 ## Version 2.3.13
 **Veröffentlicht:** 03.11.2023 16:35
 
-- Fehlerbehebungen
 
 ## Version 2.3.12
 **Veröffentlicht:** 31.10.2023 20:40
@@ -1004,6 +1003,7 @@
 ## Version 1.3.2
 **Veröffentlicht:** 12.05.2023 05:14
 
+- Stabilität erheblich verbessert
 
 ## Version 1.3.1
 **Veröffentlicht:** 11.05.2023 03:36
@@ -1113,9 +1113,6 @@
 ## Version 1.0.3
 **Veröffentlicht:** 03.04.2023 23:08
 
-- Neue App Icons
-- Es wurde ein Hinweis hinzugefügt, der den Nutzer darauf aufmerksam macht, dass die Ortungsdienste deaktiviert sind.
-- Allgemeine Verbesserungen und Fehlerbehebungen.
 
 ## Version 1.0.1
 **Veröffentlicht:** 03.04.2023 04:19
