@@ -473,8 +473,8 @@
 - Backups und weitere Dateien können jetzt über die „Dateien“ App ausgetauscht werden
 - Layout Anpassungen für kleinere Geräte
 
-## Version 4.1.7
-**Veröffentlicht:** 22.03.2024 01:08
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neue Option: Erweiterte Analyse
 - Daten wie beispielsweise Lokale Backups können jetzt über iTunes ausgetauscht werden.
@@ -578,8 +578,8 @@
 - Fehlerbehebungen
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 3.1.1
+**Veröffentlicht:** 02.02.2024 12:41
 
 - Allgemeine Verbesserungen
 
@@ -702,7 +702,6 @@
 ## Version 2.3.3
 **Veröffentlicht:** 16.10.2023 20:33
 
-- Allgemeine Verbesserungen
 
 ## Version 2.3.2
 **Veröffentlicht:** 13.10.2023 12:39
@@ -843,8 +842,8 @@
 - Neues Menü zur Schnellauswahl bei der Haltestellensuche.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.1
+**Veröffentlicht:** 11.08.2023 17:09
 
 - Allgemeine Verbesserungen
 
