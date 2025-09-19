@@ -626,6 +626,8 @@
 ## Version 2.3.16
 **Veröffentlicht:** 20.12.2023 09:49
 
+- 4 neue App Icons: „Vereiste Weihnachten“, „Vereiste Weihnachten Mund“, „Weihnachtsgeschenk“ und „Weihnachtsgeschenk Mund“.
+- Allgemeine Verbesserungen
 
 ## Version 2.3.15
 **Veröffentlicht:** 13.12.2023 23:32
@@ -905,8 +907,8 @@
 - Option zum auswählen der Ansicht beim App Start hinzugefügt.
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.0
+**Veröffentlicht:** 12.07.2023 08:34
 
 - Bahnfinder 2 ist das Umfangreichste Update bisher und macht Bahnfinder noch schneller, übersichtlicher und schöner.
 - Das ist neu: 
