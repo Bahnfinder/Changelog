@@ -22,8 +22,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.1.4
+**Veröffentlicht:** 29.05.2025 00:36
 
 - Die Berechnung der Größe von lokalen Backups ist jetzt stabiler
 - Allgemeine Verbesserungen
@@ -120,8 +120,6 @@
 ## Version 6.0.3
 **Veröffentlicht:** 31.01.2025 03:41
 
-- Verbesserte Darstellung von Bahnhofsnamen
-- Allgemeine Verbesserungen
 
 ## Version 6.0.2
 **Veröffentlicht:** 29.01.2025 15:04
@@ -269,6 +267,8 @@
 ## Version 5.0.1
 **Veröffentlicht:** 04.09.2024 02:08
 
+- Bahnfinder läuft jetzt noch schneller.
+- Ein Fehler wurde behoben, der dazu führte, dass die App beim darstellen einiger zweifarbiger Liniennummern abstürzte.
 
 ## Version 5
 **Veröffentlicht:** 01.09.2024 17:57
@@ -378,8 +378,8 @@
 - Ein Fehler wurde behoben, der die App beim Laden einiger Verbindungen zum Absturz brachte.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.2.2
+**Veröffentlicht:** 13.06.2024 19:31
 
 - Neues App Icon „Modern echtes schwarz“ 
 - Anpassungen bei „Backups“
@@ -510,6 +510,8 @@
 ## Version 4.1.2
 **Veröffentlicht:** 15.03.2024 12:35
 
+- Erweiterte Diagnosedaten können jetzt per Mail gesendet werden.
+- Allgemeine Verbesserungen
 
 ## Version 4.1.1
 **Veröffentlicht:** 10.03.2024 22:38
@@ -906,22 +908,6 @@
 ## Version 2.0
 **Veröffentlicht:** 12.07.2023 08:34
 
-- Bahnfinder 2 ist das Umfangreichste Update bisher und macht Bahnfinder noch schneller, übersichtlicher und schöner.
-- Das ist neu: 
-- Neues, übersichtlicheres Aussehen durch differenzierte Farben und weiteren Anpassungen.
-- Neue Design Optionen
-- 2 neue Design Pakete 
-- „Automatisch folgen“: Mit der Funktion „Automatisch folgen“ werden dir jederzeit Abfahrten der nächsten Haltestelle angezeigt, während du dich fortbewegst.
-- „Automatisch suchen“: Suche deine Verbindung automatisch, sobald du eine Start und Zielhaltestelle ausgewählt hast. 
-- Linien können unter Abfahrten ausgeblendet werden.
-- Mehr Informationen bei Verbindungen 
-- Eigene Icons bei Haltestellen Favoriten
-- Ankünfte bei Haltestellen  
-- Verbesserte Unterstützung für Rufbusse
-- Gehzeit in Minuten 
-- Karte bei Verbindung
-- Erhebliche Leistungsverbesserungen
-- Und viele weitere kleine Änderungen…
 
 ## Version 1.5.6
 **Veröffentlicht:** 06.06.2023 17:36
