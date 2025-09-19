@@ -126,8 +126,6 @@
 ## Version 6.0.2
 **Veröffentlicht:** 29.01.2025 15:04
 
-- Die Verkehrsnetzsuche bei der Einrichtung kann jetzt abgebrochen werden.
-- Allgemeine Verbesserungen
 
 ## Version 6.0.1
 **Veröffentlicht:** 28.01.2025 02:13
@@ -748,6 +746,7 @@
 ## Version 2.2.17
 **Veröffentlicht:** 20.09.2023 17:52
 
+- Allgemeine Verbesserungen
 
 ## Version 2.2.16
 **Veröffentlicht:** 20.09.2023 02:35
@@ -834,6 +833,7 @@
 ## Version 2.2.3
 **Veröffentlicht:** 17.08.2023 11:24
 
+- Allgemeine Verbesserungen
 
 ## Version 2.2.2
 **Veröffentlicht:** 14.08.2023 09:53
@@ -846,8 +846,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2
+**Veröffentlicht:** 09.08.2023 20:22
 
 - Dieses Update enthält interne Optimierungen, die Bahnfinder noch schneller und stabiler machen.
 - Neues, optionales Layout für eine verbesserte einhändige Bedienung. (Vorerst nur bei Abfahrten)
@@ -1002,6 +1002,7 @@
 ## Version 1.3.2
 **Veröffentlicht:** 12.05.2023 05:14
 
+- Stabilität erheblich verbessert
 
 ## Version 1.3.1
 **Veröffentlicht:** 11.05.2023 03:36
@@ -1017,8 +1018,8 @@
 - Verbesserung für Ausfälle
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.2.2
-**Veröffentlicht:** 09.05.2023 13:10
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Fehlerbehebungen
 
@@ -1084,8 +1085,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.0.7
-**Veröffentlicht:** 10.04.2023 03:17
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Kritische Fehlerbehebungen
 
