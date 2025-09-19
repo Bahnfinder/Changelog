@@ -299,6 +299,7 @@
 ## Version 4.4.3
 **Veröffentlicht:** 06.07.2024 20:33
 
+- Ein Fehler, der zum Absturz der App beim Aktualisieren des Fahrtverlaufs unter bestimmten Bedingungen führte, wurde behoben.
 
 ## Version 4.4.2
 **Veröffentlicht:** 05.07.2024 17:07
@@ -701,6 +702,7 @@
 ## Version 2.3.3
 **Veröffentlicht:** 16.10.2023 20:33
 
+- Allgemeine Verbesserungen
 
 ## Version 2.3.2
 **Veröffentlicht:** 13.10.2023 12:39
@@ -1040,8 +1042,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version 1.1.2
-**Veröffentlicht:** 25.04.2023 04:22
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
