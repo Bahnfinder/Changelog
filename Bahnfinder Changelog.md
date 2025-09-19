@@ -91,8 +91,6 @@
 ## Version 6.0.8
 **Veröffentlicht:** 12.02.2025 01:08
 
-- Leistungsverbesserungen
-- Allgemeine Verbesserungen
 
 ## Version 6.0.7
 **Veröffentlicht:** 09.02.2025 23:42
@@ -269,8 +267,6 @@
 ## Version 5.0.1
 **Veröffentlicht:** 04.09.2024 02:08
 
-- Bahnfinder läuft jetzt noch schneller.
-- Ein Fehler wurde behoben, der dazu führte, dass die App beim darstellen einiger zweifarbiger Liniennummern abstürzte.
 
 ## Version 5
 **Veröffentlicht:** 01.09.2024 17:57
@@ -623,8 +619,8 @@
 - Die Suche ist jetzt noch schneller
 - Über 30 weitere Verbesserungen machen Bahnfinder noch noch schneller und zuverlässiger.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.16
+**Veröffentlicht:** 20.12.2023 09:49
 
 - 4 neue App Icons: „Vereiste Weihnachten“, „Vereiste Weihnachten Mund“, „Weihnachtsgeschenk“ und „Weihnachtsgeschenk Mund“.
 - Allgemeine Verbesserungen
@@ -676,7 +672,6 @@
 ## Version 2.3.8
 **Veröffentlicht:** 20.10.2023 17:31
 
-- Allgemeine Verbesserungen
 
 ## Version 2.3.7
 **Veröffentlicht:** 19.10.2023 01:21
