@@ -289,6 +289,7 @@
 ## Version 4.4.5
 **Veröffentlicht:** 12.08.2024 15:00
 
+- Das BVG Verkehrsnetz funktioniert jetzt wieder wie erwartet.
 
 ## Version 4.4.4
 **Veröffentlicht:** 11.07.2024 03:33
@@ -425,8 +426,8 @@
 
 - MVV: Nachtbusse werden jetzt in einer spezifischen Farbe dargestellt (Lässt sich deaktivieren)
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.15
+**Veröffentlicht:** 15.05.2024 22:58
 
 - Die Funktion "Haltestelle Automatisch ausfüllen" kann jetzt deaktiviert werden.
 - Allgemeine Verbesserungen
@@ -631,6 +632,7 @@
 ## Version 2.3.15
 **Veröffentlicht:** 13.12.2023 23:32
 
+- Allgemeine Verbesserungen
 
 ## Version 2.3.14
 **Veröffentlicht:** 08.12.2023 03:16
