@@ -227,6 +227,7 @@
 ## Version 5.1.3
 **Veröffentlicht:** 27.09.2024 17:57
 
+- Ein Darstellungsfehler wurde behoben
 
 ## Version 5.1.2
 **Veröffentlicht:** 22.09.2024 15:19
@@ -385,8 +386,8 @@
 - Neues App Icon „Modern echtes schwarz“ 
 - Anpassungen bei „Backups“
 
-## Version 4.2.1
-**Veröffentlicht:** 11.06.2024 23:51
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neues App Icon "Modern Schwarz"
 
@@ -1084,7 +1085,6 @@
 ## Version 1.0.8
 **Veröffentlicht:** 11.04.2023 02:45
 
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.0.7
 **Veröffentlicht:** 10.04.2023 03:17
