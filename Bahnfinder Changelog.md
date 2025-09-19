@@ -583,8 +583,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 3.1
+**Veröffentlicht:** 01.02.2024 16:55
 
 - Du kannst ab sofort spenden, um die weitere Entwicklung von Bahnfinder zu unterstützen :)
 - Neue Favoriten Symbole hinzugefügt
