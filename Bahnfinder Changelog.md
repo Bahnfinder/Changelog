@@ -227,7 +227,6 @@
 ## Version 5.1.3
 **Veröffentlicht:** 27.09.2024 17:57
 
-- Ein Darstellungsfehler wurde behoben
 
 ## Version 5.1.2
 **Veröffentlicht:** 22.09.2024 15:19
@@ -470,6 +469,8 @@
 ## Version 4.1.8
 **Veröffentlicht:** 23.03.2024 00:08
 
+- Backups und weitere Dateien können jetzt über die „Dateien“ App ausgetauscht werden
+- Layout Anpassungen für kleinere Geräte
 
 ## Version 4.1.7
 **Veröffentlicht:** 22.03.2024 01:08
@@ -961,8 +962,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.5.0
+**Veröffentlicht:** 18.05.2023 15:13
 
 - Die Gleisnummer ist ab sofort im Fahrtverlauf sichtbar
 - Neues Design bei Fahrtverlauf
