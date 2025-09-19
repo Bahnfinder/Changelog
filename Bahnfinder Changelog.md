@@ -264,6 +264,7 @@
 ## Version 5.0.2
 **Veröffentlicht:** 05.09.2024 15:32
 
+- Ein Fehler wurde behoben, der dazu führte, dass die App beim Wechsel des Verkehrsnetzes auf iPads abstürzte. 
 
 ## Version 5.0.1
 **Veröffentlicht:** 04.09.2024 02:08
@@ -318,8 +319,8 @@
 - Verbesserungen im Abfahrten Popover
 - Die Berechnung von Fußwegen wurde verbessert
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.3.3
+**Veröffentlicht:** 24.06.2024 21:40
 
 - Push Benachrichtigungen können jetzt während der Einrichtung aktiviert werden.
 - Allgemeine Verbesserungen 
@@ -517,6 +518,8 @@
 ## Version 4.1.1
 **Veröffentlicht:** 10.03.2024 22:38
 
+- Neue Verkehrsnetze hinzugefügt: MVG (Märkischer Kreis), VMS, VMV, VRN
+- Allgemeine Verbesserungen
 
 ## Version 4.1
 **Veröffentlicht:** 08.03.2024 13:33
@@ -785,8 +788,8 @@
 - 3D Optionen wurden zur Karte hinzugefügt.
 - Allgemeine Verbesserungen
 
-## Version 2.2.10
-**Veröffentlicht:** 11.09.2023 11:05
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Karte wurde überarbeitet und bietet jetzt eine verbesserte Navigation.
 - Allgemeine Verbesserungen
