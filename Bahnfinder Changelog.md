@@ -1,5 +1,5 @@
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.2.1
+**Veröffentlicht:** 08.09.2025 16:34
 
 - Das Naldo Verkehrsnetz funktioniert jetzt wieder wie erwartet.
 
@@ -17,8 +17,8 @@
 - Designanpassungen
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.1.5
+**Veröffentlicht:** 01.06.2025 23:30
 
 - Allgemeine Verbesserungen
 
@@ -179,7 +179,6 @@
 ## Version 5.1.12
 **Veröffentlicht:** 18.01.2025 05:03
 
-- Verbesserungen für das DB Verkehrsnetz
 
 ## Version 5.1.11
 **Veröffentlicht:** 15.01.2025 00:41
@@ -208,8 +207,8 @@
 
 - Ein Fehler wurde behoben, der dazu führte, dass die App beim Ansehen bestimmter Verbindungen abstürzte. 
 
-## Version 5.1.6
-**Veröffentlicht:** 16.12.2024 13:31
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Linienfarben für die S5 (MVV) wurden hinzugefügt.
 
@@ -504,6 +503,10 @@
 ## Version 4.1.3
 **Veröffentlicht:** 18.03.2024 14:01
 
+- Erweiterte Diagnosedaten können jetzt optional aktiviert werden.
+- Lokale Backups können jetzt automatisch gelöscht werden.
+- Die Darstellung von lokalen Backups wurde verbessert.
+- Allgemeine Verbesserungen
 
 ## Version 4.1.2
 **Veröffentlicht:** 15.03.2024 12:35
@@ -633,8 +636,6 @@
 ## Version 2.3.14
 **Veröffentlicht:** 08.12.2023 03:16
 
-- Bahnfinder wünscht euch eine schöne Weihnachtszeit!
-- App Icon hinzugefügt.
 
 ## Version 2.3.13
 **Veröffentlicht:** 03.11.2023 16:35
