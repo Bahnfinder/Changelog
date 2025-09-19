@@ -123,8 +123,8 @@
 - Verbesserte Darstellung von Bahnhofsnamen
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.0.2
+**Veröffentlicht:** 29.01.2025 15:04
 
 - Die Verkehrsnetzsuche bei der Einrichtung kann jetzt abgebrochen werden.
 - Allgemeine Verbesserungen
@@ -476,10 +476,6 @@
 ## Version 4.1.7
 **Veröffentlicht:** 22.03.2024 01:08
 
-- Neue Option: Erweiterte Analyse
-- Daten wie beispielsweise Lokale Backups können jetzt über iTunes ausgetauscht werden.
-- Neues App Icon: „Bahnfindi“
-- iCloud Synchronisierung wurde optimiert 
 
 ## Version 4.1.6
 **Veröffentlicht:** 21.03.2024 13:16
@@ -560,8 +556,8 @@
 - Synchronisierung zu begrenzen, um Daten und Batterieverbrauch zu reduzieren. 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 3.1.4
+**Veröffentlicht:** 15.02.2024 16:58
 
 - Neue Hinweise, wenn keine Abfahrten an der gewählten Haltestelle verfügbar sind.
 - Allgemeine Verbesserungen
@@ -572,8 +568,8 @@
 - Fehlerbehebungen
 - Allgemeine Verbesserungen
 
-## Version 3.1.2
-**Veröffentlicht:** 10.02.2024 07:37
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Fehlerbehebungen
 - Allgemeine Verbesserungen
