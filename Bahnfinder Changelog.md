@@ -213,8 +213,8 @@
 
 - Die Linienfarben für die S5 (MVV) wurden hinzugefügt.
 
-## Version 5.1.5
-**Veröffentlicht:** 10.12.2024 05:15
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neues App Icon: „Weihnachten 2024“
 
@@ -356,10 +356,6 @@
 ## Version 4.2.6
 **Veröffentlicht:** 18.06.2024 02:47
 
-- Anpassungen und Fehlerbehebungen für iPad
-- Anpassungen und Fehlerbehebungen für Mac
-- Die Funktion „Legacy iCloud Synchronisierung“ wurde entfernt.
-- Allgemeine Verbesserungen
 
 ## Version 4.2.5
 **Veröffentlicht:** 17.06.2024 10:46
@@ -440,7 +436,6 @@
 ## Version 4.1.13
 **Veröffentlicht:** 12.05.2024 15:34
 
-- Allgemeine Verbesserungen
 
 ## Version 4.1.12
 **Veröffentlicht:** 10.05.2024 14:10
@@ -512,6 +507,8 @@
 ## Version 4.1.2
 **Veröffentlicht:** 15.03.2024 12:35
 
+- Erweiterte Diagnosedaten können jetzt per Mail gesendet werden.
+- Allgemeine Verbesserungen
 
 ## Version 4.1.1
 **Veröffentlicht:** 10.03.2024 22:38
@@ -579,6 +576,7 @@
 ## Version 3.1.1
 **Veröffentlicht:** 02.02.2024 12:41
 
+- Allgemeine Verbesserungen
 
 ## Version 3.1
 **Veröffentlicht:** 01.02.2024 16:55
@@ -750,6 +748,9 @@
 ## Version 2.2.16
 **Veröffentlicht:** 20.09.2023 02:35
 
+- Die Darstellung zweifarbiger Linien wurde verbessert.
+- Updates für Linieninfos
+- Allgemeine Verbesserungen
 
 ## Version 2.2.15
 **Veröffentlicht:** 19.09.2023 15:08
@@ -998,6 +999,7 @@
 ## Version 1.3.2
 **Veröffentlicht:** 12.05.2023 05:14
 
+- Stabilität erheblich verbessert
 
 ## Version 1.3.1
 **Veröffentlicht:** 11.05.2023 03:36
@@ -1078,7 +1080,6 @@
 ## Version 1.0.8
 **Veröffentlicht:** 11.04.2023 02:45
 
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.0.7
 **Veröffentlicht:** 10.04.2023 03:17
