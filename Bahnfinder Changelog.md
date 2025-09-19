@@ -99,8 +99,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 6.0.6
-**Veröffentlicht:** 07.02.2025 01:27
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Wichtige Push Benachrichtigungen von „Haltestellen ankündigen“ spielen jetzt einen Ton oder eine Vibration
 - Allgemeine Verbesserungen
@@ -197,8 +197,8 @@
 - Verkehrsnetz vorübergehend nicht verfügbar ist. Ich arbeite mit Hochdruck an einer Lösung. Du kannst dich benachrichtigen lassen, sobald es wieder funktioniert.
 - Verkehrsnetzes.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.1.8
+**Veröffentlicht:** 08.01.2025 20:32
 
 - Frohes neues Jahr!
 - Verbesserte Beschriftungen für VoiceOver
@@ -341,8 +341,8 @@
 - Neue Verkehrsnetze: BVG, HVV, RMV, RailTeam & Naldo
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.2.8
+**Veröffentlicht:** 20.06.2024 21:56
 
 - Die Beschreibung vom DB Provider wurde geändert.
 
@@ -1082,8 +1082,8 @@
 - Ein Fehler wurde behoben, durch den die App keine Inhalte mehr geladen hat, wenn sie eine gewisse Zeit im Hintergrund war. 
 - Der Fehler könnte bei einigen Nutzern dennoch auftreten, schließe die App dazu aus dem Multitasking Menü und öffne sie erneut. 
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.0.8
+**Veröffentlicht:** 11.04.2023 02:45
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
