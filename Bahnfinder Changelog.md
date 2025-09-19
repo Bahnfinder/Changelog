@@ -3,13 +3,9 @@
 
 - Das Naldo Verkehrsnetz funktioniert jetzt wieder wie erwartet.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.2
+**Veröffentlicht:** 31.07.2025 22:56
 
-- Inkognito: Im Inkognito Modus kannst du Verbindungen suchen, ohne dass sie im Verlauf sichtbar werden. 
-- Rückreise finden: Finde direkt eine Rückreise einer gefahrenen Verbindung aus deinem Verlauf.
-- Alle Neuerungen: Unter „Info > Neues in Bahnfinder“ findest du alle Neuerungen aus allen bisherigen Bahnfinder Versionen.
-- Über 15 weitere Verbesserungen machen Bahnfinder noch besser und schneller.
 
 ## Version 6.1.6
 **Veröffentlicht:** 24.06.2025 23:20
@@ -117,8 +113,8 @@
 - Zu lange Gleisnummern im Verbindungsdetail werden jetzt separat dargestellt, wenn der Platz nicht ausreicht
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.0.3
+**Veröffentlicht:** 31.01.2025 03:41
 
 - Verbesserte Darstellung von Bahnhofsnamen
 - Allgemeine Verbesserungen
@@ -301,8 +297,8 @@
 
 - Ein Fehler, der zum Absturz der App beim Aktualisieren des Fahrtverlaufs unter bestimmten Bedingungen führte, wurde behoben.
 
-## Version 4.4.2
-**Veröffentlicht:** 05.07.2024 17:07
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Ein Fehler wurde behoben, der dazu führte, dass unter bestimmten Umständen ein Lokales Backup beim einrichten von Bahnfinder nicht wiederhergestellt werden konnte.
 
@@ -626,6 +622,8 @@
 ## Version 2.3.16
 **Veröffentlicht:** 20.12.2023 09:49
 
+- 4 neue App Icons: „Vereiste Weihnachten“, „Vereiste Weihnachten Mund“, „Weihnachtsgeschenk“ und „Weihnachtsgeschenk Mund“.
+- Allgemeine Verbesserungen
 
 ## Version 2.3.15
 **Veröffentlicht:** 13.12.2023 23:32
@@ -779,8 +777,8 @@
 - Verbesserungen für das Liniendesign
 - Allgemeine Verbesserungen
 
-## Version 2.2.11
-**Veröffentlicht:** 14.09.2023 01:16
+## Version null
+**Veröffentlicht:** – No release date available
 
 - iOS 17 Kompatibilität
 - 3D Optionen wurden zur Karte hinzugefügt.
@@ -956,8 +954,8 @@
 - Stabilität wurde verbessert
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.5.1
-**Veröffentlicht:** 22.05.2023 22:56
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
@@ -1102,8 +1100,8 @@
 - Anschlüsse können ab sofort von einer Verbindung aus durch tippen auf den Haltestellen Namen abgerufen werden.
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.0.4
+**Veröffentlicht:** 05.04.2023 04:18
 
 - KVV als Verkehrsnetz hinzugefügt.
 - Setup Assistenten hinzugefügt.
