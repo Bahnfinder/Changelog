@@ -643,6 +643,7 @@
 ## Version 2.3.13
 **Veröffentlicht:** 03.11.2023 16:35
 
+- Fehlerbehebungen
 
 ## Version 2.3.12
 **Veröffentlicht:** 31.10.2023 20:40
@@ -831,8 +832,8 @@
 - Ein neuer Hinweisdialog informiert Benutzer, wenn sie sich in einem Gebiet mit Verkehrsnetz befinden, das derzeit nicht ausgewählt ist.
 - Allgemeine Verbesserungen
 
-## Version 2.2.3
-**Veröffentlicht:** 17.08.2023 11:24
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -1113,6 +1114,9 @@
 ## Version 1.0.3
 **Veröffentlicht:** 03.04.2023 23:08
 
+- Neue App Icons
+- Es wurde ein Hinweis hinzugefügt, der den Nutzer darauf aufmerksam macht, dass die Ortungsdienste deaktiviert sind.
+- Allgemeine Verbesserungen und Fehlerbehebungen.
 
 ## Version 1.0.1
 **Veröffentlicht:** 03.04.2023 04:19
