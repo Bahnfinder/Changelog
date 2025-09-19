@@ -851,11 +851,6 @@
 ## Version 2.2
 **Veröffentlicht:** 09.08.2023 20:22
 
-- Dieses Update enthält interne Optimierungen, die Bahnfinder noch schneller und stabiler machen.
-- Neues, optionales Layout für eine verbesserte einhändige Bedienung. (Vorerst nur bei Abfahrten)
-- Ausgefallene Haltestellen werden jetzt unter Verbindungen angezeigt.
-- Neue Informationen bei „Linieninfos“: Längste und kürzeste Distanz zwischen zwei Haltestellen.
-- Allgemeine Verbesserungen 
 
 ## Version 2.1.2
 **Veröffentlicht:** 01.08.2023 09:16
@@ -1052,8 +1047,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.1.0
-**Veröffentlicht:** 21.04.2023 06:06
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Verbindung anpinnen: Deine ausgewählte Route wird gespeichert und bleibt bis zum Ende deiner Fahrt oben angeheftet. Mit nur einem Klick kannst du sie jederzeit wieder aufrufen.
 - Designpaket „Glas“ wurde für den hellen Modus optimiert.
