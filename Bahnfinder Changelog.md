@@ -1,5 +1,5 @@
-## Version 6.2.1
-**Veröffentlicht:** 08.09.2025 16:34
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Das Naldo Verkehrsnetz funktioniert jetzt wieder wie erwartet.
 
@@ -17,8 +17,8 @@
 - Designanpassungen
 - Allgemeine Verbesserungen
 
-## Version 6.1.5
-**Veröffentlicht:** 01.06.2025 23:30
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -504,10 +504,6 @@
 ## Version 4.1.3
 **Veröffentlicht:** 18.03.2024 14:01
 
-- Erweiterte Diagnosedaten können jetzt optional aktiviert werden.
-- Lokale Backups können jetzt automatisch gelöscht werden.
-- Die Darstellung von lokalen Backups wurde verbessert.
-- Allgemeine Verbesserungen
 
 ## Version 4.1.2
 **Veröffentlicht:** 15.03.2024 12:35
@@ -1111,8 +1107,8 @@
 - Setup Assistenten hinzugefügt.
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.0.3
+**Veröffentlicht:** 03.04.2023 23:08
 
 - Neue App Icons
 - Es wurde ein Hinweis hinzugefügt, der den Nutzer darauf aufmerksam macht, dass die Ortungsdienste deaktiviert sind.
