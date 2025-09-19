@@ -221,8 +221,6 @@
 ## Version 5.1.4
 **Veröffentlicht:** 27.11.2024 00:19
 
-- Das VMV Verkehrsnetz funktioniert jetzt wieder wie erwartet
-- Allgemeine Verbesserungen
 
 ## Version 5.1.3
 **Veröffentlicht:** 27.09.2024 17:57
@@ -707,10 +705,6 @@
 ## Version 2.3.2
 **Veröffentlicht:** 13.10.2023 12:39
 
-- Das Layout der Linieninfos wurde für alle Gerätegrössen angepasst.
-- Die Lesbarkeit der Anzahl an Zwischenhalten im Verbindungsdetail wurde verbessert.
-- „Karte“ und „Anpinnen“ wurden im Verbindungsdetail getauscht, um einheitlich mit dem Fahrtverlauf dargestellt zu werden.
-- Allgemeine Verbesserungen
 
 ## Version 2.3.1
 **Veröffentlicht:** 12.10.2023 12:23
@@ -871,8 +865,8 @@
 
 - Fehlerbehebungen
 
-## Version 2.1
-**Veröffentlicht:** 27.07.2023 15:20
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neues Design in "Verbindung".
 - Verkehrsnetz spezifische Einstellungen hinzugefügt.
@@ -943,8 +937,6 @@
 ## Version 1.5.4
 **Veröffentlicht:** 01.06.2023 03:49
 
-- Die Zeit einer gesuchten Verbindung wird jetzt im Verlauf angezeigt.
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.5.3
 **Veröffentlicht:** 26.05.2023 04:25
@@ -1095,8 +1087,6 @@
 ## Version 1.0.6
 **Veröffentlicht:** 08.04.2023 02:04
 
-- Ein kritischer Fehler, der die App an bestimmten Standorten zum Absturz brachte, wurde behoben.
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.0.5
 **Veröffentlicht:** 06.04.2023 04:16
