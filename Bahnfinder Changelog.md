@@ -88,8 +88,8 @@
 
 - Ein Fehler wurde behoben, der in manchen Situationen zum Einfrieren und Abstürzen der App führte.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.0.8
+**Veröffentlicht:** 12.02.2025 01:08
 
 - Leistungsverbesserungen
 - Allgemeine Verbesserungen
@@ -206,7 +206,6 @@
 ## Version 5.1.7
 **Veröffentlicht:** 19.12.2024 03:54
 
-- Ein Fehler wurde behoben, der dazu führte, dass die App beim Ansehen bestimmter Verbindungen abstürzte. 
 
 ## Version 5.1.6
 **Veröffentlicht:** 16.12.2024 13:31
@@ -455,8 +454,8 @@
 - Die Anzeige von Entfernungen unter Favoriten wurde behoben.
 - Allgemeine Verbesserungen
 
-## Version 4.1.10
-**Veröffentlicht:** 07.05.2024 14:53
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Nach einer umfassenden internen Umstrukturierung bietet Bahnfinder nun verbesserte Zuverlässigkeit, mehr Geschwindigkeit und erleichterte Wartung für den Entwickler.
 - Der „Bahnfinder“ Text unter Info wurde verschönert.
@@ -504,10 +503,6 @@
 ## Version 4.1.3
 **Veröffentlicht:** 18.03.2024 14:01
 
-- Erweiterte Diagnosedaten können jetzt optional aktiviert werden.
-- Lokale Backups können jetzt automatisch gelöscht werden.
-- Die Darstellung von lokalen Backups wurde verbessert.
-- Allgemeine Verbesserungen
 
 ## Version 4.1.2
 **Veröffentlicht:** 15.03.2024 12:35
@@ -666,8 +661,8 @@
 - Die Haltestellensymbol UI wurde verbessert.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.9
+**Veröffentlicht:** 22.10.2023 16:09
 
 - Die Darstellung des Fahrtfortschritts im Fahrtverlauf markiert jetzt die Haltestelle, an dem sich das Fahrzeug gerade befindet.
 - Eine neue Verbindungsoption „Minimale Umsteigezeit“ wurde hinzugefügt.
@@ -750,8 +745,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.16
+**Veröffentlicht:** 20.09.2023 02:35
 
 - Die Darstellung zweifarbiger Linien wurde verbessert.
 - Updates für Linieninfos
