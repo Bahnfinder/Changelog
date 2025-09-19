@@ -803,6 +803,8 @@
 ## Version 2.2.8
 **Veröffentlicht:** 04.09.2023 16:00
 
+- Start gefunden wurde.
+- Allgemeine Verbesserungen
 
 ## Version 2.2.7
 **Veröffentlicht:** 02.09.2023 08:49
@@ -1077,8 +1079,6 @@
 ## Version 1.0.9
 **Veröffentlicht:** 11.04.2023 23:05
 
-- Ein Fehler wurde behoben, durch den die App keine Inhalte mehr geladen hat, wenn sie eine gewisse Zeit im Hintergrund war. 
-- Der Fehler könnte bei einigen Nutzern dennoch auftreten, schließe die App dazu aus dem Multitasking Menü und öffne sie erneut. 
 
 ## Version 1.0.8
 **Veröffentlicht:** 11.04.2023 02:45
