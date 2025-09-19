@@ -286,8 +286,8 @@
 - Wichtige Haltestellen filtern: du kannst in der Suche auswählen, ob du nur die wichtigsten Haltestellen in deiner Nähe sehen möchtest. Diese basieren auf deinen Favoriten, benutzten und besuchten Haltestellen.
 - Über 90 weitere Neuerungen machen Bahnfinder noch besser und schneller.
 
-## Version 4.4.5
-**Veröffentlicht:** 12.08.2024 15:00
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Das BVG Verkehrsnetz funktioniert jetzt wieder wie erwartet.
 
@@ -626,6 +626,8 @@
 ## Version 2.3.16
 **Veröffentlicht:** 20.12.2023 09:49
 
+- 4 neue App Icons: „Vereiste Weihnachten“, „Vereiste Weihnachten Mund“, „Weihnachtsgeschenk“ und „Weihnachtsgeschenk Mund“.
+- Allgemeine Verbesserungen
 
 ## Version 2.3.15
 **Veröffentlicht:** 13.12.2023 23:32
@@ -947,7 +949,6 @@
 ## Version 1.5.3
 **Veröffentlicht:** 26.05.2023 04:25
 
-- Allgemeine Verbesserungen
 
 ## Version 1.5.2
 **Veröffentlicht:** 25.05.2023 04:40
@@ -964,6 +965,11 @@
 ## Version 1.5.0
 **Veröffentlicht:** 18.05.2023 15:13
 
+- Die Gleisnummer ist ab sofort im Fahrtverlauf sichtbar
+- Neues Design bei Fahrtverlauf
+- Die angepinnte Route wird ab sofort in der Verbindungsliste angezeigt
+- Ein Fehler bei der Standortsuche wurde behoben
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.4.0
 **Veröffentlicht:** 17.05.2023 02:42
