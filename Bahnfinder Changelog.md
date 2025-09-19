@@ -176,8 +176,8 @@
 - Die Auslastung wird jetzt verbessert dargestellt
 - Verbesserungen für das DB Verkehrsnetz
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.1.12
+**Veröffentlicht:** 18.01.2025 05:03
 
 - Verbesserungen für das DB Verkehrsnetz
 
@@ -211,7 +211,6 @@
 ## Version 5.1.6
 **Veröffentlicht:** 16.12.2024 13:31
 
-- Die Linienfarben für die S5 (MVV) wurden hinzugefügt.
 
 ## Version 5.1.5
 **Veröffentlicht:** 10.12.2024 05:15
@@ -229,8 +228,8 @@
 
 - Ein Darstellungsfehler wurde behoben
 
-## Version 5.1.2
-**Veröffentlicht:** 22.09.2024 15:19
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Verbesserte Hinweise für die Standortfreigabe
 - Allgemeine Verbesserungen
@@ -341,8 +340,8 @@
 - Neue Verkehrsnetze: BVG, HVV, RMV, RailTeam & Naldo
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.2.8
+**Veröffentlicht:** 20.06.2024 21:56
 
 - Die Beschreibung vom DB Provider wurde geändert.
 
@@ -820,6 +819,8 @@
 ## Version 2.2.5
 **Veröffentlicht:** 31.08.2023 11:56
 
+- In der Suche werden jetzt 50 Haltestellen in der Nähe angezeigt.
+- Allgemeine Verbesserungen
 
 ## Version 2.2.4
 **Veröffentlicht:** 30.08.2023 12:04
@@ -1045,8 +1046,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.1.1
-**Veröffentlicht:** 21.04.2023 20:55
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
