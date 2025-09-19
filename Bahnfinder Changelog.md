@@ -258,8 +258,6 @@
 ## Version 5.0.3
 **Veröffentlicht:** 06.09.2024 03:16
 
-- Ein Fehler wurde behoben, der dazu führte, dass die App beim anschauen von Verbindungen abstürzt.
-- Allgemeine Verbesserungen
 
 ## Version 5.0.2
 **Veröffentlicht:** 05.09.2024 15:32
@@ -401,8 +399,8 @@
 - Ein Fehler wurde behoben, der dazu führte, dass die Liniensymbole nach einer Wiederherstellung nicht angezeigt wurden.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.19
+**Veröffentlicht:** 20.05.2024 19:02
 
 - Das App Icon „Weiss Inline“ heisst jetzt „Modern Weiß“
 - Fehlerbehebungen
@@ -626,8 +624,6 @@
 ## Version 2.3.16
 **Veröffentlicht:** 20.12.2023 09:49
 
-- 4 neue App Icons: „Vereiste Weihnachten“, „Vereiste Weihnachten Mund“, „Weihnachtsgeschenk“ und „Weihnachtsgeschenk Mund“.
-- Allgemeine Verbesserungen
 
 ## Version 2.3.15
 **Veröffentlicht:** 13.12.2023 23:32
@@ -659,8 +655,8 @@
 - Option: Energiesparende Standortermittlung
 - Allgemeine Verbesserungen 
 
-## Version 2.3.10
-**Veröffentlicht:** 28.10.2023 19:18
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Darstellung des Standortpfeils wurde verbessert.
 - Die Haltestellensymbol UI wurde verbessert.
