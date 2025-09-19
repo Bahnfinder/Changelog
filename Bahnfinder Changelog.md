@@ -3,8 +3,8 @@
 
 - Das Naldo Verkehrsnetz funktioniert jetzt wieder wie erwartet.
 
-## Version 6.2
-**Veröffentlicht:** 31.07.2025 22:56
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Inkognito: Im Inkognito Modus kannst du Verbindungen suchen, ohne dass sie im Verlauf sichtbar werden. 
 - Rückreise finden: Finde direkt eine Rückreise einer gefahrenen Verbindung aus deinem Verlauf.
@@ -22,8 +22,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.1.4
+**Veröffentlicht:** 29.05.2025 00:36
 
 - Die Berechnung der Größe von lokalen Backups ist jetzt stabiler
 - Allgemeine Verbesserungen
@@ -71,7 +71,6 @@
 ## Version 6.0.12
 **Veröffentlicht:** 02.03.2025 02:36
 
-- Allgemeine Verbesserungen
 
 ## Version 6.0.11
 **Veröffentlicht:** 22.02.2025 09:46
@@ -123,8 +122,8 @@
 - Verbesserte Darstellung von Bahnhofsnamen
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.0.2
+**Veröffentlicht:** 29.01.2025 15:04
 
 - Die Verkehrsnetzsuche bei der Einrichtung kann jetzt abgebrochen werden.
 - Allgemeine Verbesserungen
@@ -184,7 +183,6 @@
 ## Version 5.1.11
 **Veröffentlicht:** 15.01.2025 00:41
 
-- Dieses Update enthält API Updates für das Deutsche Bahn Verkehrsnetz, welches jetzt wieder wie erwartet funktioniert!
 
 ## Version 5.1.10
 **Veröffentlicht:** 13.01.2025 01:03
@@ -208,8 +206,8 @@
 
 - Ein Fehler wurde behoben, der dazu führte, dass die App beim Ansehen bestimmter Verbindungen abstürzte. 
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.1.6
+**Veröffentlicht:** 16.12.2024 13:31
 
 - Die Linienfarben für die S5 (MVV) wurden hinzugefügt.
 
@@ -221,8 +219,6 @@
 ## Version 5.1.4
 **Veröffentlicht:** 27.11.2024 00:19
 
-- Das VMV Verkehrsnetz funktioniert jetzt wieder wie erwartet
-- Allgemeine Verbesserungen
 
 ## Version 5.1.3
 **Veröffentlicht:** 27.09.2024 17:57
@@ -232,6 +228,8 @@
 ## Version 5.1.2
 **Veröffentlicht:** 22.09.2024 15:19
 
+- Verbesserte Hinweise für die Standortfreigabe
+- Allgemeine Verbesserungen
 
 ## Version 5.1.1
 **Veröffentlicht:** 21.09.2024 07:10
@@ -513,8 +511,8 @@
 - Erweiterte Diagnosedaten können jetzt per Mail gesendet werden.
 - Allgemeine Verbesserungen
 
-## Version 4.1.1
-**Veröffentlicht:** 10.03.2024 22:38
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neue Verkehrsnetze hinzugefügt: MVG (Märkischer Kreis), VMS, VMV, VRN
 - Allgemeine Verbesserungen
@@ -815,8 +813,8 @@
 - Kleine Designänderungen
 - Allgemeine Verbesserungen
 
-## Version 2.2.5
-**Veröffentlicht:** 31.08.2023 11:56
+## Version null
+**Veröffentlicht:** – No release date available
 
 - In der Suche werden jetzt 50 Haltestellen in der Nähe angezeigt.
 - Allgemeine Verbesserungen
@@ -977,8 +975,8 @@
 - Stabilitätsverbesserungen
 - Fehlerbehebungen
 
-## Version 1.3.6
-**Veröffentlicht:** 16.05.2023 13:41
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Stabilitätsverbesserungen
 
@@ -987,8 +985,8 @@
 
 - Fehlerbehebungen und Stabilitätsverbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.3.4
+**Veröffentlicht:** 13.05.2023 10:27
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
@@ -999,8 +997,8 @@
 - Stabilitätsverbesserungen
 - Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.3.2
+**Veröffentlicht:** 12.05.2023 05:14
 
 - Stabilität erheblich verbessert
 
@@ -1071,8 +1069,6 @@
 ## Version 1.0.10
 **Veröffentlicht:** 14.04.2023 21:13
 
-- Suche verbessert
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.0.9
 **Veröffentlicht:** 11.04.2023 23:05
