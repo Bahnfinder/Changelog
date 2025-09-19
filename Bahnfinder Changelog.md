@@ -224,8 +224,8 @@
 - Das VMV Verkehrsnetz funktioniert jetzt wieder wie erwartet
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.1.3
+**Veröffentlicht:** 27.09.2024 17:57
 
 - Ein Darstellungsfehler wurde behoben
 
@@ -394,6 +394,12 @@
 ## Version 4.2.0
 **Veröffentlicht:** 10.06.2024 11:36
 
+- „Synchronisieren“ wurde in „Backups“ umbenannt. Es ist jetzt möglich, unbegrenzt viele verschiedene iCloud Backups zu erstellen und zu verwalten. Nutzer können jetzt ihre Backups mit einer komplett neuen Oberfläche verwalten und wiederherstellen. 
+- Auf der Fahrtverlauf Karte werden jetzt Abfahrtszeiten angezeigt.
+- Neue Option, um „Haltestellen vorlesen“ automatisch zu beenden, wenn Kopfhörer getrennt wurden.
+- Die Einrichtung wurde verbessert
+- Ein Fehler wurde behoben, der dazu führte, dass die Liniensymbole nach einer Wiederherstellung nicht angezeigt wurden.
+- Allgemeine Verbesserungen
 
 ## Version 4.1.19
 **Veröffentlicht:** 20.05.2024 19:02
@@ -415,8 +421,8 @@
 - Die Darstellung des Standortpfeils wurde verbessert.
 - Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.16
+**Veröffentlicht:** 16.05.2024 00:09
 
 - MVV: Nachtbusse werden jetzt in einer spezifischen Farbe dargestellt (Lässt sich deaktivieren)
 
@@ -563,8 +569,6 @@
 ## Version 3.1.3
 **Veröffentlicht:** 12.02.2024 17:29
 
-- Fehlerbehebungen
-- Allgemeine Verbesserungen
 
 ## Version 3.1.2
 **Veröffentlicht:** 10.02.2024 07:37
@@ -596,6 +600,7 @@
 ## Version 3.0.1
 **Veröffentlicht:** 18.01.2024 14:58
 
+- Allgemeine Verbesserungen
 
 ## Version 3.0.0
 **Veröffentlicht:** 02.01.2024 16:59
@@ -787,8 +792,8 @@
 - Die Karte wurde überarbeitet und bietet jetzt eine verbesserte Navigation.
 - Allgemeine Verbesserungen
 
-## Version 2.2.9
-**Veröffentlicht:** 08.09.2023 14:39
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Lange Fusswege werden jetzt unter Verbindung markiert.
 - Allgemeine Verbesserungen
@@ -830,8 +835,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.2
+**Veröffentlicht:** 14.08.2023 09:53
 
 - Neues Menü zur Schnellauswahl bei der Haltestellensuche.
 - Allgemeine Verbesserungen
@@ -994,8 +999,8 @@
 - Stabilitätsverbesserungen
 - Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.3.2
+**Veröffentlicht:** 12.05.2023 05:14
 
 - Stabilität erheblich verbessert
 
