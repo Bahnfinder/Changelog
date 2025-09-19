@@ -46,12 +46,6 @@
 ## Version 6.1.1
 **Veröffentlicht:** 28.04.2025 18:53
 
-- Release Version
-- Automatische Backups werden jetzt nach einer Wiederherstellung automatisch aktiviert
-- Die falsche Schriftgrösse von Liniennummern auf der Karte wurde behoben
-- Nach dem ersten einrichten der App wird jetzt der richtige „Was ist neu“ Screen angezeigt
-- Ein Fehler wurde behoben, der in seltenen Fällen zu Abstürzen beim verwenden von „Lokale Backups“ geführt hat
-- Allgemeine Verbesserungen 
 
 ## Version 6.1
 **Veröffentlicht:** 26.04.2025 00:45
@@ -73,13 +67,13 @@
 
 - Allgemeine Verbesserungen
 
-## Version 6.0.11
-**Veröffentlicht:** 22.02.2025 09:46
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Verbesserungen für VoiceOver
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.0.10
+**Veröffentlicht:** 16.02.2025 17:24
 
 - Allgemeine Verbesserungen
 
@@ -349,6 +343,9 @@
 ## Version 4.2.7
 **Veröffentlicht:** 20.06.2024 01:04
 
+- In der Verkehrsnetz Auswahl werden jetzt die zugehörigen Städte angezeigt.
+- Verbesserte Anzeige von Haltestellennamen auf der Verbindungskarte.
+- Allgemeine Verbesserungen
 
 ## Version 4.2.6
 **Veröffentlicht:** 18.06.2024 02:47
@@ -423,8 +420,8 @@
 
 - MVV: Nachtbusse werden jetzt in einer spezifischen Farbe dargestellt (Lässt sich deaktivieren)
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.15
+**Veröffentlicht:** 15.05.2024 22:58
 
 - Die Funktion "Haltestelle Automatisch ausfüllen" kann jetzt deaktiviert werden.
 - Allgemeine Verbesserungen
@@ -634,8 +631,6 @@
 ## Version 2.3.14
 **Veröffentlicht:** 08.12.2023 03:16
 
-- Bahnfinder wünscht euch eine schöne Weihnachtszeit!
-- App Icon hinzugefügt.
 
 ## Version 2.3.13
 **Veröffentlicht:** 03.11.2023 16:35
@@ -1030,9 +1025,6 @@
 ## Version 1.2.0
 **Veröffentlicht:** 06.05.2023 00:35
 
-- Ab sofort kann die Starthaltestelle ausgetauscht werden.
-- Falls die Haltestelle, die beim Start der App gefunden wurde, durch eine andere ersetzt werden soll, können Ausnahmen erstellt werden.
-- Allgemeine Verbesserungen und Fehlerbehebungen wurden durchgeführt.
 
 ## Version 1.1.3
 **Veröffentlicht:** 27.04.2023 03:25
