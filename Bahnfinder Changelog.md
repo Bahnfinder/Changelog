@@ -46,12 +46,6 @@
 ## Version 6.1.1
 **Veröffentlicht:** 28.04.2025 18:53
 
-- Release Version
-- Automatische Backups werden jetzt nach einer Wiederherstellung automatisch aktiviert
-- Die falsche Schriftgrösse von Liniennummern auf der Karte wurde behoben
-- Nach dem ersten einrichten der App wird jetzt der richtige „Was ist neu“ Screen angezeigt
-- Ein Fehler wurde behoben, der in seltenen Fällen zu Abstürzen beim verwenden von „Lokale Backups“ geführt hat
-- Allgemeine Verbesserungen 
 
 ## Version 6.1
 **Veröffentlicht:** 26.04.2025 00:45
@@ -1076,8 +1070,8 @@
 - Suche verbessert
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.0.9
+**Veröffentlicht:** 11.04.2023 23:05
 
 - Ein Fehler wurde behoben, durch den die App keine Inhalte mehr geladen hat, wenn sie eine gewisse Zeit im Hintergrund war. 
 - Der Fehler könnte bei einigen Nutzern dennoch auftreten, schließe die App dazu aus dem Multitasking Menü und öffne sie erneut. 
