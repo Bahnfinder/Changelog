@@ -476,6 +476,10 @@
 ## Version 4.1.7
 **Veröffentlicht:** 22.03.2024 01:08
 
+- Neue Option: Erweiterte Analyse
+- Daten wie beispielsweise Lokale Backups können jetzt über iTunes ausgetauscht werden.
+- Neues App Icon: „Bahnfindi“
+- iCloud Synchronisierung wurde optimiert 
 
 ## Version 4.1.6
 **Veröffentlicht:** 21.03.2024 13:16
@@ -568,8 +572,8 @@
 - Fehlerbehebungen
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 3.1.2
+**Veröffentlicht:** 10.02.2024 07:37
 
 - Fehlerbehebungen
 - Allgemeine Verbesserungen
@@ -880,7 +884,6 @@
 ## Version 2.0.4
 **Veröffentlicht:** 24.07.2023 00:19
 
-- Fehlerbehebungen
 
 ## Version 2.0.3
 **Veröffentlicht:** 21.07.2023 01:29
