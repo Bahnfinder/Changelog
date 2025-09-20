@@ -697,7 +697,6 @@
 ## Version 2.3.4
 **Veröffentlicht:** 17.10.2023 12:02
 
-- Allgemeine Verbesserungen
 
 ## Version 2.3.3
 **Veröffentlicht:** 16.10.2023 20:33
@@ -884,6 +883,7 @@
 ## Version 2.0.4
 **Veröffentlicht:** 24.07.2023 00:19
 
+- Fehlerbehebungen
 
 ## Version 2.0.3
 **Veröffentlicht:** 21.07.2023 01:29
