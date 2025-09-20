@@ -496,8 +496,8 @@
 - Anpassungen an App Icons
 - Design Anpassungen
 
-## Version 4.1.4
-**Veröffentlicht:** 19.03.2024 16:44
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -1052,8 +1052,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.1.0
-**Veröffentlicht:** 21.04.2023 06:06
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Verbindung anpinnen: Deine ausgewählte Route wird gespeichert und bleibt bis zum Ende deiner Fahrt oben angeheftet. Mit nur einem Klick kannst du sie jederzeit wieder aufrufen.
 - Designpaket „Glas“ wurde für den hellen Modus optimiert.
