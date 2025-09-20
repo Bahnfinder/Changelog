@@ -53,8 +53,8 @@
 - Ein Fehler wurde behoben, der in seltenen Fällen zu Abstürzen beim verwenden von „Lokale Backups“ geführt hat
 - Allgemeine Verbesserungen 
 
-## Version 6.1
-**Veröffentlicht:** 26.04.2025 00:45
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Liniennummern und andere Objekte zeigen jetzt realistische Reflexionen, die sich an die Neigung des Geräts anpassen
 - Ausgefallene Haltestellen werden jetzt auf den Karten angezeigt
@@ -595,6 +595,9 @@
 ## Version 3.0.2
 **Veröffentlicht:** 25.01.2024 15:35
 
+- Haltestellen vorlesen liest jetzt auch die Abfahrtszeit vor.
+- Neue Option: „Verbindungsdetail Live aktualisieren“
+- Allgemeine Verbesserungen
 
 ## Version 3.0.1
 **Veröffentlicht:** 18.01.2024 14:58
@@ -1017,8 +1020,8 @@
 - Verbesserung für Ausfälle
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.2.2
-**Veröffentlicht:** 09.05.2023 13:10
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Fehlerbehebungen
 
