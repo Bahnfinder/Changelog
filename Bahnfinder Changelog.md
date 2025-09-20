@@ -28,8 +28,8 @@
 - Die Berechnung der Größe von lokalen Backups ist jetzt stabiler
 - Allgemeine Verbesserungen
 
-## Version 6.1.3
-**Veröffentlicht:** 19.05.2025 15:18
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Anzahl von Backups wird jetzt angezeigt
 - Die Backup Einstellungen laden jetzt deutlich schneller, selbst bei vielen Backups 
@@ -68,8 +68,8 @@
 - Designverbesserungen 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.0.12
+**Veröffentlicht:** 02.03.2025 02:36
 
 - Allgemeine Verbesserungen
 
@@ -114,6 +114,8 @@
 ## Version 6.0.4
 **Veröffentlicht:** 01.02.2025 23:31
 
+- Zu lange Gleisnummern im Verbindungsdetail werden jetzt separat dargestellt, wenn der Platz nicht ausreicht
+- Allgemeine Verbesserungen
 
 ## Version 6.0.3
 **Veröffentlicht:** 31.01.2025 03:41
@@ -130,7 +132,6 @@
 ## Version 6.0.1
 **Veröffentlicht:** 28.01.2025 02:13
 
-- Allgemeine Verbesserungen
 
 ## Version 6
 **Veröffentlicht:** 27.01.2025 01:01
@@ -317,8 +318,8 @@
 - Verbesserungen im Abfahrten Popover
 - Die Berechnung von Fußwegen wurde verbessert
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.3.3
+**Veröffentlicht:** 24.06.2024 21:40
 
 - Push Benachrichtigungen können jetzt während der Einrichtung aktiviert werden.
 - Allgemeine Verbesserungen 
@@ -387,7 +388,6 @@
 ## Version 4.2.1
 **Veröffentlicht:** 11.06.2024 23:51
 
-- Neues App Icon "Modern Schwarz"
 
 ## Version 4.2.0
 **Veröffentlicht:** 10.06.2024 11:36
@@ -686,8 +686,8 @@
 
 - Fehlerbehebungen
 
-## Version 2.3.5
-**Veröffentlicht:** 18.10.2023 17:03
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Darstellung des Standortpfeils wurde verbessert.
 - Allgemeine Verbesserungen
@@ -719,8 +719,8 @@
 - Fehlerbehebungen
 - Allgemeine Verbesserungen
 
-## Version 2.3.0
-**Veröffentlicht:** 11.10.2023 11:43
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Der AVV Augsburg wurde als Verkehrsnetz hinzugefügt.
 - Komplett neues Menü zum auswählen des App Icons.
@@ -1048,6 +1048,7 @@
 ## Version 1.1.1
 **Veröffentlicht:** 21.04.2023 20:55
 
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.1.0
 **Veröffentlicht:** 21.04.2023 06:06
