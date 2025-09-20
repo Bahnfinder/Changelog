@@ -194,8 +194,6 @@
 ## Version 5.1.9
 **Veröffentlicht:** 12.01.2025 06:09
 
-- Verkehrsnetz vorübergehend nicht verfügbar ist. Ich arbeite mit Hochdruck an einer Lösung. Du kannst dich benachrichtigen lassen, sobald es wieder funktioniert.
-- Verkehrsnetzes.
 
 ## Version 5.1.8
 **Veröffentlicht:** 08.01.2025 20:32
@@ -607,21 +605,6 @@
 ## Version 3.0.0
 **Veröffentlicht:** 02.01.2024 16:59
 
-- Bahnfinder 3 bietet spannende Neuerungen, die deinen Alltag noch einfacher machen. Das sind die größten Änderungen:
-- Haltestellen vorlesen: Lasse dir nicht nur die nächsten Haltestellen vorlesen, sondern erhalte auch Erinnerungen zum Aussteigen.
-- Überarbeiteter Fahrtverlauf: Verfolge dein Fahrzeug sekundengenau mit einem noch detaillierteren Fahrtverlauf.
-- Kompakte Abfahrten: Neues auswählbares Design für Abfahrten.
-- Verbindungsdetail: Erfahre noch mehr informationen über deine ausgewählte Fahrt, wie zum Beispiel die Fahrtdauer in einem Fahrzeug. Ausserdem wird die aktuelle Fahrt Live aktualisiert.
-- Neue App Icons: iOS 5, TestFlight, TestFlight geriffelt, Mitternacht, Vereiste Weihnachten, Vereiste Weihnachten Mund, Weihnachtsgeschenk, Weihnachtsgeschenk Mund
-- Weitere Neuerungen:
-- Du kannst ab sofort einen Fahrtverlauf anpinnen
-- Die Darstellung von Haltestellennamen kann angepasst werden
-- Neue Einstellung: „Hoher Kontrast für Gleisanzeige“ im Verbindungsdetail
-- Zeiten werden verbessert dargestellt
-- Abfahrten, die von einem anderen Bildschirm geöffnet werden, werden jetzt verkleinert dargestellt
-- Touch Menü schnell eingesetzt werden
-- Die Suche ist jetzt noch schneller
-- Über 30 weitere Verbesserungen machen Bahnfinder noch noch schneller und zuverlässiger.
 
 ## Version 2.3.16
 **Veröffentlicht:** 20.12.2023 09:49
@@ -837,8 +820,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.2
+**Veröffentlicht:** 14.08.2023 09:53
 
 - Neues Menü zur Schnellauswahl bei der Haltestellensuche.
 - Allgemeine Verbesserungen
