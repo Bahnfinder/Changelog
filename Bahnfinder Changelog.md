@@ -338,8 +338,6 @@
 ## Version 4.3.0
 **Veröffentlicht:** 21.06.2024 08:52
 
-- Neue Verkehrsnetze: BVG, HVV, RMV, RailTeam & Naldo
-- Allgemeine Verbesserungen
 
 ## Version 4.2.8
 **Veröffentlicht:** 20.06.2024 21:56
@@ -521,8 +519,8 @@
 - Neue Verkehrsnetze hinzugefügt: MVG (Märkischer Kreis), VMS, VMV, VRN
 - Allgemeine Verbesserungen
 
-## Version 4.1
-**Veröffentlicht:** 08.03.2024 13:33
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neuer „Synchronisieren“ Bildschirm.
 - Neue Option hinzugefügt, um im Suchverlauf die Interaktionsart einer Haltestelle anzuzeigen.
@@ -840,6 +838,8 @@
 ## Version 2.2.2
 **Veröffentlicht:** 14.08.2023 09:53
 
+- Neues Menü zur Schnellauswahl bei der Haltestellensuche.
+- Allgemeine Verbesserungen
 
 ## Version 2.2.1
 **Veröffentlicht:** 11.08.2023 17:09
@@ -872,12 +872,6 @@
 ## Version 2.1
 **Veröffentlicht:** 27.07.2023 15:20
 
-- Neues Design in "Verbindung".
-- Verkehrsnetz spezifische Einstellungen hinzugefügt.
-- Neue Favoriten Symbole.
-- Neuer "Zurücksetzen" Dialog.
-- Neue Option, zum ausblenden des "Suchen" Button, wenn "Automatische Suche" aktiviert ist.
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 2.0.4
 **Veröffentlicht:** 24.07.2023 00:19
@@ -1012,16 +1006,10 @@
 ## Version 1.3.0
 **Veröffentlicht:** 10.05.2023 14:19
 
-- Zwischenstopps hinzugefügt
-- Verbindungen: Abfahrt oder Ankunftszeit kann ausgewählt werden
-- Suche verbessert
-- Verbesserung für Ausfälle
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.2.2
 **Veröffentlicht:** 09.05.2023 13:10
 
-- Fehlerbehebungen
 
 ## Version 1.2.1
 **Veröffentlicht:** 08.05.2023 23:07
@@ -1119,8 +1107,6 @@
 ## Version 1.0.1
 **Veröffentlicht:** 03.04.2023 04:19
 
-- Ab sofort können Favoriten direkt aus der Suche heraus hinzugefügt werden.
-- Allgemeine Verbesserungen und Fehlerbehebungen.
 
 ## Version 1.0
 **Veröffentlicht:** 28.03.2023 17:04
