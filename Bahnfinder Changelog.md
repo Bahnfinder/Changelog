@@ -31,11 +31,6 @@
 ## Version 6.1.3
 **Veröffentlicht:** 19.05.2025 15:18
 
-- Die Anzahl von Backups wird jetzt angezeigt
-- Die Backup Einstellungen laden jetzt deutlich schneller, selbst bei vielen Backups 
-- iCloud Backups werden nun vollständig angezeigt, auch wenn du mehr als 100 hast
-- Leistungsverbesserungen
-- Allgemeine Verbesserungen
 
 ## Version 6.1.2
 **Veröffentlicht:** 18.05.2025 22:29
@@ -105,8 +100,8 @@
 - Wichtige Push Benachrichtigungen von „Haltestellen ankündigen“ spielen jetzt einen Ton oder eine Vibration
 - Allgemeine Verbesserungen
 
-## Version 6.0.5
-**Veröffentlicht:** 05.02.2025 01:29
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Das Setup wurde verbessert
 - Allgemeine Verbesserungen
@@ -325,8 +320,8 @@
 - Push Benachrichtigungen können jetzt während der Einrichtung aktiviert werden.
 - Allgemeine Verbesserungen 
 
-## Version 4.3.2
-**Veröffentlicht:** 23.06.2024 16:44
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Entfallene Fahrzeuge werden jetzt einheitlich dargestellt.
 
@@ -341,8 +336,8 @@
 - Neue Verkehrsnetze: BVG, HVV, RMV, RailTeam & Naldo
 - Allgemeine Verbesserungen
 
-## Version 4.2.8
-**Veröffentlicht:** 20.06.2024 21:56
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Beschreibung vom DB Provider wurde geändert.
 
@@ -440,7 +435,6 @@
 ## Version 4.1.13
 **Veröffentlicht:** 12.05.2024 15:34
 
-- Allgemeine Verbesserungen
 
 ## Version 4.1.12
 **Veröffentlicht:** 10.05.2024 14:10
@@ -972,8 +966,8 @@
 - Ein Fehler bei der Standortsuche wurde behoben
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.4.0
+**Veröffentlicht:** 17.05.2023 02:42
 
 - Automatische Suche bei Verbindungen hinzugefügt
 - Stabilitätsverbesserungen
