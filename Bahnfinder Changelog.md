@@ -68,9 +68,10 @@
 - Designverbesserungen 
 - Allgemeine Verbesserungen
 
-## Version 6.0.12
-**Veröffentlicht:** 02.03.2025 02:36
+## Version null
+**Veröffentlicht:** – No release date available
 
+- Allgemeine Verbesserungen
 
 ## Version 6.0.11
 **Veröffentlicht:** 22.02.2025 09:46
@@ -113,8 +114,6 @@
 ## Version 6.0.4
 **Veröffentlicht:** 01.02.2025 23:31
 
-- Zu lange Gleisnummern im Verbindungsdetail werden jetzt separat dargestellt, wenn der Platz nicht ausreicht
-- Allgemeine Verbesserungen
 
 ## Version 6.0.3
 **Veröffentlicht:** 31.01.2025 03:41
@@ -318,8 +317,8 @@
 - Verbesserungen im Abfahrten Popover
 - Die Berechnung von Fußwegen wurde verbessert
 
-## Version 4.3.3
-**Veröffentlicht:** 24.06.2024 21:40
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Push Benachrichtigungen können jetzt während der Einrichtung aktiviert werden.
 - Allgemeine Verbesserungen 
@@ -787,8 +786,8 @@
 - 3D Optionen wurden zur Karte hinzugefügt.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.10
+**Veröffentlicht:** 11.09.2023 11:05
 
 - Die Karte wurde überarbeitet und bietet jetzt eine verbesserte Navigation.
 - Allgemeine Verbesserungen
@@ -1049,7 +1048,6 @@
 ## Version 1.1.1
 **Veröffentlicht:** 21.04.2023 20:55
 
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.1.0
 **Veröffentlicht:** 21.04.2023 06:06
