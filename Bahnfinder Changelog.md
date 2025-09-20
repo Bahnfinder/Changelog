@@ -493,11 +493,9 @@
 ## Version 4.1.5
 **Veröffentlicht:** 20.03.2024 19:10
 
-- Anpassungen an App Icons
-- Design Anpassungen
 
-## Version 4.1.4
-**Veröffentlicht:** 19.03.2024 16:44
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -691,8 +689,6 @@
 ## Version 2.3.5
 **Veröffentlicht:** 18.10.2023 17:03
 
-- Die Darstellung des Standortpfeils wurde verbessert.
-- Allgemeine Verbesserungen
 
 ## Version 2.3.4
 **Veröffentlicht:** 17.10.2023 12:02
@@ -848,8 +844,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2
+**Veröffentlicht:** 09.08.2023 20:22
 
 - Dieses Update enthält interne Optimierungen, die Bahnfinder noch schneller und stabiler machen.
 - Neues, optionales Layout für eine verbesserte einhändige Bedienung. (Vorerst nur bei Abfahrten)
@@ -1045,6 +1041,7 @@
 ## Version 1.1.2
 **Veröffentlicht:** 25.04.2023 04:22
 
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.1.1
 **Veröffentlicht:** 21.04.2023 20:55
