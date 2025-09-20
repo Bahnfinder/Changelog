@@ -170,8 +170,8 @@
 - Neues Verkehrsnetz: NAH.SH
 - Über 60 weitere Neuerungen machen Bahnfinder noch besser und schneller
 
-## Version 5.1.13
-**Veröffentlicht:** 21.01.2025 01:11
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Auslastung wird jetzt verbessert dargestellt
 - Verbesserungen für das DB Verkehrsnetz
@@ -211,7 +211,6 @@
 ## Version 5.1.6
 **Veröffentlicht:** 16.12.2024 13:31
 
-- Die Linienfarben für die S5 (MVV) wurden hinzugefügt.
 
 ## Version 5.1.5
 **Veröffentlicht:** 10.12.2024 05:15
@@ -335,8 +334,8 @@
 
 - Kleine Anpassungen bei der Einrichtung
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.3.0
+**Veröffentlicht:** 21.06.2024 08:52
 
 - Neue Verkehrsnetze: BVG, HVV, RMV, RailTeam & Naldo
 - Allgemeine Verbesserungen
@@ -694,8 +693,8 @@
 - Die Darstellung des Standortpfeils wurde verbessert.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.4
+**Veröffentlicht:** 17.10.2023 12:02
 
 - Allgemeine Verbesserungen
 
@@ -781,8 +780,8 @@
 - Verbesserungen für das Liniendesign
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.11
+**Veröffentlicht:** 14.09.2023 01:16
 
 - iOS 17 Kompatibilität
 - 3D Optionen wurden zur Karte hinzugefügt.
