@@ -341,8 +341,8 @@
 - Neue Verkehrsnetze: BVG, HVV, RMV, RailTeam & Naldo
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.2.8
+**Veröffentlicht:** 20.06.2024 21:56
 
 - Die Beschreibung vom DB Provider wurde geändert.
 
@@ -501,8 +501,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.3
+**Veröffentlicht:** 18.03.2024 14:01
 
 - Erweiterte Diagnosedaten können jetzt optional aktiviert werden.
 - Lokale Backups können jetzt automatisch gelöscht werden.
@@ -673,8 +673,8 @@
 - Eine neue Verbindungsoption „Minimale Umsteigezeit“ wurde hinzugefügt.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.8
+**Veröffentlicht:** 20.10.2023 17:31
 
 - Allgemeine Verbesserungen
 
@@ -820,6 +820,8 @@
 ## Version 2.2.5
 **Veröffentlicht:** 31.08.2023 11:56
 
+- In der Suche werden jetzt 50 Haltestellen in der Nähe angezeigt.
+- Allgemeine Verbesserungen
 
 ## Version 2.2.4
 **Veröffentlicht:** 30.08.2023 12:04
@@ -887,6 +889,10 @@
 ## Version 2.0.3
 **Veröffentlicht:** 21.07.2023 01:29
 
+- VVO hinzugefügt
+- Anzeige der Favoriten Symbole verbessert
+- Designverbesserungen
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 2.0.2
 **Veröffentlicht:** 20.07.2023 03:14
@@ -973,8 +979,8 @@
 - Stabilitätsverbesserungen
 - Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.3.6
+**Veröffentlicht:** 16.05.2023 13:41
 
 - Stabilitätsverbesserungen
 
