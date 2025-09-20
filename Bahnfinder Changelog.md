@@ -224,8 +224,8 @@
 - Das VMV Verkehrsnetz funktioniert jetzt wieder wie erwartet
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.1.3
+**Veröffentlicht:** 27.09.2024 17:57
 
 - Ein Darstellungsfehler wurde behoben
 
@@ -560,8 +560,8 @@
 - Synchronisierung zu begrenzen, um Daten und Batterieverbrauch zu reduzieren. 
 - Allgemeine Verbesserungen
 
-## Version 3.1.4
-**Veröffentlicht:** 15.02.2024 16:58
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neue Hinweise, wenn keine Abfahrten an der gewählten Haltestelle verfügbar sind.
 - Allgemeine Verbesserungen
