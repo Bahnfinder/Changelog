@@ -22,8 +22,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.1.4
+**Veröffentlicht:** 29.05.2025 00:36
 
 - Die Berechnung der Größe von lokalen Backups ist jetzt stabiler
 - Allgemeine Verbesserungen
@@ -581,7 +581,6 @@
 ## Version 3.1.1
 **Veröffentlicht:** 02.02.2024 12:41
 
-- Allgemeine Verbesserungen
 
 ## Version 3.1
 **Veröffentlicht:** 01.02.2024 16:55
@@ -800,8 +799,8 @@
 - Lange Fusswege werden jetzt unter Verbindung markiert.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.8
+**Veröffentlicht:** 04.09.2023 16:00
 
 - Start gefunden wurde.
 - Allgemeine Verbesserungen
@@ -823,8 +822,8 @@
 - In der Suche werden jetzt 50 Haltestellen in der Nähe angezeigt.
 - Allgemeine Verbesserungen
 
-## Version 2.2.4
-**Veröffentlicht:** 30.08.2023 12:04
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Anzeige der Umsteigezeit ist nun in den Verbindungsdetails sichtbar.
 - Das Layout der Abfahrtszeiten wurde optimiert, um eine höhere Anzahl von Abfahrten gleichzeitig anzeigen zu können.
@@ -871,8 +870,8 @@
 
 - Fehlerbehebungen
 
-## Version 2.1
-**Veröffentlicht:** 27.07.2023 15:20
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neues Design in "Verbindung".
 - Verkehrsnetz spezifische Einstellungen hinzugefügt.
@@ -894,8 +893,8 @@
 - Designverbesserungen
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 2.0.2
-**Veröffentlicht:** 20.07.2023 03:14
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Konfigurationen von ausgeblendeten Linien können ab sofort gespeichert werden.
 - Favoriten Symbole werden in Abfahrten gezeigt.
@@ -989,8 +988,8 @@
 
 - Fehlerbehebungen und Stabilitätsverbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.3.4
+**Veröffentlicht:** 13.05.2023 10:27
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
