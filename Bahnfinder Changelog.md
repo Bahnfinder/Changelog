@@ -509,8 +509,8 @@
 - Die Darstellung von lokalen Backups wurde verbessert.
 - Allgemeine Verbesserungen
 
-## Version 4.1.2
-**Veröffentlicht:** 15.03.2024 12:35
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Erweiterte Diagnosedaten können jetzt per Mail gesendet werden.
 - Allgemeine Verbesserungen
@@ -1009,6 +1009,7 @@
 ## Version 1.3.1
 **Veröffentlicht:** 11.05.2023 03:36
 
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.3.0
 **Veröffentlicht:** 10.05.2023 14:19
