@@ -411,6 +411,8 @@
 ## Version 4.1.18
 **Veröffentlicht:** 18.05.2024 21:41
 
+- Neues App Icon „Weiss Inline“
+- Darstellungsanpassungen für kleinere Geräte
 
 ## Version 4.1.17
 **Veröffentlicht:** 16.05.2024 15:26
@@ -584,6 +586,11 @@
 ## Version 3.1
 **Veröffentlicht:** 01.02.2024 16:55
 
+- Du kannst ab sofort spenden, um die weitere Entwicklung von Bahnfinder zu unterstützen :)
+- Neue Favoriten Symbole hinzugefügt
+- Neues Design für die iCloud Einstellungen und info
+- Verbesserte Darstellung von Linienwegen auf der Karte
+- Allgemeine Verbesserungen
 
 ## Version 3.0.2
 **Veröffentlicht:** 25.01.2024 15:35
@@ -777,6 +784,9 @@
 ## Version 2.2.11
 **Veröffentlicht:** 14.09.2023 01:16
 
+- iOS 17 Kompatibilität
+- 3D Optionen wurden zur Karte hinzugefügt.
+- Allgemeine Verbesserungen
 
 ## Version 2.2.10
 **Veröffentlicht:** 11.09.2023 11:05
@@ -936,8 +946,8 @@
 - Die Zeit einer gesuchten Verbindung wird jetzt im Verlauf angezeigt.
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.5.3
+**Veröffentlicht:** 26.05.2023 04:25
 
 - Allgemeine Verbesserungen
 
