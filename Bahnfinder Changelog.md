@@ -319,8 +319,8 @@
 - Verbesserungen im Abfahrten Popover
 - Die Berechnung von Fußwegen wurde verbessert
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.3.3
+**Veröffentlicht:** 24.06.2024 21:40
 
 - Push Benachrichtigungen können jetzt während der Einrichtung aktiviert werden.
 - Allgemeine Verbesserungen 
@@ -401,8 +401,8 @@
 - Ein Fehler wurde behoben, der dazu führte, dass die Liniensymbole nach einer Wiederherstellung nicht angezeigt wurden.
 - Allgemeine Verbesserungen
 
-## Version 4.1.19
-**Veröffentlicht:** 20.05.2024 19:02
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Das App Icon „Weiss Inline“ heisst jetzt „Modern Weiß“
 - Fehlerbehebungen
@@ -490,8 +490,8 @@
 - Einrichtung verbessert
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.5
+**Veröffentlicht:** 20.03.2024 19:10
 
 - Anpassungen an App Icons
 - Design Anpassungen
@@ -569,6 +569,8 @@
 ## Version 3.1.3
 **Veröffentlicht:** 12.02.2024 17:29
 
+- Fehlerbehebungen
+- Allgemeine Verbesserungen
 
 ## Version 3.1.2
 **Veröffentlicht:** 10.02.2024 07:37
@@ -941,8 +943,6 @@
 ## Version 1.5.4
 **Veröffentlicht:** 01.06.2023 03:49
 
-- Die Zeit einer gesuchten Verbindung wird jetzt im Verlauf angezeigt.
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.5.3
 **Veröffentlicht:** 26.05.2023 04:25
@@ -1071,8 +1071,6 @@
 ## Version 1.0.10
 **Veröffentlicht:** 14.04.2023 21:13
 
-- Suche verbessert
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.0.9
 **Veröffentlicht:** 11.04.2023 23:05
@@ -1105,6 +1103,9 @@
 ## Version 1.0.4
 **Veröffentlicht:** 05.04.2023 04:18
 
+- KVV als Verkehrsnetz hinzugefügt.
+- Setup Assistenten hinzugefügt.
+- Allgemeine Verbesserungen und Fehlerbehebungen.
 
 ## Version 1.0.3
 **Veröffentlicht:** 03.04.2023 23:08
