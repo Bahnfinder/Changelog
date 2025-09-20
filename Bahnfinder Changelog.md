@@ -53,8 +53,8 @@
 - Ein Fehler wurde behoben, der in seltenen Fällen zu Abstürzen beim verwenden von „Lokale Backups“ geführt hat
 - Allgemeine Verbesserungen 
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.1
+**Veröffentlicht:** 26.04.2025 00:45
 
 - Liniennummern und andere Objekte zeigen jetzt realistische Reflexionen, die sich an die Neigung des Geräts anpassen
 - Ausgefallene Haltestellen werden jetzt auf den Karten angezeigt
@@ -659,8 +659,8 @@
 - Option: Energiesparende Standortermittlung
 - Allgemeine Verbesserungen 
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.10
+**Veröffentlicht:** 28.10.2023 19:18
 
 - Die Darstellung des Standortpfeils wurde verbessert.
 - Die Haltestellensymbol UI wurde verbessert.
