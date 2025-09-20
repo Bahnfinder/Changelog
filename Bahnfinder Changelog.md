@@ -272,8 +272,8 @@
 - Bahnfinder läuft jetzt noch schneller.
 - Ein Fehler wurde behoben, der dazu führte, dass die App beim darstellen einiger zweifarbiger Liniennummern abstürzte.
 
-## Version 5
-**Veröffentlicht:** 01.09.2024 17:57
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Liniennummer in Verbindungsliste: du kannst jetzt aussuchen, ob du die Liniennummer oder das Fahrzeugsymbol in der Verbindungsliste sehen möchtest. 
 - Verbesserungen im Fahrtverlauf: im Fahrtverlauf werden jetzt weitere Informationen zu deinem Fahrzeug angezeigt. Du kannst genau sehen, von welchem Gleis dein Fahrzeug fährt oder welche Haltestellen ausfallen.
@@ -325,8 +325,8 @@
 - Push Benachrichtigungen können jetzt während der Einrichtung aktiviert werden.
 - Allgemeine Verbesserungen 
 
-## Version 4.3.2
-**Veröffentlicht:** 23.06.2024 16:44
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Entfallene Fahrzeuge werden jetzt einheitlich dargestellt.
 
@@ -408,8 +408,8 @@
 - Fehlerbehebungen
 - Allgemeine Verbesserungen
 
-## Version 4.1.18
-**Veröffentlicht:** 18.05.2024 21:41
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neues App Icon „Weiss Inline“
 - Darstellungsanpassungen für kleinere Geräte
@@ -442,8 +442,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 4.1.12
-**Veröffentlicht:** 10.05.2024 14:10
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -462,8 +462,8 @@
 - Der „Bahnfinder“ Text unter Info wurde verschönert.
 - Allgemeine Verbesserungen
 
-## Version 4.1.9
-**Geplant:** 01.04.2024 00:00
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Am 1. April feiert Bahnfinder seinen 1. Geburtstag. Feiere diesen besonderen Tag mit einem exklusiven App Icon!
 
@@ -715,11 +715,6 @@
 ## Version 2.3.1
 **Veröffentlicht:** 12.10.2023 12:23
 
-- Im Verbindungsdetail wird jetzt die Ankunft in Minuten gezeigt.
-- Verbesserte Darstellung von Zeiten.
-- Ein Fehler wurde behoben, der dazu geführt hat, dass unter bestimmten Umständen Text in Abfahrten abgeschnitten wurde.
-- Fehlerbehebungen
-- Allgemeine Verbesserungen
 
 ## Version 2.3.0
 **Veröffentlicht:** 11.10.2023 11:43
@@ -869,7 +864,6 @@
 ## Version 2.1.1
 **Veröffentlicht:** 28.07.2023 19:11
 
-- Fehlerbehebungen
 
 ## Version 2.1
 **Veröffentlicht:** 27.07.2023 15:20
