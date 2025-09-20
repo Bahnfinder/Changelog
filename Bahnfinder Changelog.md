@@ -769,8 +769,8 @@
 - Mit der Funktion "Notfallsuche" wird versucht, stets eine Verbindung für dich zu finden. Selbst in Situationen wie späten Stunden in einem entlegenen Dorf werden dir beispielsweise lange Fußwege zum nächsten Ort vorgeschlagen, um in jedem Fall nach Hause zu kommen.
 - Allgemeine Verbesserungen
 
-## Version 2.2.13
-**Veröffentlicht:** 16.09.2023 02:03
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neue Tipps.
 - Allgemeine Verbesserungen
@@ -826,11 +826,6 @@
 ## Version 2.2.4
 **Veröffentlicht:** 30.08.2023 12:04
 
-- Die Anzeige der Umsteigezeit ist nun in den Verbindungsdetails sichtbar.
-- Das Layout der Abfahrtszeiten wurde optimiert, um eine höhere Anzahl von Abfahrten gleichzeitig anzeigen zu können.
-- Die Suchgeschwindigkeit wurde signifikant erhöht.
-- Ein neuer Hinweisdialog informiert Benutzer, wenn sie sich in einem Gebiet mit Verkehrsnetz befinden, das derzeit nicht ausgewählt ist.
-- Allgemeine Verbesserungen
 
 ## Version 2.2.3
 **Veröffentlicht:** 17.08.2023 11:24
@@ -881,8 +876,8 @@
 - Neue Option, zum ausblenden des "Suchen" Button, wenn "Automatische Suche" aktiviert ist.
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.0.4
+**Veröffentlicht:** 24.07.2023 00:19
 
 - Fehlerbehebungen
 
