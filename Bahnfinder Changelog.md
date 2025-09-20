@@ -28,8 +28,8 @@
 - Die Berechnung der Größe von lokalen Backups ist jetzt stabiler
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.1.3
+**Veröffentlicht:** 19.05.2025 15:18
 
 - Die Anzahl von Backups wird jetzt angezeigt
 - Die Backup Einstellungen laden jetzt deutlich schneller, selbst bei vielen Backups 
@@ -71,7 +71,6 @@
 ## Version 6.0.12
 **Veröffentlicht:** 02.03.2025 02:36
 
-- Allgemeine Verbesserungen
 
 ## Version 6.0.11
 **Veröffentlicht:** 22.02.2025 09:46
@@ -681,6 +680,7 @@
 ## Version 2.3.7
 **Veröffentlicht:** 19.10.2023 01:21
 
+- Allgemeine Verbesserungen
 
 ## Version 2.3.6
 **Veröffentlicht:** 18.10.2023 23:24
@@ -787,8 +787,8 @@
 - 3D Optionen wurden zur Karte hinzugefügt.
 - Allgemeine Verbesserungen
 
-## Version 2.2.10
-**Veröffentlicht:** 11.09.2023 11:05
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Karte wurde überarbeitet und bietet jetzt eine verbesserte Navigation.
 - Allgemeine Verbesserungen
@@ -1041,8 +1041,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.1.2
+**Veröffentlicht:** 25.04.2023 04:22
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
@@ -1103,8 +1103,8 @@
 - Anschlüsse können ab sofort von einer Verbindung aus durch tippen auf den Haltestellen Namen abgerufen werden.
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.0.4
+**Veröffentlicht:** 05.04.2023 04:18
 
 - KVV als Verkehrsnetz hinzugefügt.
 - Setup Assistenten hinzugefügt.
