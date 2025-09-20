@@ -496,8 +496,8 @@
 - Anpassungen an App Icons
 - Design Anpassungen
 
-## Version 4.1.4
-**Veröffentlicht:** 19.03.2024 16:44
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -518,6 +518,8 @@
 ## Version 4.1.1
 **Veröffentlicht:** 10.03.2024 22:38
 
+- Neue Verkehrsnetze hinzugefügt: MVG (Märkischer Kreis), VMS, VMV, VRN
+- Allgemeine Verbesserungen
 
 ## Version 4.1
 **Veröffentlicht:** 08.03.2024 13:33
@@ -844,6 +846,7 @@
 ## Version 2.2.1
 **Veröffentlicht:** 11.08.2023 17:09
 
+- Allgemeine Verbesserungen
 
 ## Version 2.2
 **Veröffentlicht:** 09.08.2023 20:22
