@@ -25,8 +25,6 @@
 ## Version 6.1.4
 **Veröffentlicht:** 29.05.2025 00:36
 
-- Die Berechnung der Größe von lokalen Backups ist jetzt stabiler
-- Allgemeine Verbesserungen
 
 ## Version 6.1.3
 **Veröffentlicht:** 19.05.2025 15:18
@@ -86,6 +84,7 @@
 ## Version 6.0.9
 **Veröffentlicht:** 12.02.2025 03:24
 
+- Ein Fehler wurde behoben, der in manchen Situationen zum Einfrieren und Abstürzen der App führte.
 
 ## Version 6.0.8
 **Veröffentlicht:** 12.02.2025 01:08
@@ -793,8 +792,8 @@
 - Die Karte wurde überarbeitet und bietet jetzt eine verbesserte Navigation.
 - Allgemeine Verbesserungen
 
-## Version 2.2.9
-**Veröffentlicht:** 08.09.2023 14:39
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Lange Fusswege werden jetzt unter Verbindung markiert.
 - Allgemeine Verbesserungen
