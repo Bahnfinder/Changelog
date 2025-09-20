@@ -170,8 +170,8 @@
 - Neues Verkehrsnetz: NAH.SH
 - Über 60 weitere Neuerungen machen Bahnfinder noch besser und schneller
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.1.13
+**Veröffentlicht:** 21.01.2025 01:11
 
 - Die Auslastung wird jetzt verbessert dargestellt
 - Verbesserungen für das DB Verkehrsnetz
@@ -211,6 +211,7 @@
 ## Version 5.1.6
 **Veröffentlicht:** 16.12.2024 13:31
 
+- Die Linienfarben für die S5 (MVV) wurden hinzugefügt.
 
 ## Version 5.1.5
 **Veröffentlicht:** 10.12.2024 05:15
@@ -880,8 +881,8 @@
 - Neue Option, zum ausblenden des "Suchen" Button, wenn "Automatische Suche" aktiviert ist.
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 2.0.4
-**Veröffentlicht:** 24.07.2023 00:19
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Fehlerbehebungen
 
