@@ -429,6 +429,8 @@
 ## Version 4.1.15
 **Veröffentlicht:** 15.05.2024 22:58
 
+- Die Funktion "Haltestelle Automatisch ausfüllen" kann jetzt deaktiviert werden.
+- Allgemeine Verbesserungen
 
 ## Version 4.1.14
 **Veröffentlicht:** 12.05.2024 22:31
