@@ -22,8 +22,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 6.1.4
-**Veröffentlicht:** 29.05.2025 00:36
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Berechnung der Größe von lokalen Backups ist jetzt stabiler
 - Allgemeine Verbesserungen
@@ -134,8 +134,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6
+**Veröffentlicht:** 27.01.2025 01:01
 
 - Karten
 - • Karten für den Fahrtverlauf und Verbindungen wurden komplett überarbeitet
@@ -669,6 +669,9 @@
 ## Version 2.3.9
 **Veröffentlicht:** 22.10.2023 16:09
 
+- Die Darstellung des Fahrtfortschritts im Fahrtverlauf markiert jetzt die Haltestelle, an dem sich das Fahrzeug gerade befindet.
+- Eine neue Verbindungsoption „Minimale Umsteigezeit“ wurde hinzugefügt.
+- Allgemeine Verbesserungen
 
 ## Version 2.3.8
 **Veröffentlicht:** 20.10.2023 17:31
@@ -797,8 +800,8 @@
 - Lange Fusswege werden jetzt unter Verbindung markiert.
 - Allgemeine Verbesserungen
 
-## Version 2.2.8
-**Veröffentlicht:** 04.09.2023 16:00
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Start gefunden wurde.
 - Allgemeine Verbesserungen
@@ -986,8 +989,8 @@
 
 - Fehlerbehebungen und Stabilitätsverbesserungen
 
-## Version 1.3.4
-**Veröffentlicht:** 13.05.2023 10:27
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
@@ -1034,8 +1037,8 @@
 - Falls die Haltestelle, die beim Start der App gefunden wurde, durch eine andere ersetzt werden soll, können Ausnahmen erstellt werden.
 - Allgemeine Verbesserungen und Fehlerbehebungen wurden durchgeführt.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.1.3
+**Veröffentlicht:** 27.04.2023 03:25
 
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
