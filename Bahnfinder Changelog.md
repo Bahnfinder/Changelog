@@ -1,5 +1,5 @@
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.2.1
+**Veröffentlicht:** 08.09.2025 16:34
 
 - Das Naldo Verkehrsnetz funktioniert jetzt wieder wie erwartet.
 
@@ -333,6 +333,7 @@
 ## Version 4.3.1
 **Veröffentlicht:** 23.06.2024 01:00
 
+- Kleine Anpassungen bei der Einrichtung
 
 ## Version 4.3.0
 **Veröffentlicht:** 21.06.2024 08:52
@@ -799,8 +800,8 @@
 - Lange Fusswege werden jetzt unter Verbindung markiert.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.8
+**Veröffentlicht:** 04.09.2023 16:00
 
 - Start gefunden wurde.
 - Allgemeine Verbesserungen
@@ -808,6 +809,7 @@
 ## Version 2.2.7
 **Veröffentlicht:** 02.09.2023 08:49
 
+- Allgemeine Verbesserungen 
 
 ## Version 2.2.6
 **Veröffentlicht:** 01.09.2023 00:40
@@ -987,8 +989,8 @@
 
 - Fehlerbehebungen und Stabilitätsverbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.3.4
+**Veröffentlicht:** 13.05.2023 10:27
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
@@ -1007,7 +1009,6 @@
 ## Version 1.3.1
 **Veröffentlicht:** 11.05.2023 03:36
 
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.3.0
 **Veröffentlicht:** 10.05.2023 14:19
