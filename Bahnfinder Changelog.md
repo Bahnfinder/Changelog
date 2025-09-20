@@ -117,8 +117,8 @@
 - Zu lange Gleisnummern im Verbindungsdetail werden jetzt separat dargestellt, wenn der Platz nicht ausreicht
 - Allgemeine Verbesserungen
 
-## Version 6.0.3
-**Veröffentlicht:** 31.01.2025 03:41
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Verbesserte Darstellung von Bahnhofsnamen
 - Allgemeine Verbesserungen
@@ -369,7 +369,6 @@
 ## Version 4.2.4
 **Veröffentlicht:** 15.06.2024 18:32
 
-- Die Geschwindigkeit von iCloud Backups wurde erheblich verbessert.
 
 ## Version 4.2.3
 **Veröffentlicht:** 14.06.2024 12:07
@@ -772,6 +771,8 @@
 ## Version 2.2.13
 **Veröffentlicht:** 16.09.2023 02:03
 
+- Neue Tipps.
+- Allgemeine Verbesserungen
 
 ## Version 2.2.12
 **Veröffentlicht:** 15.09.2023 08:35
@@ -818,8 +819,6 @@
 ## Version 2.2.5
 **Veröffentlicht:** 31.08.2023 11:56
 
-- In der Suche werden jetzt 50 Haltestellen in der Nähe angezeigt.
-- Allgemeine Verbesserungen
 
 ## Version 2.2.4
 **Veröffentlicht:** 30.08.2023 12:04
@@ -879,8 +878,8 @@
 - Neue Option, zum ausblenden des "Suchen" Button, wenn "Automatische Suche" aktiviert ist.
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.0.4
+**Veröffentlicht:** 24.07.2023 00:19
 
 - Fehlerbehebungen
 
@@ -944,8 +943,8 @@
 - Die Zeit einer gesuchten Verbindung wird jetzt im Verlauf angezeigt.
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.5.3
+**Veröffentlicht:** 26.05.2023 04:25
 
 - Allgemeine Verbesserungen
 
@@ -1038,6 +1037,7 @@
 ## Version 1.1.3
 **Veröffentlicht:** 27.04.2023 03:25
 
+- Allgemeine Verbesserungen und Fehlerbehebungen.
 
 ## Version 1.1.2
 **Veröffentlicht:** 25.04.2023 04:22
@@ -1079,8 +1079,8 @@
 - Ein Fehler wurde behoben, durch den die App keine Inhalte mehr geladen hat, wenn sie eine gewisse Zeit im Hintergrund war. 
 - Der Fehler könnte bei einigen Nutzern dennoch auftreten, schließe die App dazu aus dem Multitasking Menü und öffne sie erneut. 
 
-## Version 1.0.8
-**Veröffentlicht:** 11.04.2023 02:45
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
