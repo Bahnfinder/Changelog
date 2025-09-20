@@ -216,7 +216,6 @@
 ## Version 5.1.5
 **Veröffentlicht:** 10.12.2024 05:15
 
-- Neues App Icon: „Weihnachten 2024“
 
 ## Version 5.1.4
 **Veröffentlicht:** 27.11.2024 00:19
@@ -374,11 +373,6 @@
 ## Version 4.2.3
 **Veröffentlicht:** 14.06.2024 12:07
 
-- Nutzer werden ab jetzt darauf hingewiesen, wenn sie sich in einer nicht unterstützen Region befinden.
-- Die nächste Haltestelle wird jetzt auch in der Suche markiert.
-- Das Menü bei Abfahrten wurde überarbeitet.
-- Ein Fehler wurde behoben, der die App beim Laden einiger Verbindungen zum Absturz brachte.
-- Allgemeine Verbesserungen
 
 ## Version 4.2.2
 **Veröffentlicht:** 13.06.2024 19:31
@@ -437,8 +431,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 4.1.13
-**Veröffentlicht:** 12.05.2024 15:34
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -581,6 +575,7 @@
 ## Version 3.1.1
 **Veröffentlicht:** 02.02.2024 12:41
 
+- Allgemeine Verbesserungen
 
 ## Version 3.1
 **Veröffentlicht:** 01.02.2024 16:55
@@ -690,8 +685,6 @@
 ## Version 2.3.5
 **Veröffentlicht:** 18.10.2023 17:03
 
-- Die Darstellung des Standortpfeils wurde verbessert.
-- Allgemeine Verbesserungen
 
 ## Version 2.3.4
 **Veröffentlicht:** 17.10.2023 12:02
@@ -822,8 +815,8 @@
 - In der Suche werden jetzt 50 Haltestellen in der Nähe angezeigt.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.4
+**Veröffentlicht:** 30.08.2023 12:04
 
 - Die Anzeige der Umsteigezeit ist nun in den Verbindungsdetails sichtbar.
 - Das Layout der Abfahrtszeiten wurde optimiert, um eine höhere Anzahl von Abfahrten gleichzeitig anzeigen zu können.
@@ -870,8 +863,8 @@
 
 - Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.1
+**Veröffentlicht:** 27.07.2023 15:20
 
 - Neues Design in "Verbindung".
 - Verkehrsnetz spezifische Einstellungen hinzugefügt.
@@ -893,8 +886,8 @@
 - Designverbesserungen
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.0.2
+**Veröffentlicht:** 20.07.2023 03:14
 
 - Konfigurationen von ausgeblendeten Linien können ab sofort gespeichert werden.
 - Favoriten Symbole werden in Abfahrten gezeigt.
