@@ -809,6 +809,7 @@
 ## Version 2.2.7
 **Veröffentlicht:** 02.09.2023 08:49
 
+- Allgemeine Verbesserungen 
 
 ## Version 2.2.6
 **Veröffentlicht:** 01.09.2023 00:40
@@ -1049,6 +1050,7 @@
 ## Version 1.1.1
 **Veröffentlicht:** 21.04.2023 20:55
 
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.1.0
 **Veröffentlicht:** 21.04.2023 06:06
@@ -1066,7 +1068,6 @@
 ## Version 1.0.11
 **Veröffentlicht:** 17.04.2023 01:22
 
-- Fehlerbehebungen
 
 ## Version 1.0.10
 **Veröffentlicht:** 14.04.2023 21:13
