@@ -3,8 +3,8 @@
 
 - Das Naldo Verkehrsnetz funktioniert jetzt wieder wie erwartet.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.2
+**Veröffentlicht:** 31.07.2025 22:56
 
 - Inkognito: Im Inkognito Modus kannst du Verbindungen suchen, ohne dass sie im Verlauf sichtbar werden. 
 - Rückreise finden: Finde direkt eine Rückreise einer gefahrenen Verbindung aus deinem Verlauf.
@@ -937,6 +937,8 @@
 ## Version 1.5.5
 **Veröffentlicht:** 05.06.2023 15:42
 
+- Sekundengenaue Zeiten: Abfahrten und Verbindungen werden jetzt in Sekunden angezeigt, wenn die Wartezeit unter 1 Minute ist.
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.5.4
 **Veröffentlicht:** 01.06.2023 03:49
