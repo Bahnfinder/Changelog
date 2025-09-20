@@ -227,7 +227,6 @@
 ## Version 5.1.3
 **Veröffentlicht:** 27.09.2024 17:57
 
-- Ein Darstellungsfehler wurde behoben
 
 ## Version 5.1.2
 **Veröffentlicht:** 22.09.2024 15:19
