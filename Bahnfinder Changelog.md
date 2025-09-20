@@ -108,6 +108,8 @@
 ## Version 6.0.5
 **Veröffentlicht:** 05.02.2025 01:29
 
+- Das Setup wurde verbessert
+- Allgemeine Verbesserungen
 
 ## Version 6.0.4
 **Veröffentlicht:** 01.02.2025 23:31
@@ -216,8 +218,8 @@
 
 - Neues App Icon: „Weihnachten 2024“
 
-## Version 5.1.4
-**Veröffentlicht:** 27.11.2024 00:19
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Das VMV Verkehrsnetz funktioniert jetzt wieder wie erwartet
 - Allgemeine Verbesserungen
@@ -684,7 +686,6 @@
 ## Version 2.3.6
 **Veröffentlicht:** 18.10.2023 23:24
 
-- Fehlerbehebungen
 
 ## Version 2.3.5
 **Veröffentlicht:** 18.10.2023 17:03
@@ -1004,8 +1005,8 @@
 
 - Stabilität erheblich verbessert
 
-## Version 1.3.1
-**Veröffentlicht:** 11.05.2023 03:36
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
@@ -1063,8 +1064,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.0.11
-**Veröffentlicht:** 17.04.2023 01:22
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Fehlerbehebungen
 
