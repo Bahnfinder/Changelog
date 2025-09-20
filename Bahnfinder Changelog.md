@@ -496,8 +496,8 @@
 - Anpassungen an App Icons
 - Design Anpassungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.4
+**Veröffentlicht:** 19.03.2024 16:44
 
 - Allgemeine Verbesserungen
 
@@ -840,8 +840,6 @@
 ## Version 2.2.2
 **Veröffentlicht:** 14.08.2023 09:53
 
-- Neues Menü zur Schnellauswahl bei der Haltestellensuche.
-- Allgemeine Verbesserungen
 
 ## Version 2.2.1
 **Veröffentlicht:** 11.08.2023 17:09
