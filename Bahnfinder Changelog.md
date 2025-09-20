@@ -206,6 +206,7 @@
 ## Version 5.1.7
 **Veröffentlicht:** 19.12.2024 03:54
 
+- Ein Fehler wurde behoben, der dazu führte, dass die App beim Ansehen bestimmter Verbindungen abstürzte. 
 
 ## Version 5.1.6
 **Veröffentlicht:** 16.12.2024 13:31
@@ -410,8 +411,6 @@
 ## Version 4.1.18
 **Veröffentlicht:** 18.05.2024 21:41
 
-- Neues App Icon „Weiss Inline“
-- Darstellungsanpassungen für kleinere Geräte
 
 ## Version 4.1.17
 **Veröffentlicht:** 16.05.2024 15:26
@@ -585,11 +584,6 @@
 ## Version 3.1
 **Veröffentlicht:** 01.02.2024 16:55
 
-- Du kannst ab sofort spenden, um die weitere Entwicklung von Bahnfinder zu unterstützen :)
-- Neue Favoriten Symbole hinzugefügt
-- Neues Design für die iCloud Einstellungen und info
-- Verbesserte Darstellung von Linienwegen auf der Karte
-- Allgemeine Verbesserungen
 
 ## Version 3.0.2
 **Veröffentlicht:** 25.01.2024 15:35
@@ -783,9 +777,6 @@
 ## Version 2.2.11
 **Veröffentlicht:** 14.09.2023 01:16
 
-- iOS 17 Kompatibilität
-- 3D Optionen wurden zur Karte hinzugefügt.
-- Allgemeine Verbesserungen
 
 ## Version 2.2.10
 **Veröffentlicht:** 11.09.2023 11:05
@@ -885,8 +876,8 @@
 
 - Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.0.3
+**Veröffentlicht:** 21.07.2023 01:29
 
 - VVO hinzugefügt
 - Anzeige der Favoriten Symbole verbessert
@@ -945,8 +936,8 @@
 - Die Zeit einer gesuchten Verbindung wird jetzt im Verlauf angezeigt.
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.5.3
-**Veröffentlicht:** 26.05.2023 04:25
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -1029,8 +1020,8 @@
 
 - Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.2.0
+**Veröffentlicht:** 06.05.2023 00:35
 
 - Ab sofort kann die Starthaltestelle ausgetauscht werden.
 - Falls die Haltestelle, die beim Start der App gefunden wurde, durch eine andere ersetzt werden soll, können Ausnahmen erstellt werden.
