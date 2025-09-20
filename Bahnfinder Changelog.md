@@ -129,8 +129,8 @@
 - Die Verkehrsnetzsuche bei der Einrichtung kann jetzt abgebrochen werden.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.0.1
+**Veröffentlicht:** 28.01.2025 02:13
 
 - Allgemeine Verbesserungen
 
@@ -179,7 +179,6 @@
 ## Version 5.1.12
 **Veröffentlicht:** 18.01.2025 05:03
 
-- Verbesserungen für das DB Verkehrsnetz
 
 ## Version 5.1.11
 **Veröffentlicht:** 15.01.2025 00:41
@@ -224,8 +223,8 @@
 - Das VMV Verkehrsnetz funktioniert jetzt wieder wie erwartet
 - Allgemeine Verbesserungen
 
-## Version 5.1.3
-**Veröffentlicht:** 27.09.2024 17:57
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Ein Darstellungsfehler wurde behoben
 
@@ -369,6 +368,7 @@
 ## Version 4.2.4
 **Veröffentlicht:** 15.06.2024 18:32
 
+- Die Geschwindigkeit von iCloud Backups wurde erheblich verbessert.
 
 ## Version 4.2.3
 **Veröffentlicht:** 14.06.2024 12:07
@@ -449,6 +449,10 @@
 ## Version 4.1.11
 **Veröffentlicht:** 08.05.2024 16:43
 
+- Das Liniensymbol für die Tram 21 im MVV wurde aktualisiert.
+- Einige Verkehrsnetzspezifische Probleme wurden behoben.
+- Die Anzeige von Entfernungen unter Favoriten wurde behoben.
+- Allgemeine Verbesserungen
 
 ## Version 4.1.10
 **Veröffentlicht:** 07.05.2024 14:53
