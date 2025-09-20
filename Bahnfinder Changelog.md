@@ -76,6 +76,7 @@
 ## Version 6.0.11
 **Veröffentlicht:** 22.02.2025 09:46
 
+- Verbesserungen für VoiceOver
 
 ## Version 6.0.10
 **Veröffentlicht:** 16.02.2025 17:24
@@ -363,7 +364,6 @@
 ## Version 4.2.5
 **Veröffentlicht:** 17.06.2024 10:46
 
-- Hauptbahnhöfe werden jetzt verbessert angezeigt.
 
 ## Version 4.2.4
 **Veröffentlicht:** 15.06.2024 18:32
@@ -498,6 +498,7 @@
 ## Version 4.1.4
 **Veröffentlicht:** 19.03.2024 16:44
 
+- Allgemeine Verbesserungen
 
 ## Version 4.1.3
 **Veröffentlicht:** 18.03.2024 14:01
@@ -646,8 +647,6 @@
 ## Version 2.3.12
 **Veröffentlicht:** 31.10.2023 20:40
 
-- Ausgefallene Fahrzeuge werden jetzt bei Verbindungen angezeigt.
-- Allgemeine Verbesserungen 
 
 ## Version 2.3.11
 **Veröffentlicht:** 30.10.2023 19:06
@@ -1012,11 +1011,6 @@
 ## Version 1.3.0
 **Veröffentlicht:** 10.05.2023 14:19
 
-- Zwischenstopps hinzugefügt
-- Verbindungen: Abfahrt oder Ankunftszeit kann ausgewählt werden
-- Suche verbessert
-- Verbesserung für Ausfälle
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.2.2
 **Veröffentlicht:** 09.05.2023 13:10
@@ -1031,6 +1025,9 @@
 ## Version 1.2.0
 **Veröffentlicht:** 06.05.2023 00:35
 
+- Ab sofort kann die Starthaltestelle ausgetauscht werden.
+- Falls die Haltestelle, die beim Start der App gefunden wurde, durch eine andere ersetzt werden soll, können Ausnahmen erstellt werden.
+- Allgemeine Verbesserungen und Fehlerbehebungen wurden durchgeführt.
 
 ## Version 1.1.3
 **Veröffentlicht:** 27.04.2023 03:25
@@ -1090,6 +1087,8 @@
 ## Version 1.0.6
 **Veröffentlicht:** 08.04.2023 02:04
 
+- Ein kritischer Fehler, der die App an bestimmten Standorten zum Absturz brachte, wurde behoben.
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.0.5
 **Veröffentlicht:** 06.04.2023 04:16
