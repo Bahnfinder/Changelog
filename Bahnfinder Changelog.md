@@ -213,8 +213,8 @@
 
 - Die Linienfarben für die S5 (MVV) wurden hinzugefügt.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.1.5
+**Veröffentlicht:** 10.12.2024 05:15
 
 - Neues App Icon: „Weihnachten 2024“
 
@@ -748,7 +748,6 @@
 ## Version 2.2.17
 **Veröffentlicht:** 20.09.2023 17:52
 
-- Allgemeine Verbesserungen
 
 ## Version 2.2.16
 **Veröffentlicht:** 20.09.2023 02:35
@@ -894,8 +893,8 @@
 - Designverbesserungen
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.0.2
+**Veröffentlicht:** 20.07.2023 03:14
 
 - Konfigurationen von ausgeblendeten Linien können ab sofort gespeichert werden.
 - Favoriten Symbole werden in Abfahrten gezeigt.
@@ -943,6 +942,8 @@
 ## Version 1.5.4
 **Veröffentlicht:** 01.06.2023 03:49
 
+- Die Zeit einer gesuchten Verbindung wird jetzt im Verlauf angezeigt.
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.5.3
 **Veröffentlicht:** 26.05.2023 04:25
@@ -1090,8 +1091,8 @@
 
 - Kritische Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.0.6
+**Veröffentlicht:** 08.04.2023 02:04
 
 - Ein kritischer Fehler, der die App an bestimmten Standorten zum Absturz brachte, wurde behoben.
 - Allgemeine Verbesserungen und Fehlerbehebungen
