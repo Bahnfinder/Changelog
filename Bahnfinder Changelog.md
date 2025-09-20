@@ -3,8 +3,8 @@
 
 - Das Naldo Verkehrsnetz funktioniert jetzt wieder wie erwartet.
 
-## Version 6.2
-**Veröffentlicht:** 31.07.2025 22:56
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Inkognito: Im Inkognito Modus kannst du Verbindungen suchen, ohne dass sie im Verlauf sichtbar werden. 
 - Rückreise finden: Finde direkt eine Rückreise einer gefahrenen Verbindung aus deinem Verlauf.
@@ -56,6 +56,17 @@
 ## Version 6.1
 **Veröffentlicht:** 26.04.2025 00:45
 
+- Liniennummern und andere Objekte zeigen jetzt realistische Reflexionen, die sich an die Neigung des Geräts anpassen
+- Ausgefallene Haltestellen werden jetzt auf den Karten angezeigt
+- Favorisierte Haltestellen werden jetzt mit dem entsprechenden Symbol auf den Karten angezeigt
+- Die Verbindungsoptionen werden jetzt nicht mehr in einem separaten Fenster geöffnet 
+- Ein neuer Splash Screen für „Haltestellen ankündigen“ wurde hinzugefügt
+- Splash Screens wurden überarbeitet
+- Mehr Informationen über den Entwickler wurden hinzugefügt 
+- Alle Buttons in der App haben jetzt ein runderes Design 
+- Die Optionen für „Automatisch bereinigen“ bei lokalen Backups wurden visuell überarbeitet
+- Designverbesserungen 
+- Allgemeine Verbesserungen
 
 ## Version 6.0.12
 **Veröffentlicht:** 02.03.2025 02:36
@@ -795,8 +806,8 @@
 - Start gefunden wurde.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.7
+**Veröffentlicht:** 02.09.2023 08:49
 
 - Allgemeine Verbesserungen 
 
@@ -926,8 +937,6 @@
 ## Version 1.5.5
 **Veröffentlicht:** 05.06.2023 15:42
 
-- Sekundengenaue Zeiten: Abfahrten und Verbindungen werden jetzt in Sekunden angezeigt, wenn die Wartezeit unter 1 Minute ist.
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.5.4
 **Veröffentlicht:** 01.06.2023 03:49
