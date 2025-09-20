@@ -411,8 +411,6 @@
 ## Version 4.1.18
 **Veröffentlicht:** 18.05.2024 21:41
 
-- Neues App Icon „Weiss Inline“
-- Darstellungsanpassungen für kleinere Geräte
 
 ## Version 4.1.17
 **Veröffentlicht:** 16.05.2024 15:26
@@ -473,8 +471,8 @@
 - Backups und weitere Dateien können jetzt über die „Dateien“ App ausgetauscht werden
 - Layout Anpassungen für kleinere Geräte
 
-## Version 4.1.7
-**Veröffentlicht:** 22.03.2024 01:08
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neue Option: Erweiterte Analyse
 - Daten wie beispielsweise Lokale Backups können jetzt über iTunes ausgetauscht werden.
