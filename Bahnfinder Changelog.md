@@ -401,8 +401,8 @@
 - Ein Fehler wurde behoben, der dazu führte, dass die Liniensymbole nach einer Wiederherstellung nicht angezeigt wurden.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.19
+**Veröffentlicht:** 20.05.2024 19:02
 
 - Das App Icon „Weiss Inline“ heisst jetzt „Modern Weiß“
 - Fehlerbehebungen
@@ -943,6 +943,8 @@
 ## Version 1.5.4
 **Veröffentlicht:** 01.06.2023 03:49
 
+- Die Zeit einer gesuchten Verbindung wird jetzt im Verlauf angezeigt.
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.5.3
 **Veröffentlicht:** 26.05.2023 04:25
@@ -970,8 +972,8 @@
 - Ein Fehler bei der Standortsuche wurde behoben
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.4.0
-**Veröffentlicht:** 17.05.2023 02:42
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Automatische Suche bei Verbindungen hinzugefügt
 - Stabilitätsverbesserungen
@@ -1071,6 +1073,8 @@
 ## Version 1.0.10
 **Veröffentlicht:** 14.04.2023 21:13
 
+- Suche verbessert
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.0.9
 **Veröffentlicht:** 11.04.2023 23:05
