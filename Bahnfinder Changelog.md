@@ -53,8 +53,8 @@
 - Ein Fehler wurde behoben, der in seltenen Fällen zu Abstürzen beim verwenden von „Lokale Backups“ geführt hat
 - Allgemeine Verbesserungen 
 
-## Version 6.1
-**Veröffentlicht:** 26.04.2025 00:45
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Liniennummern und andere Objekte zeigen jetzt realistische Reflexionen, die sich an die Neigung des Geräts anpassen
 - Ausgefallene Haltestellen werden jetzt auf den Karten angezeigt
@@ -325,8 +325,8 @@
 - Push Benachrichtigungen können jetzt während der Einrichtung aktiviert werden.
 - Allgemeine Verbesserungen 
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.3.2
+**Veröffentlicht:** 23.06.2024 16:44
 
 - Entfallene Fahrzeuge werden jetzt einheitlich dargestellt.
 
@@ -356,6 +356,10 @@
 ## Version 4.2.6
 **Veröffentlicht:** 18.06.2024 02:47
 
+- Anpassungen und Fehlerbehebungen für iPad
+- Anpassungen und Fehlerbehebungen für Mac
+- Die Funktion „Legacy iCloud Synchronisierung“ wurde entfernt.
+- Allgemeine Verbesserungen
 
 ## Version 4.2.5
 **Veröffentlicht:** 17.06.2024 10:46
@@ -630,8 +634,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.14
+**Veröffentlicht:** 08.12.2023 03:16
 
 - Bahnfinder wünscht euch eine schöne Weihnachtszeit!
 - App Icon hinzugefügt.
@@ -655,8 +659,8 @@
 - Option: Energiesparende Standortermittlung
 - Allgemeine Verbesserungen 
 
-## Version 2.3.10
-**Veröffentlicht:** 28.10.2023 19:18
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Darstellung des Standortpfeils wurde verbessert.
 - Die Haltestellensymbol UI wurde verbessert.
@@ -1083,9 +1087,10 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.0.7
+**Veröffentlicht:** 10.04.2023 03:17
 
+- Kritische Fehlerbehebungen
 
 ## Version 1.0.6
 **Veröffentlicht:** 08.04.2023 02:04
