@@ -470,8 +470,6 @@
 ## Version 4.1.8
 **Veröffentlicht:** 23.03.2024 00:08
 
-- Backups und weitere Dateien können jetzt über die „Dateien“ App ausgetauscht werden
-- Layout Anpassungen für kleinere Geräte
 
 ## Version 4.1.7
 **Veröffentlicht:** 22.03.2024 01:08
