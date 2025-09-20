@@ -364,6 +364,7 @@
 ## Version 4.2.5
 **Veröffentlicht:** 17.06.2024 10:46
 
+- Hauptbahnhöfe werden jetzt verbessert angezeigt.
 
 ## Version 4.2.4
 **Veröffentlicht:** 15.06.2024 18:32
@@ -631,7 +632,6 @@
 ## Version 2.3.15
 **Veröffentlicht:** 13.12.2023 23:32
 
-- Allgemeine Verbesserungen
 
 ## Version 2.3.14
 **Veröffentlicht:** 08.12.2023 03:16
@@ -639,8 +639,8 @@
 - Bahnfinder wünscht euch eine schöne Weihnachtszeit!
 - App Icon hinzugefügt.
 
-## Version 2.3.13
-**Veröffentlicht:** 03.11.2023 16:35
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Fehlerbehebungen
 
@@ -687,8 +687,8 @@
 
 - Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.5
+**Veröffentlicht:** 18.10.2023 17:03
 
 - Die Darstellung des Standortpfeils wurde verbessert.
 - Allgemeine Verbesserungen
