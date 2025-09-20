@@ -25,6 +25,8 @@
 ## Version 6.1.4
 **Veröffentlicht:** 29.05.2025 00:36
 
+- Die Berechnung der Größe von lokalen Backups ist jetzt stabiler
+- Allgemeine Verbesserungen
 
 ## Version 6.1.3
 **Veröffentlicht:** 19.05.2025 15:18
@@ -792,8 +794,8 @@
 - Die Karte wurde überarbeitet und bietet jetzt eine verbesserte Navigation.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.9
+**Veröffentlicht:** 08.09.2023 14:39
 
 - Lange Fusswege werden jetzt unter Verbindung markiert.
 - Allgemeine Verbesserungen
