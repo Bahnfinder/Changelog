@@ -173,6 +173,8 @@
 ## Version 5.1.13
 **Veröffentlicht:** 21.01.2025 01:11
 
+- Die Auslastung wird jetzt verbessert dargestellt
+- Verbesserungen für das DB Verkehrsnetz
 
 ## Version 5.1.12
 **Veröffentlicht:** 18.01.2025 05:03
@@ -362,7 +364,6 @@
 ## Version 4.2.5
 **Veröffentlicht:** 17.06.2024 10:46
 
-- Hauptbahnhöfe werden jetzt verbessert angezeigt.
 
 ## Version 4.2.4
 **Veröffentlicht:** 15.06.2024 18:32
@@ -686,8 +687,8 @@
 
 - Fehlerbehebungen
 
-## Version 2.3.5
-**Veröffentlicht:** 18.10.2023 17:03
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Darstellung des Standortpfeils wurde verbessert.
 - Allgemeine Verbesserungen
