@@ -325,8 +325,8 @@
 - Push Benachrichtigungen können jetzt während der Einrichtung aktiviert werden.
 - Allgemeine Verbesserungen 
 
-## Version 4.3.2
-**Veröffentlicht:** 23.06.2024 16:44
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Entfallene Fahrzeuge werden jetzt einheitlich dargestellt.
 
@@ -356,10 +356,6 @@
 ## Version 4.2.6
 **Veröffentlicht:** 18.06.2024 02:47
 
-- Anpassungen und Fehlerbehebungen für iPad
-- Anpassungen und Fehlerbehebungen für Mac
-- Die Funktion „Legacy iCloud Synchronisierung“ wurde entfernt.
-- Allgemeine Verbesserungen
 
 ## Version 4.2.5
 **Veröffentlicht:** 17.06.2024 10:46
@@ -369,9 +365,10 @@
 ## Version 4.2.4
 **Veröffentlicht:** 15.06.2024 18:32
 
+- Die Geschwindigkeit von iCloud Backups wurde erheblich verbessert.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.2.3
+**Veröffentlicht:** 14.06.2024 12:07
 
 - Nutzer werden ab jetzt darauf hingewiesen, wenn sie sich in einer nicht unterstützen Region befinden.
 - Die nächste Haltestelle wird jetzt auch in der Suche markiert.
@@ -461,8 +458,8 @@
 - Der „Bahnfinder“ Text unter Info wurde verschönert.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.9
+**Geplant:** 01.04.2024 00:00
 
 - Am 1. April feiert Bahnfinder seinen 1. Geburtstag. Feiere diesen besonderen Tag mit einem exklusiven App Icon!
 
@@ -633,8 +630,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 2.3.14
-**Veröffentlicht:** 08.12.2023 03:16
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Bahnfinder wünscht euch eine schöne Weihnachtszeit!
 - App Icon hinzugefügt.
@@ -714,6 +711,11 @@
 ## Version 2.3.1
 **Veröffentlicht:** 12.10.2023 12:23
 
+- Im Verbindungsdetail wird jetzt die Ankunft in Minuten gezeigt.
+- Verbesserte Darstellung von Zeiten.
+- Ein Fehler wurde behoben, der dazu geführt hat, dass unter bestimmten Umständen Text in Abfahrten abgeschnitten wurde.
+- Fehlerbehebungen
+- Allgemeine Verbesserungen
 
 ## Version 2.3.0
 **Veröffentlicht:** 11.10.2023 11:43
@@ -1081,10 +1083,9 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.0.7
-**Veröffentlicht:** 10.04.2023 03:17
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Kritische Fehlerbehebungen
 
 ## Version 1.0.6
 **Veröffentlicht:** 08.04.2023 02:04
