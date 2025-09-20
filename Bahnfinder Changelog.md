@@ -181,8 +181,8 @@
 
 - Verbesserungen für das DB Verkehrsnetz
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.1.11
+**Veröffentlicht:** 15.01.2025 00:41
 
 - Dieses Update enthält API Updates für das Deutsche Bahn Verkehrsnetz, welches jetzt wieder wie erwartet funktioniert!
 
@@ -476,6 +476,10 @@
 ## Version 4.1.7
 **Veröffentlicht:** 22.03.2024 01:08
 
+- Neue Option: Erweiterte Analyse
+- Daten wie beispielsweise Lokale Backups können jetzt über iTunes ausgetauscht werden.
+- Neues App Icon: „Bahnfindi“
+- iCloud Synchronisierung wurde optimiert 
 
 ## Version 4.1.6
 **Veröffentlicht:** 21.03.2024 13:16
@@ -579,8 +583,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 3.1
-**Veröffentlicht:** 01.02.2024 16:55
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Du kannst ab sofort spenden, um die weitere Entwicklung von Bahnfinder zu unterstützen :)
 - Neue Favoriten Symbole hinzugefügt
@@ -677,7 +681,6 @@
 ## Version 2.3.7
 **Veröffentlicht:** 19.10.2023 01:21
 
-- Allgemeine Verbesserungen
 
 ## Version 2.3.6
 **Veröffentlicht:** 18.10.2023 23:24
