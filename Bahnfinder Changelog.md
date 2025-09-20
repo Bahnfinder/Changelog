@@ -540,8 +540,8 @@
 - Neue Designoptionen für den Suchen Button in Verbindung
 - Allgemeine Verbesserungen
 
-## Version 4.0
-**Veröffentlicht:** 26.02.2024 15:09
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Bahnfinder 4 kommt mit spannenden Neuerungen, die deinen Alltag noch besser und einfacher machen. Zu den größten Neuerungen gehören:
 - Erinnerungen: Lasse dich rechtzeitig an Abfahrten erinnern.
@@ -1011,8 +1011,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.3.0
-**Veröffentlicht:** 10.05.2023 14:19
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Zwischenstopps hinzugefügt
 - Verbindungen: Abfahrt oder Ankunftszeit kann ausgewählt werden
@@ -1068,6 +1068,7 @@
 ## Version 1.0.11
 **Veröffentlicht:** 17.04.2023 01:22
 
+- Fehlerbehebungen
 
 ## Version 1.0.10
 **Veröffentlicht:** 14.04.2023 21:13
