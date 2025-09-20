@@ -238,8 +238,6 @@
 ## Version 5.1.1
 **Veröffentlicht:** 21.09.2024 07:10
 
-- Ein Fehler wurde behoben, der dazu führte, dass „Haltestellen ankündigen“ in einigen Fällen im Hintergrund gestoppt wurde.
-- Allgemeine Verbesserungen
 
 ## Version 5.1
 **Veröffentlicht:** 20.09.2024 01:55
@@ -296,8 +294,8 @@
 
 - Fehlerbehebungen
 
-## Version 4.4.3
-**Veröffentlicht:** 06.07.2024 20:33
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Ein Fehler, der zum Absturz der App beim Aktualisieren des Fahrtverlaufs unter bestimmten Bedingungen führte, wurde behoben.
 
@@ -353,8 +351,8 @@
 - Verbesserte Anzeige von Haltestellennamen auf der Verbindungskarte.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.2.6
+**Veröffentlicht:** 18.06.2024 02:47
 
 - Anpassungen und Fehlerbehebungen für iPad
 - Anpassungen und Fehlerbehebungen für Mac
@@ -504,6 +502,10 @@
 ## Version 4.1.3
 **Veröffentlicht:** 18.03.2024 14:01
 
+- Erweiterte Diagnosedaten können jetzt optional aktiviert werden.
+- Lokale Backups können jetzt automatisch gelöscht werden.
+- Die Darstellung von lokalen Backups wurde verbessert.
+- Allgemeine Verbesserungen
 
 ## Version 4.1.2
 **Veröffentlicht:** 15.03.2024 12:35
@@ -847,6 +849,11 @@
 ## Version 2.2
 **Veröffentlicht:** 09.08.2023 20:22
 
+- Dieses Update enthält interne Optimierungen, die Bahnfinder noch schneller und stabiler machen.
+- Neues, optionales Layout für eine verbesserte einhändige Bedienung. (Vorerst nur bei Abfahrten)
+- Ausgefallene Haltestellen werden jetzt unter Verbindungen angezeigt.
+- Neue Informationen bei „Linieninfos“: Längste und kürzeste Distanz zwischen zwei Haltestellen.
+- Allgemeine Verbesserungen 
 
 ## Version 2.1.2
 **Veröffentlicht:** 01.08.2023 09:16
@@ -885,8 +892,8 @@
 - Designverbesserungen
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 2.0.2
-**Veröffentlicht:** 20.07.2023 03:14
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Konfigurationen von ausgeblendeten Linien können ab sofort gespeichert werden.
 - Favoriten Symbole werden in Abfahrten gezeigt.
