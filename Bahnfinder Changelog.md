@@ -28,8 +28,8 @@
 - Die Berechnung der Größe von lokalen Backups ist jetzt stabiler
 - Allgemeine Verbesserungen
 
-## Version 6.1.3
-**Veröffentlicht:** 19.05.2025 15:18
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Anzahl von Backups wird jetzt angezeigt
 - Die Backup Einstellungen laden jetzt deutlich schneller, selbst bei vielen Backups 
@@ -83,8 +83,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.0.9
+**Veröffentlicht:** 12.02.2025 03:24
 
 - Ein Fehler wurde behoben, der in manchen Situationen zum Einfrieren und Abstürzen der App führte.
 
@@ -322,6 +322,8 @@
 ## Version 4.3.3
 **Veröffentlicht:** 24.06.2024 21:40
 
+- Push Benachrichtigungen können jetzt während der Einrichtung aktiviert werden.
+- Allgemeine Verbesserungen 
 
 ## Version 4.3.2
 **Veröffentlicht:** 23.06.2024 16:44
@@ -392,6 +394,12 @@
 ## Version 4.2.0
 **Veröffentlicht:** 10.06.2024 11:36
 
+- „Synchronisieren“ wurde in „Backups“ umbenannt. Es ist jetzt möglich, unbegrenzt viele verschiedene iCloud Backups zu erstellen und zu verwalten. Nutzer können jetzt ihre Backups mit einer komplett neuen Oberfläche verwalten und wiederherstellen. 
+- Auf der Fahrtverlauf Karte werden jetzt Abfahrtszeiten angezeigt.
+- Neue Option, um „Haltestellen vorlesen“ automatisch zu beenden, wenn Kopfhörer getrennt wurden.
+- Die Einrichtung wurde verbessert
+- Ein Fehler wurde behoben, der dazu führte, dass die Liniensymbole nach einer Wiederherstellung nicht angezeigt wurden.
+- Allgemeine Verbesserungen
 
 ## Version 4.1.19
 **Veröffentlicht:** 20.05.2024 19:02
@@ -673,7 +681,6 @@
 ## Version 2.3.7
 **Veröffentlicht:** 19.10.2023 01:21
 
-- Allgemeine Verbesserungen
 
 ## Version 2.3.6
 **Veröffentlicht:** 18.10.2023 23:24
@@ -840,8 +847,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2
+**Veröffentlicht:** 09.08.2023 20:22
 
 - Dieses Update enthält interne Optimierungen, die Bahnfinder noch schneller und stabiler machen.
 - Neues, optionales Layout für eine verbesserte einhändige Bedienung. (Vorerst nur bei Abfahrten)
@@ -1034,13 +1041,13 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version 1.1.2
-**Veröffentlicht:** 25.04.2023 04:22
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.1.1
+**Veröffentlicht:** 21.04.2023 20:55
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
@@ -1096,8 +1103,8 @@
 - Anschlüsse können ab sofort von einer Verbindung aus durch tippen auf den Haltestellen Namen abgerufen werden.
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version 1.0.4
-**Veröffentlicht:** 05.04.2023 04:18
+## Version null
+**Veröffentlicht:** – No release date available
 
 - KVV als Verkehrsnetz hinzugefügt.
 - Setup Assistenten hinzugefügt.
