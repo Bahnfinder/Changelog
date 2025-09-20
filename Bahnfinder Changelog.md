@@ -599,8 +599,8 @@
 - Neue Option: „Verbindungsdetail Live aktualisieren“
 - Allgemeine Verbesserungen
 
-## Version 3.0.1
-**Veröffentlicht:** 18.01.2024 14:58
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -669,9 +669,6 @@
 ## Version 2.3.9
 **Veröffentlicht:** 22.10.2023 16:09
 
-- Die Darstellung des Fahrtfortschritts im Fahrtverlauf markiert jetzt die Haltestelle, an dem sich das Fahrzeug gerade befindet.
-- Eine neue Verbindungsoption „Minimale Umsteigezeit“ wurde hinzugefügt.
-- Allgemeine Verbesserungen
 
 ## Version 2.3.8
 **Veröffentlicht:** 20.10.2023 17:31
@@ -681,7 +678,6 @@
 ## Version 2.3.7
 **Veröffentlicht:** 19.10.2023 01:21
 
-- Allgemeine Verbesserungen
 
 ## Version 2.3.6
 **Veröffentlicht:** 18.10.2023 23:24
@@ -817,8 +813,8 @@
 - Kleine Designänderungen
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.5
+**Veröffentlicht:** 31.08.2023 11:56
 
 - In der Suche werden jetzt 50 Haltestellen in der Nähe angezeigt.
 - Allgemeine Verbesserungen
@@ -1045,6 +1041,7 @@
 ## Version 1.1.2
 **Veröffentlicht:** 25.04.2023 04:22
 
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.1.1
 **Veröffentlicht:** 21.04.2023 20:55
