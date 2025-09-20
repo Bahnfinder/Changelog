@@ -1,7 +1,6 @@
 ## Version 6.2.1
 **Veröffentlicht:** 08.09.2025 16:34
 
-- Das Naldo Verkehrsnetz funktioniert jetzt wieder wie erwartet.
 
 ## Version 6.2
 **Veröffentlicht:** 31.07.2025 22:56
@@ -325,14 +324,15 @@
 - Push Benachrichtigungen können jetzt während der Einrichtung aktiviert werden.
 - Allgemeine Verbesserungen 
 
-## Version 4.3.2
-**Veröffentlicht:** 23.06.2024 16:44
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Entfallene Fahrzeuge werden jetzt einheitlich dargestellt.
 
 ## Version 4.3.1
 **Veröffentlicht:** 23.06.2024 01:00
 
+- Kleine Anpassungen bei der Einrichtung
 
 ## Version 4.3.0
 **Veröffentlicht:** 21.06.2024 08:52
@@ -434,6 +434,7 @@
 ## Version 4.1.14
 **Veröffentlicht:** 12.05.2024 22:31
 
+- Allgemeine Verbesserungen
 
 ## Version 4.1.13
 **Veröffentlicht:** 12.05.2024 15:34
@@ -541,6 +542,22 @@
 ## Version 4.0
 **Veröffentlicht:** 26.02.2024 15:09
 
+- Bahnfinder 4 kommt mit spannenden Neuerungen, die deinen Alltag noch besser und einfacher machen. Zu den größten Neuerungen gehören:
+- Erinnerungen: Lasse dich rechtzeitig an Abfahrten erinnern.
+- Neuer „Synchronisieren“ Tab: „iCloud“ heisst jetzt „Synchronisieren“. Du kannst jetzt sowohl iCloud als auch Lokale Backups erstellen und wiederherstellen und diese sogar in andere Apps exportieren.
+- Menü.
+- Verbindungen direkt aus dem Fahrtverlauf suchen: Du kannst über das 3D Touch Menü eine bestimmte Haltestelle als Ziel auswählen und schnell eine Verbindungssuche starten.
+- Modus für noch effizienteres Multitasking.
+- Weitere Neuerungen: 
+- Neue Einstellungen für Haltestellen vorlesen: Personalisiere die Ansagen der Haltestellennamen mit neuen Einstellungsmöglichkeiten.
+- Neue Einstellungen für Wichtige Haltestellen: Markiere und verwalte wichtige Haltestellen direkt in den Einstellungen.
+- Option: Suche sortieren nach Distanz: Finde jetzt Haltestellen und Verbindungen, sortiert nach der Entfernung zu deinem Standort.
+- Verbesserte Suche: Die Optionen „Automatische Suche“ und „Suchen Button ausblenden“ wurden für eine intuitive Nutzung kombiniert.
+- Option: Standortpfeil im Fahrtverlauf: Lasse dir deinen aktuellen Standort im Fahrtverlauf mit einem Pfeil neben dem Haltestellennamen anzeigen.
+- Verbesserte Kategorien in den Einstellungen: Finde Einstellungen schneller mit den neu organisierten Kategorien.
+- Hinweis für Haltestellenansagen: Erhalte einen Hinweis beim Start, wenn „Nur wichtige Haltestellen vorlesen“ aktiviert ist.
+- Synchronisierung zu begrenzen, um Daten und Batterieverbrauch zu reduzieren. 
+- Allgemeine Verbesserungen
 
 ## Version 3.1.4
 **Veröffentlicht:** 15.02.2024 16:58
@@ -554,8 +571,8 @@
 - Fehlerbehebungen
 - Allgemeine Verbesserungen
 
-## Version 3.1.2
-**Veröffentlicht:** 10.02.2024 07:37
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Fehlerbehebungen
 - Allgemeine Verbesserungen
@@ -814,8 +831,8 @@
 - Ein neuer Hinweisdialog informiert Benutzer, wenn sie sich in einem Gebiet mit Verkehrsnetz befinden, das derzeit nicht ausgewählt ist.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.3
+**Veröffentlicht:** 17.08.2023 11:24
 
 - Allgemeine Verbesserungen
 
@@ -1027,6 +1044,7 @@
 ## Version 1.1.2
 **Veröffentlicht:** 25.04.2023 04:22
 
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.1.1
 **Veröffentlicht:** 21.04.2023 20:55
