@@ -817,8 +817,8 @@
 - Kleine Designänderungen
 - Allgemeine Verbesserungen
 
-## Version 2.2.5
-**Veröffentlicht:** 31.08.2023 11:56
+## Version null
+**Veröffentlicht:** – No release date available
 
 - In der Suche werden jetzt 50 Haltestellen in der Nähe angezeigt.
 - Allgemeine Verbesserungen
@@ -889,6 +889,10 @@
 ## Version 2.0.3
 **Veröffentlicht:** 21.07.2023 01:29
 
+- VVO hinzugefügt
+- Anzeige der Favoriten Symbole verbessert
+- Designverbesserungen
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 2.0.2
 **Veröffentlicht:** 20.07.2023 03:14
@@ -1041,7 +1045,6 @@
 ## Version 1.1.2
 **Veröffentlicht:** 25.04.2023 04:22
 
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.1.1
 **Veröffentlicht:** 21.04.2023 20:55
