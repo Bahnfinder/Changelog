@@ -111,8 +111,8 @@
 - Das Setup wurde verbessert
 - Allgemeine Verbesserungen
 
-## Version 6.0.4
-**Veröffentlicht:** 01.02.2025 23:31
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Zu lange Gleisnummern im Verbindungsdetail werden jetzt separat dargestellt, wenn der Platz nicht ausreicht
 - Allgemeine Verbesserungen
@@ -341,8 +341,8 @@
 - Neue Verkehrsnetze: BVG, HVV, RMV, RailTeam & Naldo
 - Allgemeine Verbesserungen
 
-## Version 4.2.8
-**Veröffentlicht:** 20.06.2024 21:56
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Beschreibung vom DB Provider wurde geändert.
 
@@ -364,6 +364,7 @@
 ## Version 4.2.5
 **Veröffentlicht:** 17.06.2024 10:46
 
+- Hauptbahnhöfe werden jetzt verbessert angezeigt.
 
 ## Version 4.2.4
 **Veröffentlicht:** 15.06.2024 18:32
@@ -647,6 +648,8 @@
 ## Version 2.3.12
 **Veröffentlicht:** 31.10.2023 20:40
 
+- Ausgefallene Fahrzeuge werden jetzt bei Verbindungen angezeigt.
+- Allgemeine Verbesserungen 
 
 ## Version 2.3.11
 **Veröffentlicht:** 30.10.2023 19:06
@@ -1011,6 +1014,11 @@
 ## Version 1.3.0
 **Veröffentlicht:** 10.05.2023 14:19
 
+- Zwischenstopps hinzugefügt
+- Verbindungen: Abfahrt oder Ankunftszeit kann ausgewählt werden
+- Suche verbessert
+- Verbesserung für Ausfälle
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.2.2
 **Veröffentlicht:** 09.05.2023 13:10
