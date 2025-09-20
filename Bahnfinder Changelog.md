@@ -99,8 +99,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.0.6
+**Veröffentlicht:** 07.02.2025 01:27
 
 - Wichtige Push Benachrichtigungen von „Haltestellen ankündigen“ spielen jetzt einen Ton oder eine Vibration
 - Allgemeine Verbesserungen
@@ -286,8 +286,8 @@
 - Wichtige Haltestellen filtern: du kannst in der Suche auswählen, ob du nur die wichtigsten Haltestellen in deiner Nähe sehen möchtest. Diese basieren auf deinen Favoriten, benutzten und besuchten Haltestellen.
 - Über 90 weitere Neuerungen machen Bahnfinder noch besser und schneller.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.4.5
+**Veröffentlicht:** 12.08.2024 15:00
 
 - Das BVG Verkehrsnetz funktioniert jetzt wieder wie erwartet.
 
@@ -540,8 +540,8 @@
 - Neue Designoptionen für den Suchen Button in Verbindung
 - Allgemeine Verbesserungen
 
-## Version 4.0
-**Veröffentlicht:** 26.02.2024 15:09
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Bahnfinder 4 kommt mit spannenden Neuerungen, die deinen Alltag noch besser und einfacher machen. Zu den größten Neuerungen gehören:
 - Erinnerungen: Lasse dich rechtzeitig an Abfahrten erinnern.
