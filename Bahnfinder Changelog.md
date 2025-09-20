@@ -206,7 +206,6 @@
 ## Version 5.1.7
 **Veröffentlicht:** 19.12.2024 03:54
 
-- Ein Fehler wurde behoben, der dazu führte, dass die App beim Ansehen bestimmter Verbindungen abstürzte. 
 
 ## Version 5.1.6
 **Veröffentlicht:** 16.12.2024 13:31
@@ -455,8 +454,8 @@
 - Die Anzeige von Entfernungen unter Favoriten wurde behoben.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.10
+**Veröffentlicht:** 07.05.2024 14:53
 
 - Nach einer umfassenden internen Umstrukturierung bietet Bahnfinder nun verbesserte Zuverlässigkeit, mehr Geschwindigkeit und erleichterte Wartung für den Entwickler.
 - Der „Bahnfinder“ Text unter Info wurde verschönert.
@@ -886,8 +885,8 @@
 
 - Fehlerbehebungen
 
-## Version 2.0.3
-**Veröffentlicht:** 21.07.2023 01:29
+## Version null
+**Veröffentlicht:** – No release date available
 
 - VVO hinzugefügt
 - Anzeige der Favoriten Symbole verbessert
@@ -1030,8 +1029,8 @@
 
 - Fehlerbehebungen
 
-## Version 1.2.0
-**Veröffentlicht:** 06.05.2023 00:35
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Ab sofort kann die Starthaltestelle ausgetauscht werden.
 - Falls die Haltestelle, die beim Start der App gefunden wurde, durch eine andere ersetzt werden soll, können Ausnahmen erstellt werden.
