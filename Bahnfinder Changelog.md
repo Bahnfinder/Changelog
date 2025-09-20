@@ -213,9 +213,10 @@
 
 - Die Linienfarben für die S5 (MVV) wurden hinzugefügt.
 
-## Version 5.1.5
-**Veröffentlicht:** 10.12.2024 05:15
+## Version null
+**Veröffentlicht:** – No release date available
 
+- Neues App Icon: „Weihnachten 2024“
 
 ## Version 5.1.4
 **Veröffentlicht:** 27.11.2024 00:19
@@ -373,6 +374,11 @@
 ## Version 4.2.3
 **Veröffentlicht:** 14.06.2024 12:07
 
+- Nutzer werden ab jetzt darauf hingewiesen, wenn sie sich in einer nicht unterstützen Region befinden.
+- Die nächste Haltestelle wird jetzt auch in der Suche markiert.
+- Das Menü bei Abfahrten wurde überarbeitet.
+- Ein Fehler wurde behoben, der die App beim Laden einiger Verbindungen zum Absturz brachte.
+- Allgemeine Verbesserungen
 
 ## Version 4.2.2
 **Veröffentlicht:** 13.06.2024 19:31
@@ -431,8 +437,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.13
+**Veröffentlicht:** 12.05.2024 15:34
 
 - Allgemeine Verbesserungen
 
@@ -685,6 +691,8 @@
 ## Version 2.3.5
 **Veröffentlicht:** 18.10.2023 17:03
 
+- Die Darstellung des Standortpfeils wurde verbessert.
+- Allgemeine Verbesserungen
 
 ## Version 2.3.4
 **Veröffentlicht:** 17.10.2023 12:02
@@ -886,8 +894,8 @@
 - Designverbesserungen
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 2.0.2
-**Veröffentlicht:** 20.07.2023 03:14
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Konfigurationen von ausgeblendeten Linien können ab sofort gespeichert werden.
 - Favoriten Symbole werden in Abfahrten gezeigt.
@@ -935,8 +943,6 @@
 ## Version 1.5.4
 **Veröffentlicht:** 01.06.2023 03:49
 
-- Die Zeit einer gesuchten Verbindung wird jetzt im Verlauf angezeigt.
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.5.3
 **Veröffentlicht:** 26.05.2023 04:25
@@ -1084,8 +1090,8 @@
 
 - Kritische Fehlerbehebungen
 
-## Version 1.0.6
-**Veröffentlicht:** 08.04.2023 02:04
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Ein kritischer Fehler, der die App an bestimmten Standorten zum Absturz brachte, wurde behoben.
 - Allgemeine Verbesserungen und Fehlerbehebungen
