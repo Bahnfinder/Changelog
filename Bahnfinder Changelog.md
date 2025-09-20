@@ -94,8 +94,8 @@
 - Leistungsverbesserungen
 - Allgemeine Verbesserungen
 
-## Version 6.0.7
-**Veröffentlicht:** 09.02.2025 23:42
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -206,6 +206,7 @@
 ## Version 5.1.7
 **Veröffentlicht:** 19.12.2024 03:54
 
+- Ein Fehler wurde behoben, der dazu führte, dass die App beim Ansehen bestimmter Verbindungen abstürzte. 
 
 ## Version 5.1.6
 **Veröffentlicht:** 16.12.2024 13:31
@@ -385,8 +386,8 @@
 - Neues App Icon „Modern echtes schwarz“ 
 - Anpassungen bei „Backups“
 
-## Version 4.2.1
-**Veröffentlicht:** 11.06.2024 23:51
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neues App Icon "Modern Schwarz"
 
@@ -457,6 +458,9 @@
 ## Version 4.1.10
 **Veröffentlicht:** 07.05.2024 14:53
 
+- Nach einer umfassenden internen Umstrukturierung bietet Bahnfinder nun verbesserte Zuverlässigkeit, mehr Geschwindigkeit und erleichterte Wartung für den Entwickler.
+- Der „Bahnfinder“ Text unter Info wurde verschönert.
+- Allgemeine Verbesserungen
 
 ## Version 4.1.9
 **Geplant:** 01.04.2024 00:00
