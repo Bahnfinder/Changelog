@@ -99,8 +99,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 6.0.6
-**Veröffentlicht:** 07.02.2025 01:27
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Wichtige Push Benachrichtigungen von „Haltestellen ankündigen“ spielen jetzt einen Ton oder eine Vibration
 - Allgemeine Verbesserungen
@@ -211,6 +211,7 @@
 ## Version 5.1.6
 **Veröffentlicht:** 16.12.2024 13:31
 
+- Die Linienfarben für die S5 (MVV) wurden hinzugefügt.
 
 ## Version 5.1.5
 **Veröffentlicht:** 10.12.2024 05:15
@@ -285,8 +286,8 @@
 - Wichtige Haltestellen filtern: du kannst in der Suche auswählen, ob du nur die wichtigsten Haltestellen in deiner Nähe sehen möchtest. Diese basieren auf deinen Favoriten, benutzten und besuchten Haltestellen.
 - Über 90 weitere Neuerungen machen Bahnfinder noch besser und schneller.
 
-## Version 4.4.5
-**Veröffentlicht:** 12.08.2024 15:00
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Das BVG Verkehrsnetz funktioniert jetzt wieder wie erwartet.
 
@@ -321,6 +322,8 @@
 ## Version 4.3.3
 **Veröffentlicht:** 24.06.2024 21:40
 
+- Push Benachrichtigungen können jetzt während der Einrichtung aktiviert werden.
+- Allgemeine Verbesserungen 
 
 ## Version 4.3.2
 **Veröffentlicht:** 23.06.2024 16:44
@@ -398,8 +401,8 @@
 - Ein Fehler wurde behoben, der dazu führte, dass die Liniensymbole nach einer Wiederherstellung nicht angezeigt wurden.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.19
+**Veröffentlicht:** 20.05.2024 19:02
 
 - Das App Icon „Weiss Inline“ heisst jetzt „Modern Weiß“
 - Fehlerbehebungen
@@ -881,6 +884,7 @@
 ## Version 2.0.4
 **Veröffentlicht:** 24.07.2023 00:19
 
+- Fehlerbehebungen
 
 ## Version 2.0.3
 **Veröffentlicht:** 21.07.2023 01:29
@@ -968,8 +972,8 @@
 - Ein Fehler bei der Standortsuche wurde behoben
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.4.0
+**Veröffentlicht:** 17.05.2023 02:42
 
 - Automatische Suche bei Verbindungen hinzugefügt
 - Stabilitätsverbesserungen
