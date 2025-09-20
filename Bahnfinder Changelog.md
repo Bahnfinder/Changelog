@@ -37,8 +37,8 @@
 - Leistungsverbesserungen
 - Allgemeine Verbesserungen
 
-## Version 6.1.2
-**Veröffentlicht:** 18.05.2025 22:29
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Größe eines Backups wird jetzt angezeigt. Zusätzlich wird die relative Größe im Vergleich zu anderen Backups dargestellt
 - Allgemeine Verbesserungen
@@ -238,6 +238,8 @@
 ## Version 5.1.1
 **Veröffentlicht:** 21.09.2024 07:10
 
+- Ein Fehler wurde behoben, der dazu führte, dass „Haltestellen ankündigen“ in einigen Fällen im Hintergrund gestoppt wurde.
+- Allgemeine Verbesserungen
 
 ## Version 5.1
 **Veröffentlicht:** 20.09.2024 01:55
@@ -294,8 +296,8 @@
 
 - Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.4.3
+**Veröffentlicht:** 06.07.2024 20:33
 
 - Ein Fehler, der zum Absturz der App beim Aktualisieren des Fahrtverlaufs unter bestimmten Bedingungen führte, wurde behoben.
 
@@ -858,11 +860,6 @@
 ## Version 2.1.2
 **Veröffentlicht:** 01.08.2023 09:16
 
-- Linieninfos: Mit "Linieninfos" (Beta) erfährst du alles Wissenswerte über deine Linien. Hier kannst du nachschlagen, welche Distanz ein Fahrzeug zurücklegt, wie lange es insgesamt fährt und vieles mehr.
-- Neues Symbol für veränderte Verbindungsoptionen.
-- Bei „Linien ausblenden“ können nun alle Linien mit einen Knopfdruck ausgeblendet oder eingeblendet werden.
-- Neue Favoriten Symbole 
-- Allgemeine Verbesserungen
 
 ## Version 2.1.1
 **Veröffentlicht:** 28.07.2023 19:11
@@ -892,8 +889,8 @@
 - Designverbesserungen
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.0.2
+**Veröffentlicht:** 20.07.2023 03:14
 
 - Konfigurationen von ausgeblendeten Linien können ab sofort gespeichert werden.
 - Favoriten Symbole werden in Abfahrten gezeigt.
@@ -990,7 +987,6 @@
 ## Version 1.3.4
 **Veröffentlicht:** 13.05.2023 10:27
 
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.3.3
 **Veröffentlicht:** 12.05.2023 22:22
@@ -1061,7 +1057,6 @@
 ## Version 1.0.12
 **Veröffentlicht:** 18.04.2023 00:53
 
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.0.11
 **Veröffentlicht:** 17.04.2023 01:22
@@ -1085,8 +1080,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.0.7
-**Veröffentlicht:** 10.04.2023 03:17
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Kritische Fehlerbehebungen
 
