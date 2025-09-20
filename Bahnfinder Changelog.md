@@ -322,8 +322,6 @@
 ## Version 4.3.3
 **Veröffentlicht:** 24.06.2024 21:40
 
-- Push Benachrichtigungen können jetzt während der Einrichtung aktiviert werden.
-- Allgemeine Verbesserungen 
 
 ## Version 4.3.2
 **Veröffentlicht:** 23.06.2024 16:44
@@ -421,8 +419,8 @@
 - Die Darstellung des Standortpfeils wurde verbessert.
 - Fehlerbehebungen
 
-## Version 4.1.16
-**Veröffentlicht:** 16.05.2024 00:09
+## Version null
+**Veröffentlicht:** – No release date available
 
 - MVV: Nachtbusse werden jetzt in einer spezifischen Farbe dargestellt (Lässt sich deaktivieren)
 
@@ -578,8 +576,8 @@
 - Fehlerbehebungen
 - Allgemeine Verbesserungen
 
-## Version 3.1.1
-**Veröffentlicht:** 02.02.2024 12:41
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -599,8 +597,8 @@
 - Neue Option: „Verbindungsdetail Live aktualisieren“
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 3.0.1
+**Veröffentlicht:** 18.01.2024 14:58
 
 - Allgemeine Verbesserungen
 
@@ -669,6 +667,9 @@
 ## Version 2.3.9
 **Veröffentlicht:** 22.10.2023 16:09
 
+- Die Darstellung des Fahrtfortschritts im Fahrtverlauf markiert jetzt die Haltestelle, an dem sich das Fahrzeug gerade befindet.
+- Eine neue Verbindungsoption „Minimale Umsteigezeit“ wurde hinzugefügt.
+- Allgemeine Verbesserungen
 
 ## Version 2.3.8
 **Veröffentlicht:** 20.10.2023 17:31
@@ -678,6 +679,7 @@
 ## Version 2.3.7
 **Veröffentlicht:** 19.10.2023 01:21
 
+- Allgemeine Verbesserungen
 
 ## Version 2.3.6
 **Veröffentlicht:** 18.10.2023 23:24
@@ -1019,7 +1021,6 @@
 ## Version 1.2.2
 **Veröffentlicht:** 09.05.2023 13:10
 
-- Fehlerbehebungen
 
 ## Version 1.2.1
 **Veröffentlicht:** 08.05.2023 23:07
