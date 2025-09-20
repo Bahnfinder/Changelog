@@ -286,8 +286,8 @@
 - Wichtige Haltestellen filtern: du kannst in der Suche auswählen, ob du nur die wichtigsten Haltestellen in deiner Nähe sehen möchtest. Diese basieren auf deinen Favoriten, benutzten und besuchten Haltestellen.
 - Über 90 weitere Neuerungen machen Bahnfinder noch besser und schneller.
 
-## Version 4.4.5
-**Veröffentlicht:** 12.08.2024 15:00
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Das BVG Verkehrsnetz funktioniert jetzt wieder wie erwartet.
 
@@ -296,8 +296,8 @@
 
 - Fehlerbehebungen
 
-## Version 4.4.3
-**Veröffentlicht:** 06.07.2024 20:33
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Ein Fehler, der zum Absturz der App beim Aktualisieren des Fahrtverlaufs unter bestimmten Bedingungen führte, wurde behoben.
 
@@ -1098,8 +1098,8 @@
 - Ein kritischer Fehler, der die App an bestimmten Standorten zum Absturz brachte, wurde behoben.
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.0.5
+**Veröffentlicht:** 06.04.2023 04:16
 
 - Anschlüsse können ab sofort von einer Verbindung aus durch tippen auf den Haltestellen Namen abgerufen werden.
 - Allgemeine Verbesserungen und Fehlerbehebungen.
