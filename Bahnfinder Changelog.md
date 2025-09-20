@@ -294,10 +294,9 @@
 ## Version 4.4.4
 **Veröffentlicht:** 11.07.2024 03:33
 
-- Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.4.3
+**Veröffentlicht:** 06.07.2024 20:33
 
 - Ein Fehler, der zum Absturz der App beim Aktualisieren des Fahrtverlaufs unter bestimmten Bedingungen führte, wurde behoben.
 
@@ -476,6 +475,10 @@
 ## Version 4.1.7
 **Veröffentlicht:** 22.03.2024 01:08
 
+- Neue Option: Erweiterte Analyse
+- Daten wie beispielsweise Lokale Backups können jetzt über iTunes ausgetauscht werden.
+- Neues App Icon: „Bahnfindi“
+- iCloud Synchronisierung wurde optimiert 
 
 ## Version 4.1.6
 **Veröffentlicht:** 21.03.2024 13:16
