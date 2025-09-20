@@ -111,8 +111,8 @@
 - Das Setup wurde verbessert
 - Allgemeine Verbesserungen
 
-## Version 6.0.4
-**Veröffentlicht:** 01.02.2025 23:31
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Zu lange Gleisnummern im Verbindungsdetail werden jetzt separat dargestellt, wenn der Platz nicht ausreicht
 - Allgemeine Verbesserungen
@@ -194,6 +194,8 @@
 ## Version 5.1.9
 **Veröffentlicht:** 12.01.2025 06:09
 
+- Verkehrsnetz vorübergehend nicht verfügbar ist. Ich arbeite mit Hochdruck an einer Lösung. Du kannst dich benachrichtigen lassen, sobald es wieder funktioniert.
+- Verkehrsnetzes.
 
 ## Version 5.1.8
 **Veröffentlicht:** 08.01.2025 20:32
@@ -558,8 +560,8 @@
 - Synchronisierung zu begrenzen, um Daten und Batterieverbrauch zu reduzieren. 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 3.1.4
+**Veröffentlicht:** 15.02.2024 16:58
 
 - Neue Hinweise, wenn keine Abfahrten an der gewählten Haltestelle verfügbar sind.
 - Allgemeine Verbesserungen
@@ -1102,8 +1104,8 @@
 - Anschlüsse können ab sofort von einer Verbindung aus durch tippen auf den Haltestellen Namen abgerufen werden.
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version 1.0.4
-**Veröffentlicht:** 05.04.2023 04:18
+## Version null
+**Veröffentlicht:** – No release date available
 
 - KVV als Verkehrsnetz hinzugefügt.
 - Setup Assistenten hinzugefügt.
