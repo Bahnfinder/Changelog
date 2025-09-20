@@ -369,10 +369,9 @@
 ## Version 4.2.4
 **Veröffentlicht:** 15.06.2024 18:32
 
-- Die Geschwindigkeit von iCloud Backups wurde erheblich verbessert.
 
-## Version 4.2.3
-**Veröffentlicht:** 14.06.2024 12:07
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Nutzer werden ab jetzt darauf hingewiesen, wenn sie sich in einer nicht unterstützen Region befinden.
 - Die nächste Haltestelle wird jetzt auch in der Suche markiert.
@@ -391,8 +390,8 @@
 
 - Neues App Icon "Modern Schwarz"
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.2.0
+**Veröffentlicht:** 10.06.2024 11:36
 
 - „Synchronisieren“ wurde in „Backups“ umbenannt. Es ist jetzt möglich, unbegrenzt viele verschiedene iCloud Backups zu erstellen und zu verwalten. Nutzer können jetzt ihre Backups mit einer komplett neuen Oberfläche verwalten und wiederherstellen. 
 - Auf der Fahrtverlauf Karte werden jetzt Abfahrtszeiten angezeigt.
@@ -462,8 +461,8 @@
 - Der „Bahnfinder“ Text unter Info wurde verschönert.
 - Allgemeine Verbesserungen
 
-## Version 4.1.9
-**Geplant:** 01.04.2024 00:00
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Am 1. April feiert Bahnfinder seinen 1. Geburtstag. Feiere diesen besonderen Tag mit einem exklusiven App Icon!
 
@@ -715,11 +714,6 @@
 ## Version 2.3.1
 **Veröffentlicht:** 12.10.2023 12:23
 
-- Im Verbindungsdetail wird jetzt die Ankunft in Minuten gezeigt.
-- Verbesserte Darstellung von Zeiten.
-- Ein Fehler wurde behoben, der dazu geführt hat, dass unter bestimmten Umständen Text in Abfahrten abgeschnitten wurde.
-- Fehlerbehebungen
-- Allgemeine Verbesserungen
 
 ## Version 2.3.0
 **Veröffentlicht:** 11.10.2023 11:43
@@ -904,10 +898,28 @@
 ## Version 2.0.1
 **Veröffentlicht:** 15.07.2023 00:02
 
+- Option zum auswählen der Ansicht beim App Start hinzugefügt.
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 2.0
 **Veröffentlicht:** 12.07.2023 08:34
 
+- Bahnfinder 2 ist das Umfangreichste Update bisher und macht Bahnfinder noch schneller, übersichtlicher und schöner.
+- Das ist neu: 
+- Neues, übersichtlicheres Aussehen durch differenzierte Farben und weiteren Anpassungen.
+- Neue Design Optionen
+- 2 neue Design Pakete 
+- „Automatisch folgen“: Mit der Funktion „Automatisch folgen“ werden dir jederzeit Abfahrten der nächsten Haltestelle angezeigt, während du dich fortbewegst.
+- „Automatisch suchen“: Suche deine Verbindung automatisch, sobald du eine Start und Zielhaltestelle ausgewählt hast. 
+- Linien können unter Abfahrten ausgeblendet werden.
+- Mehr Informationen bei Verbindungen 
+- Eigene Icons bei Haltestellen Favoriten
+- Ankünfte bei Haltestellen  
+- Verbesserte Unterstützung für Rufbusse
+- Gehzeit in Minuten 
+- Karte bei Verbindung
+- Erhebliche Leistungsverbesserungen
+- Und viele weitere kleine Änderungen…
 
 ## Version 1.5.6
 **Veröffentlicht:** 06.06.2023 17:36
@@ -1045,6 +1057,7 @@
 ## Version 1.0.12
 **Veröffentlicht:** 18.04.2023 00:53
 
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.0.11
 **Veröffentlicht:** 17.04.2023 01:22
