@@ -117,8 +117,8 @@
 - Zu lange Gleisnummern im Verbindungsdetail werden jetzt separat dargestellt, wenn der Platz nicht ausreicht
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.0.3
+**Veröffentlicht:** 31.01.2025 03:41
 
 - Verbesserte Darstellung von Bahnhofsnamen
 - Allgemeine Verbesserungen
@@ -369,6 +369,7 @@
 ## Version 4.2.4
 **Veröffentlicht:** 15.06.2024 18:32
 
+- Die Geschwindigkeit von iCloud Backups wurde erheblich verbessert.
 
 ## Version 4.2.3
 **Veröffentlicht:** 14.06.2024 12:07
@@ -403,9 +404,6 @@
 ## Version 4.1.19
 **Veröffentlicht:** 20.05.2024 19:02
 
-- Das App Icon „Weiss Inline“ heisst jetzt „Modern Weiß“
-- Fehlerbehebungen
-- Allgemeine Verbesserungen
 
 ## Version 4.1.18
 **Veröffentlicht:** 18.05.2024 21:41
@@ -819,6 +817,8 @@
 ## Version 2.2.5
 **Veröffentlicht:** 31.08.2023 11:56
 
+- In der Suche werden jetzt 50 Haltestellen in der Nähe angezeigt.
+- Allgemeine Verbesserungen
 
 ## Version 2.2.4
 **Veröffentlicht:** 30.08.2023 12:04
@@ -1008,8 +1008,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.3.0
-**Veröffentlicht:** 10.05.2023 14:19
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Zwischenstopps hinzugefügt
 - Verbindungen: Abfahrt oder Ankunftszeit kann ausgewählt werden
@@ -1079,8 +1079,8 @@
 - Ein Fehler wurde behoben, durch den die App keine Inhalte mehr geladen hat, wenn sie eine gewisse Zeit im Hintergrund war. 
 - Der Fehler könnte bei einigen Nutzern dennoch auftreten, schließe die App dazu aus dem Multitasking Menü und öffne sie erneut. 
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.0.8
+**Veröffentlicht:** 11.04.2023 02:45
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
