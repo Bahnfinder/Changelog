@@ -53,8 +53,8 @@
 - Ein Fehler wurde behoben, der in seltenen Fällen zu Abstürzen beim verwenden von „Lokale Backups“ geführt hat
 - Allgemeine Verbesserungen 
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.1
+**Veröffentlicht:** 26.04.2025 00:45
 
 - Liniennummern und andere Objekte zeigen jetzt realistische Reflexionen, die sich an die Neigung des Geräts anpassen
 - Ausgefallene Haltestellen werden jetzt auf den Karten angezeigt
@@ -1020,8 +1020,8 @@
 - Verbesserung für Ausfälle
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.2.2
+**Veröffentlicht:** 09.05.2023 13:10
 
 - Fehlerbehebungen
 
