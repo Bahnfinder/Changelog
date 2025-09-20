@@ -356,6 +356,10 @@
 ## Version 4.2.6
 **Veröffentlicht:** 18.06.2024 02:47
 
+- Anpassungen und Fehlerbehebungen für iPad
+- Anpassungen und Fehlerbehebungen für Mac
+- Die Funktion „Legacy iCloud Synchronisierung“ wurde entfernt.
+- Allgemeine Verbesserungen
 
 ## Version 4.2.5
 **Veröffentlicht:** 17.06.2024 10:46
@@ -588,8 +592,8 @@
 - Verbesserte Darstellung von Linienwegen auf der Karte
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 3.0.2
+**Veröffentlicht:** 25.01.2024 15:35
 
 - Haltestellen vorlesen liest jetzt auch die Abfahrtszeit vor.
 - Neue Option: „Verbindungsdetail Live aktualisieren“
@@ -945,7 +949,6 @@
 ## Version 1.5.3
 **Veröffentlicht:** 26.05.2023 04:25
 
-- Allgemeine Verbesserungen
 
 ## Version 1.5.2
 **Veröffentlicht:** 25.05.2023 04:40
@@ -1107,8 +1110,8 @@
 - Setup Assistenten hinzugefügt.
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version 1.0.3
-**Veröffentlicht:** 03.04.2023 23:08
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neue App Icons
 - Es wurde ein Hinweis hinzugefügt, der den Nutzer darauf aufmerksam macht, dass die Ortungsdienste deaktiviert sind.
