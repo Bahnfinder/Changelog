@@ -81,7 +81,6 @@
 ## Version 6.0.10
 **Veröffentlicht:** 16.02.2025 17:24
 
-- Allgemeine Verbesserungen
 
 ## Version 6.0.9
 **Veröffentlicht:** 12.02.2025 03:24
@@ -114,8 +113,6 @@
 ## Version 6.0.4
 **Veröffentlicht:** 01.02.2025 23:31
 
-- Zu lange Gleisnummern im Verbindungsdetail werden jetzt separat dargestellt, wenn der Platz nicht ausreicht
-- Allgemeine Verbesserungen
 
 ## Version 6.0.3
 **Veröffentlicht:** 31.01.2025 03:41
@@ -179,6 +176,7 @@
 ## Version 5.1.12
 **Veröffentlicht:** 18.01.2025 05:03
 
+- Verbesserungen für das DB Verkehrsnetz
 
 ## Version 5.1.11
 **Veröffentlicht:** 15.01.2025 00:41
@@ -223,8 +221,8 @@
 - Das VMV Verkehrsnetz funktioniert jetzt wieder wie erwartet
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.1.3
+**Veröffentlicht:** 27.09.2024 17:57
 
 - Ein Darstellungsfehler wurde behoben
 
@@ -285,8 +283,8 @@
 - Wichtige Haltestellen filtern: du kannst in der Suche auswählen, ob du nur die wichtigsten Haltestellen in deiner Nähe sehen möchtest. Diese basieren auf deinen Favoriten, benutzten und besuchten Haltestellen.
 - Über 90 weitere Neuerungen machen Bahnfinder noch besser und schneller.
 
-## Version 4.4.5
-**Veröffentlicht:** 12.08.2024 15:00
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Das BVG Verkehrsnetz funktioniert jetzt wieder wie erwartet.
 
@@ -991,7 +989,6 @@
 ## Version 1.3.4
 **Veröffentlicht:** 13.05.2023 10:27
 
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.3.3
 **Veröffentlicht:** 12.05.2023 22:22
