@@ -56,17 +56,6 @@
 ## Version 6.1
 **Veröffentlicht:** 26.04.2025 00:45
 
-- Liniennummern und andere Objekte zeigen jetzt realistische Reflexionen, die sich an die Neigung des Geräts anpassen
-- Ausgefallene Haltestellen werden jetzt auf den Karten angezeigt
-- Favorisierte Haltestellen werden jetzt mit dem entsprechenden Symbol auf den Karten angezeigt
-- Die Verbindungsoptionen werden jetzt nicht mehr in einem separaten Fenster geöffnet 
-- Ein neuer Splash Screen für „Haltestellen ankündigen“ wurde hinzugefügt
-- Splash Screens wurden überarbeitet
-- Mehr Informationen über den Entwickler wurden hinzugefügt 
-- Alle Buttons in der App haben jetzt ein runderes Design 
-- Die Optionen für „Automatisch bereinigen“ bei lokalen Backups wurden visuell überarbeitet
-- Designverbesserungen 
-- Allgemeine Verbesserungen
 
 ## Version 6.0.12
 **Veröffentlicht:** 02.03.2025 02:36
@@ -189,6 +178,7 @@
 ## Version 5.1.10
 **Veröffentlicht:** 13.01.2025 01:03
 
+- Weitere Informationen über den Ausfall des DB Verkehrsnetzes hinzugefügt 
 
 ## Version 5.1.9
 **Veröffentlicht:** 12.01.2025 06:09
@@ -1069,8 +1059,8 @@
 
 - Fehlerbehebungen
 
-## Version 1.0.10
-**Veröffentlicht:** 14.04.2023 21:13
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Suche verbessert
 - Allgemeine Verbesserungen und Fehlerbehebungen
