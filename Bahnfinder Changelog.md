@@ -1,5 +1,5 @@
-## Version 6.2.1
-**Veröffentlicht:** 08.09.2025 16:34
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Das Naldo Verkehrsnetz funktioniert jetzt wieder wie erwartet.
 
@@ -333,7 +333,6 @@
 ## Version 4.3.1
 **Veröffentlicht:** 23.06.2024 01:00
 
-- Kleine Anpassungen bei der Einrichtung
 
 ## Version 4.3.0
 **Veröffentlicht:** 21.06.2024 08:52
@@ -371,8 +370,8 @@
 
 - Die Geschwindigkeit von iCloud Backups wurde erheblich verbessert.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.2.3
+**Veröffentlicht:** 14.06.2024 12:07
 
 - Nutzer werden ab jetzt darauf hingewiesen, wenn sie sich in einer nicht unterstützen Region befinden.
 - Die nächste Haltestelle wird jetzt auch in der Suche markiert.
@@ -699,8 +698,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.3
+**Veröffentlicht:** 16.10.2023 20:33
 
 - Allgemeine Verbesserungen
 
@@ -800,8 +799,8 @@
 - Lange Fusswege werden jetzt unter Verbindung markiert.
 - Allgemeine Verbesserungen
 
-## Version 2.2.8
-**Veröffentlicht:** 04.09.2023 16:00
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Start gefunden wurde.
 - Allgemeine Verbesserungen
@@ -809,7 +808,6 @@
 ## Version 2.2.7
 **Veröffentlicht:** 02.09.2023 08:49
 
-- Allgemeine Verbesserungen 
 
 ## Version 2.2.6
 **Veröffentlicht:** 01.09.2023 00:40
@@ -989,8 +987,8 @@
 
 - Fehlerbehebungen und Stabilitätsverbesserungen
 
-## Version 1.3.4
-**Veröffentlicht:** 13.05.2023 10:27
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
