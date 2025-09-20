@@ -429,8 +429,6 @@
 ## Version 4.1.15
 **Veröffentlicht:** 15.05.2024 22:58
 
-- Die Funktion "Haltestelle Automatisch ausfüllen" kann jetzt deaktiviert werden.
-- Allgemeine Verbesserungen
 
 ## Version 4.1.14
 **Veröffentlicht:** 12.05.2024 22:31
@@ -521,8 +519,8 @@
 - Neue Verkehrsnetze hinzugefügt: MVG (Märkischer Kreis), VMS, VMV, VRN
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1
+**Veröffentlicht:** 08.03.2024 13:33
 
 - Neuer „Synchronisieren“ Bildschirm.
 - Neue Option hinzugefügt, um im Suchverlauf die Interaktionsart einer Haltestelle anzuzeigen.
@@ -604,8 +602,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 3.0.0
+**Veröffentlicht:** 02.01.2024 16:59
 
 - Bahnfinder 3 bietet spannende Neuerungen, die deinen Alltag noch einfacher machen. Das sind die größten Änderungen:
 - Haltestellen vorlesen: Lasse dir nicht nur die nächsten Haltestellen vorlesen, sondern erhalte auch Erinnerungen zum Aussteigen.
