@@ -335,8 +335,8 @@
 
 - Kleine Anpassungen bei der Einrichtung
 
-## Version 4.3.0
-**Veröffentlicht:** 21.06.2024 08:52
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neue Verkehrsnetze: BVG, HVV, RMV, RailTeam & Naldo
 - Allgemeine Verbesserungen
@@ -566,8 +566,8 @@
 - Neue Hinweise, wenn keine Abfahrten an der gewählten Haltestelle verfügbar sind.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 3.1.3
+**Veröffentlicht:** 12.02.2024 17:29
 
 - Fehlerbehebungen
 - Allgemeine Verbesserungen
@@ -694,8 +694,8 @@
 - Die Darstellung des Standortpfeils wurde verbessert.
 - Allgemeine Verbesserungen
 
-## Version 2.3.4
-**Veröffentlicht:** 17.10.2023 12:02
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -781,8 +781,8 @@
 - Verbesserungen für das Liniendesign
 - Allgemeine Verbesserungen
 
-## Version 2.2.11
-**Veröffentlicht:** 14.09.2023 01:16
+## Version null
+**Veröffentlicht:** – No release date available
 
 - iOS 17 Kompatibilität
 - 3D Optionen wurden zur Karte hinzugefügt.
@@ -1068,6 +1068,7 @@
 ## Version 1.0.11
 **Veröffentlicht:** 17.04.2023 01:22
 
+- Fehlerbehebungen
 
 ## Version 1.0.10
 **Veröffentlicht:** 14.04.2023 21:13
