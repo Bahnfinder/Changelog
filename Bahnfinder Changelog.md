@@ -76,7 +76,6 @@
 ## Version 6.0.11
 **Veröffentlicht:** 22.02.2025 09:46
 
-- Verbesserungen für VoiceOver
 
 ## Version 6.0.10
 **Veröffentlicht:** 16.02.2025 17:24
@@ -499,7 +498,6 @@
 ## Version 4.1.4
 **Veröffentlicht:** 19.03.2024 16:44
 
-- Allgemeine Verbesserungen
 
 ## Version 4.1.3
 **Veröffentlicht:** 18.03.2024 14:01
@@ -560,8 +558,8 @@
 - Synchronisierung zu begrenzen, um Daten und Batterieverbrauch zu reduzieren. 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 3.1.4
+**Veröffentlicht:** 15.02.2024 16:58
 
 - Neue Hinweise, wenn keine Abfahrten an der gewählten Haltestelle verfügbar sind.
 - Allgemeine Verbesserungen
@@ -1033,9 +1031,6 @@
 ## Version 1.2.0
 **Veröffentlicht:** 06.05.2023 00:35
 
-- Ab sofort kann die Starthaltestelle ausgetauscht werden.
-- Falls die Haltestelle, die beim Start der App gefunden wurde, durch eine andere ersetzt werden soll, können Ausnahmen erstellt werden.
-- Allgemeine Verbesserungen und Fehlerbehebungen wurden durchgeführt.
 
 ## Version 1.1.3
 **Veröffentlicht:** 27.04.2023 03:25
@@ -1095,8 +1090,6 @@
 ## Version 1.0.6
 **Veröffentlicht:** 08.04.2023 02:04
 
-- Ein kritischer Fehler, der die App an bestimmten Standorten zum Absturz brachte, wurde behoben.
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.0.5
 **Veröffentlicht:** 06.04.2023 04:16
