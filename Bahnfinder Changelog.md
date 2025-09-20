@@ -114,6 +114,8 @@
 ## Version 6.0.4
 **Veröffentlicht:** 01.02.2025 23:31
 
+- Zu lange Gleisnummern im Verbindungsdetail werden jetzt separat dargestellt, wenn der Platz nicht ausreicht
+- Allgemeine Verbesserungen
 
 ## Version 6.0.3
 **Veröffentlicht:** 31.01.2025 03:41
@@ -187,6 +189,7 @@
 ## Version 5.1.10
 **Veröffentlicht:** 13.01.2025 01:03
 
+- Weitere Informationen über den Ausfall des DB Verkehrsnetzes hinzugefügt 
 
 ## Version 5.1.9
 **Veröffentlicht:** 12.01.2025 06:09
@@ -341,6 +344,7 @@
 ## Version 4.2.8
 **Veröffentlicht:** 20.06.2024 21:56
 
+- Die Beschreibung vom DB Provider wurde geändert.
 
 ## Version 4.2.7
 **Veröffentlicht:** 20.06.2024 01:04
@@ -410,8 +414,8 @@
 - Neues App Icon „Weiss Inline“
 - Darstellungsanpassungen für kleinere Geräte
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.17
+**Veröffentlicht:** 16.05.2024 15:26
 
 - Anpassungen für ältere Geräte und iOS Versionen.
 - Die Darstellung des Standortpfeils wurde verbessert.
