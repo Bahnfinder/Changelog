@@ -191,8 +191,8 @@
 
 - Weitere Informationen über den Ausfall des DB Verkehrsnetzes hinzugefügt 
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.1.9
+**Veröffentlicht:** 12.01.2025 06:09
 
 - Verkehrsnetz vorübergehend nicht verfügbar ist. Ich arbeite mit Hochdruck an einer Lösung. Du kannst dich benachrichtigen lassen, sobald es wieder funktioniert.
 - Verkehrsnetzes.
@@ -261,8 +261,8 @@
 - Ein Fehler wurde behoben, der dazu führte, dass die App beim anschauen von Verbindungen abstürzt.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.0.2
+**Veröffentlicht:** 05.09.2024 15:32
 
 - Ein Fehler wurde behoben, der dazu führte, dass die App beim Wechsel des Verkehrsnetzes auf iPads abstürzte. 
 
@@ -540,8 +540,8 @@
 - Neue Designoptionen für den Suchen Button in Verbindung
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.0
+**Veröffentlicht:** 26.02.2024 15:09
 
 - Bahnfinder 4 kommt mit spannenden Neuerungen, die deinen Alltag noch besser und einfacher machen. Zu den größten Neuerungen gehören:
 - Erinnerungen: Lasse dich rechtzeitig an Abfahrten erinnern.
@@ -797,9 +797,11 @@
 ## Version 2.2.9
 **Veröffentlicht:** 08.09.2023 14:39
 
+- Lange Fusswege werden jetzt unter Verbindung markiert.
+- Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.8
+**Veröffentlicht:** 04.09.2023 16:00
 
 - Start gefunden wurde.
 - Allgemeine Verbesserungen
@@ -830,8 +832,8 @@
 - Ein neuer Hinweisdialog informiert Benutzer, wenn sie sich in einem Gebiet mit Verkehrsnetz befinden, das derzeit nicht ausgewählt ist.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.3
+**Veröffentlicht:** 17.08.2023 11:24
 
 - Allgemeine Verbesserungen
 
