@@ -1,6 +1,7 @@
 ## Version 6.2.1
 **Veröffentlicht:** 08.09.2025 16:34
 
+- Das Naldo Verkehrsnetz funktioniert jetzt wieder wie erwartet.
 
 ## Version 6.2
 **Veröffentlicht:** 31.07.2025 22:56
@@ -185,8 +186,8 @@
 
 - Dieses Update enthält API Updates für das Deutsche Bahn Verkehrsnetz, welches jetzt wieder wie erwartet funktioniert!
 
-## Version 5.1.10
-**Veröffentlicht:** 13.01.2025 01:03
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Weitere Informationen über den Ausfall des DB Verkehrsnetzes hinzugefügt 
 
@@ -324,8 +325,8 @@
 - Push Benachrichtigungen können jetzt während der Einrichtung aktiviert werden.
 - Allgemeine Verbesserungen 
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.3.2
+**Veröffentlicht:** 23.06.2024 16:44
 
 - Entfallene Fahrzeuge werden jetzt einheitlich dargestellt.
 
@@ -559,8 +560,8 @@
 - Synchronisierung zu begrenzen, um Daten und Batterieverbrauch zu reduzieren. 
 - Allgemeine Verbesserungen
 
-## Version 3.1.4
-**Veröffentlicht:** 15.02.2024 16:58
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neue Hinweise, wenn keine Abfahrten an der gewählten Haltestelle verfügbar sind.
 - Allgemeine Verbesserungen
@@ -571,8 +572,8 @@
 - Fehlerbehebungen
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 3.1.2
+**Veröffentlicht:** 10.02.2024 07:37
 
 - Fehlerbehebungen
 - Allgemeine Verbesserungen
@@ -991,7 +992,6 @@
 ## Version 1.3.4
 **Veröffentlicht:** 13.05.2023 10:27
 
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.3.3
 **Veröffentlicht:** 12.05.2023 22:22
