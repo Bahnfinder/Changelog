@@ -319,8 +319,8 @@
 - Verbesserungen im Abfahrten Popover
 - Die Berechnung von Fußwegen wurde verbessert
 
-## Version 4.3.3
-**Veröffentlicht:** 24.06.2024 21:40
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Push Benachrichtigungen können jetzt während der Einrichtung aktiviert werden.
 - Allgemeine Verbesserungen 
@@ -490,8 +490,8 @@
 - Einrichtung verbessert
 - Allgemeine Verbesserungen
 
-## Version 4.1.5
-**Veröffentlicht:** 20.03.2024 19:10
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Anpassungen an App Icons
 - Design Anpassungen
@@ -569,8 +569,6 @@
 ## Version 3.1.3
 **Veröffentlicht:** 12.02.2024 17:29
 
-- Fehlerbehebungen
-- Allgemeine Verbesserungen
 
 ## Version 3.1.2
 **Veröffentlicht:** 10.02.2024 07:37
@@ -1107,9 +1105,6 @@
 ## Version 1.0.4
 **Veröffentlicht:** 05.04.2023 04:18
 
-- KVV als Verkehrsnetz hinzugefügt.
-- Setup Assistenten hinzugefügt.
-- Allgemeine Verbesserungen und Fehlerbehebungen.
 
 ## Version 1.0.3
 **Veröffentlicht:** 03.04.2023 23:08
