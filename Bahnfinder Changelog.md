@@ -1,5 +1,5 @@
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.2.1
+**Veröffentlicht:** 08.09.2025 16:34
 
 - Das Naldo Verkehrsnetz funktioniert jetzt wieder wie erwartet.
 
@@ -120,6 +120,8 @@
 ## Version 6.0.3
 **Veröffentlicht:** 31.01.2025 03:41
 
+- Verbesserte Darstellung von Bahnhofsnamen
+- Allgemeine Verbesserungen
 
 ## Version 6.0.2
 **Veröffentlicht:** 29.01.2025 15:04
@@ -189,8 +191,8 @@
 
 - Weitere Informationen über den Ausfall des DB Verkehrsnetzes hinzugefügt 
 
-## Version 5.1.9
-**Veröffentlicht:** 12.01.2025 06:09
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Verkehrsnetz vorübergehend nicht verfügbar ist. Ich arbeite mit Hochdruck an einer Lösung. Du kannst dich benachrichtigen lassen, sobald es wieder funktioniert.
 - Verkehrsnetzes.
@@ -259,8 +261,8 @@
 - Ein Fehler wurde behoben, der dazu führte, dass die App beim anschauen von Verbindungen abstürzt.
 - Allgemeine Verbesserungen
 
-## Version 5.0.2
-**Veröffentlicht:** 05.09.2024 15:32
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Ein Fehler wurde behoben, der dazu führte, dass die App beim Wechsel des Verkehrsnetzes auf iPads abstürzte. 
 
@@ -294,8 +296,8 @@
 
 - Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.4.3
+**Veröffentlicht:** 06.07.2024 20:33
 
 - Ein Fehler, der zum Absturz der App beim Aktualisieren des Fahrtverlaufs unter bestimmten Bedingungen führte, wurde behoben.
 
@@ -387,6 +389,7 @@
 ## Version 4.2.1
 **Veröffentlicht:** 11.06.2024 23:51
 
+- Neues App Icon "Modern Schwarz"
 
 ## Version 4.2.0
 **Veröffentlicht:** 10.06.2024 11:36
@@ -537,8 +540,8 @@
 - Neue Designoptionen für den Suchen Button in Verbindung
 - Allgemeine Verbesserungen
 
-## Version 4.0
-**Veröffentlicht:** 26.02.2024 15:09
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Bahnfinder 4 kommt mit spannenden Neuerungen, die deinen Alltag noch besser und einfacher machen. Zu den größten Neuerungen gehören:
 - Erinnerungen: Lasse dich rechtzeitig an Abfahrten erinnern.
@@ -794,11 +797,9 @@
 ## Version 2.2.9
 **Veröffentlicht:** 08.09.2023 14:39
 
-- Lange Fusswege werden jetzt unter Verbindung markiert.
-- Allgemeine Verbesserungen
 
-## Version 2.2.8
-**Veröffentlicht:** 04.09.2023 16:00
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Start gefunden wurde.
 - Allgemeine Verbesserungen
@@ -829,8 +830,8 @@
 - Ein neuer Hinweisdialog informiert Benutzer, wenn sie sich in einem Gebiet mit Verkehrsnetz befinden, das derzeit nicht ausgewählt ist.
 - Allgemeine Verbesserungen
 
-## Version 2.2.3
-**Veröffentlicht:** 17.08.2023 11:24
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -955,8 +956,8 @@
 - Stabilität wurde verbessert
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.5.1
+**Veröffentlicht:** 22.05.2023 22:56
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
