@@ -221,6 +221,8 @@
 ## Version 5.1.4
 **Veröffentlicht:** 27.11.2024 00:19
 
+- Das VMV Verkehrsnetz funktioniert jetzt wieder wie erwartet
+- Allgemeine Verbesserungen
 
 ## Version 5.1.3
 **Veröffentlicht:** 27.09.2024 17:57
@@ -372,6 +374,11 @@
 ## Version 4.2.3
 **Veröffentlicht:** 14.06.2024 12:07
 
+- Nutzer werden ab jetzt darauf hingewiesen, wenn sie sich in einer nicht unterstützen Region befinden.
+- Die nächste Haltestelle wird jetzt auch in der Suche markiert.
+- Das Menü bei Abfahrten wurde überarbeitet.
+- Ein Fehler wurde behoben, der die App beim Laden einiger Verbindungen zum Absturz brachte.
+- Allgemeine Verbesserungen
 
 ## Version 4.2.2
 **Veröffentlicht:** 13.06.2024 19:31
@@ -384,8 +391,8 @@
 
 - Neues App Icon "Modern Schwarz"
 
-## Version 4.2.0
-**Veröffentlicht:** 10.06.2024 11:36
+## Version null
+**Veröffentlicht:** – No release date available
 
 - „Synchronisieren“ wurde in „Backups“ umbenannt. Es ist jetzt möglich, unbegrenzt viele verschiedene iCloud Backups zu erstellen und zu verwalten. Nutzer können jetzt ihre Backups mit einer komplett neuen Oberfläche verwalten und wiederherstellen. 
 - Auf der Fahrtverlauf Karte werden jetzt Abfahrtszeiten angezeigt.
@@ -897,28 +904,10 @@
 ## Version 2.0.1
 **Veröffentlicht:** 15.07.2023 00:02
 
-- Option zum auswählen der Ansicht beim App Start hinzugefügt.
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 2.0
 **Veröffentlicht:** 12.07.2023 08:34
 
-- Bahnfinder 2 ist das Umfangreichste Update bisher und macht Bahnfinder noch schneller, übersichtlicher und schöner.
-- Das ist neu: 
-- Neues, übersichtlicheres Aussehen durch differenzierte Farben und weiteren Anpassungen.
-- Neue Design Optionen
-- 2 neue Design Pakete 
-- „Automatisch folgen“: Mit der Funktion „Automatisch folgen“ werden dir jederzeit Abfahrten der nächsten Haltestelle angezeigt, während du dich fortbewegst.
-- „Automatisch suchen“: Suche deine Verbindung automatisch, sobald du eine Start und Zielhaltestelle ausgewählt hast. 
-- Linien können unter Abfahrten ausgeblendet werden.
-- Mehr Informationen bei Verbindungen 
-- Eigene Icons bei Haltestellen Favoriten
-- Ankünfte bei Haltestellen  
-- Verbesserte Unterstützung für Rufbusse
-- Gehzeit in Minuten 
-- Karte bei Verbindung
-- Erhebliche Leistungsverbesserungen
-- Und viele weitere kleine Änderungen…
 
 ## Version 1.5.6
 **Veröffentlicht:** 06.06.2023 17:36
@@ -1056,7 +1045,6 @@
 ## Version 1.0.12
 **Veröffentlicht:** 18.04.2023 00:53
 
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.0.11
 **Veröffentlicht:** 17.04.2023 01:22
