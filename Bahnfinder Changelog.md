@@ -894,8 +894,8 @@
 - Designverbesserungen
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 2.0.2
-**Veröffentlicht:** 20.07.2023 03:14
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Konfigurationen von ausgeblendeten Linien können ab sofort gespeichert werden.
 - Favoriten Symbole werden in Abfahrten gezeigt.
