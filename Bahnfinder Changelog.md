@@ -772,8 +772,6 @@
 ## Version 2.2.13
 **Veröffentlicht:** 16.09.2023 02:03
 
-- Neue Tipps.
-- Allgemeine Verbesserungen
 
 ## Version 2.2.12
 **Veröffentlicht:** 15.09.2023 08:35
@@ -881,8 +879,8 @@
 - Neue Option, zum ausblenden des "Suchen" Button, wenn "Automatische Suche" aktiviert ist.
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 2.0.4
-**Veröffentlicht:** 24.07.2023 00:19
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Fehlerbehebungen
 
@@ -946,8 +944,8 @@
 - Die Zeit einer gesuchten Verbindung wird jetzt im Verlauf angezeigt.
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.5.3
-**Veröffentlicht:** 26.05.2023 04:25
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -1040,7 +1038,6 @@
 ## Version 1.1.3
 **Veröffentlicht:** 27.04.2023 03:25
 
-- Allgemeine Verbesserungen und Fehlerbehebungen.
 
 ## Version 1.1.2
 **Veröffentlicht:** 25.04.2023 04:22
