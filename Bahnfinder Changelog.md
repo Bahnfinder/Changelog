@@ -134,8 +134,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 6
-**Veröffentlicht:** 27.01.2025 01:01
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Karten
 - • Karten für den Fahrtverlauf und Verbindungen wurden komplett überarbeitet
@@ -509,8 +509,8 @@
 - Die Darstellung von lokalen Backups wurde verbessert.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.2
+**Veröffentlicht:** 15.03.2024 12:35
 
 - Erweiterte Diagnosedaten können jetzt per Mail gesendet werden.
 - Allgemeine Verbesserungen
@@ -669,9 +669,6 @@
 ## Version 2.3.9
 **Veröffentlicht:** 22.10.2023 16:09
 
-- Die Darstellung des Fahrtfortschritts im Fahrtverlauf markiert jetzt die Haltestelle, an dem sich das Fahrzeug gerade befindet.
-- Eine neue Verbindungsoption „Minimale Umsteigezeit“ wurde hinzugefügt.
-- Allgemeine Verbesserungen
 
 ## Version 2.3.8
 **Veröffentlicht:** 20.10.2023 17:31
@@ -1037,8 +1034,8 @@
 - Falls die Haltestelle, die beim Start der App gefunden wurde, durch eine andere ersetzt werden soll, können Ausnahmen erstellt werden.
 - Allgemeine Verbesserungen und Fehlerbehebungen wurden durchgeführt.
 
-## Version 1.1.3
-**Veröffentlicht:** 27.04.2023 03:25
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
