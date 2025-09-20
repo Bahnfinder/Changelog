@@ -470,6 +470,8 @@
 ## Version 4.1.8
 **Veröffentlicht:** 23.03.2024 00:08
 
+- Backups und weitere Dateien können jetzt über die „Dateien“ App ausgetauscht werden
+- Layout Anpassungen für kleinere Geräte
 
 ## Version 4.1.7
 **Veröffentlicht:** 22.03.2024 01:08
@@ -846,8 +848,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 2.2
-**Veröffentlicht:** 09.08.2023 20:22
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Dieses Update enthält interne Optimierungen, die Bahnfinder noch schneller und stabiler machen.
 - Neues, optionales Layout für eine verbesserte einhändige Bedienung. (Vorerst nur bei Abfahrten)
@@ -1043,7 +1045,6 @@
 ## Version 1.1.2
 **Veröffentlicht:** 25.04.2023 04:22
 
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.1.1
 **Veröffentlicht:** 21.04.2023 20:55
