@@ -86,7 +86,6 @@
 ## Version 6.0.9
 **Veröffentlicht:** 12.02.2025 03:24
 
-- Ein Fehler wurde behoben, der in manchen Situationen zum Einfrieren und Abstürzen der App führte.
 
 ## Version 6.0.8
 **Veröffentlicht:** 12.02.2025 01:08
