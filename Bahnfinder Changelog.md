@@ -111,8 +111,8 @@
 - Das Setup wurde verbessert
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.0.4
+**Veröffentlicht:** 01.02.2025 23:31
 
 - Zu lange Gleisnummern im Verbindungsdetail werden jetzt separat dargestellt, wenn der Platz nicht ausreicht
 - Allgemeine Verbesserungen
@@ -811,8 +811,8 @@
 
 - Allgemeine Verbesserungen 
 
-## Version 2.2.6
-**Veröffentlicht:** 01.09.2023 00:40
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Kleine Designänderungen
 - Allgemeine Verbesserungen
@@ -927,8 +927,8 @@
 - Erhebliche Leistungsverbesserungen
 - Und viele weitere kleine Änderungen…
 
-## Version 1.5.6
-**Veröffentlicht:** 06.06.2023 17:36
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Einrichtung wurde verbessert.
 - Ein Fehler wurde behoben, der eventuell dazu führte, dass Favoriten eines Verkehrsnetzes mit anderen Verkehrsnetzen vermischt wurden.
@@ -1104,8 +1104,8 @@
 - Anschlüsse können ab sofort von einer Verbindung aus durch tippen auf den Haltestellen Namen abgerufen werden.
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.0.4
+**Veröffentlicht:** 05.04.2023 04:18
 
 - KVV als Verkehrsnetz hinzugefügt.
 - Setup Assistenten hinzugefügt.
