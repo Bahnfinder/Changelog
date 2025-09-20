@@ -244,6 +244,16 @@
 ## Version 5.1
 **Veröffentlicht:** 20.09.2024 01:55
 
+- Neue Verkehrsnetze: VVS, NRW, VVV & Südtirolmobil
+- Du wirst jetzt automatisch darauf hingewiesen, das Verkehrsnetz zu wechseln, wenn du dich in einem anderen Gebiet befindest. 
+- Einstellungen zeigen dir jetzt empfohlene Netze sowie alle weiteren, nach Ländern sortiert.
+- Neues App Icon: „Holz“
+- Symboleffekte wurden hinzugefügt.
+- Die aktuellen Einstellungen für automatische Backups werden in den Einstellungen besser dargestellt.
+- Einige Elemente der App wurden vereinheitlicht. 
+- Neue Symbole für „Abfahrt“ und „Ankunft“
+- Anpassungen für iOS 18
+- Allgemeine Verbesserungen
 
 ## Version 5.0.3
 **Veröffentlicht:** 06.09.2024 03:16
@@ -361,8 +371,8 @@
 
 - Die Geschwindigkeit von iCloud Backups wurde erheblich verbessert.
 
-## Version 4.2.3
-**Veröffentlicht:** 14.06.2024 12:07
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Nutzer werden ab jetzt darauf hingewiesen, wenn sie sich in einer nicht unterstützen Region befinden.
 - Die nächste Haltestelle wird jetzt auch in der Suche markiert.
@@ -511,8 +521,8 @@
 - Neue Verkehrsnetze hinzugefügt: MVG (Märkischer Kreis), VMS, VMV, VRN
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1
+**Veröffentlicht:** 08.03.2024 13:33
 
 - Neuer „Synchronisieren“ Bildschirm.
 - Neue Option hinzugefügt, um im Suchverlauf die Interaktionsart einer Haltestelle anzuzeigen.
@@ -689,8 +699,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 2.3.3
-**Veröffentlicht:** 16.10.2023 20:33
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -933,6 +943,8 @@
 ## Version 1.5.4
 **Veröffentlicht:** 01.06.2023 03:49
 
+- Die Zeit einer gesuchten Verbindung wird jetzt im Verlauf angezeigt.
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.5.3
 **Veröffentlicht:** 26.05.2023 04:25
