@@ -322,6 +322,8 @@
 ## Version 4.3.3
 **Veröffentlicht:** 24.06.2024 21:40
 
+- Push Benachrichtigungen können jetzt während der Einrichtung aktiviert werden.
+- Allgemeine Verbesserungen 
 
 ## Version 4.3.2
 **Veröffentlicht:** 23.06.2024 16:44
@@ -419,8 +421,8 @@
 - Die Darstellung des Standortpfeils wurde verbessert.
 - Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.16
+**Veröffentlicht:** 16.05.2024 00:09
 
 - MVV: Nachtbusse werden jetzt in einer spezifischen Farbe dargestellt (Lässt sich deaktivieren)
 
@@ -576,8 +578,8 @@
 - Fehlerbehebungen
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 3.1.1
+**Veröffentlicht:** 02.02.2024 12:41
 
 - Allgemeine Verbesserungen
 
@@ -657,8 +659,8 @@
 - Option: Energiesparende Standortermittlung
 - Allgemeine Verbesserungen 
 
-## Version 2.3.10
-**Veröffentlicht:** 28.10.2023 19:18
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Darstellung des Standortpfeils wurde verbessert.
 - Die Haltestellensymbol UI wurde verbessert.
@@ -882,7 +884,6 @@
 ## Version 2.0.4
 **Veröffentlicht:** 24.07.2023 00:19
 
-- Fehlerbehebungen
 
 ## Version 2.0.3
 **Veröffentlicht:** 21.07.2023 01:29
@@ -1021,6 +1022,7 @@
 ## Version 1.2.2
 **Veröffentlicht:** 09.05.2023 13:10
 
+- Fehlerbehebungen
 
 ## Version 1.2.1
 **Veröffentlicht:** 08.05.2023 23:07
@@ -1052,10 +1054,6 @@
 ## Version 1.1.0
 **Veröffentlicht:** 21.04.2023 06:06
 
-- Verbindung anpinnen: Deine ausgewählte Route wird gespeichert und bleibt bis zum Ende deiner Fahrt oben angeheftet. Mit nur einem Klick kannst du sie jederzeit wieder aufrufen.
-- Designpaket „Glas“ wurde für den hellen Modus optimiert.
-- Dein aktueller Standort bei Abfahrten wird nun automatisch aktualisiert.
-- Allgemeine Verbesserungen und Fehlerbehebungen.
 
 ## Version 1.0.12
 **Veröffentlicht:** 18.04.2023 00:53
