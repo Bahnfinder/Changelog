@@ -181,8 +181,8 @@
 
 - Verbesserungen für das DB Verkehrsnetz
 
-## Version 5.1.11
-**Veröffentlicht:** 15.01.2025 00:41
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Dieses Update enthält API Updates für das Deutsche Bahn Verkehrsnetz, welches jetzt wieder wie erwartet funktioniert!
 
@@ -476,10 +476,6 @@
 ## Version 4.1.7
 **Veröffentlicht:** 22.03.2024 01:08
 
-- Neue Option: Erweiterte Analyse
-- Daten wie beispielsweise Lokale Backups können jetzt über iTunes ausgetauscht werden.
-- Neues App Icon: „Bahnfindi“
-- iCloud Synchronisierung wurde optimiert 
 
 ## Version 4.1.6
 **Veröffentlicht:** 21.03.2024 13:16
