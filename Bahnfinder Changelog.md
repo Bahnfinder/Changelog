@@ -333,7 +333,6 @@
 ## Version 4.3.1
 **Veröffentlicht:** 23.06.2024 01:00
 
-- Kleine Anpassungen bei der Einrichtung
 
 ## Version 4.3.0
 **Veröffentlicht:** 21.06.2024 08:52
@@ -543,22 +542,6 @@
 ## Version 4.0
 **Veröffentlicht:** 26.02.2024 15:09
 
-- Bahnfinder 4 kommt mit spannenden Neuerungen, die deinen Alltag noch besser und einfacher machen. Zu den größten Neuerungen gehören:
-- Erinnerungen: Lasse dich rechtzeitig an Abfahrten erinnern.
-- Neuer „Synchronisieren“ Tab: „iCloud“ heisst jetzt „Synchronisieren“. Du kannst jetzt sowohl iCloud als auch Lokale Backups erstellen und wiederherstellen und diese sogar in andere Apps exportieren.
-- Menü.
-- Verbindungen direkt aus dem Fahrtverlauf suchen: Du kannst über das 3D Touch Menü eine bestimmte Haltestelle als Ziel auswählen und schnell eine Verbindungssuche starten.
-- Modus für noch effizienteres Multitasking.
-- Weitere Neuerungen: 
-- Neue Einstellungen für Haltestellen vorlesen: Personalisiere die Ansagen der Haltestellennamen mit neuen Einstellungsmöglichkeiten.
-- Neue Einstellungen für Wichtige Haltestellen: Markiere und verwalte wichtige Haltestellen direkt in den Einstellungen.
-- Option: Suche sortieren nach Distanz: Finde jetzt Haltestellen und Verbindungen, sortiert nach der Entfernung zu deinem Standort.
-- Verbesserte Suche: Die Optionen „Automatische Suche“ und „Suchen Button ausblenden“ wurden für eine intuitive Nutzung kombiniert.
-- Option: Standortpfeil im Fahrtverlauf: Lasse dir deinen aktuellen Standort im Fahrtverlauf mit einem Pfeil neben dem Haltestellennamen anzeigen.
-- Verbesserte Kategorien in den Einstellungen: Finde Einstellungen schneller mit den neu organisierten Kategorien.
-- Hinweis für Haltestellenansagen: Erhalte einen Hinweis beim Start, wenn „Nur wichtige Haltestellen vorlesen“ aktiviert ist.
-- Synchronisierung zu begrenzen, um Daten und Batterieverbrauch zu reduzieren. 
-- Allgemeine Verbesserungen
 
 ## Version 3.1.4
 **Veröffentlicht:** 15.02.2024 16:58
@@ -769,8 +752,8 @@
 - Mit der Funktion "Notfallsuche" wird versucht, stets eine Verbindung für dich zu finden. Selbst in Situationen wie späten Stunden in einem entlegenen Dorf werden dir beispielsweise lange Fußwege zum nächsten Ort vorgeschlagen, um in jedem Fall nach Hause zu kommen.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.13
+**Veröffentlicht:** 16.09.2023 02:03
 
 - Neue Tipps.
 - Allgemeine Verbesserungen
@@ -781,8 +764,8 @@
 - Verbesserungen für das Liniendesign
 - Allgemeine Verbesserungen
 
-## Version 2.2.11
-**Veröffentlicht:** 14.09.2023 01:16
+## Version null
+**Veröffentlicht:** – No release date available
 
 - iOS 17 Kompatibilität
 - 3D Optionen wurden zur Karte hinzugefügt.
@@ -826,6 +809,11 @@
 ## Version 2.2.4
 **Veröffentlicht:** 30.08.2023 12:04
 
+- Die Anzeige der Umsteigezeit ist nun in den Verbindungsdetails sichtbar.
+- Das Layout der Abfahrtszeiten wurde optimiert, um eine höhere Anzahl von Abfahrten gleichzeitig anzeigen zu können.
+- Die Suchgeschwindigkeit wurde signifikant erhöht.
+- Ein neuer Hinweisdialog informiert Benutzer, wenn sie sich in einem Gebiet mit Verkehrsnetz befinden, das derzeit nicht ausgewählt ist.
+- Allgemeine Verbesserungen
 
 ## Version 2.2.3
 **Veröffentlicht:** 17.08.2023 11:24
@@ -1015,8 +1003,8 @@
 - Verbesserung für Ausfälle
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.2.2
-**Veröffentlicht:** 09.05.2023 13:10
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Fehlerbehebungen
 
