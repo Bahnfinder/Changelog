@@ -306,8 +306,8 @@
 
 - Ein Fehler wurde behoben, der dazu führte, dass unter bestimmten Umständen ein Lokales Backup beim einrichten von Bahnfinder nicht wiederhergestellt werden konnte.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.4.1
+**Veröffentlicht:** 01.07.2024 17:20
 
 - Ein Neustart der App wird jetzt vorausgesetzt, um das Verkehrsnetz zu wechseln.
 - Fehlerbehebungen
@@ -356,10 +356,6 @@
 ## Version 4.2.6
 **Veröffentlicht:** 18.06.2024 02:47
 
-- Anpassungen und Fehlerbehebungen für iPad
-- Anpassungen und Fehlerbehebungen für Mac
-- Die Funktion „Legacy iCloud Synchronisierung“ wurde entfernt.
-- Allgemeine Verbesserungen
 
 ## Version 4.2.5
 **Veröffentlicht:** 17.06.2024 10:46
@@ -592,8 +588,8 @@
 - Verbesserte Darstellung von Linienwegen auf der Karte
 - Allgemeine Verbesserungen
 
-## Version 3.0.2
-**Veröffentlicht:** 25.01.2024 15:35
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Haltestellen vorlesen liest jetzt auch die Abfahrtszeit vor.
 - Neue Option: „Verbindungsdetail Live aktualisieren“
@@ -826,6 +822,11 @@
 ## Version 2.2.4
 **Veröffentlicht:** 30.08.2023 12:04
 
+- Die Anzeige der Umsteigezeit ist nun in den Verbindungsdetails sichtbar.
+- Das Layout der Abfahrtszeiten wurde optimiert, um eine höhere Anzahl von Abfahrten gleichzeitig anzeigen zu können.
+- Die Suchgeschwindigkeit wurde signifikant erhöht.
+- Ein neuer Hinweisdialog informiert Benutzer, wenn sie sich in einem Gebiet mit Verkehrsnetz befinden, das derzeit nicht ausgewählt ist.
+- Allgemeine Verbesserungen
 
 ## Version 2.2.3
 **Veröffentlicht:** 17.08.2023 11:24
@@ -1028,6 +1029,9 @@
 ## Version 1.2.0
 **Veröffentlicht:** 06.05.2023 00:35
 
+- Ab sofort kann die Starthaltestelle ausgetauscht werden.
+- Falls die Haltestelle, die beim Start der App gefunden wurde, durch eine andere ersetzt werden soll, können Ausnahmen erstellt werden.
+- Allgemeine Verbesserungen und Fehlerbehebungen wurden durchgeführt.
 
 ## Version 1.1.3
 **Veröffentlicht:** 27.04.2023 03:25
