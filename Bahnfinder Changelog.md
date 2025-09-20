@@ -404,6 +404,9 @@
 ## Version 4.1.19
 **Veröffentlicht:** 20.05.2024 19:02
 
+- Das App Icon „Weiss Inline“ heisst jetzt „Modern Weiß“
+- Fehlerbehebungen
+- Allgemeine Verbesserungen
 
 ## Version 4.1.18
 **Veröffentlicht:** 18.05.2024 21:41
@@ -886,10 +889,6 @@
 ## Version 2.0.3
 **Veröffentlicht:** 21.07.2023 01:29
 
-- VVO hinzugefügt
-- Anzeige der Favoriten Symbole verbessert
-- Designverbesserungen
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 2.0.2
 **Veröffentlicht:** 20.07.2023 03:14
@@ -1008,8 +1007,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.3.0
+**Veröffentlicht:** 10.05.2023 14:19
 
 - Zwischenstopps hinzugefügt
 - Verbindungen: Abfahrt oder Ankunftszeit kann ausgewählt werden
