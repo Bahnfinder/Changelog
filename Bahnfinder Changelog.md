@@ -211,15 +211,14 @@
 ## Version 5.1.6
 **Veröffentlicht:** 16.12.2024 13:31
 
-- Die Linienfarben für die S5 (MVV) wurden hinzugefügt.
 
 ## Version 5.1.5
 **Veröffentlicht:** 10.12.2024 05:15
 
 - Neues App Icon: „Weihnachten 2024“
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.1.4
+**Veröffentlicht:** 27.11.2024 00:19
 
 - Das VMV Verkehrsnetz funktioniert jetzt wieder wie erwartet
 - Allgemeine Verbesserungen
@@ -322,8 +321,6 @@
 ## Version 4.3.3
 **Veröffentlicht:** 24.06.2024 21:40
 
-- Push Benachrichtigungen können jetzt während der Einrichtung aktiviert werden.
-- Allgemeine Verbesserungen 
 
 ## Version 4.3.2
 **Veröffentlicht:** 23.06.2024 16:44
@@ -401,8 +398,8 @@
 - Ein Fehler wurde behoben, der dazu führte, dass die Liniensymbole nach einer Wiederherstellung nicht angezeigt wurden.
 - Allgemeine Verbesserungen
 
-## Version 4.1.19
-**Veröffentlicht:** 20.05.2024 19:02
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Das App Icon „Weiss Inline“ heisst jetzt „Modern Weiß“
 - Fehlerbehebungen
@@ -686,6 +683,7 @@
 ## Version 2.3.6
 **Veröffentlicht:** 18.10.2023 23:24
 
+- Fehlerbehebungen
 
 ## Version 2.3.5
 **Veröffentlicht:** 18.10.2023 17:03
@@ -883,7 +881,6 @@
 ## Version 2.0.4
 **Veröffentlicht:** 24.07.2023 00:19
 
-- Fehlerbehebungen
 
 ## Version 2.0.3
 **Veröffentlicht:** 21.07.2023 01:29
@@ -971,8 +968,8 @@
 - Ein Fehler bei der Standortsuche wurde behoben
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.4.0
-**Veröffentlicht:** 17.05.2023 02:42
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Automatische Suche bei Verbindungen hinzugefügt
 - Stabilitätsverbesserungen
@@ -1005,8 +1002,8 @@
 
 - Stabilität erheblich verbessert
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.3.1
+**Veröffentlicht:** 11.05.2023 03:36
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
@@ -1064,8 +1061,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.0.11
+**Veröffentlicht:** 17.04.2023 01:22
 
 - Fehlerbehebungen
 
