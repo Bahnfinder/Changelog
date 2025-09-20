@@ -860,6 +860,11 @@
 ## Version 2.1.2
 **Veröffentlicht:** 01.08.2023 09:16
 
+- Linieninfos: Mit "Linieninfos" (Beta) erfährst du alles Wissenswerte über deine Linien. Hier kannst du nachschlagen, welche Distanz ein Fahrzeug zurücklegt, wie lange es insgesamt fährt und vieles mehr.
+- Neues Symbol für veränderte Verbindungsoptionen.
+- Bei „Linien ausblenden“ können nun alle Linien mit einen Knopfdruck ausgeblendet oder eingeblendet werden.
+- Neue Favoriten Symbole 
+- Allgemeine Verbesserungen
 
 ## Version 2.1.1
 **Veröffentlicht:** 28.07.2023 19:11
@@ -905,6 +910,22 @@
 ## Version 2.0
 **Veröffentlicht:** 12.07.2023 08:34
 
+- Bahnfinder 2 ist das Umfangreichste Update bisher und macht Bahnfinder noch schneller, übersichtlicher und schöner.
+- Das ist neu: 
+- Neues, übersichtlicheres Aussehen durch differenzierte Farben und weiteren Anpassungen.
+- Neue Design Optionen
+- 2 neue Design Pakete 
+- „Automatisch folgen“: Mit der Funktion „Automatisch folgen“ werden dir jederzeit Abfahrten der nächsten Haltestelle angezeigt, während du dich fortbewegst.
+- „Automatisch suchen“: Suche deine Verbindung automatisch, sobald du eine Start und Zielhaltestelle ausgewählt hast. 
+- Linien können unter Abfahrten ausgeblendet werden.
+- Mehr Informationen bei Verbindungen 
+- Eigene Icons bei Haltestellen Favoriten
+- Ankünfte bei Haltestellen  
+- Verbesserte Unterstützung für Rufbusse
+- Gehzeit in Minuten 
+- Karte bei Verbindung
+- Erhebliche Leistungsverbesserungen
+- Und viele weitere kleine Änderungen…
 
 ## Version 1.5.6
 **Veröffentlicht:** 06.06.2023 17:36
@@ -1034,6 +1055,10 @@
 ## Version 1.1.0
 **Veröffentlicht:** 21.04.2023 06:06
 
+- Verbindung anpinnen: Deine ausgewählte Route wird gespeichert und bleibt bis zum Ende deiner Fahrt oben angeheftet. Mit nur einem Klick kannst du sie jederzeit wieder aufrufen.
+- Designpaket „Glas“ wurde für den hellen Modus optimiert.
+- Dein aktueller Standort bei Abfahrten wird nun automatisch aktualisiert.
+- Allgemeine Verbesserungen und Fehlerbehebungen.
 
 ## Version 1.0.12
 **Veröffentlicht:** 18.04.2023 00:53
@@ -1073,8 +1098,8 @@
 - Ein kritischer Fehler, der die App an bestimmten Standorten zum Absturz brachte, wurde behoben.
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.0.5
-**Veröffentlicht:** 06.04.2023 04:16
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Anschlüsse können ab sofort von einer Verbindung aus durch tippen auf den Haltestellen Namen abgerufen werden.
 - Allgemeine Verbesserungen und Fehlerbehebungen.
