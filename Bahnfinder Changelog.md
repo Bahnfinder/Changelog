@@ -111,8 +111,8 @@
 - Das Setup wurde verbessert
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.0.4
+**Veröffentlicht:** 01.02.2025 23:31
 
 - Zu lange Gleisnummern im Verbindungsdetail werden jetzt separat dargestellt, wenn der Platz nicht ausreicht
 - Allgemeine Verbesserungen
@@ -137,12 +137,42 @@
 ## Version 6
 **Veröffentlicht:** 27.01.2025 01:01
 
+- Karten
+- • Karten für den Fahrtverlauf und Verbindungen wurden komplett überarbeitet
+- • Haltestellennamen sind jetzt direkt sichtbar
+- • Übersichtlicheres Design
+- • Erweiterte Informationen für Verbindungen z.B. Umstiege
+- Neues Design
+- • Überarbeitete App Icon Einstellungen
+- • Realistischer Timer bei „Erinnerungen“
+- • „Poof“ Effekt beim entfernen von angepinnten Verbindungen oder Abfahrten
+- • Eingefärbte Einstellungen
+- • Und viele weitere
+- Besuchte Haltestellen
+- • Du kannst deine besuchten Haltestellen in einer Liste oder auf einer Karte ansehen
+- • Verschiedene Optionen zum Sortieren
+- • Du kannst sehen, auf welchem Platz deiner meistbesuchten Haltestellen eine bestimmte Haltestelle ist
+- • Kalenderansicht zeigt Datum und Uhrzeit deiner Haltestellenbesuche
+- • Du kannst außerdem sehen, wie oft du mit einer Haltestelle interagiert hast
+- Live Map (Beta)
+- • Verfolge dein Fahrzeug in Echtzeit auf einer Karte
+- • Funktioniert momentan nur in Bayern mit bestimmten Fahrzeugen
+- Sekundengenaue Abfahrtszeiten
+- • Unterstützte Fahrzeuge werden sekundengenau angezeigt (Kommt in einem späteren Update)
+- Screenshot teilen
+- • Du kannst deine Verbindung jetzt bequem mit deinen Freunden teilen
+- Neue Symbole für Favoriten
+- • Mit 29 neuen Symbolen kannst du deine favorisierten Haltestellen noch individueller gestalten
+- Neue App Icons
+- • „Modern Rot (hell / dunkel)“, „Modern Schwarz Vibrant“
+- Verbesserungen bei VoiceOver
+- Neuer Splash Screen beim einrichten der App
+- Neues Verkehrsnetz: NAH.SH
+- Über 60 weitere Neuerungen machen Bahnfinder noch besser und schneller
 
 ## Version 5.1.13
 **Veröffentlicht:** 21.01.2025 01:11
 
-- Die Auslastung wird jetzt verbessert dargestellt
-- Verbesserungen für das DB Verkehrsnetz
 
 ## Version 5.1.12
 **Veröffentlicht:** 18.01.2025 05:03
@@ -392,6 +422,7 @@
 ## Version 4.1.16
 **Veröffentlicht:** 16.05.2024 00:09
 
+- MVV: Nachtbusse werden jetzt in einer spezifischen Farbe dargestellt (Lässt sich deaktivieren)
 
 ## Version 4.1.15
 **Veröffentlicht:** 15.05.2024 22:58
@@ -510,6 +541,22 @@
 ## Version 4.0
 **Veröffentlicht:** 26.02.2024 15:09
 
+- Bahnfinder 4 kommt mit spannenden Neuerungen, die deinen Alltag noch besser und einfacher machen. Zu den größten Neuerungen gehören:
+- Erinnerungen: Lasse dich rechtzeitig an Abfahrten erinnern.
+- Neuer „Synchronisieren“ Tab: „iCloud“ heisst jetzt „Synchronisieren“. Du kannst jetzt sowohl iCloud als auch Lokale Backups erstellen und wiederherstellen und diese sogar in andere Apps exportieren.
+- Menü.
+- Verbindungen direkt aus dem Fahrtverlauf suchen: Du kannst über das 3D Touch Menü eine bestimmte Haltestelle als Ziel auswählen und schnell eine Verbindungssuche starten.
+- Modus für noch effizienteres Multitasking.
+- Weitere Neuerungen: 
+- Neue Einstellungen für Haltestellen vorlesen: Personalisiere die Ansagen der Haltestellennamen mit neuen Einstellungsmöglichkeiten.
+- Neue Einstellungen für Wichtige Haltestellen: Markiere und verwalte wichtige Haltestellen direkt in den Einstellungen.
+- Option: Suche sortieren nach Distanz: Finde jetzt Haltestellen und Verbindungen, sortiert nach der Entfernung zu deinem Standort.
+- Verbesserte Suche: Die Optionen „Automatische Suche“ und „Suchen Button ausblenden“ wurden für eine intuitive Nutzung kombiniert.
+- Option: Standortpfeil im Fahrtverlauf: Lasse dir deinen aktuellen Standort im Fahrtverlauf mit einem Pfeil neben dem Haltestellennamen anzeigen.
+- Verbesserte Kategorien in den Einstellungen: Finde Einstellungen schneller mit den neu organisierten Kategorien.
+- Hinweis für Haltestellenansagen: Erhalte einen Hinweis beim Start, wenn „Nur wichtige Haltestellen vorlesen“ aktiviert ist.
+- Synchronisierung zu begrenzen, um Daten und Batterieverbrauch zu reduzieren. 
+- Allgemeine Verbesserungen
 
 ## Version 3.1.4
 **Veröffentlicht:** 15.02.2024 16:58
