@@ -173,6 +173,8 @@
 ## Version 5.1.13
 **Veröffentlicht:** 21.01.2025 01:11
 
+- Die Auslastung wird jetzt verbessert dargestellt
+- Verbesserungen für das DB Verkehrsnetz
 
 ## Version 5.1.12
 **Veröffentlicht:** 18.01.2025 05:03
@@ -869,8 +871,8 @@
 
 - Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.1
+**Veröffentlicht:** 27.07.2023 15:20
 
 - Neues Design in "Verbindung".
 - Verkehrsnetz spezifische Einstellungen hinzugefügt.
