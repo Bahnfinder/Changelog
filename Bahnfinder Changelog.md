@@ -28,8 +28,8 @@
 - Die Berechnung der Größe von lokalen Backups ist jetzt stabiler
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.1.3
+**Veröffentlicht:** 19.05.2025 15:18
 
 - Die Anzahl von Backups wird jetzt angezeigt
 - Die Backup Einstellungen laden jetzt deutlich schneller, selbst bei vielen Backups 
@@ -170,8 +170,8 @@
 - Neues Verkehrsnetz: NAH.SH
 - Über 60 weitere Neuerungen machen Bahnfinder noch besser und schneller
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.1.13
+**Veröffentlicht:** 21.01.2025 01:11
 
 - Die Auslastung wird jetzt verbessert dargestellt
 - Verbesserungen für das DB Verkehrsnetz
@@ -669,6 +669,9 @@
 ## Version 2.3.9
 **Veröffentlicht:** 22.10.2023 16:09
 
+- Die Darstellung des Fahrtfortschritts im Fahrtverlauf markiert jetzt die Haltestelle, an dem sich das Fahrzeug gerade befindet.
+- Eine neue Verbindungsoption „Minimale Umsteigezeit“ wurde hinzugefügt.
+- Allgemeine Verbesserungen
 
 ## Version 2.3.8
 **Veröffentlicht:** 20.10.2023 17:31
@@ -691,8 +694,8 @@
 - Die Darstellung des Standortpfeils wurde verbessert.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.4
+**Veröffentlicht:** 17.10.2023 12:02
 
 - Allgemeine Verbesserungen
 
