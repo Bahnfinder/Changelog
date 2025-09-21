@@ -586,6 +586,11 @@
 ## Version 3.1
 **Veröffentlicht:** 01.02.2024 16:55
 
+- Du kannst ab sofort spenden, um die weitere Entwicklung von Bahnfinder zu unterstützen :)
+- Neue Favoriten Symbole hinzugefügt
+- Neues Design für die iCloud Einstellungen und info
+- Verbesserte Darstellung von Linienwegen auf der Karte
+- Allgemeine Verbesserungen
 
 ## Version 3.0.2
 **Veröffentlicht:** 25.01.2024 15:35
@@ -745,8 +750,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 2.2.16
-**Veröffentlicht:** 20.09.2023 02:35
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Darstellung zweifarbiger Linien wurde verbessert.
 - Updates für Linieninfos
@@ -832,8 +837,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 2.2.2
-**Veröffentlicht:** 14.08.2023 09:53
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neues Menü zur Schnellauswahl bei der Haltestellensuche.
 - Allgemeine Verbesserungen
@@ -889,8 +894,8 @@
 - Designverbesserungen
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.0.2
+**Veröffentlicht:** 20.07.2023 03:14
 
 - Konfigurationen von ausgeblendeten Linien können ab sofort gespeichert werden.
 - Favoriten Symbole werden in Abfahrten gezeigt.
@@ -982,6 +987,7 @@
 ## Version 1.3.5
 **Veröffentlicht:** 16.05.2023 00:53
 
+- Fehlerbehebungen und Stabilitätsverbesserungen
 
 ## Version 1.3.4
 **Veröffentlicht:** 13.05.2023 10:27
