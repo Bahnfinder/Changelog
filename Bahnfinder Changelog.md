@@ -291,8 +291,8 @@
 
 - Das BVG Verkehrsnetz funktioniert jetzt wieder wie erwartet.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.4.4
+**Veröffentlicht:** 11.07.2024 03:33
 
 - Fehlerbehebungen
 
@@ -458,6 +458,9 @@
 ## Version 4.1.10
 **Veröffentlicht:** 07.05.2024 14:53
 
+- Nach einer umfassenden internen Umstrukturierung bietet Bahnfinder nun verbesserte Zuverlässigkeit, mehr Geschwindigkeit und erleichterte Wartung für den Entwickler.
+- Der „Bahnfinder“ Text unter Info wurde verschönert.
+- Allgemeine Verbesserungen
 
 ## Version 4.1.9
 **Geplant:** 01.04.2024 00:00
@@ -645,8 +648,6 @@
 ## Version 2.3.12
 **Veröffentlicht:** 31.10.2023 20:40
 
-- Ausgefallene Fahrzeuge werden jetzt bei Verbindungen angezeigt.
-- Allgemeine Verbesserungen 
 
 ## Version 2.3.11
 **Veröffentlicht:** 30.10.2023 19:06
@@ -691,8 +692,8 @@
 - Die Darstellung des Standortpfeils wurde verbessert.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.4
+**Veröffentlicht:** 17.10.2023 12:02
 
 - Allgemeine Verbesserungen
 
@@ -709,8 +710,8 @@
 - „Karte“ und „Anpinnen“ wurden im Verbindungsdetail getauscht, um einheitlich mit dem Fahrtverlauf dargestellt zu werden.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.1
+**Veröffentlicht:** 12.10.2023 12:23
 
 - Im Verbindungsdetail wird jetzt die Ankunft in Minuten gezeigt.
 - Verbesserte Darstellung von Zeiten.
@@ -857,11 +858,6 @@
 ## Version 2.1.2
 **Veröffentlicht:** 01.08.2023 09:16
 
-- Linieninfos: Mit "Linieninfos" (Beta) erfährst du alles Wissenswerte über deine Linien. Hier kannst du nachschlagen, welche Distanz ein Fahrzeug zurücklegt, wie lange es insgesamt fährt und vieles mehr.
-- Neues Symbol für veränderte Verbindungsoptionen.
-- Bei „Linien ausblenden“ können nun alle Linien mit einen Knopfdruck ausgeblendet oder eingeblendet werden.
-- Neue Favoriten Symbole 
-- Allgemeine Verbesserungen
 
 ## Version 2.1.1
 **Veröffentlicht:** 28.07.2023 19:11
@@ -1022,8 +1018,8 @@
 
 - Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.2.1
+**Veröffentlicht:** 08.05.2023 23:07
 
 - Fehlerbehebungen
 
