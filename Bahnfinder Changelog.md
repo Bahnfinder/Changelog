@@ -496,8 +496,8 @@
 - Anpassungen an App Icons
 - Design Anpassungen
 
-## Version 4.1.4
-**Veröffentlicht:** 19.03.2024 16:44
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -532,8 +532,8 @@
 - Ab sofort wird nach jedem Bahnfinder Update automatisch ein lokales Backup erstellt. 
 - Allgemeine Verbesserungen
 
-## Version 4.0.1
-**Veröffentlicht:** 06.03.2024 01:56
+## Version null
+**Veröffentlicht:** – No release date available
 
 - 2 neue App Icons: „Mund“ und „Mitternacht Mund“
 - Die Fahrzeugnummer ist jetzt unter Linieninfos sichtbar. 
@@ -623,8 +623,8 @@
 - Die Suche ist jetzt noch schneller
 - Über 30 weitere Verbesserungen machen Bahnfinder noch noch schneller und zuverlässiger.
 
-## Version 2.3.16
-**Veröffentlicht:** 20.12.2023 09:49
+## Version null
+**Veröffentlicht:** – No release date available
 
 - 4 neue App Icons: „Vereiste Weihnachten“, „Vereiste Weihnachten Mund“, „Weihnachtsgeschenk“ und „Weihnachtsgeschenk Mund“.
 - Allgemeine Verbesserungen
@@ -686,7 +686,6 @@
 ## Version 2.3.6
 **Veröffentlicht:** 18.10.2023 23:24
 
-- Fehlerbehebungen
 
 ## Version 2.3.5
 **Veröffentlicht:** 18.10.2023 17:03
@@ -1023,7 +1022,6 @@
 ## Version 1.2.2
 **Veröffentlicht:** 09.05.2023 13:10
 
-- Fehlerbehebungen
 
 ## Version 1.2.1
 **Veröffentlicht:** 08.05.2023 23:07
