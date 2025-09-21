@@ -17,8 +17,8 @@
 - Designanpassungen
 - Allgemeine Verbesserungen
 
-## Version 6.1.5
-**Veröffentlicht:** 01.06.2025 23:30
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -123,8 +123,8 @@
 - Verbesserte Darstellung von Bahnhofsnamen
 - Allgemeine Verbesserungen
 
-## Version 6.0.2
-**Veröffentlicht:** 29.01.2025 15:04
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Verkehrsnetzsuche bei der Einrichtung kann jetzt abgebrochen werden.
 - Allgemeine Verbesserungen
@@ -712,8 +712,8 @@
 - „Karte“ und „Anpinnen“ wurden im Verbindungsdetail getauscht, um einheitlich mit dem Fahrtverlauf dargestellt zu werden.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.1
+**Veröffentlicht:** 12.10.2023 12:23
 
 - Im Verbindungsdetail wird jetzt die Ankunft in Minuten gezeigt.
 - Verbesserte Darstellung von Zeiten.
@@ -851,11 +851,6 @@
 ## Version 2.2
 **Veröffentlicht:** 09.08.2023 20:22
 
-- Dieses Update enthält interne Optimierungen, die Bahnfinder noch schneller und stabiler machen.
-- Neues, optionales Layout für eine verbesserte einhändige Bedienung. (Vorerst nur bei Abfahrten)
-- Ausgefallene Haltestellen werden jetzt unter Verbindungen angezeigt.
-- Neue Informationen bei „Linieninfos“: Längste und kürzeste Distanz zwischen zwei Haltestellen.
-- Allgemeine Verbesserungen 
 
 ## Version 2.1.2
 **Veröffentlicht:** 01.08.2023 09:16
@@ -949,7 +944,6 @@
 ## Version 1.5.3
 **Veröffentlicht:** 26.05.2023 04:25
 
-- Allgemeine Verbesserungen
 
 ## Version 1.5.2
 **Veröffentlicht:** 25.05.2023 04:40
