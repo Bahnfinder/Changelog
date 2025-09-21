@@ -37,8 +37,8 @@
 - Leistungsverbesserungen
 - Allgemeine Verbesserungen
 
-## Version 6.1.2
-**Veröffentlicht:** 18.05.2025 22:29
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Größe eines Backups wird jetzt angezeigt. Zusätzlich wird die relative Größe im Vergleich zu anderen Backups dargestellt
 - Allgemeine Verbesserungen
@@ -137,38 +137,6 @@
 ## Version 6
 **Veröffentlicht:** 27.01.2025 01:01
 
-- Karten
-- • Karten für den Fahrtverlauf und Verbindungen wurden komplett überarbeitet
-- • Haltestellennamen sind jetzt direkt sichtbar
-- • Übersichtlicheres Design
-- • Erweiterte Informationen für Verbindungen z.B. Umstiege
-- Neues Design
-- • Überarbeitete App Icon Einstellungen
-- • Realistischer Timer bei „Erinnerungen“
-- • „Poof“ Effekt beim entfernen von angepinnten Verbindungen oder Abfahrten
-- • Eingefärbte Einstellungen
-- • Und viele weitere
-- Besuchte Haltestellen
-- • Du kannst deine besuchten Haltestellen in einer Liste oder auf einer Karte ansehen
-- • Verschiedene Optionen zum Sortieren
-- • Du kannst sehen, auf welchem Platz deiner meistbesuchten Haltestellen eine bestimmte Haltestelle ist
-- • Kalenderansicht zeigt Datum und Uhrzeit deiner Haltestellenbesuche
-- • Du kannst außerdem sehen, wie oft du mit einer Haltestelle interagiert hast
-- Live Map (Beta)
-- • Verfolge dein Fahrzeug in Echtzeit auf einer Karte
-- • Funktioniert momentan nur in Bayern mit bestimmten Fahrzeugen
-- Sekundengenaue Abfahrtszeiten
-- • Unterstützte Fahrzeuge werden sekundengenau angezeigt (Kommt in einem späteren Update)
-- Screenshot teilen
-- • Du kannst deine Verbindung jetzt bequem mit deinen Freunden teilen
-- Neue Symbole für Favoriten
-- • Mit 29 neuen Symbolen kannst du deine favorisierten Haltestellen noch individueller gestalten
-- Neue App Icons
-- • „Modern Rot (hell / dunkel)“, „Modern Schwarz Vibrant“
-- Verbesserungen bei VoiceOver
-- Neuer Splash Screen beim einrichten der App
-- Neues Verkehrsnetz: NAH.SH
-- Über 60 weitere Neuerungen machen Bahnfinder noch besser und schneller
 
 ## Version 5.1.13
 **Veröffentlicht:** 21.01.2025 01:11
@@ -218,8 +186,8 @@
 
 - Neues App Icon: „Weihnachten 2024“
 
-## Version 5.1.4
-**Veröffentlicht:** 27.11.2024 00:19
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Das VMV Verkehrsnetz funktioniert jetzt wieder wie erwartet
 - Allgemeine Verbesserungen
@@ -518,8 +486,6 @@
 ## Version 4.1.1
 **Veröffentlicht:** 10.03.2024 22:38
 
-- Neue Verkehrsnetze hinzugefügt: MVG (Märkischer Kreis), VMS, VMV, VRN
-- Allgemeine Verbesserungen
 
 ## Version 4.1
 **Veröffentlicht:** 08.03.2024 13:33
@@ -648,6 +614,8 @@
 ## Version 2.3.12
 **Veröffentlicht:** 31.10.2023 20:40
 
+- Ausgefallene Fahrzeuge werden jetzt bei Verbindungen angezeigt.
+- Allgemeine Verbesserungen 
 
 ## Version 2.3.11
 **Veröffentlicht:** 30.10.2023 19:06
@@ -858,6 +826,11 @@
 ## Version 2.1.2
 **Veröffentlicht:** 01.08.2023 09:16
 
+- Linieninfos: Mit "Linieninfos" (Beta) erfährst du alles Wissenswerte über deine Linien. Hier kannst du nachschlagen, welche Distanz ein Fahrzeug zurücklegt, wie lange es insgesamt fährt und vieles mehr.
+- Neues Symbol für veränderte Verbindungsoptionen.
+- Bei „Linien ausblenden“ können nun alle Linien mit einen Knopfdruck ausgeblendet oder eingeblendet werden.
+- Neue Favoriten Symbole 
+- Allgemeine Verbesserungen
 
 ## Version 2.1.1
 **Veröffentlicht:** 28.07.2023 19:11
@@ -920,8 +893,8 @@
 - Erhebliche Leistungsverbesserungen
 - Und viele weitere kleine Änderungen…
 
-## Version 1.5.6
-**Veröffentlicht:** 06.06.2023 17:36
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Einrichtung wurde verbessert.
 - Ein Fehler wurde behoben, der eventuell dazu führte, dass Favoriten eines Verkehrsnetzes mit anderen Verkehrsnetzen vermischt wurden.
