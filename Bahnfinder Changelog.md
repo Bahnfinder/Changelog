@@ -132,10 +132,9 @@
 ## Version 6.0.1
 **Veröffentlicht:** 28.01.2025 02:13
 
-- Allgemeine Verbesserungen
 
-## Version 6
-**Veröffentlicht:** 27.01.2025 01:01
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Karten
 - • Karten für den Fahrtverlauf und Verbindungen wurden komplett überarbeitet
@@ -450,10 +449,6 @@
 ## Version 4.1.11
 **Veröffentlicht:** 08.05.2024 16:43
 
-- Das Liniensymbol für die Tram 21 im MVV wurde aktualisiert.
-- Einige Verkehrsnetzspezifische Probleme wurden behoben.
-- Die Anzeige von Entfernungen unter Favoriten wurde behoben.
-- Allgemeine Verbesserungen
 
 ## Version 4.1.10
 **Veröffentlicht:** 07.05.2024 14:53
@@ -654,10 +649,6 @@
 ## Version 2.3.11
 **Veröffentlicht:** 30.10.2023 19:06
 
-- Die Standortermittlung ist jetzt noch genauer.
-- Die Entfernung der Haltestellen wird jetzt im Verlauf angezeigt.
-- Option: Energiesparende Standortermittlung
-- Allgemeine Verbesserungen 
 
 ## Version 2.3.10
 **Veröffentlicht:** 28.10.2023 19:18
@@ -1073,8 +1064,6 @@
 ## Version 1.0.10
 **Veröffentlicht:** 14.04.2023 21:13
 
-- Suche verbessert
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.0.9
 **Veröffentlicht:** 11.04.2023 23:05
