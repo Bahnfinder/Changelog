@@ -835,7 +835,6 @@
 ## Version 2.2.3
 **Veröffentlicht:** 17.08.2023 11:24
 
-- Allgemeine Verbesserungen
 
 ## Version 2.2.2
 **Veröffentlicht:** 14.08.2023 09:53
