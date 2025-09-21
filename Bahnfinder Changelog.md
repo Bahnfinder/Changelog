@@ -83,8 +83,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 6.0.9
-**Veröffentlicht:** 12.02.2025 03:24
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Ein Fehler wurde behoben, der in manchen Situationen zum Einfrieren und Abstürzen der App führte.
 
@@ -241,8 +241,8 @@
 - Ein Fehler wurde behoben, der dazu führte, dass „Haltestellen ankündigen“ in einigen Fällen im Hintergrund gestoppt wurde.
 - Allgemeine Verbesserungen
 
-## Version 5.1
-**Veröffentlicht:** 20.09.2024 01:55
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neue Verkehrsnetze: VVS, NRW, VVV & Südtirolmobil
 - Du wirst jetzt automatisch darauf hingewiesen, das Verkehrsnetz zu wechseln, wenn du dich in einem anderen Gebiet befindest. 
