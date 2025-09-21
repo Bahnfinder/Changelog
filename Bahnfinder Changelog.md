@@ -114,8 +114,6 @@
 ## Version 6.0.4
 **Veröffentlicht:** 01.02.2025 23:31
 
-- Zu lange Gleisnummern im Verbindungsdetail werden jetzt separat dargestellt, wenn der Platz nicht ausreicht
-- Allgemeine Verbesserungen
 
 ## Version 6.0.3
 **Veröffentlicht:** 31.01.2025 03:41
@@ -315,6 +313,9 @@
 ## Version 4.4
 **Veröffentlicht:** 27.06.2024 16:01
 
+- Neues App Icon: „Flipswitch“
+- Verbesserungen im Abfahrten Popover
+- Die Berechnung von Fußwegen wurde verbessert
 
 ## Version 4.3.3
 **Veröffentlicht:** 24.06.2024 21:40
@@ -371,6 +372,11 @@
 ## Version 4.2.3
 **Veröffentlicht:** 14.06.2024 12:07
 
+- Nutzer werden ab jetzt darauf hingewiesen, wenn sie sich in einer nicht unterstützen Region befinden.
+- Die nächste Haltestelle wird jetzt auch in der Suche markiert.
+- Das Menü bei Abfahrten wurde überarbeitet.
+- Ein Fehler wurde behoben, der die App beim Laden einiger Verbindungen zum Absturz brachte.
+- Allgemeine Verbesserungen
 
 ## Version 4.2.2
 **Veröffentlicht:** 13.06.2024 19:31
@@ -974,6 +980,7 @@
 ## Version 1.3.6
 **Veröffentlicht:** 16.05.2023 13:41
 
+- Stabilitätsverbesserungen
 
 ## Version 1.3.5
 **Veröffentlicht:** 16.05.2023 00:53
