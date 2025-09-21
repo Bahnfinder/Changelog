@@ -994,8 +994,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.3.3
-**Veröffentlicht:** 12.05.2023 22:22
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Design Anpassungen
 - Stabilitätsverbesserungen
@@ -1092,8 +1092,8 @@
 
 - Kritische Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.0.6
+**Veröffentlicht:** 08.04.2023 02:04
 
 - Ein kritischer Fehler, der die App an bestimmten Standorten zum Absturz brachte, wurde behoben.
 - Allgemeine Verbesserungen und Fehlerbehebungen
