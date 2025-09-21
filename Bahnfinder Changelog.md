@@ -186,8 +186,8 @@
 
 - Dieses Update enthält API Updates für das Deutsche Bahn Verkehrsnetz, welches jetzt wieder wie erwartet funktioniert!
 
-## Version 5.1.10
-**Veröffentlicht:** 13.01.2025 01:03
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Weitere Informationen über den Ausfall des DB Verkehrsnetzes hinzugefügt 
 
@@ -366,8 +366,8 @@
 
 - Hauptbahnhöfe werden jetzt verbessert angezeigt.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.2.4
+**Veröffentlicht:** 15.06.2024 18:32
 
 - Die Geschwindigkeit von iCloud Backups wurde erheblich verbessert.
 
@@ -602,6 +602,7 @@
 ## Version 3.0.1
 **Veröffentlicht:** 18.01.2024 14:58
 
+- Allgemeine Verbesserungen
 
 ## Version 3.0.0
 **Veröffentlicht:** 02.01.2024 16:59
@@ -856,8 +857,8 @@
 - Neue Informationen bei „Linieninfos“: Längste und kürzeste Distanz zwischen zwei Haltestellen.
 - Allgemeine Verbesserungen 
 
-## Version 2.1.2
-**Veröffentlicht:** 01.08.2023 09:16
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Linieninfos: Mit "Linieninfos" (Beta) erfährst du alles Wissenswerte über deine Linien. Hier kannst du nachschlagen, welche Distanz ein Fahrzeug zurücklegt, wie lange es insgesamt fährt und vieles mehr.
 - Neues Symbol für veränderte Verbindungsoptionen.
@@ -1064,8 +1065,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.0.11
-**Veröffentlicht:** 17.04.2023 01:22
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Fehlerbehebungen
 
