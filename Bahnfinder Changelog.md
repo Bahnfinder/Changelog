@@ -40,6 +40,8 @@
 ## Version 6.1.2
 **Veröffentlicht:** 18.05.2025 22:29
 
+- Die Größe eines Backups wird jetzt angezeigt. Zusätzlich wird die relative Größe im Vergleich zu anderen Backups dargestellt
+- Allgemeine Verbesserungen
 
 ## Version 6.1.1
 **Veröffentlicht:** 28.04.2025 18:53
@@ -51,8 +53,8 @@
 - Ein Fehler wurde behoben, der in seltenen Fällen zu Abstürzen beim verwenden von „Lokale Backups“ geführt hat
 - Allgemeine Verbesserungen 
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.1
+**Veröffentlicht:** 26.04.2025 00:45
 
 - Liniennummern und andere Objekte zeigen jetzt realistische Reflexionen, die sich an die Neigung des Geräts anpassen
 - Ausgefallene Haltestellen werden jetzt auf den Karten angezeigt
@@ -230,6 +232,8 @@
 ## Version 5.1.2
 **Veröffentlicht:** 22.09.2024 15:19
 
+- Verbesserte Hinweise für die Standortfreigabe
+- Allgemeine Verbesserungen
 
 ## Version 5.1.1
 **Veröffentlicht:** 21.09.2024 07:10
