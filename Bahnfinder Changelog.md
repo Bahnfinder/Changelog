@@ -40,8 +40,6 @@
 ## Version 6.1.2
 **Veröffentlicht:** 18.05.2025 22:29
 
-- Die Größe eines Backups wird jetzt angezeigt. Zusätzlich wird die relative Größe im Vergleich zu anderen Backups dargestellt
-- Allgemeine Verbesserungen
 
 ## Version 6.1.1
 **Veröffentlicht:** 28.04.2025 18:53
@@ -53,8 +51,8 @@
 - Ein Fehler wurde behoben, der in seltenen Fällen zu Abstürzen beim verwenden von „Lokale Backups“ geführt hat
 - Allgemeine Verbesserungen 
 
-## Version 6.1
-**Veröffentlicht:** 26.04.2025 00:45
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Liniennummern und andere Objekte zeigen jetzt realistische Reflexionen, die sich an die Neigung des Geräts anpassen
 - Ausgefallene Haltestellen werden jetzt auf den Karten angezeigt
@@ -232,8 +230,6 @@
 ## Version 5.1.2
 **Veröffentlicht:** 22.09.2024 15:19
 
-- Verbesserte Hinweise für die Standortfreigabe
-- Allgemeine Verbesserungen
 
 ## Version 5.1.1
 **Veröffentlicht:** 21.09.2024 07:10
@@ -659,8 +655,8 @@
 - Option: Energiesparende Standortermittlung
 - Allgemeine Verbesserungen 
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.10
+**Veröffentlicht:** 28.10.2023 19:18
 
 - Die Darstellung des Standortpfeils wurde verbessert.
 - Die Haltestellensymbol UI wurde verbessert.
@@ -884,6 +880,7 @@
 ## Version 2.0.4
 **Veröffentlicht:** 24.07.2023 00:19
 
+- Fehlerbehebungen
 
 ## Version 2.0.3
 **Veröffentlicht:** 21.07.2023 01:29
@@ -1054,6 +1051,10 @@
 ## Version 1.1.0
 **Veröffentlicht:** 21.04.2023 06:06
 
+- Verbindung anpinnen: Deine ausgewählte Route wird gespeichert und bleibt bis zum Ende deiner Fahrt oben angeheftet. Mit nur einem Klick kannst du sie jederzeit wieder aufrufen.
+- Designpaket „Glas“ wurde für den hellen Modus optimiert.
+- Dein aktueller Standort bei Abfahrten wird nun automatisch aktualisiert.
+- Allgemeine Verbesserungen und Fehlerbehebungen.
 
 ## Version 1.0.12
 **Veröffentlicht:** 18.04.2023 00:53
