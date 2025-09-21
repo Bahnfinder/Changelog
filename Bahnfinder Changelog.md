@@ -173,8 +173,6 @@
 ## Version 5.1.13
 **Veröffentlicht:** 21.01.2025 01:11
 
-- Die Auslastung wird jetzt verbessert dargestellt
-- Verbesserungen für das DB Verkehrsnetz
 
 ## Version 5.1.12
 **Veröffentlicht:** 18.01.2025 05:03
@@ -586,6 +584,11 @@
 ## Version 3.1
 **Veröffentlicht:** 01.02.2024 16:55
 
+- Du kannst ab sofort spenden, um die weitere Entwicklung von Bahnfinder zu unterstützen :)
+- Neue Favoriten Symbole hinzugefügt
+- Neues Design für die iCloud Einstellungen und info
+- Verbesserte Darstellung von Linienwegen auf der Karte
+- Allgemeine Verbesserungen
 
 ## Version 3.0.2
 **Veröffentlicht:** 25.01.2024 15:35
@@ -866,8 +869,8 @@
 
 - Fehlerbehebungen
 
-## Version 2.1
-**Veröffentlicht:** 27.07.2023 15:20
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neues Design in "Verbindung".
 - Verkehrsnetz spezifische Einstellungen hinzugefügt.
