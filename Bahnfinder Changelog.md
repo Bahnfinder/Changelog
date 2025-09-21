@@ -99,8 +99,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 6.0.6
-**Veröffentlicht:** 07.02.2025 01:27
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Wichtige Push Benachrichtigungen von „Haltestellen ankündigen“ spielen jetzt einen Ton oder eine Vibration
 - Allgemeine Verbesserungen
@@ -137,38 +137,6 @@
 ## Version 6
 **Veröffentlicht:** 27.01.2025 01:01
 
-- Karten
-- • Karten für den Fahrtverlauf und Verbindungen wurden komplett überarbeitet
-- • Haltestellennamen sind jetzt direkt sichtbar
-- • Übersichtlicheres Design
-- • Erweiterte Informationen für Verbindungen z.B. Umstiege
-- Neues Design
-- • Überarbeitete App Icon Einstellungen
-- • Realistischer Timer bei „Erinnerungen“
-- • „Poof“ Effekt beim entfernen von angepinnten Verbindungen oder Abfahrten
-- • Eingefärbte Einstellungen
-- • Und viele weitere
-- Besuchte Haltestellen
-- • Du kannst deine besuchten Haltestellen in einer Liste oder auf einer Karte ansehen
-- • Verschiedene Optionen zum Sortieren
-- • Du kannst sehen, auf welchem Platz deiner meistbesuchten Haltestellen eine bestimmte Haltestelle ist
-- • Kalenderansicht zeigt Datum und Uhrzeit deiner Haltestellenbesuche
-- • Du kannst außerdem sehen, wie oft du mit einer Haltestelle interagiert hast
-- Live Map (Beta)
-- • Verfolge dein Fahrzeug in Echtzeit auf einer Karte
-- • Funktioniert momentan nur in Bayern mit bestimmten Fahrzeugen
-- Sekundengenaue Abfahrtszeiten
-- • Unterstützte Fahrzeuge werden sekundengenau angezeigt (Kommt in einem späteren Update)
-- Screenshot teilen
-- • Du kannst deine Verbindung jetzt bequem mit deinen Freunden teilen
-- Neue Symbole für Favoriten
-- • Mit 29 neuen Symbolen kannst du deine favorisierten Haltestellen noch individueller gestalten
-- Neue App Icons
-- • „Modern Rot (hell / dunkel)“, „Modern Schwarz Vibrant“
-- Verbesserungen bei VoiceOver
-- Neuer Splash Screen beim einrichten der App
-- Neues Verkehrsnetz: NAH.SH
-- Über 60 weitere Neuerungen machen Bahnfinder noch besser und schneller
 
 ## Version 5.1.13
 **Veröffentlicht:** 21.01.2025 01:11
@@ -241,8 +209,8 @@
 - Ein Fehler wurde behoben, der dazu führte, dass „Haltestellen ankündigen“ in einigen Fällen im Hintergrund gestoppt wurde.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.1
+**Veröffentlicht:** 20.09.2024 01:55
 
 - Neue Verkehrsnetze: VVS, NRW, VVV & Südtirolmobil
 - Du wirst jetzt automatisch darauf hingewiesen, das Verkehrsnetz zu wechseln, wenn du dich in einem anderen Gebiet befindest. 
@@ -951,8 +919,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.5.2
+**Veröffentlicht:** 25.05.2023 04:40
 
 - Eine Option zum anrufen von Rufbussen wurde hinzugefügt
 - Stabilität wurde verbessert
