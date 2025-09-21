@@ -994,8 +994,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.3.3
+**Veröffentlicht:** 12.05.2023 22:22
 
 - Design Anpassungen
 - Stabilitätsverbesserungen
