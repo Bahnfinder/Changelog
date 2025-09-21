@@ -99,8 +99,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.0.6
+**Veröffentlicht:** 07.02.2025 01:27
 
 - Wichtige Push Benachrichtigungen von „Haltestellen ankündigen“ spielen jetzt einen Ton oder eine Vibration
 - Allgemeine Verbesserungen
@@ -137,6 +137,38 @@
 ## Version 6
 **Veröffentlicht:** 27.01.2025 01:01
 
+- Karten
+- • Karten für den Fahrtverlauf und Verbindungen wurden komplett überarbeitet
+- • Haltestellennamen sind jetzt direkt sichtbar
+- • Übersichtlicheres Design
+- • Erweiterte Informationen für Verbindungen z.B. Umstiege
+- Neues Design
+- • Überarbeitete App Icon Einstellungen
+- • Realistischer Timer bei „Erinnerungen“
+- • „Poof“ Effekt beim entfernen von angepinnten Verbindungen oder Abfahrten
+- • Eingefärbte Einstellungen
+- • Und viele weitere
+- Besuchte Haltestellen
+- • Du kannst deine besuchten Haltestellen in einer Liste oder auf einer Karte ansehen
+- • Verschiedene Optionen zum Sortieren
+- • Du kannst sehen, auf welchem Platz deiner meistbesuchten Haltestellen eine bestimmte Haltestelle ist
+- • Kalenderansicht zeigt Datum und Uhrzeit deiner Haltestellenbesuche
+- • Du kannst außerdem sehen, wie oft du mit einer Haltestelle interagiert hast
+- Live Map (Beta)
+- • Verfolge dein Fahrzeug in Echtzeit auf einer Karte
+- • Funktioniert momentan nur in Bayern mit bestimmten Fahrzeugen
+- Sekundengenaue Abfahrtszeiten
+- • Unterstützte Fahrzeuge werden sekundengenau angezeigt (Kommt in einem späteren Update)
+- Screenshot teilen
+- • Du kannst deine Verbindung jetzt bequem mit deinen Freunden teilen
+- Neue Symbole für Favoriten
+- • Mit 29 neuen Symbolen kannst du deine favorisierten Haltestellen noch individueller gestalten
+- Neue App Icons
+- • „Modern Rot (hell / dunkel)“, „Modern Schwarz Vibrant“
+- Verbesserungen bei VoiceOver
+- Neuer Splash Screen beim einrichten der App
+- Neues Verkehrsnetz: NAH.SH
+- Über 60 weitere Neuerungen machen Bahnfinder noch besser und schneller
 
 ## Version 5.1.13
 **Veröffentlicht:** 21.01.2025 01:11
@@ -181,8 +213,8 @@
 
 - Die Linienfarben für die S5 (MVV) wurden hinzugefügt.
 
-## Version 5.1.5
-**Veröffentlicht:** 10.12.2024 05:15
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neues App Icon: „Weihnachten 2024“
 
@@ -385,9 +417,6 @@
 ## Version 4.1.17
 **Veröffentlicht:** 16.05.2024 15:26
 
-- Anpassungen für ältere Geräte und iOS Versionen.
-- Die Darstellung des Standortpfeils wurde verbessert.
-- Fehlerbehebungen
 
 ## Version 4.1.16
 **Veröffentlicht:** 16.05.2024 00:09
