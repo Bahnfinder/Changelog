@@ -846,7 +846,6 @@
 ## Version 2.2.1
 **Veröffentlicht:** 11.08.2023 17:09
 
-- Allgemeine Verbesserungen
 
 ## Version 2.2
 **Veröffentlicht:** 09.08.2023 20:22
@@ -979,8 +978,8 @@
 - Stabilitätsverbesserungen
 - Fehlerbehebungen
 
-## Version 1.3.6
-**Veröffentlicht:** 16.05.2023 13:41
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Stabilitätsverbesserungen
 
