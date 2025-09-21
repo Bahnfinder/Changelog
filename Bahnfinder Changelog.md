@@ -213,8 +213,8 @@
 
 - Die Linienfarben für die S5 (MVV) wurden hinzugefügt.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.1.5
+**Veröffentlicht:** 10.12.2024 05:15
 
 - Neues App Icon: „Weihnachten 2024“
 
@@ -417,6 +417,9 @@
 ## Version 4.1.17
 **Veröffentlicht:** 16.05.2024 15:26
 
+- Anpassungen für ältere Geräte und iOS Versionen.
+- Die Darstellung des Standortpfeils wurde verbessert.
+- Fehlerbehebungen
 
 ## Version 4.1.16
 **Veröffentlicht:** 16.05.2024 00:09
@@ -745,7 +748,6 @@
 ## Version 2.2.17
 **Veröffentlicht:** 20.09.2023 17:52
 
-- Allgemeine Verbesserungen
 
 ## Version 2.2.16
 **Veröffentlicht:** 20.09.2023 02:35
@@ -775,8 +777,6 @@
 ## Version 2.2.12
 **Veröffentlicht:** 15.09.2023 08:35
 
-- Verbesserungen für das Liniendesign
-- Allgemeine Verbesserungen
 
 ## Version 2.2.11
 **Veröffentlicht:** 14.09.2023 01:16
