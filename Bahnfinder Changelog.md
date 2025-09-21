@@ -951,8 +951,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.5.2
+**Veröffentlicht:** 25.05.2023 04:40
 
 - Eine Option zum anrufen von Rufbussen wurde hinzugefügt
 - Stabilität wurde verbessert
@@ -1009,6 +1009,7 @@
 ## Version 1.3.1
 **Veröffentlicht:** 11.05.2023 03:36
 
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.3.0
 **Veröffentlicht:** 10.05.2023 14:19
