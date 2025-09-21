@@ -235,8 +235,8 @@
 - Verbesserte Hinweise für die Standortfreigabe
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.1.1
+**Veröffentlicht:** 21.09.2024 07:10
 
 - Ein Fehler wurde behoben, der dazu führte, dass „Haltestellen ankündigen“ in einigen Fällen im Hintergrund gestoppt wurde.
 - Allgemeine Verbesserungen
@@ -335,8 +335,8 @@
 
 - Kleine Anpassungen bei der Einrichtung
 
-## Version 4.3.0
-**Veröffentlicht:** 21.06.2024 08:52
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neue Verkehrsnetze: BVG, HVV, RMV, RailTeam & Naldo
 - Allgemeine Verbesserungen
@@ -445,6 +445,7 @@
 ## Version 4.1.12
 **Veröffentlicht:** 10.05.2024 14:10
 
+- Allgemeine Verbesserungen
 
 ## Version 4.1.11
 **Veröffentlicht:** 08.05.2024 16:43
@@ -531,8 +532,8 @@
 - Ab sofort wird nach jedem Bahnfinder Update automatisch ein lokales Backup erstellt. 
 - Allgemeine Verbesserungen
 
-## Version 4.0.1
-**Veröffentlicht:** 06.03.2024 01:56
+## Version null
+**Veröffentlicht:** – No release date available
 
 - 2 neue App Icons: „Mund“ und „Mitternacht Mund“
 - Die Fahrzeugnummer ist jetzt unter Linieninfos sichtbar. 
@@ -810,8 +811,8 @@
 
 - Allgemeine Verbesserungen 
 
-## Version 2.2.6
-**Veröffentlicht:** 01.09.2023 00:40
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Kleine Designänderungen
 - Allgemeine Verbesserungen
