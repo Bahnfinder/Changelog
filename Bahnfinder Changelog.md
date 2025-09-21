@@ -333,6 +333,7 @@
 ## Version 4.3.1
 **Veröffentlicht:** 23.06.2024 01:00
 
+- Kleine Anpassungen bei der Einrichtung
 
 ## Version 4.3.0
 **Veröffentlicht:** 21.06.2024 08:52
@@ -628,8 +629,8 @@
 - 4 neue App Icons: „Vereiste Weihnachten“, „Vereiste Weihnachten Mund“, „Weihnachtsgeschenk“ und „Weihnachtsgeschenk Mund“.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.15
+**Veröffentlicht:** 13.12.2023 23:32
 
 - Allgemeine Verbesserungen
 
