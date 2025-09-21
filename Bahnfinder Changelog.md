@@ -37,8 +37,8 @@
 - Leistungsverbesserungen
 - Allgemeine Verbesserungen
 
-## Version 6.1.2
-**Veröffentlicht:** 18.05.2025 22:29
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Größe eines Backups wird jetzt angezeigt. Zusätzlich wird die relative Größe im Vergleich zu anderen Backups dargestellt
 - Allgemeine Verbesserungen
@@ -114,6 +114,8 @@
 ## Version 6.0.4
 **Veröffentlicht:** 01.02.2025 23:31
 
+- Zu lange Gleisnummern im Verbindungsdetail werden jetzt separat dargestellt, wenn der Platz nicht ausreicht
+- Allgemeine Verbesserungen
 
 ## Version 6.0.3
 **Veröffentlicht:** 31.01.2025 03:41
