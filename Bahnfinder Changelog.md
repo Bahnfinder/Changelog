@@ -391,8 +391,8 @@
 
 - Neues App Icon "Modern Schwarz"
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.2.0
+**Veröffentlicht:** 10.06.2024 11:36
 
 - „Synchronisieren“ wurde in „Backups“ umbenannt. Es ist jetzt möglich, unbegrenzt viele verschiedene iCloud Backups zu erstellen und zu verwalten. Nutzer können jetzt ihre Backups mit einer komplett neuen Oberfläche verwalten und wiederherstellen. 
 - Auf der Fahrtverlauf Karte werden jetzt Abfahrtszeiten angezeigt.
@@ -586,11 +586,6 @@
 ## Version 3.1
 **Veröffentlicht:** 01.02.2024 16:55
 
-- Du kannst ab sofort spenden, um die weitere Entwicklung von Bahnfinder zu unterstützen :)
-- Neue Favoriten Symbole hinzugefügt
-- Neues Design für die iCloud Einstellungen und info
-- Verbesserte Darstellung von Linienwegen auf der Karte
-- Allgemeine Verbesserungen
 
 ## Version 3.0.2
 **Veröffentlicht:** 25.01.2024 15:35
@@ -645,8 +640,8 @@
 
 - Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.12
+**Veröffentlicht:** 31.10.2023 20:40
 
 - Ausgefallene Fahrzeuge werden jetzt bei Verbindungen angezeigt.
 - Allgemeine Verbesserungen 
