@@ -1037,8 +1037,8 @@
 - Falls die Haltestelle, die beim Start der App gefunden wurde, durch eine andere ersetzt werden soll, können Ausnahmen erstellt werden.
 - Allgemeine Verbesserungen und Fehlerbehebungen wurden durchgeführt.
 
-## Version 1.1.3
-**Veröffentlicht:** 27.04.2023 03:25
+## Version 
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
