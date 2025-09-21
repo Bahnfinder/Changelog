@@ -197,8 +197,8 @@
 - Verkehrsnetz vorübergehend nicht verfügbar ist. Ich arbeite mit Hochdruck an einer Lösung. Du kannst dich benachrichtigen lassen, sobald es wieder funktioniert.
 - Verkehrsnetzes.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.1.8
+**Veröffentlicht:** 08.01.2025 20:32
 
 - Frohes neues Jahr!
 - Verbesserte Beschriftungen für VoiceOver
@@ -330,8 +330,8 @@
 
 - Entfallene Fahrzeuge werden jetzt einheitlich dargestellt.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.3.1
+**Veröffentlicht:** 23.06.2024 01:00
 
 - Kleine Anpassungen bei der Einrichtung
 
@@ -982,7 +982,6 @@
 ## Version 1.3.6
 **Veröffentlicht:** 16.05.2023 13:41
 
-- Stabilitätsverbesserungen
 
 ## Version 1.3.5
 **Veröffentlicht:** 16.05.2023 00:53
