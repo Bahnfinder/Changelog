@@ -76,6 +76,7 @@
 ## Version 6.0.11
 **Veröffentlicht:** 22.02.2025 09:46
 
+- Verbesserungen für VoiceOver
 
 ## Version 6.0.10
 **Veröffentlicht:** 16.02.2025 17:24
