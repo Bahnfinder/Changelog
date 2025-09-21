@@ -634,8 +634,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 2.3.14
-**Veröffentlicht:** 08.12.2023 03:16
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Bahnfinder wünscht euch eine schöne Weihnachtszeit!
 - App Icon hinzugefügt.
