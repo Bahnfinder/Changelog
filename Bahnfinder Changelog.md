@@ -20,7 +20,6 @@
 ## Version 6.1.5
 **Veröffentlicht:** 01.06.2025 23:30
 
-- Allgemeine Verbesserungen
 
 ## Version 6.1.4
 **Veröffentlicht:** 29.05.2025 00:36
