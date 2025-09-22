@@ -467,8 +467,8 @@
 
 - Am 1. April feiert Bahnfinder seinen 1. Geburtstag. Feiere diesen besonderen Tag mit einem exklusiven App Icon!
 
-## Version 4.1.8
-**Veröffentlicht:** 23.03.2024 00:08
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Backups und weitere Dateien können jetzt über die „Dateien“ App ausgetauscht werden
 - Layout Anpassungen für kleinere Geräte
