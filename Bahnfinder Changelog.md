@@ -840,8 +840,6 @@
 ## Version 2.2.2
 **Veröffentlicht:** 14.08.2023 09:53
 
-- Neues Menü zur Schnellauswahl bei der Haltestellensuche.
-- Allgemeine Verbesserungen
 
 ## Version 2.2.1
 **Veröffentlicht:** 11.08.2023 17:09
