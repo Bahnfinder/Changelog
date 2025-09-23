@@ -37,8 +37,8 @@
 - Leistungsverbesserungen
 - Allgemeine Verbesserungen
 
-## Version 6.1.2
-**Veröffentlicht:** 18.05.2025 22:29
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Größe eines Backups wird jetzt angezeigt. Zusätzlich wird die relative Größe im Vergleich zu anderen Backups dargestellt
 - Allgemeine Verbesserungen
