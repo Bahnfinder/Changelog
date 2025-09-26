@@ -11,11 +11,9 @@
 - Alle Neuerungen: Unter „Info > Neues in Bahnfinder“ findest du alle Neuerungen aus allen bisherigen Bahnfinder Versionen.
 - Über 15 weitere Verbesserungen machen Bahnfinder noch besser und schneller.
 
-## Version 6.1.6
-**Veröffentlicht:** 24.06.2025 23:20
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Designanpassungen
-- Allgemeine Verbesserungen
 
 ## Version 6.1.5
 **Veröffentlicht:** 01.06.2025 23:30
@@ -31,17 +29,10 @@
 ## Version 6.1.3
 **Veröffentlicht:** 19.05.2025 15:18
 
-- Die Anzahl von Backups wird jetzt angezeigt
-- Die Backup Einstellungen laden jetzt deutlich schneller, selbst bei vielen Backups 
-- iCloud Backups werden nun vollständig angezeigt, auch wenn du mehr als 100 hast
-- Leistungsverbesserungen
-- Allgemeine Verbesserungen
 
 ## Version 6.1.2
 **Veröffentlicht:** 18.05.2025 22:29
 
-- Die Größe eines Backups wird jetzt angezeigt. Zusätzlich wird die relative Größe im Vergleich zu anderen Backups dargestellt
-- Allgemeine Verbesserungen
 
 ## Version 6.1.1
 **Veröffentlicht:** 28.04.2025 18:53
@@ -53,8 +44,8 @@
 - Ein Fehler wurde behoben, der in seltenen Fällen zu Abstürzen beim verwenden von „Lokale Backups“ geführt hat
 - Allgemeine Verbesserungen 
 
-## Version 6.1
-**Veröffentlicht:** 26.04.2025 00:45
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Liniennummern und andere Objekte zeigen jetzt realistische Reflexionen, die sich an die Neigung des Geräts anpassen
 - Ausgefallene Haltestellen werden jetzt auf den Karten angezeigt
@@ -1004,15 +995,14 @@
 ## Version 1.3.2
 **Veröffentlicht:** 12.05.2023 05:14
 
-- Stabilität erheblich verbessert
 
 ## Version 1.3.1
 **Veröffentlicht:** 11.05.2023 03:36
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.3.0
-**Veröffentlicht:** 10.05.2023 14:19
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Zwischenstopps hinzugefügt
 - Verbindungen: Abfahrt oder Ankunftszeit kann ausgewählt werden
@@ -1045,10 +1035,9 @@
 ## Version 1.1.2
 **Veröffentlicht:** 25.04.2023 04:22
 
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.1.1
-**Veröffentlicht:** 21.04.2023 20:55
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
