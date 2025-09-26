@@ -296,8 +296,8 @@
 
 - Fehlerbehebungen
 
-## Version 4.4.3
-**Veröffentlicht:** 06.07.2024 20:33
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Ein Fehler, der zum Absturz der App beim Aktualisieren des Fahrtverlaufs unter bestimmten Bedingungen führte, wurde behoben.
 
@@ -435,7 +435,6 @@
 ## Version 4.1.14
 **Veröffentlicht:** 12.05.2024 22:31
 
-- Allgemeine Verbesserungen
 
 ## Version 4.1.13
 **Veröffentlicht:** 12.05.2024 15:34
@@ -797,8 +796,6 @@
 ## Version 2.2.9
 **Veröffentlicht:** 08.09.2023 14:39
 
-- Lange Fusswege werden jetzt unter Verbindung markiert.
-- Allgemeine Verbesserungen
 
 ## Version 2.2.8
 **Veröffentlicht:** 04.09.2023 16:00
