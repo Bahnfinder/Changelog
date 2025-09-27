@@ -745,8 +745,8 @@
 - Fehlerbehebungen
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.17
+**Veröffentlicht:** 20.09.2023 17:52
 
 - Allgemeine Verbesserungen
 
