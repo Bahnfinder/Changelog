@@ -296,8 +296,8 @@
 
 - Fehlerbehebungen
 
-## Version 4.4.3
-**Veröffentlicht:** 06.07.2024 20:33
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Ein Fehler, der zum Absturz der App beim Aktualisieren des Fahrtverlaufs unter bestimmten Bedingungen führte, wurde behoben.
 
