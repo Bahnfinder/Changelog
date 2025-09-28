@@ -566,8 +566,8 @@
 - Neue Hinweise, wenn keine Abfahrten an der gewählten Haltestelle verfügbar sind.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 3.1.3
+**Veröffentlicht:** 12.02.2024 17:29
 
 - Fehlerbehebungen
 - Allgemeine Verbesserungen
