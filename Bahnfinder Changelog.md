@@ -25,17 +25,10 @@
 ## Version 6.1.4
 **Veröffentlicht:** 29.05.2025 00:36
 
-- Die Berechnung der Größe von lokalen Backups ist jetzt stabiler
-- Allgemeine Verbesserungen
 
-## Version 6.1.3
-**Veröffentlicht:** 19.05.2025 15:18
+## Version 
+**Veröffentlicht:** – No release date available
 
-- Die Anzahl von Backups wird jetzt angezeigt
-- Die Backup Einstellungen laden jetzt deutlich schneller, selbst bei vielen Backups 
-- iCloud Backups werden nun vollständig angezeigt, auch wenn du mehr als 100 hast
-- Leistungsverbesserungen
-- Allgemeine Verbesserungen
 
 ## Version 6.1.2
 **Veröffentlicht:** 18.05.2025 22:29
