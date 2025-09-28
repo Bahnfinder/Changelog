@@ -330,8 +330,8 @@
 
 - Entfallene Fahrzeuge werden jetzt einheitlich dargestellt.
 
-## Version 4.3.1
-**Veröffentlicht:** 23.06.2024 01:00
+## Version 
+**Veröffentlicht:** – No release date available
 
 - Kleine Anpassungen bei der Einrichtung
 
