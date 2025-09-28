@@ -437,8 +437,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.13
+**Veröffentlicht:** 12.05.2024 15:34
 
 - Allgemeine Verbesserungen
 
