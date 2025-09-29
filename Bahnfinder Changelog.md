@@ -1025,8 +1025,8 @@
 
 - Fehlerbehebungen
 
-## Version 1.2.1
-**Veröffentlicht:** 08.05.2023 23:07
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Fehlerbehebungen
 
