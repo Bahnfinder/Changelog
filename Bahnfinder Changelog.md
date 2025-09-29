@@ -823,8 +823,8 @@
 - In der Suche werden jetzt 50 Haltestellen in der Nähe angezeigt.
 - Allgemeine Verbesserungen
 
-## Version 
-**Veröffentlicht:** – No release date available
+## Version 2.2.4
+**Veröffentlicht:** 30.08.2023 12:04
 
 - Die Anzeige der Umsteigezeit ist nun in den Verbindungsdetails sichtbar.
 - Das Layout der Abfahrtszeiten wurde optimiert, um eine höhere Anzahl von Abfahrten gleichzeitig anzeigen zu können.
