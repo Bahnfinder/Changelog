@@ -440,7 +440,6 @@
 ## Version 4.1.13
 **Veröffentlicht:** 12.05.2024 15:34
 
-- Allgemeine Verbesserungen
 
 ## Version 4.1.12
 **Veröffentlicht:** 10.05.2024 14:10
