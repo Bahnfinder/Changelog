@@ -394,6 +394,12 @@
 ## Version 4.2.0
 **Veröffentlicht:** 10.06.2024 11:36
 
+- „Synchronisieren“ wurde in „Backups“ umbenannt. Es ist jetzt möglich, unbegrenzt viele verschiedene iCloud Backups zu erstellen und zu verwalten. Nutzer können jetzt ihre Backups mit einer komplett neuen Oberfläche verwalten und wiederherstellen. 
+- Auf der Fahrtverlauf Karte werden jetzt Abfahrtszeiten angezeigt.
+- Neue Option, um „Haltestellen vorlesen“ automatisch zu beenden, wenn Kopfhörer getrennt wurden.
+- Die Einrichtung wurde verbessert
+- Ein Fehler wurde behoben, der dazu führte, dass die Liniensymbole nach einer Wiederherstellung nicht angezeigt wurden.
+- Allgemeine Verbesserungen
 
 ## Version 4.1.19
 **Veröffentlicht:** 20.05.2024 19:02
