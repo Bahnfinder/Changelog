@@ -724,6 +724,26 @@
 ## Version 2.3.0
 **Veröffentlicht:** 11.10.2023 11:43
 
+- Der AVV Augsburg wurde als Verkehrsnetz hinzugefügt.
+- Komplett neues Menü zum auswählen des App Icons.
+- Bahnfinder, Ring, Gefüllter Ring.
+- Die Favoritensymbole werden jetzt in jedem Bereich der App angezeigt.
+- Neue Option zum anzeigen von Ortsnamen hinter dem Haltestellennamen.
+- Überarbeitete Anzeige von „nächster Haltestelle“: Der Standortpfeil, der die nächste Haltestelle anzeigt, ist jetzt in allen Bereichen der App sichtbar. Ausserdem wird nun unterschieden, ob die Haltestelle die nächste ist oder man sich an dieser befindet.
+- Detaillierte Umsteigeinformationen auf der Verbindungskarte hinzugefügt.
+- Neue Option zum auswählen, ob das Favoritensymbol unter Abfahrten hinter der Liniennummer oder hinter der Zielhaltestelle angezeigt werden soll.
+- Das Design kann jetzt abhängig vom Erscheinungsbild ausgewählt werden.
+- Neue Linieninformation „Orte“
+- Zwischenstopps sind jetzt im Verbindungsdetail sichtbar.
+- Wichtige Haltestellen werden in der Suche hervorgehoben.
+- Neues Menü „Experimente“: Teste kleine Features der App bevor sie veröffentlicht werden.
+- Der Aktuelle Standort kann jetzt über das Schnellauswahlmenü unter Verbindung eingesetzt werden.
+- Neue Kontextmenüs unter Verbindung zum zurücksetzen der Optionen und Zeit.
+- Verbesserte Unterstützung für zweifarbige Linien.
+- Die Designs wurden verbessert.
+- Verbesserte Stabilität
+- Fehlerbehebungen
+- Allgemeine Verbesserungen
 
 ## Version 2.2.17
 **Veröffentlicht:** 20.09.2023 17:52
