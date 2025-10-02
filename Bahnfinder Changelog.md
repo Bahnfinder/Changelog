@@ -232,6 +232,8 @@
 ## Version 5.1.2
 **Veröffentlicht:** 22.09.2024 15:19
 
+- Verbesserte Hinweise für die Standortfreigabe
+- Allgemeine Verbesserungen
 
 ## Version 5.1.1
 **Veröffentlicht:** 21.09.2024 07:10
