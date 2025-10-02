@@ -532,9 +532,13 @@
 - Ab sofort wird nach jedem Bahnfinder Update automatisch ein lokales Backup erstellt. 
 - Allgemeine Verbesserungen
 
-## Version 
-**Veröffentlicht:** – No release date available
+## Version 4.0.1
+**Veröffentlicht:** 06.03.2024 01:56
 
+- 2 neue App Icons: „Mund“ und „Mitternacht Mund“
+- Die Fahrzeugnummer ist jetzt unter Linieninfos sichtbar. 
+- Neue Designoptionen für den Suchen Button in Verbindung
+- Allgemeine Verbesserungen
 
 ## Version 4.0
 **Veröffentlicht:** 26.02.2024 15:09
