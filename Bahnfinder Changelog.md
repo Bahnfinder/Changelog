@@ -11,20 +11,25 @@
 - Alle Neuerungen: Unter „Info > Neues in Bahnfinder“ findest du alle Neuerungen aus allen bisherigen Bahnfinder Versionen.
 - Über 15 weitere Verbesserungen machen Bahnfinder noch besser und schneller.
 
-## Version 
-**Veröffentlicht:** – No release date available
+## Version 6.1.6
+**Veröffentlicht:** 24.06.2025 23:20
 
+- Designanpassungen
+- Allgemeine Verbesserungen
 
-## Version 
-**Veröffentlicht:** – No release date available
+## Version 6.1.5
+**Veröffentlicht:** 01.06.2025 23:30
 
+- Allgemeine Verbesserungen
 
-## Version 
-**Veröffentlicht:** – No release date available
+## Version 6.1.4
+**Veröffentlicht:** 29.05.2025 00:36
 
+- Die Berechnung der Größe von lokalen Backups ist jetzt stabiler
+- Allgemeine Verbesserungen
 
-## Version 
-**Veröffentlicht:** – No release date available
+## Version 6.1.3
+**Veröffentlicht:** 19.05.2025 15:18
 
 - Die Anzahl von Backups wird jetzt angezeigt
 - Die Backup Einstellungen laden jetzt deutlich schneller, selbst bei vielen Backups 
