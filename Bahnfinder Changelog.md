@@ -338,6 +338,8 @@
 ## Version 4.3.0
 **Veröffentlicht:** 21.06.2024 08:52
 
+- Neue Verkehrsnetze: BVG, HVV, RMV, RailTeam & Naldo
+- Allgemeine Verbesserungen
 
 ## Version 4.2.8
 **Veröffentlicht:** 20.06.2024 21:56
@@ -1068,8 +1070,8 @@
 
 - Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.0.10
+**Veröffentlicht:** 14.04.2023 21:13
 
 - Suche verbessert
 - Allgemeine Verbesserungen und Fehlerbehebungen
