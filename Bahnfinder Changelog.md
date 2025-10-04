@@ -170,21 +170,17 @@
 - Neues Verkehrsnetz: NAH.SH
 - Über 60 weitere Neuerungen machen Bahnfinder noch besser und schneller
 
-## Version 5.1.13
-**Veröffentlicht:** 21.01.2025 01:11
+## Version 
+**Veröffentlicht:** – No release date available
 
-- Die Auslastung wird jetzt verbessert dargestellt
-- Verbesserungen für das DB Verkehrsnetz
 
-## Version 5.1.12
-**Veröffentlicht:** 18.01.2025 05:03
+## Version 
+**Veröffentlicht:** – No release date available
 
-- Verbesserungen für das DB Verkehrsnetz
 
-## Version 5.1.11
-**Veröffentlicht:** 15.01.2025 00:41
+## Version 
+**Veröffentlicht:** – No release date available
 
-- Dieses Update enthält API Updates für das Deutsche Bahn Verkehrsnetz, welches jetzt wieder wie erwartet funktioniert!
 
 ## Version 5.1.10
 **Veröffentlicht:** 13.01.2025 01:03
