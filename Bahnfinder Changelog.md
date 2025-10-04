@@ -99,11 +99,9 @@
 
 - Allgemeine Verbesserungen
 
-## Version 6.0.6
-**Veröffentlicht:** 07.02.2025 01:27
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Wichtige Push Benachrichtigungen von „Haltestellen ankündigen“ spielen jetzt einen Ton oder eine Vibration
-- Allgemeine Verbesserungen
 
 ## Version 6.0.5
 **Veröffentlicht:** 05.02.2025 01:29
