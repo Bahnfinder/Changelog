@@ -806,8 +806,8 @@
 - Start gefunden wurde.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.7
+**Veröffentlicht:** 02.09.2023 08:49
 
 - Allgemeine Verbesserungen 
 
