@@ -843,8 +843,8 @@
 - Neues Menü zur Schnellauswahl bei der Haltestellensuche.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.1
+**Veröffentlicht:** 11.08.2023 17:09
 
 - Allgemeine Verbesserungen
 
