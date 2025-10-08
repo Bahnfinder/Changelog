@@ -586,11 +586,6 @@
 ## Version 3.1
 **Veröffentlicht:** 01.02.2024 16:55
 
-- Du kannst ab sofort spenden, um die weitere Entwicklung von Bahnfinder zu unterstützen :)
-- Neue Favoriten Symbole hinzugefügt
-- Neues Design für die iCloud Einstellungen und info
-- Verbesserte Darstellung von Linienwegen auf der Karte
-- Allgemeine Verbesserungen
 
 ## Version 3.0.2
 **Veröffentlicht:** 25.01.2024 15:35
@@ -626,8 +621,6 @@
 ## Version 2.3.16
 **Veröffentlicht:** 20.12.2023 09:49
 
-- 4 neue App Icons: „Vereiste Weihnachten“, „Vereiste Weihnachten Mund“, „Weihnachtsgeschenk“ und „Weihnachtsgeschenk Mund“.
-- Allgemeine Verbesserungen
 
 ## Version 2.3.15
 **Veröffentlicht:** 13.12.2023 23:32
@@ -681,7 +674,6 @@
 ## Version 2.3.7
 **Veröffentlicht:** 19.10.2023 01:21
 
-- Allgemeine Verbesserungen
 
 ## Version 2.3.6
 **Veröffentlicht:** 18.10.2023 23:24
