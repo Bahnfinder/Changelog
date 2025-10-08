@@ -76,7 +76,6 @@
 ## Version 6.0.11
 **Veröffentlicht:** 22.02.2025 09:46
 
-- Verbesserungen für VoiceOver
 
 ## Version 6.0.10
 **Veröffentlicht:** 16.02.2025 17:24
@@ -88,8 +87,8 @@
 
 - Ein Fehler wurde behoben, der in manchen Situationen zum Einfrieren und Abstürzen der App führte.
 
-## Version 6.0.8
-**Veröffentlicht:** 12.02.2025 01:08
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Leistungsverbesserungen
 - Allgemeine Verbesserungen
@@ -105,11 +104,9 @@
 - Wichtige Push Benachrichtigungen von „Haltestellen ankündigen“ spielen jetzt einen Ton oder eine Vibration
 - Allgemeine Verbesserungen
 
-## Version 6.0.5
-**Veröffentlicht:** 05.02.2025 01:29
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Das Setup wurde verbessert
-- Allgemeine Verbesserungen
 
 ## Version 6.0.4
 **Veröffentlicht:** 01.02.2025 23:31
@@ -134,8 +131,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 6
-**Veröffentlicht:** 27.01.2025 01:01
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Karten
 - • Karten für den Fahrtverlauf und Verbindungen wurden komplett überarbeitet
@@ -179,7 +176,6 @@
 ## Version 5.1.12
 **Veröffentlicht:** 18.01.2025 05:03
 
-- Verbesserungen für das DB Verkehrsnetz
 
 ## Version 5.1.11
 **Veröffentlicht:** 15.01.2025 00:41
@@ -200,8 +196,6 @@
 ## Version 5.1.8
 **Veröffentlicht:** 08.01.2025 20:32
 
-- Frohes neues Jahr!
-- Verbesserte Beschriftungen für VoiceOver
 
 ## Version 5.1.7
 **Veröffentlicht:** 19.12.2024 03:54
@@ -232,8 +226,6 @@
 ## Version 5.1.2
 **Veröffentlicht:** 22.09.2024 15:19
 
-- Verbesserte Hinweise für die Standortfreigabe
-- Allgemeine Verbesserungen
 
 ## Version 5.1.1
 **Veröffentlicht:** 21.09.2024 07:10
@@ -266,8 +258,8 @@
 
 - Ein Fehler wurde behoben, der dazu führte, dass die App beim Wechsel des Verkehrsnetzes auf iPads abstürzte. 
 
-## Version 5.0.1
-**Veröffentlicht:** 04.09.2024 02:08
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Bahnfinder läuft jetzt noch schneller.
 - Ein Fehler wurde behoben, der dazu führte, dass die App beim darstellen einiger zweifarbiger Liniennummern abstürzte.
