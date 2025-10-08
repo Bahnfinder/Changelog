@@ -989,8 +989,8 @@
 
 - Fehlerbehebungen und Stabilitätsverbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.3.4
+**Veröffentlicht:** 13.05.2023 10:27
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
