@@ -691,6 +691,8 @@
 ## Version 2.3.5
 **Veröffentlicht:** 18.10.2023 17:03
 
+- Die Darstellung des Standortpfeils wurde verbessert.
+- Allgemeine Verbesserungen
 
 ## Version 2.3.4
 **Veröffentlicht:** 17.10.2023 12:02
