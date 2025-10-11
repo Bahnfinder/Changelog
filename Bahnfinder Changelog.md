@@ -369,19 +369,13 @@
 ## Version 4.2.4
 **Veröffentlicht:** 15.06.2024 18:32
 
-- Die Geschwindigkeit von iCloud Backups wurde erheblich verbessert.
 
-## Version 4.2.3
-**Veröffentlicht:** 14.06.2024 12:07
+## Version 
+**Veröffentlicht:** – No release date available
 
-- Nutzer werden ab jetzt darauf hingewiesen, wenn sie sich in einer nicht unterstützen Region befinden.
-- Die nächste Haltestelle wird jetzt auch in der Suche markiert.
-- Das Menü bei Abfahrten wurde überarbeitet.
-- Ein Fehler wurde behoben, der die App beim Laden einiger Verbindungen zum Absturz brachte.
-- Allgemeine Verbesserungen
 
-## Version 4.2.2
-**Veröffentlicht:** 13.06.2024 19:31
+## Version 
+**Veröffentlicht:** – No release date available
 
 - Neues App Icon „Modern echtes schwarz“ 
 - Anpassungen bei „Backups“
