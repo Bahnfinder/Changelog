@@ -258,8 +258,6 @@
 ## Version 5.0.3
 **Veröffentlicht:** 06.09.2024 03:16
 
-- Ein Fehler wurde behoben, der dazu führte, dass die App beim anschauen von Verbindungen abstürzt.
-- Allgemeine Verbesserungen
 
 ## Version 5.0.2
 **Veröffentlicht:** 05.09.2024 15:32
