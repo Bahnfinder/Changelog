@@ -371,8 +371,8 @@
 
 - Die Geschwindigkeit von iCloud Backups wurde erheblich verbessert.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.2.3
+**Veröffentlicht:** 14.06.2024 12:07
 
 - Nutzer werden ab jetzt darauf hingewiesen, wenn sie sich in einer nicht unterstützen Region befinden.
 - Die nächste Haltestelle wird jetzt auch in der Suche markiert.
