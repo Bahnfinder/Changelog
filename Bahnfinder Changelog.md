@@ -651,8 +651,8 @@
 - Ausgefallene Fahrzeuge werden jetzt bei Verbindungen angezeigt.
 - Allgemeine Verbesserungen 
 
-## Version 2.3.11
-**Veröffentlicht:** 30.10.2023 19:06
+## Version 
+**Veröffentlicht:** – No release date available
 
 - Die Standortermittlung ist jetzt noch genauer.
 - Die Entfernung der Haltestellen wird jetzt im Verlauf angezeigt.
@@ -704,8 +704,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 2.3.2
-**Veröffentlicht:** 13.10.2023 12:39
+## Version 
+**Veröffentlicht:** – No release date available
 
 - Das Layout der Linieninfos wurde für alle Gerätegrössen angepasst.
 - Die Lesbarkeit der Anzahl an Zwischenhalten im Verbindungsdetail wurde verbessert.
