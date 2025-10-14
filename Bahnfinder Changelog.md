@@ -524,13 +524,6 @@
 ## Version 4.1
 **Veröffentlicht:** 08.03.2024 13:33
 
-- Neuer „Synchronisieren“ Bildschirm.
-- Neue Option hinzugefügt, um im Suchverlauf die Interaktionsart einer Haltestelle anzuzeigen.
-- Neue Option zum anzeigen der letzten Verwendung im Suchverlauf.
-- Die App kann jetzt auch durch ein lokales Backup wiederhergestellt werden, wenn Bahnfinder neu eingerichtet wird.
-- Ein Fehler wurde behoben, durch den in einigen Fällen keine lokalen Backups aus „Dateien“ wiederhergestellt werden konnten. 
-- Ab sofort wird nach jedem Bahnfinder Update automatisch ein lokales Backup erstellt. 
-- Allgemeine Verbesserungen
 
 ## Version 4.0.1
 **Veröffentlicht:** 06.03.2024 01:56
