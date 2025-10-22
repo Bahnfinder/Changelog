@@ -1,3 +1,8 @@
+## Version 6.2.2
+**Veröffentlicht:** 22.10.2025 01:05
+
+- Das DB Verkehrsnetz funktioniert jetzt wieder wie erwartet. Die Deutsche Bahn hat (mal wieder) ohne Vorankündigung ihre API geändert und damit in Drittanbieterapps die Verbindungssuche außer Betrieb gesetzt. Dieses Update behebt das Problem.
+
 ## Version 6.2.1
 **Veröffentlicht:** 08.09.2025 16:34
 
