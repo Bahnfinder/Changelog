@@ -216,10 +216,9 @@
 ## Version 5.1.6
 **Veröffentlicht:** 16.12.2024 13:31
 
-- Die Linienfarben für die S5 (MVV) wurden hinzugefügt.
 
-## Version 5.1.5
-**Veröffentlicht:** 10.12.2024 05:15
+## Version 
+**Veröffentlicht:** – No release date available
 
 - Neues App Icon: „Weihnachten 2024“
 
