@@ -509,6 +509,10 @@
 ## Version 4.1.3
 **Veröffentlicht:** 18.03.2024 14:01
 
+- Erweiterte Diagnosedaten können jetzt optional aktiviert werden.
+- Lokale Backups können jetzt automatisch gelöscht werden.
+- Die Darstellung von lokalen Backups wurde verbessert.
+- Allgemeine Verbesserungen
 
 ## Version 4.1.2
 **Veröffentlicht:** 15.03.2024 12:35
@@ -533,8 +537,8 @@
 - Ab sofort wird nach jedem Bahnfinder Update automatisch ein lokales Backup erstellt. 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.0.1
+**Veröffentlicht:** 06.03.2024 01:56
 
 - 2 neue App Icons: „Mund“ und „Mitternacht Mund“
 - Die Fahrzeugnummer ist jetzt unter Linieninfos sichtbar. 
