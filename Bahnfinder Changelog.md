@@ -116,8 +116,8 @@
 - Das Setup wurde verbessert
 - Allgemeine Verbesserungen
 
-## Version 
-**Veröffentlicht:** – No release date available
+## Version 6.0.4
+**Veröffentlicht:** 01.02.2025 23:31
 
 - Zu lange Gleisnummern im Verbindungsdetail werden jetzt separat dargestellt, wenn der Platz nicht ausreicht
 - Allgemeine Verbesserungen
