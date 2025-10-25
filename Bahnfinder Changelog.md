@@ -191,8 +191,8 @@
 
 - Dieses Update enthält API Updates für das Deutsche Bahn Verkehrsnetz, welches jetzt wieder wie erwartet funktioniert!
 
-## Version 5.1.10
-**Veröffentlicht:** 13.01.2025 01:03
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Weitere Informationen über den Ausfall des DB Verkehrsnetzes hinzugefügt 
 
