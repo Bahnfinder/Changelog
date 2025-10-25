@@ -681,7 +681,6 @@
 ## Version 2.3.8
 **Veröffentlicht:** 20.10.2023 17:31
 
-- Allgemeine Verbesserungen
 
 ## Version 2.3.7
 **Veröffentlicht:** 19.10.2023 01:21
