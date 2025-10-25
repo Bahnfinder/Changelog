@@ -565,8 +565,8 @@
 - Synchronisierung zu begrenzen, um Daten und Batterieverbrauch zu reduzieren. 
 - Allgemeine Verbesserungen
 
-## Version 3.1.4
-**Veröffentlicht:** 15.02.2024 16:58
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neue Hinweise, wenn keine Abfahrten an der gewählten Haltestelle verfügbar sind.
 - Allgemeine Verbesserungen
