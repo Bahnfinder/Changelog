@@ -886,8 +886,8 @@
 - Neue Option, zum ausblenden des "Suchen" Button, wenn "Automatische Suche" aktiviert ist.
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.0.4
+**Veröffentlicht:** 24.07.2023 00:19
 
 - Fehlerbehebungen
 
