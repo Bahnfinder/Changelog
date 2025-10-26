@@ -720,6 +720,11 @@
 ## Version 2.3.1
 **Veröffentlicht:** 12.10.2023 12:23
 
+- Im Verbindungsdetail wird jetzt die Ankunft in Minuten gezeigt.
+- Verbesserte Darstellung von Zeiten.
+- Ein Fehler wurde behoben, der dazu geführt hat, dass unter bestimmten Umständen Text in Abfahrten abgeschnitten wurde.
+- Fehlerbehebungen
+- Allgemeine Verbesserungen
 
 ## Version 2.3.0
 **Veröffentlicht:** 11.10.2023 11:43
