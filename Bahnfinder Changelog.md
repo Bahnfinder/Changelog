@@ -709,8 +709,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.2
+**Veröffentlicht:** 13.10.2023 12:39
 
 - Das Layout der Linieninfos wurde für alle Gerätegrössen angepasst.
 - Die Lesbarkeit der Anzahl an Zwischenhalten im Verbindungsdetail wurde verbessert.
