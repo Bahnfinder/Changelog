@@ -814,7 +814,6 @@
 ## Version 2.2.7
 **Veröffentlicht:** 02.09.2023 08:49
 
-- Allgemeine Verbesserungen 
 
 ## Version 2.2.6
 **Veröffentlicht:** 01.09.2023 00:40
@@ -1097,8 +1096,8 @@
 
 - Kritische Fehlerbehebungen
 
-## Version 1.0.6
-**Veröffentlicht:** 08.04.2023 02:04
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Ein kritischer Fehler, der die App an bestimmten Standorten zum Absturz brachte, wurde behoben.
 - Allgemeine Verbesserungen und Fehlerbehebungen
