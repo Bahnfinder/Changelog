@@ -577,8 +577,8 @@
 - Fehlerbehebungen
 - Allgemeine Verbesserungen
 
-## Version 
-**Veröffentlicht:** – No release date available
+## Version 3.1.2
+**Veröffentlicht:** 10.02.2024 07:37
 
 - Fehlerbehebungen
 - Allgemeine Verbesserungen
