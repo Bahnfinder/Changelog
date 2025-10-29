@@ -122,8 +122,8 @@
 - Zu lange Gleisnummern im Verbindungsdetail werden jetzt separat dargestellt, wenn der Platz nicht ausreicht
 - Allgemeine Verbesserungen
 
-## Version 6.0.3
-**Veröffentlicht:** 31.01.2025 03:41
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Verbesserte Darstellung von Bahnhofsnamen
 - Allgemeine Verbesserungen
