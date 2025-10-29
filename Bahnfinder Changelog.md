@@ -816,320 +816,199 @@
 
 - Allgemeine Verbesserungen 
 
-## Version 2.2.6
-**Veröffentlicht:** 01.09.2023 00:40
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Kleine Designänderungen
-- Allgemeine Verbesserungen
 
-## Version 2.2.5
-**Veröffentlicht:** 31.08.2023 11:56
+## Version null
+**Veröffentlicht:** – No release date available
 
-- In der Suche werden jetzt 50 Haltestellen in der Nähe angezeigt.
-- Allgemeine Verbesserungen
 
-## Version 2.2.4
-**Veröffentlicht:** 30.08.2023 12:04
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Die Anzeige der Umsteigezeit ist nun in den Verbindungsdetails sichtbar.
-- Das Layout der Abfahrtszeiten wurde optimiert, um eine höhere Anzahl von Abfahrten gleichzeitig anzeigen zu können.
-- Die Suchgeschwindigkeit wurde signifikant erhöht.
-- Ein neuer Hinweisdialog informiert Benutzer, wenn sie sich in einem Gebiet mit Verkehrsnetz befinden, das derzeit nicht ausgewählt ist.
-- Allgemeine Verbesserungen
 
-## Version 2.2.3
-**Veröffentlicht:** 17.08.2023 11:24
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Allgemeine Verbesserungen
 
-## Version 2.2.2
-**Veröffentlicht:** 14.08.2023 09:53
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Neues Menü zur Schnellauswahl bei der Haltestellensuche.
-- Allgemeine Verbesserungen
 
-## Version 2.2.1
-**Veröffentlicht:** 11.08.2023 17:09
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Allgemeine Verbesserungen
 
-## Version 2.2
-**Veröffentlicht:** 09.08.2023 20:22
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Dieses Update enthält interne Optimierungen, die Bahnfinder noch schneller und stabiler machen.
-- Neues, optionales Layout für eine verbesserte einhändige Bedienung. (Vorerst nur bei Abfahrten)
-- Ausgefallene Haltestellen werden jetzt unter Verbindungen angezeigt.
-- Neue Informationen bei „Linieninfos“: Längste und kürzeste Distanz zwischen zwei Haltestellen.
-- Allgemeine Verbesserungen 
 
-## Version 2.1.2
-**Veröffentlicht:** 01.08.2023 09:16
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Linieninfos: Mit "Linieninfos" (Beta) erfährst du alles Wissenswerte über deine Linien. Hier kannst du nachschlagen, welche Distanz ein Fahrzeug zurücklegt, wie lange es insgesamt fährt und vieles mehr.
-- Neues Symbol für veränderte Verbindungsoptionen.
-- Bei „Linien ausblenden“ können nun alle Linien mit einen Knopfdruck ausgeblendet oder eingeblendet werden.
-- Neue Favoriten Symbole 
-- Allgemeine Verbesserungen
 
-## Version 2.1.1
-**Veröffentlicht:** 28.07.2023 19:11
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Fehlerbehebungen
 
-## Version 2.1
-**Veröffentlicht:** 27.07.2023 15:20
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Neues Design in "Verbindung".
-- Verkehrsnetz spezifische Einstellungen hinzugefügt.
-- Neue Favoriten Symbole.
-- Neuer "Zurücksetzen" Dialog.
-- Neue Option, zum ausblenden des "Suchen" Button, wenn "Automatische Suche" aktiviert ist.
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 2.0.4
-**Veröffentlicht:** 24.07.2023 00:19
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Fehlerbehebungen
 
-## Version 2.0.3
-**Veröffentlicht:** 21.07.2023 01:29
+## Version null
+**Veröffentlicht:** – No release date available
 
-- VVO hinzugefügt
-- Anzeige der Favoriten Symbole verbessert
-- Designverbesserungen
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 2.0.2
-**Veröffentlicht:** 20.07.2023 03:14
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Konfigurationen von ausgeblendeten Linien können ab sofort gespeichert werden.
-- Favoriten Symbole werden in Abfahrten gezeigt.
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 2.0.1
-**Veröffentlicht:** 15.07.2023 00:02
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Option zum auswählen der Ansicht beim App Start hinzugefügt.
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 2.0
-**Veröffentlicht:** 12.07.2023 08:34
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Bahnfinder 2 ist das Umfangreichste Update bisher und macht Bahnfinder noch schneller, übersichtlicher und schöner.
-- Das ist neu: 
-- Neues, übersichtlicheres Aussehen durch differenzierte Farben und weiteren Anpassungen.
-- Neue Design Optionen
-- 2 neue Design Pakete 
-- „Automatisch folgen“: Mit der Funktion „Automatisch folgen“ werden dir jederzeit Abfahrten der nächsten Haltestelle angezeigt, während du dich fortbewegst.
-- „Automatisch suchen“: Suche deine Verbindung automatisch, sobald du eine Start und Zielhaltestelle ausgewählt hast. 
-- Linien können unter Abfahrten ausgeblendet werden.
-- Mehr Informationen bei Verbindungen 
-- Eigene Icons bei Haltestellen Favoriten
-- Ankünfte bei Haltestellen  
-- Verbesserte Unterstützung für Rufbusse
-- Gehzeit in Minuten 
-- Karte bei Verbindung
-- Erhebliche Leistungsverbesserungen
-- Und viele weitere kleine Änderungen…
 
-## Version 1.5.6
-**Veröffentlicht:** 06.06.2023 17:36
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Die Einrichtung wurde verbessert.
-- Ein Fehler wurde behoben, der eventuell dazu führte, dass Favoriten eines Verkehrsnetzes mit anderen Verkehrsnetzen vermischt wurden.
-- Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version 1.5.5
-**Veröffentlicht:** 05.06.2023 15:42
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Sekundengenaue Zeiten: Abfahrten und Verbindungen werden jetzt in Sekunden angezeigt, wenn die Wartezeit unter 1 Minute ist.
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.5.4
-**Veröffentlicht:** 01.06.2023 03:49
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Die Zeit einer gesuchten Verbindung wird jetzt im Verlauf angezeigt.
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.5.3
-**Veröffentlicht:** 26.05.2023 04:25
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Allgemeine Verbesserungen
 
-## Version 1.5.2
-**Veröffentlicht:** 25.05.2023 04:40
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Eine Option zum anrufen von Rufbussen wurde hinzugefügt
-- Stabilität wurde verbessert
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.5.1
-**Veröffentlicht:** 22.05.2023 22:56
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.5.0
-**Veröffentlicht:** 18.05.2023 15:13
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Die Gleisnummer ist ab sofort im Fahrtverlauf sichtbar
-- Neues Design bei Fahrtverlauf
-- Die angepinnte Route wird ab sofort in der Verbindungsliste angezeigt
-- Ein Fehler bei der Standortsuche wurde behoben
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.4.0
-**Veröffentlicht:** 17.05.2023 02:42
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Automatische Suche bei Verbindungen hinzugefügt
-- Stabilitätsverbesserungen
-- Fehlerbehebungen
 
-## Version 1.3.6
-**Veröffentlicht:** 16.05.2023 13:41
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Stabilitätsverbesserungen
 
-## Version 1.3.5
-**Veröffentlicht:** 16.05.2023 00:53
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Fehlerbehebungen und Stabilitätsverbesserungen
 
-## Version 1.3.4
-**Veröffentlicht:** 13.05.2023 10:27
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.3.3
-**Veröffentlicht:** 12.05.2023 22:22
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Design Anpassungen
-- Stabilitätsverbesserungen
-- Fehlerbehebungen
 
-## Version 1.3.2
-**Veröffentlicht:** 12.05.2023 05:14
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Stabilität erheblich verbessert
 
-## Version 1.3.1
-**Veröffentlicht:** 11.05.2023 03:36
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.3.0
-**Veröffentlicht:** 10.05.2023 14:19
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Zwischenstopps hinzugefügt
-- Verbindungen: Abfahrt oder Ankunftszeit kann ausgewählt werden
-- Suche verbessert
-- Verbesserung für Ausfälle
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.2.2
-**Veröffentlicht:** 09.05.2023 13:10
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Fehlerbehebungen
 
-## Version 1.2.1
-**Veröffentlicht:** 08.05.2023 23:07
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Fehlerbehebungen
 
-## Version 1.2.0
-**Veröffentlicht:** 06.05.2023 00:35
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Ab sofort kann die Starthaltestelle ausgetauscht werden.
-- Falls die Haltestelle, die beim Start der App gefunden wurde, durch eine andere ersetzt werden soll, können Ausnahmen erstellt werden.
-- Allgemeine Verbesserungen und Fehlerbehebungen wurden durchgeführt.
 
-## Version 1.1.3
-**Veröffentlicht:** 27.04.2023 03:25
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version 1.1.2
-**Veröffentlicht:** 25.04.2023 04:22
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.1.1
-**Veröffentlicht:** 21.04.2023 20:55
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.1.0
-**Veröffentlicht:** 21.04.2023 06:06
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Verbindung anpinnen: Deine ausgewählte Route wird gespeichert und bleibt bis zum Ende deiner Fahrt oben angeheftet. Mit nur einem Klick kannst du sie jederzeit wieder aufrufen.
-- Designpaket „Glas“ wurde für den hellen Modus optimiert.
-- Dein aktueller Standort bei Abfahrten wird nun automatisch aktualisiert.
-- Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version 1.0.12
-**Veröffentlicht:** 18.04.2023 00:53
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.0.11
-**Veröffentlicht:** 17.04.2023 01:22
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Fehlerbehebungen
 
-## Version 1.0.10
-**Veröffentlicht:** 14.04.2023 21:13
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Suche verbessert
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.0.9
-**Veröffentlicht:** 11.04.2023 23:05
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Ein Fehler wurde behoben, durch den die App keine Inhalte mehr geladen hat, wenn sie eine gewisse Zeit im Hintergrund war. 
-- Der Fehler könnte bei einigen Nutzern dennoch auftreten, schließe die App dazu aus dem Multitasking Menü und öffne sie erneut. 
 
-## Version 1.0.8
-**Veröffentlicht:** 11.04.2023 02:45
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.0.7
-**Veröffentlicht:** 10.04.2023 03:17
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Kritische Fehlerbehebungen
 
-## Version 1.0.6
-**Veröffentlicht:** 08.04.2023 02:04
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Ein kritischer Fehler, der die App an bestimmten Standorten zum Absturz brachte, wurde behoben.
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.0.5
-**Veröffentlicht:** 06.04.2023 04:16
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Anschlüsse können ab sofort von einer Verbindung aus durch tippen auf den Haltestellen Namen abgerufen werden.
-- Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version 1.0.4
-**Veröffentlicht:** 05.04.2023 04:18
+## Version null
+**Veröffentlicht:** – No release date available
 
-- KVV als Verkehrsnetz hinzugefügt.
-- Setup Assistenten hinzugefügt.
-- Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version 1.0.3
-**Veröffentlicht:** 03.04.2023 23:08
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Neue App Icons
-- Es wurde ein Hinweis hinzugefügt, der den Nutzer darauf aufmerksam macht, dass die Ortungsdienste deaktiviert sind.
-- Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version 1.0.1
-**Veröffentlicht:** 03.04.2023 04:19
+## Version null
+**Veröffentlicht:** – No release date available
 
-- Ab sofort können Favoriten direkt aus der Suche heraus hinzugefügt werden.
-- Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version 1.0
-**Veröffentlicht:** 28.03.2023 17:04
+## Version null
+**Veröffentlicht:** – No release date available
 
 
