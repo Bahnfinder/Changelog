@@ -968,8 +968,8 @@
 
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 
-**Veröffentlicht:** – No release date available
+## Version 1.5.0
+**Veröffentlicht:** 18.05.2023 15:13
 
 - Die Gleisnummer ist ab sofort im Fahrtverlauf sichtbar
 - Neues Design bei Fahrtverlauf
