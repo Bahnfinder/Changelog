@@ -211,10 +211,12 @@
 ## Version 5.1.7
 **Veröffentlicht:** 19.12.2024 03:54
 
+- Ein Fehler wurde behoben, der dazu führte, dass die App beim Ansehen bestimmter Verbindungen abstürzte. 
 
-## Version 
-**Veröffentlicht:** – No release date available
+## Version 5.1.6
+**Veröffentlicht:** 16.12.2024 13:31
 
+- Die Linienfarben für die S5 (MVV) wurden hinzugefügt.
 
 ## Version 5.1.5
 **Veröffentlicht:** 10.12.2024 05:15
