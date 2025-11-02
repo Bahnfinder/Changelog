@@ -805,8 +805,8 @@
 - Lange Fusswege werden jetzt unter Verbindung markiert.
 - Allgemeine Verbesserungen
 
-## Version 2.2.8
-**Veröffentlicht:** 04.09.2023 16:00
+## Version 
+**Veröffentlicht:** – No release date available
 
 - Start gefunden wurde.
 - Allgemeine Verbesserungen
