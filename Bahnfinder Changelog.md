@@ -517,10 +517,14 @@
 ## Version 4.1.2
 **Veröffentlicht:** 15.03.2024 12:35
 
+- Erweiterte Diagnosedaten können jetzt per Mail gesendet werden.
+- Allgemeine Verbesserungen
 
-## Version 
-**Veröffentlicht:** – No release date available
+## Version 4.1.1
+**Veröffentlicht:** 10.03.2024 22:38
 
+- Neue Verkehrsnetze hinzugefügt: MVG (Märkischer Kreis), VMS, VMV, VRN
+- Allgemeine Verbesserungen
 
 ## Version 4.1
 **Veröffentlicht:** 08.03.2024 13:33
