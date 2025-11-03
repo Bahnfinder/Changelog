@@ -1103,8 +1103,8 @@
 - Ein kritischer Fehler, der die App an bestimmten Standorten zum Absturz brachte, wurde behoben.
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.0.5
-**Veröffentlicht:** 06.04.2023 04:16
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Anschlüsse können ab sofort von einer Verbindung aus durch tippen auf den Haltestellen Namen abgerufen werden.
 - Allgemeine Verbesserungen und Fehlerbehebungen.
