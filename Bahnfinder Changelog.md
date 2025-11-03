@@ -912,8 +912,8 @@
 - Option zum auswählen der Ansicht beim App Start hinzugefügt.
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 2.0
-**Veröffentlicht:** 12.07.2023 08:34
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Bahnfinder 2 ist das Umfangreichste Update bisher und macht Bahnfinder noch schneller, übersichtlicher und schöner.
 - Das ist neu: 
