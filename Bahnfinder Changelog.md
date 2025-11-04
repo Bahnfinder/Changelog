@@ -83,8 +83,8 @@
 
 - Verbesserungen für VoiceOver
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.0.10
+**Veröffentlicht:** 16.02.2025 17:24
 
 - Allgemeine Verbesserungen
 
