@@ -48,8 +48,8 @@
 - Die Größe eines Backups wird jetzt angezeigt. Zusätzlich wird die relative Größe im Vergleich zu anderen Backups dargestellt
 - Allgemeine Verbesserungen
 
-## Version 
-**Veröffentlicht:** – No release date available
+## Version 6.1.1
+**Veröffentlicht:** 28.04.2025 18:53
 
 - Release Version
 - Automatische Backups werden jetzt nach einer Wiederherstellung automatisch aktiviert
@@ -789,9 +789,6 @@
 ## Version 2.2.11
 **Veröffentlicht:** 14.09.2023 01:16
 
-- iOS 17 Kompatibilität
-- 3D Optionen wurden zur Karte hinzugefügt.
-- Allgemeine Verbesserungen
 
 ## Version 2.2.10
 **Veröffentlicht:** 11.09.2023 11:05
@@ -840,7 +837,6 @@
 ## Version 2.2.3
 **Veröffentlicht:** 17.08.2023 11:24
 
-- Allgemeine Verbesserungen
 
 ## Version 2.2.2
 **Veröffentlicht:** 14.08.2023 09:53
