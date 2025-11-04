@@ -1038,6 +1038,9 @@
 ## Version 1.2.0
 **Veröffentlicht:** 06.05.2023 00:35
 
+- Ab sofort kann die Starthaltestelle ausgetauscht werden.
+- Falls die Haltestelle, die beim Start der App gefunden wurde, durch eine andere ersetzt werden soll, können Ausnahmen erstellt werden.
+- Allgemeine Verbesserungen und Fehlerbehebungen wurden durchgeführt.
 
 ## Version 1.1.3
 **Veröffentlicht:** 27.04.2023 03:25
