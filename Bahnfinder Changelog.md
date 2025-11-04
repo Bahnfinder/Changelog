@@ -243,8 +243,6 @@
 ## Version 5.1.1
 **Veröffentlicht:** 21.09.2024 07:10
 
-- Ein Fehler wurde behoben, der dazu führte, dass „Haltestellen ankündigen“ in einigen Fällen im Hintergrund gestoppt wurde.
-- Allgemeine Verbesserungen
 
 ## Version 5.1
 **Veröffentlicht:** 20.09.2024 01:55
@@ -997,7 +995,6 @@
 ## Version 1.3.4
 **Veröffentlicht:** 13.05.2023 10:27
 
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.3.3
 **Veröffentlicht:** 12.05.2023 22:22
