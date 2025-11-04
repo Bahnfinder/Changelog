@@ -223,8 +223,8 @@
 
 - Neues App Icon: „Weihnachten 2024“
 
-## Version 5.1.4
-**Veröffentlicht:** 27.11.2024 00:19
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Das VMV Verkehrsnetz funktioniert jetzt wieder wie erwartet
 - Allgemeine Verbesserungen
@@ -309,6 +309,7 @@
 ## Version 4.4.2
 **Veröffentlicht:** 05.07.2024 17:07
 
+- Ein Fehler wurde behoben, der dazu führte, dass unter bestimmten Umständen ein Lokales Backup beim einrichten von Bahnfinder nicht wiederhergestellt werden konnte.
 
 ## Version 4.4.1
 **Veröffentlicht:** 01.07.2024 17:20
