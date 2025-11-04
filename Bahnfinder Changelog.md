@@ -333,6 +333,7 @@
 ## Version 4.3.2
 **Veröffentlicht:** 23.06.2024 16:44
 
+- Entfallene Fahrzeuge werden jetzt einheitlich dargestellt.
 
 ## Version 4.3.1
 **Veröffentlicht:** 23.06.2024 01:00
@@ -342,8 +343,6 @@
 ## Version 4.3.0
 **Veröffentlicht:** 21.06.2024 08:52
 
-- Neue Verkehrsnetze: BVG, HVV, RMV, RailTeam & Naldo
-- Allgemeine Verbesserungen
 
 ## Version 4.2.8
 **Veröffentlicht:** 20.06.2024 21:56
@@ -590,11 +589,6 @@
 ## Version 3.1
 **Veröffentlicht:** 01.02.2024 16:55
 
-- Du kannst ab sofort spenden, um die weitere Entwicklung von Bahnfinder zu unterstützen :)
-- Neue Favoriten Symbole hinzugefügt
-- Neues Design für die iCloud Einstellungen und info
-- Verbesserte Darstellung von Linienwegen auf der Karte
-- Allgemeine Verbesserungen
 
 ## Version 3.0.2
 **Veröffentlicht:** 25.01.2024 15:35
@@ -770,6 +764,8 @@
 ## Version 2.2.14
 **Veröffentlicht:** 18.09.2023 17:13
 
+- Mit der Funktion "Notfallsuche" wird versucht, stets eine Verbindung für dich zu finden. Selbst in Situationen wie späten Stunden in einem entlegenen Dorf werden dir beispielsweise lange Fußwege zum nächsten Ort vorgeschlagen, um in jedem Fall nach Hause zu kommen.
+- Allgemeine Verbesserungen
 
 ## Version 2.2.13
 **Veröffentlicht:** 16.09.2023 02:03
@@ -1120,8 +1116,8 @@
 - Es wurde ein Hinweis hinzugefügt, der den Nutzer darauf aufmerksam macht, dass die Ortungsdienste deaktiviert sind.
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version 1.0.1
-**Veröffentlicht:** 03.04.2023 04:19
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Ab sofort können Favoriten direkt aus der Suche heraus hinzugefügt werden.
 - Allgemeine Verbesserungen und Fehlerbehebungen.
