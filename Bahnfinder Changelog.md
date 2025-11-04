@@ -16,8 +16,8 @@
 - Alle Neuerungen: Unter „Info > Neues in Bahnfinder“ findest du alle Neuerungen aus allen bisherigen Bahnfinder Versionen.
 - Über 15 weitere Verbesserungen machen Bahnfinder noch besser und schneller.
 
-## Version 6.1.6
-**Veröffentlicht:** 24.06.2025 23:20
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Designanpassungen
 - Allgemeine Verbesserungen
@@ -229,8 +229,8 @@
 - Das VMV Verkehrsnetz funktioniert jetzt wieder wie erwartet
 - Allgemeine Verbesserungen
 
-## Version 5.1.3
-**Veröffentlicht:** 27.09.2024 17:57
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Ein Darstellungsfehler wurde behoben
 
@@ -320,9 +320,6 @@
 ## Version 4.4
 **Veröffentlicht:** 27.06.2024 16:01
 
-- Neues App Icon: „Flipswitch“
-- Verbesserungen im Abfahrten Popover
-- Die Berechnung von Fußwegen wurde verbessert
 
 ## Version 4.3.3
 **Veröffentlicht:** 24.06.2024 21:40
@@ -789,6 +786,9 @@
 ## Version 2.2.11
 **Veröffentlicht:** 14.09.2023 01:16
 
+- iOS 17 Kompatibilität
+- 3D Optionen wurden zur Karte hinzugefügt.
+- Allgemeine Verbesserungen
 
 ## Version 2.2.10
 **Veröffentlicht:** 11.09.2023 11:05
@@ -837,6 +837,7 @@
 ## Version 2.2.3
 **Veröffentlicht:** 17.08.2023 11:24
 
+- Allgemeine Verbesserungen
 
 ## Version 2.2.2
 **Veröffentlicht:** 14.08.2023 09:53
@@ -993,7 +994,6 @@
 ## Version 1.3.4
 **Veröffentlicht:** 13.05.2023 10:27
 
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.3.3
 **Veröffentlicht:** 12.05.2023 22:22
