@@ -871,8 +871,8 @@
 - Neue Favoriten Symbole 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.1.1
+**Veröffentlicht:** 28.07.2023 19:11
 
 - Fehlerbehebungen
 
