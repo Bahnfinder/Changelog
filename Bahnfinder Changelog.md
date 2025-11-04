@@ -879,12 +879,6 @@
 ## Version 2.1
 **Veröffentlicht:** 27.07.2023 15:20
 
-- Neues Design in "Verbindung".
-- Verkehrsnetz spezifische Einstellungen hinzugefügt.
-- Neue Favoriten Symbole.
-- Neuer "Zurücksetzen" Dialog.
-- Neue Option, zum ausblenden des "Suchen" Button, wenn "Automatische Suche" aktiviert ist.
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 2.0.4
 **Veröffentlicht:** 24.07.2023 00:19
