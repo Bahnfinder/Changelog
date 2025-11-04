@@ -22,8 +22,8 @@
 - Designanpassungen
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.1.5
+**Veröffentlicht:** 01.06.2025 23:30
 
 - Allgemeine Verbesserungen
 
@@ -232,6 +232,7 @@
 ## Version 5.1.3
 **Veröffentlicht:** 27.09.2024 17:57
 
+- Ein Darstellungsfehler wurde behoben
 
 ## Version 5.1.2
 **Veröffentlicht:** 22.09.2024 15:19
@@ -405,8 +406,8 @@
 - Ein Fehler wurde behoben, der dazu führte, dass die Liniensymbole nach einer Wiederherstellung nicht angezeigt wurden.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.19
+**Veröffentlicht:** 20.05.2024 19:02
 
 - Das App Icon „Weiss Inline“ heisst jetzt „Modern Weiß“
 - Fehlerbehebungen
