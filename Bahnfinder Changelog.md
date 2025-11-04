@@ -1,6 +1,7 @@
 ## Version 6.2.2
 **Veröffentlicht:** 22.10.2025 01:05
 
+- Das DB Verkehrsnetz funktioniert jetzt wieder wie erwartet. Die Deutsche Bahn hat (mal wieder) ohne Vorankündigung ihre API geändert und damit in Drittanbieterapps die Verbindungssuche außer Betrieb gesetzt. Dieses Update behebt das Problem.
 
 ## Version 6.2.1
 **Veröffentlicht:** 08.09.2025 16:34
@@ -133,8 +134,8 @@
 - Die Verkehrsnetzsuche bei der Einrichtung kann jetzt abgebrochen werden.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.0.1
+**Veröffentlicht:** 28.01.2025 02:13
 
 - Allgemeine Verbesserungen
 
@@ -332,7 +333,6 @@
 ## Version 4.3.2
 **Veröffentlicht:** 23.06.2024 16:44
 
-- Entfallene Fahrzeuge werden jetzt einheitlich dargestellt.
 
 ## Version 4.3.1
 **Veröffentlicht:** 23.06.2024 01:00
@@ -770,8 +770,6 @@
 ## Version 2.2.14
 **Veröffentlicht:** 18.09.2023 17:13
 
-- Mit der Funktion "Notfallsuche" wird versucht, stets eine Verbindung für dich zu finden. Selbst in Situationen wie späten Stunden in einem entlegenen Dorf werden dir beispielsweise lange Fußwege zum nächsten Ort vorgeschlagen, um in jedem Fall nach Hause zu kommen.
-- Allgemeine Verbesserungen
 
 ## Version 2.2.13
 **Veröffentlicht:** 16.09.2023 02:03
@@ -898,8 +896,8 @@
 - Designverbesserungen
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.0.2
+**Veröffentlicht:** 20.07.2023 03:14
 
 - Konfigurationen von ausgeblendeten Linien können ab sofort gespeichert werden.
 - Favoriten Symbole werden in Abfahrten gezeigt.
@@ -1083,6 +1081,8 @@
 ## Version 1.0.9
 **Veröffentlicht:** 11.04.2023 23:05
 
+- Ein Fehler wurde behoben, durch den die App keine Inhalte mehr geladen hat, wenn sie eine gewisse Zeit im Hintergrund war. 
+- Der Fehler könnte bei einigen Nutzern dennoch auftreten, schließe die App dazu aus dem Multitasking Menü und öffne sie erneut. 
 
 ## Version 1.0.8
 **Veröffentlicht:** 11.04.2023 02:45
