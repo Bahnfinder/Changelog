@@ -48,8 +48,8 @@
 - Die Größe eines Backups wird jetzt angezeigt. Zusätzlich wird die relative Größe im Vergleich zu anderen Backups dargestellt
 - Allgemeine Verbesserungen
 
-## Version 6.1.1
-**Veröffentlicht:** 28.04.2025 18:53
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Release Version
 - Automatische Backups werden jetzt nach einer Wiederherstellung automatisch aktiviert
@@ -196,8 +196,8 @@
 
 - Weitere Informationen über den Ausfall des DB Verkehrsnetzes hinzugefügt 
 
-## Version 5.1.9
-**Veröffentlicht:** 12.01.2025 06:09
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Verkehrsnetz vorübergehend nicht verfügbar ist. Ich arbeite mit Hochdruck an einer Lösung. Du kannst dich benachrichtigen lassen, sobald es wieder funktioniert.
 - Verkehrsnetzes.
@@ -793,8 +793,8 @@
 - 3D Optionen wurden zur Karte hinzugefügt.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.10
+**Veröffentlicht:** 11.09.2023 11:05
 
 - Die Karte wurde überarbeitet und bietet jetzt eine verbesserte Navigation.
 - Allgemeine Verbesserungen
@@ -814,6 +814,7 @@
 ## Version 2.2.7
 **Veröffentlicht:** 02.09.2023 08:49
 
+- Allgemeine Verbesserungen 
 
 ## Version 2.2.6
 **Veröffentlicht:** 01.09.2023 00:40
@@ -839,6 +840,7 @@
 ## Version 2.2.3
 **Veröffentlicht:** 17.08.2023 11:24
 
+- Allgemeine Verbesserungen
 
 ## Version 2.2.2
 **Veröffentlicht:** 14.08.2023 09:53
