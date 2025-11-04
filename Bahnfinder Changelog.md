@@ -51,6 +51,12 @@
 ## Version 6.1.1
 **Veröffentlicht:** 28.04.2025 18:53
 
+- Release Version
+- Automatische Backups werden jetzt nach einer Wiederherstellung automatisch aktiviert
+- Die falsche Schriftgrösse von Liniennummern auf der Karte wurde behoben
+- Nach dem ersten einrichten der App wird jetzt der richtige „Was ist neu“ Screen angezeigt
+- Ein Fehler wurde behoben, der in seltenen Fällen zu Abstürzen beim verwenden von „Lokale Backups“ geführt hat
+- Allgemeine Verbesserungen 
 
 ## Version 6.1
 **Veröffentlicht:** 26.04.2025 00:45
@@ -407,8 +413,8 @@
 - Fehlerbehebungen
 - Allgemeine Verbesserungen
 
-## Version 4.1.18
-**Veröffentlicht:** 18.05.2024 21:41
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neues App Icon „Weiss Inline“
 - Darstellungsanpassungen für kleinere Geräte
@@ -647,6 +653,8 @@
 ## Version 2.3.12
 **Veröffentlicht:** 31.10.2023 20:40
 
+- Ausgefallene Fahrzeuge werden jetzt bei Verbindungen angezeigt.
+- Allgemeine Verbesserungen 
 
 ## Version 2.3.11
 **Veröffentlicht:** 30.10.2023 19:06
@@ -834,8 +842,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.2.2
+**Veröffentlicht:** 14.08.2023 09:53
 
 - Neues Menü zur Schnellauswahl bei der Haltestellensuche.
 - Allgemeine Verbesserungen
