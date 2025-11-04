@@ -520,8 +520,8 @@
 - Erweiterte Diagnosedaten können jetzt per Mail gesendet werden.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.1.1
+**Veröffentlicht:** 10.03.2024 22:38
 
 - Neue Verkehrsnetze hinzugefügt: MVG (Märkischer Kreis), VMS, VMV, VRN
 - Allgemeine Verbesserungen
@@ -565,8 +565,8 @@
 - Synchronisierung zu begrenzen, um Daten und Batterieverbrauch zu reduzieren. 
 - Allgemeine Verbesserungen
 
-## Version 3.1.4
-**Veröffentlicht:** 15.02.2024 16:58
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neue Hinweise, wenn keine Abfahrten an der gewählten Haltestelle verfügbar sind.
 - Allgemeine Verbesserungen
@@ -597,8 +597,8 @@
 - Verbesserte Darstellung von Linienwegen auf der Karte
 - Allgemeine Verbesserungen
 
-## Version 3.0.2
-**Veröffentlicht:** 25.01.2024 15:35
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Haltestellen vorlesen liest jetzt auch die Abfahrtszeit vor.
 - Neue Option: „Verbindungsdetail Live aktualisieren“
@@ -671,8 +671,8 @@
 - Die Haltestellensymbol UI wurde verbessert.
 - Allgemeine Verbesserungen
 
-## Version 2.3.9
-**Veröffentlicht:** 22.10.2023 16:09
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Darstellung des Fahrtfortschritts im Fahrtverlauf markiert jetzt die Haltestelle, an dem sich das Fahrzeug gerade befindet.
 - Eine neue Verbindungsoption „Minimale Umsteigezeit“ wurde hinzugefügt.
@@ -997,7 +997,6 @@
 ## Version 1.3.4
 **Veröffentlicht:** 13.05.2023 10:27
 
-- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.3.3
 **Veröffentlicht:** 12.05.2023 22:22
@@ -1084,8 +1083,6 @@
 ## Version 1.0.9
 **Veröffentlicht:** 11.04.2023 23:05
 
-- Ein Fehler wurde behoben, durch den die App keine Inhalte mehr geladen hat, wenn sie eine gewisse Zeit im Hintergrund war. 
-- Der Fehler könnte bei einigen Nutzern dennoch auftreten, schließe die App dazu aus dem Multitasking Menü und öffne sie erneut. 
 
 ## Version 1.0.8
 **Veröffentlicht:** 11.04.2023 02:45
