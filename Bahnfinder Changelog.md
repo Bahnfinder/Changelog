@@ -634,8 +634,8 @@
 - 4 neue App Icons: „Vereiste Weihnachten“, „Vereiste Weihnachten Mund“, „Weihnachtsgeschenk“ und „Weihnachtsgeschenk Mund“.
 - Allgemeine Verbesserungen
 
-## Version 
-**Veröffentlicht:** – No release date available
+## Version 2.3.15
+**Veröffentlicht:** 13.12.2023 23:32
 
 - Allgemeine Verbesserungen
 
