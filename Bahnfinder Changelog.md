@@ -726,8 +726,8 @@
 - Fehlerbehebungen
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.0
+**Veröffentlicht:** 11.10.2023 11:43
 
 - Der AVV Augsburg wurde als Verkehrsnetz hinzugefügt.
 - Komplett neues Menü zum auswählen des App Icons.
