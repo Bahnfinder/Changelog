@@ -134,8 +134,8 @@
 - Die Verkehrsnetzsuche bei der Einrichtung kann jetzt abgebrochen werden.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.0.1
+**Veröffentlicht:** 28.01.2025 02:13
 
 - Allgemeine Verbesserungen
 
@@ -246,8 +246,8 @@
 - Ein Fehler wurde behoben, der dazu führte, dass „Haltestellen ankündigen“ in einigen Fällen im Hintergrund gestoppt wurde.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.1
+**Veröffentlicht:** 20.09.2024 01:55
 
 - Neue Verkehrsnetze: VVS, NRW, VVV & Südtirolmobil
 - Du wirst jetzt automatisch darauf hingewiesen, das Verkehrsnetz zu wechseln, wenn du dich in einem anderen Gebiet befindest. 
@@ -304,6 +304,7 @@
 ## Version 4.4.3
 **Veröffentlicht:** 06.07.2024 20:33
 
+- Ein Fehler, der zum Absturz der App beim Aktualisieren des Fahrtverlaufs unter bestimmten Bedingungen führte, wurde behoben.
 
 ## Version 4.4.2
 **Veröffentlicht:** 05.07.2024 17:07
@@ -725,8 +726,8 @@
 - Fehlerbehebungen
 - Allgemeine Verbesserungen
 
-## Version 2.3.0
-**Veröffentlicht:** 11.10.2023 11:43
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Der AVV Augsburg wurde als Verkehrsnetz hinzugefügt.
 - Komplett neues Menü zum auswählen des App Icons.
