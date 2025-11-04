@@ -134,8 +134,8 @@
 - Die Verkehrsnetzsuche bei der Einrichtung kann jetzt abgebrochen werden.
 - Allgemeine Verbesserungen
 
-## Version 6.0.1
-**Veröffentlicht:** 28.01.2025 02:13
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -246,8 +246,8 @@
 - Ein Fehler wurde behoben, der dazu führte, dass „Haltestellen ankündigen“ in einigen Fällen im Hintergrund gestoppt wurde.
 - Allgemeine Verbesserungen
 
-## Version 5.1
-**Veröffentlicht:** 20.09.2024 01:55
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neue Verkehrsnetze: VVS, NRW, VVV & Südtirolmobil
 - Du wirst jetzt automatisch darauf hingewiesen, das Verkehrsnetz zu wechseln, wenn du dich in einem anderen Gebiet befindest. 
@@ -304,7 +304,6 @@
 ## Version 4.4.3
 **Veröffentlicht:** 06.07.2024 20:33
 
-- Ein Fehler, der zum Absturz der App beim Aktualisieren des Fahrtverlaufs unter bestimmten Bedingungen führte, wurde behoben.
 
 ## Version 4.4.2
 **Veröffentlicht:** 05.07.2024 17:07
@@ -343,6 +342,8 @@
 ## Version 4.3.0
 **Veröffentlicht:** 21.06.2024 08:52
 
+- Neue Verkehrsnetze: BVG, HVV, RMV, RailTeam & Naldo
+- Allgemeine Verbesserungen
 
 ## Version 4.2.8
 **Veröffentlicht:** 20.06.2024 21:56
@@ -589,6 +590,11 @@
 ## Version 3.1
 **Veröffentlicht:** 01.02.2024 16:55
 
+- Du kannst ab sofort spenden, um die weitere Entwicklung von Bahnfinder zu unterstützen :)
+- Neue Favoriten Symbole hinzugefügt
+- Neues Design für die iCloud Einstellungen und info
+- Verbesserte Darstellung von Linienwegen auf der Karte
+- Allgemeine Verbesserungen
 
 ## Version 3.0.2
 **Veröffentlicht:** 25.01.2024 15:35
@@ -1116,8 +1122,8 @@
 - Es wurde ein Hinweis hinzugefügt, der den Nutzer darauf aufmerksam macht, dass die Ortungsdienste deaktiviert sind.
 - Allgemeine Verbesserungen und Fehlerbehebungen.
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 1.0.1
+**Veröffentlicht:** 03.04.2023 04:19
 
 - Ab sofort können Favoriten direkt aus der Suche heraus hinzugefügt werden.
 - Allgemeine Verbesserungen und Fehlerbehebungen.
