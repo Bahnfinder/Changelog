@@ -48,8 +48,8 @@
 - Die Größe eines Backups wird jetzt angezeigt. Zusätzlich wird die relative Größe im Vergleich zu anderen Backups dargestellt
 - Allgemeine Verbesserungen
 
-## Version 6.1.1
-**Veröffentlicht:** 28.04.2025 18:53
+## Version 
+**Veröffentlicht:** – No release date available
 
 - Release Version
 - Automatische Backups werden jetzt nach einer Wiederherstellung automatisch aktiviert
