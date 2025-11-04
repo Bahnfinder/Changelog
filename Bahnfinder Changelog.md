@@ -22,8 +22,8 @@
 - Designanpassungen
 - Allgemeine Verbesserungen
 
-## Version 6.1.5
-**Veröffentlicht:** 01.06.2025 23:30
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -83,8 +83,8 @@
 
 - Verbesserungen für VoiceOver
 
-## Version 6.0.10
-**Veröffentlicht:** 16.02.2025 17:24
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
@@ -232,7 +232,6 @@
 ## Version 5.1.3
 **Veröffentlicht:** 27.09.2024 17:57
 
-- Ein Darstellungsfehler wurde behoben
 
 ## Version 5.1.2
 **Veröffentlicht:** 22.09.2024 15:19
@@ -243,6 +242,8 @@
 ## Version 5.1.1
 **Veröffentlicht:** 21.09.2024 07:10
 
+- Ein Fehler wurde behoben, der dazu führte, dass „Haltestellen ankündigen“ in einigen Fällen im Hintergrund gestoppt wurde.
+- Allgemeine Verbesserungen
 
 ## Version 5.1
 **Veröffentlicht:** 20.09.2024 01:55
@@ -404,8 +405,8 @@
 - Ein Fehler wurde behoben, der dazu führte, dass die Liniensymbole nach einer Wiederherstellung nicht angezeigt wurden.
 - Allgemeine Verbesserungen
 
-## Version 4.1.19
-**Veröffentlicht:** 20.05.2024 19:02
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Das App Icon „Weiss Inline“ heisst jetzt „Modern Weiß“
 - Fehlerbehebungen
@@ -995,6 +996,7 @@
 ## Version 1.3.4
 **Veröffentlicht:** 13.05.2023 10:27
 
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.3.3
 **Veröffentlicht:** 12.05.2023 22:22
