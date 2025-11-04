@@ -391,8 +391,8 @@
 - Neues App Icon „Modern echtes schwarz“ 
 - Anpassungen bei „Backups“
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.2.1
+**Veröffentlicht:** 11.06.2024 23:51
 
 - Neues App Icon "Modern Schwarz"
 
