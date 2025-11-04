@@ -309,7 +309,6 @@
 ## Version 4.4.2
 **Veröffentlicht:** 05.07.2024 17:07
 
-- Ein Fehler wurde behoben, der dazu führte, dass unter bestimmten Umständen ein Lokales Backup beim einrichten von Bahnfinder nicht wiederhergestellt werden konnte.
 
 ## Version 4.4.1
 **Veröffentlicht:** 01.07.2024 17:20
