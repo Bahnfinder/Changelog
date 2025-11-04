@@ -45,11 +45,9 @@
 ## Version 6.1.2
 **Veröffentlicht:** 18.05.2025 22:29
 
-- Die Größe eines Backups wird jetzt angezeigt. Zusätzlich wird die relative Größe im Vergleich zu anderen Backups dargestellt
-- Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 6.1.1
+**Veröffentlicht:** 28.04.2025 18:53
 
 - Release Version
 - Automatische Backups werden jetzt nach einer Wiederherstellung automatisch aktiviert
@@ -196,8 +194,8 @@
 
 - Weitere Informationen über den Ausfall des DB Verkehrsnetzes hinzugefügt 
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 5.1.9
+**Veröffentlicht:** 12.01.2025 06:09
 
 - Verkehrsnetz vorübergehend nicht verfügbar ist. Ich arbeite mit Hochdruck an einer Lösung. Du kannst dich benachrichtigen lassen, sobald es wieder funktioniert.
 - Verkehrsnetzes.
@@ -320,9 +318,6 @@
 ## Version 4.4
 **Veröffentlicht:** 27.06.2024 16:01
 
-- Neues App Icon: „Flipswitch“
-- Verbesserungen im Abfahrten Popover
-- Die Berechnung von Fußwegen wurde verbessert
 
 ## Version 4.3.3
 **Veröffentlicht:** 24.06.2024 21:40
@@ -683,8 +678,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 2.3.7
-**Veröffentlicht:** 19.10.2023 01:21
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
