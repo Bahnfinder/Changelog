@@ -19,8 +19,6 @@
 ## Version 6.1.6
 **Veröffentlicht:** 24.06.2025 23:20
 
-- Designanpassungen
-- Allgemeine Verbesserungen
 
 ## Version 6.1.5
 **Veröffentlicht:** 01.06.2025 23:30
@@ -33,8 +31,8 @@
 - Die Berechnung der Größe von lokalen Backups ist jetzt stabiler
 - Allgemeine Verbesserungen
 
-## Version 6.1.3
-**Veröffentlicht:** 19.05.2025 15:18
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Die Anzahl von Backups wird jetzt angezeigt
 - Die Backup Einstellungen laden jetzt deutlich schneller, selbst bei vielen Backups 
@@ -45,6 +43,8 @@
 ## Version 6.1.2
 **Veröffentlicht:** 18.05.2025 22:29
 
+- Die Größe eines Backups wird jetzt angezeigt. Zusätzlich wird die relative Größe im Vergleich zu anderen Backups dargestellt
+- Allgemeine Verbesserungen
 
 ## Version 6.1.1
 **Veröffentlicht:** 28.04.2025 18:53
@@ -278,16 +278,6 @@
 ## Version 5
 **Veröffentlicht:** 01.09.2024 17:57
 
-- Liniennummer in Verbindungsliste: du kannst jetzt aussuchen, ob du die Liniennummer oder das Fahrzeugsymbol in der Verbindungsliste sehen möchtest. 
-- Verbesserungen im Fahrtverlauf: im Fahrtverlauf werden jetzt weitere Informationen zu deinem Fahrzeug angezeigt. Du kannst genau sehen, von welchem Gleis dein Fahrzeug fährt oder welche Haltestellen ausfallen.
-- Wagenreihung: Du kannst dir jetzt über den Fahrtverlauf die Wagenreihung von ICEs ansehen.
-- Auslastung: Bei bestimmten Fahrzeugen siehst du, wie ausgelastet deine Fahrt sein wird.
-- Fahrpreise: im Verbindungsdetail kannst du dir die aktuellen Ticketpreise für deine Fahrt ansehen.
-- Haltestellen ankündigen: „Haltestellen vorlesen“ heißt jetzt „Haltestellen ankündigen“. Du kannst dir die nächsten Haltestellen jetzt auch als Push Mitteilung anzeigen lassen, falls du mal keine Kopfhörer dabei hast.
-- Erinnerungen: Erinnerungen sind jetzt auch für Verbindungen verfügbar.
-- Neue Design Einstellungen: Mit den neuen Design Einstellungen kannst du dein gewünschtes Design noch einfacher und übersichtlicher ändern. 
-- Wichtige Haltestellen filtern: du kannst in der Suche auswählen, ob du nur die wichtigsten Haltestellen in deiner Nähe sehen möchtest. Diese basieren auf deinen Favoriten, benutzten und besuchten Haltestellen.
-- Über 90 weitere Neuerungen machen Bahnfinder noch besser und schneller.
 
 ## Version 4.4.5
 **Veröffentlicht:** 12.08.2024 15:00
@@ -318,6 +308,9 @@
 ## Version 4.4
 **Veröffentlicht:** 27.06.2024 16:01
 
+- Neues App Icon: „Flipswitch“
+- Verbesserungen im Abfahrten Popover
+- Die Berechnung von Fußwegen wurde verbessert
 
 ## Version 4.3.3
 **Veröffentlicht:** 24.06.2024 21:40
@@ -678,8 +671,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.7
+**Veröffentlicht:** 19.10.2023 01:21
 
 - Allgemeine Verbesserungen
 
@@ -946,8 +939,8 @@
 - Die Zeit einer gesuchten Verbindung wird jetzt im Verlauf angezeigt.
 - Allgemeine Verbesserungen und Fehlerbehebungen
 
-## Version 1.5.3
-**Veröffentlicht:** 26.05.2023 04:25
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Allgemeine Verbesserungen
 
