@@ -51,12 +51,6 @@
 ## Version 6.1.1
 **Veröffentlicht:** 28.04.2025 18:53
 
-- Release Version
-- Automatische Backups werden jetzt nach einer Wiederherstellung automatisch aktiviert
-- Die falsche Schriftgrösse von Liniennummern auf der Karte wurde behoben
-- Nach dem ersten einrichten der App wird jetzt der richtige „Was ist neu“ Screen angezeigt
-- Ein Fehler wurde behoben, der in seltenen Fällen zu Abstürzen beim verwenden von „Lokale Backups“ geführt hat
-- Allgemeine Verbesserungen 
 
 ## Version 6.1
 **Veröffentlicht:** 26.04.2025 00:45
@@ -565,8 +559,8 @@
 - Synchronisierung zu begrenzen, um Daten und Batterieverbrauch zu reduzieren. 
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 3.1.4
+**Veröffentlicht:** 15.02.2024 16:58
 
 - Neue Hinweise, wenn keine Abfahrten an der gewählten Haltestelle verfügbar sind.
 - Allgemeine Verbesserungen
@@ -597,8 +591,8 @@
 - Verbesserte Darstellung von Linienwegen auf der Karte
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 3.0.2
+**Veröffentlicht:** 25.01.2024 15:35
 
 - Haltestellen vorlesen liest jetzt auch die Abfahrtszeit vor.
 - Neue Option: „Verbindungsdetail Live aktualisieren“
@@ -653,8 +647,6 @@
 ## Version 2.3.12
 **Veröffentlicht:** 31.10.2023 20:40
 
-- Ausgefallene Fahrzeuge werden jetzt bei Verbindungen angezeigt.
-- Allgemeine Verbesserungen 
 
 ## Version 2.3.11
 **Veröffentlicht:** 30.10.2023 19:06
@@ -671,8 +663,8 @@
 - Die Haltestellensymbol UI wurde verbessert.
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 2.3.9
+**Veröffentlicht:** 22.10.2023 16:09
 
 - Die Darstellung des Fahrtfortschritts im Fahrtverlauf markiert jetzt die Haltestelle, an dem sich das Fahrzeug gerade befindet.
 - Eine neue Verbindungsoption „Minimale Umsteigezeit“ wurde hinzugefügt.
@@ -842,8 +834,8 @@
 
 - Allgemeine Verbesserungen
 
-## Version 2.2.2
-**Veröffentlicht:** 14.08.2023 09:53
+## Version null
+**Veröffentlicht:** – No release date available
 
 - Neues Menü zur Schnellauswahl bei der Haltestellensuche.
 - Allgemeine Verbesserungen
@@ -997,6 +989,7 @@
 ## Version 1.3.4
 **Veröffentlicht:** 13.05.2023 10:27
 
+- Allgemeine Verbesserungen und Fehlerbehebungen
 
 ## Version 1.3.3
 **Veröffentlicht:** 12.05.2023 22:22
@@ -1083,6 +1076,8 @@
 ## Version 1.0.9
 **Veröffentlicht:** 11.04.2023 23:05
 
+- Ein Fehler wurde behoben, durch den die App keine Inhalte mehr geladen hat, wenn sie eine gewisse Zeit im Hintergrund war. 
+- Der Fehler könnte bei einigen Nutzern dennoch auftreten, schließe die App dazu aus dem Multitasking Menü und öffne sie erneut. 
 
 ## Version 1.0.8
 **Veröffentlicht:** 11.04.2023 02:45
