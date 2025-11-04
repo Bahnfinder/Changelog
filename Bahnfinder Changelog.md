@@ -346,8 +346,8 @@
 - Neue Verkehrsnetze: BVG, HVV, RMV, RailTeam & Naldo
 - Allgemeine Verbesserungen
 
-## Version null
-**Veröffentlicht:** – No release date available
+## Version 4.2.8
+**Veröffentlicht:** 20.06.2024 21:56
 
 - Die Beschreibung vom DB Provider wurde geändert.
 
