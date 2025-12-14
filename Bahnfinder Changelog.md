@@ -1133,3 +1133,8 @@
 **Veröffentlicht:** 28.03.2023 17:04
 
 
+## Version 6.2.3
+**Veröffentlicht:** 14.12.2025 22:58
+
+- Weihnachts App Icons für 2025 hinzugefügt. Frohe Weihnachten!
+
