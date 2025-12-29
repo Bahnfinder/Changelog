@@ -1,3 +1,8 @@
+## Version 6.2.4
+**Veröffentlicht:** 29.12.2025 23:02
+
+- Es wurde eine kleine Überraschung zum Jahreswechsel hinzugefügt. Guten Rutsch!
+
 ## Version 6.2.3
 **Veröffentlicht:** 14.12.2025 22:58
 
