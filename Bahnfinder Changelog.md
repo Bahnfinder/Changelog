@@ -1,3 +1,10 @@
+## Version 6.2.5
+**Veröffentlicht:** 06.01.2026 16:18
+
+- Das VVS Verkehrsnetz funktioniert wieder wie erwartet.
+- Ein Fehler wurde behoben, der dazu führte, dass die App unter manchen Umständen auf macOS abstürzt.
+- Allgemeine Verbesserungen.
+
 ## Version 6.2.4
 **Veröffentlicht:** 29.12.2025 23:02
 
