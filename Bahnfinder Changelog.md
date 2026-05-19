@@ -1,3 +1,9 @@
+## Version 6.2.6
+**Veröffentlicht:** 09.05.2026 07:21
+
+- Der Split Screen Modus funktioniert jetzt wieder wie erwartet. 
+- Allgemeine Verbesserungen
+
 ## Version 6.2.5
 **Veröffentlicht:** 06.01.2026 16:18
 
