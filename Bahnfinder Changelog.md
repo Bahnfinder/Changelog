@@ -1,3 +1,9 @@
+## Version 6.2.7
+**Veröffentlicht:** 09.10.2026 14:30
+
+- Dieses Update behebt ein Problem, durch das Abfahrten, Ankünfte und Verbindungen im DB Verkehrsnetz zeitweise nicht abgerufen werden konnten. Ausgelöst wurde es durch eine kurzfristige Änderung an der DB Schnittstelle.
+- Allgemeine Verbesserungen
+
 ## Version 6.2.6
 **Veröffentlicht:** 09.05.2026 07:21
 
