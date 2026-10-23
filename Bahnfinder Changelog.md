@@ -1,3 +1,11 @@
+## Version 6.2.9
+**Veröffentlicht:** 23.10.2026 04:51
+
+- Störungsmeldungen direkt in der App: Bei Problemen im DB Verkehrsnetz informiert dich Bahnfinder jetzt direkt: mit einem Hinweis beim App Start, einem Banner in den Einstellungen und einem Live Ticker mit allen Updates.
+- Stabiler bei Serverproblemen: Bahnfinder stellt deutlich weniger doppelte Anfragen und reagiert besser, wenn ein Verkehrsnetz vorübergehend nicht erreichbar ist.
+- Hinweis: Die Deutsche Bahn blockiert erneut Anfragen von Drittanbieter Apps. Abfahrten, Ankünfte und die Verbindungssuche im DB Verkehrsnetz sind deshalb vorübergehend nicht verfügbar. Bitte nutze bis dahin das Verkehrsnetz deiner Region. 
+- Danke, dass du Bahnfinder trotzdem nutzt!
+
 ## Version 6.2.8
 **Veröffentlicht:** 16.10.2026 05:06
 
